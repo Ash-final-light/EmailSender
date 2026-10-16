@@ -233,7 +233,7 @@ def collect(data_dir, budget, seed_only=False):
         cached = page_cache.get(key, {})
         if cached.get("day") == day:
             result = cached["result"]
-            if not render or result.get("render_attempted") and result["status"] != "oversized":
+            if not render or result.get("render_attempted") and result.get("render_version") == 3:
                 return result
         else:
             if not budget.reserve_detail():
@@ -246,6 +246,7 @@ def collect(data_dir, budget, seed_only=False):
                 if rendered["status"] == "readable" or result["status"] != "readable":
                     result = {**rendered, "links": list(dict.fromkeys(result.get("links", []) + rendered.get("links", [])))}
             result["render_attempted"] = True
+            result["render_version"] = 3
         stats["page_statuses"][result["status"]] = stats["page_statuses"].get(result["status"], 0) + 1
         page_cache[key] = {"day": day, "result": result}
         write(data_dir / "page-cache.json", {k: v for k, v in page_cache.items() if v["day"] == day})
