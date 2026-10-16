@@ -1,8 +1,8 @@
 {
   "days": {
     "2026-10-16": {
-      "search": 12,
-      "details": 18
+      "search": 13,
+      "details": 97
     }
   },
   "weeks": {
@@ -17,7 +17,8 @@
           "output": 433
         }
       ],
-      "limit": 50000
+      "limit": 50000,
+      "search": 13
     }
   },
   "paused": null
