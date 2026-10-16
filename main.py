@@ -198,11 +198,18 @@ def choose_candidates(items, history, now=None, config=CONFIG):
     now = now or utcnow()
     start = now - timedelta(days=config["days_back"])
     groups = {category: [] for category in config["category_weights"]}
-    seen_urls, seen_titles = set(), []
+    seen_urls, seen_titles, source_counts = set(), [], {}
     ordered = sorted(items, key=lambda x: (x.get("priority", 1), x["published"]), reverse=True)
+    profiles = {x["name"]: x for x in config["google_news_queries"] + config["feeds"]}
     for item in ordered:
         dt = parse_date(item.get("published"))
         if not dt or not start <= dt <= now + timedelta(minutes=10) or not safe_url(item.get("url")):
+            continue
+        profile = profiles.get(item["source_id"], {})
+        text = item["title"] + " " + item.get("summary", "")
+        if any(not re.search(pattern, text, re.I) for pattern in profile.get("required_patterns", [])):
+            continue
+        if any(re.search(pattern, text, re.I) for pattern in profile.get("excluded_patterns", [])):
             continue
         key = fingerprint(item["url"])
         title = re.sub(r"[^a-z0-9\u4e00-\u9fff]+", "", item["title"].lower())
@@ -211,10 +218,14 @@ def choose_candidates(items, history, now=None, config=CONFIG):
         if any(title == other or (len(title) > 15 and SequenceMatcher(None, title, other).ratio() > .87)
                for other in seen_titles):
             continue
+        source = item["source_id"]
+        if source_counts.get(source, 0) >= config["max_items_per_source"]:
+            continue
         seen_urls.add(key)
         seen_titles.append(title)
         if item["category"] in groups:
             groups[item["category"]].append({**item, "key": key})
+            source_counts[source] = source_counts.get(source, 0) + 1
     for category, batch in groups.items():
         by_source = {}
         for item in batch:
@@ -290,6 +301,9 @@ def analyze(items, config=CONFIG):
 目标比例：游戏开发50%，互联网与AI工具35%，游戏行业15%，不是硬配额。
 优先Unity渲染、性能、C#、资源、联网、工具链，兼顾国内外互联网产品与平台，不要全写成AI。
 同一事件只选一条；每个source_id最多{config['max_items_per_source']}条。剔除宣传、传闻、无信息量转载。
+剔除节日游戏合集、普通游戏发布、只有“某游戏使用某引擎”而没有技术细节的新闻。
+旧文章借年份更新标题的工具对比、泛泛的AI产品榜单不选；Unity专属技术资讯不足时少选，不拿泛行业消息凑数。
+现代.NET版本发布不代表Unity支持该版本，必须说明这种适用边界。
 headline、summary、impact均写中文，保留技术专名，区分正式版和预览版。
 只含摘要时不能声称读过全文。impact为分析，不声称测试过用户项目。不确定时写“需阅读原文确认”。
 takeaways只提炼已选条目，最多3条，不新增事实。id必须来自输入且不重复。
@@ -311,12 +325,26 @@ takeaways只提炼已选条目，最多3条，不新增事实。id必须来自�
                 if response.choices[0].finish_reason != "stop":
                     raise ValueError("Incomplete model output")
                 return validate_digest(response.choices[0].message.content or "", items, config)
-            except (ValueError, TypeError):
+            except (ValueError, TypeError) as exc:
+                if hasattr(exc, "errors"):
+                    reason = json.dumps(
+                        [{"field": x["loc"], "error": x["type"]}
+                         for x in exc.errors(include_input=False, include_url=False)],
+                        ensure_ascii=False)
+                elif type(exc) is ValueError:
+                    reason = str(exc)
+                else:
+                    reason = type(exc).__name__
+                LOG.warning("Model validation: %s", reason)
+                # Contains only generated public-news text, never the client configuration.
+                write_json(ROOT / "artifacts" / "model-output.json",
+                           {"content": response.choices[0].message.content, "validation": reason})
                 if attempt:
                     raise RuntimeError("Model output failed validation twice") from None
                 LOG.warning("Model output invalid; retrying once")
                 messages.append({"role": "user", "content":
-                    "上次输出未通过校验。请重新输出完整JSON，检查中文、id、每来源最多3条、字段类型与长度；不要输出额外字段。"})
+                    "上次输出未通过校验：" + reason +
+                    "。请重新输出完整JSON，检查中文、id、每来源最多3条、字段类型与长度；不要输出额外字段。"})
 
 
 def render(report):

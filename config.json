@@ -20,7 +20,13 @@
       "name": "Unity 技术检索",
       "category": "游戏开发技术",
       "query": "Unity engine rendering performance optimization",
-      "priority": 3
+      "priority": 3,
+      "required_patterns": [
+        "(?<![a-z])unity(?![a-z])"
+      ],
+      "excluded_patterns": [
+        "halloween|万圣节|games made with unity|game roundup|游戏合集"
+      ]
     },
     {
       "name": "Unity 中文检索",
@@ -29,7 +35,13 @@
       "locale": "zh-CN",
       "region": "CN",
       "edition": "CN:zh-Hans",
-      "priority": 3
+      "priority": 3,
+      "required_patterns": [
+        "(?<![a-z])unity(?![a-z])"
+      ],
+      "excluded_patterns": [
+        "halloween|万圣节|games made with unity|game roundup|游戏合集"
+      ]
     },
     {
       "name": "游戏工程检索",
@@ -41,7 +53,11 @@
       "name": "其他引擎检索",
       "category": "游戏开发技术",
       "query": "Unreal Engine OR Godot engine release development",
-      "priority": 1
+      "priority": 1,
+      "required_patterns": [
+        "unreal|godot",
+        "release|update|render|shader|performance|optimization|profil|netcode|physics|版本|更新|渲染|优化|性能|发布|预览|beta"
+      ]
     },
     {
       "name": "海外互联网检索",
@@ -83,7 +99,13 @@
       "name": "Unity 官方发布检索",
       "category": "游戏开发技术",
       "query": "site:unity.com/blog Unity",
-      "priority": 4
+      "priority": 4,
+      "required_patterns": [
+        "(?<![a-z])unity(?![a-z])"
+      ],
+      "excluded_patterns": [
+        "halloween|万圣节|games made with unity|game roundup|游戏合集"
+      ]
     },
     {
       "name": "36氪互联网检索",

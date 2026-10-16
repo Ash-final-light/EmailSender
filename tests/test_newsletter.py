@@ -56,7 +56,7 @@ class NewsletterTests(unittest.TestCase):
         for cat in app.CONFIG["category_weights"]:
             for _ in range(50):
                 n += 1
-                entry = item(n, category=cat, source=f"Source {n % 5}")
+                entry = item(n, category=cat, source=f"{cat} Source {n % 5}")
                 # Different short titles must not trigger near-duplicate similarity.
                 entry["title"] = f"T{n}"
                 data.append(entry)
@@ -65,6 +65,24 @@ class NewsletterTests(unittest.TestCase):
         counts = {c: sum(x["category"] == c for x in chosen) for c in config["category_weights"]}
         self.assertEqual(list(counts.values()), [10, 7, 3])
         self.assertGreater(len({x["source_id"] for x in chosen[:10]}), 1)
+
+    def test_busy_source_cannot_exceed_delivery_budget_in_model_input(self):
+        data = []
+        for n in range(1, 20):
+            value = item(n, source="Busy feed")
+            value["title"] = f"T{n}"
+            data.append(value)
+        selected = app.choose_candidates(data, {}, NOW)
+        self.assertEqual(len(selected), app.CONFIG["max_items_per_source"])
+
+    def test_unity_query_filters_unrelated_rendering_and_game_roundups(self):
+        source = "Unity 技术检索"
+        unrelated, roundup, valid = item(1, source=source), item(2, source=source), item(3, source=source)
+        unrelated["title"] = "NVIDIA DLSS model performance"
+        roundup["title"] = "Unity Halloween game roundup"
+        valid["title"] = "Unity URP rendering optimization"
+        selected = app.choose_candidates([unrelated, roundup, valid], {}, NOW)
+        self.assertEqual([x["url"] for x in selected], [valid["url"]])
 
     def test_rejects_invented_duplicate_and_non_chinese_model_output(self):
         pick = {"id": 1, "headline": "中文新闻标题", "summary": "根据来源提供的中文事实摘要。",
