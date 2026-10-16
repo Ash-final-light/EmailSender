@@ -2,6 +2,7 @@
 import html
 import csv
 import io
+import re
 
 from .core import CONFIG, public_url
 
@@ -22,6 +23,13 @@ def link(url, label):
     return f'<a style="color:#087d73" href="{esc(url)}">{esc(label)} →</a>' if public_url(url) else esc(label + "待核实")
 
 
+def company_label(row):
+    value = (row.get("analysis") or {}).get("company")
+    if value and value != "未披露":
+        return value
+    return row["company_hint"] + "（依据官方招聘站）" if row.get("company_hint") else "未披露"
+
+
 def cards(rows, title):
     if not rows:
         return ""
@@ -29,7 +37,7 @@ def cards(rows, title):
     for row in rows:
         a = row.get("analysis") or {}
         heading = a.get("title") if a.get("title") not in (None, "未披露") else row["title"]
-        fields = (("公司", a.get("company")), ("城市", a.get("city")), ("薪资", a.get("salary")),
+        fields = (("公司", company_label(row)), ("城市", a.get("city")), ("薪资", a.get("salary")),
                   ("学历 / 届别", " / ".join([a.get("education", "未披露"), a.get("graduation", "未披露")])),
                   ("出勤 / 时长", " / ".join([a.get("days_per_week", "未披露"), a.get("duration", "未披露")])),
                   ("到岗 / 截止", " / ".join([a.get("arrival", "未披露"), a.get("closing_date", "未披露")])))
@@ -40,6 +48,11 @@ def cards(rows, title):
         summary = a.get("summary") or "仅有搜索线索或受限页面，尚未提取可确认的岗位字段。"
         reasons = a.get("relevance") or "请在原始平台正常查看岗位，核对 Unity、客户端及实习条件。"
         concerns = a.get("concerns") or "详情与当前招聘状态待核实。"
+        concerns = concerns.replace("公司名来自company_hint而非职位原文；", "")
+        if row["page_status"] == "readable":
+            concerns = concerns.replace("搜索摘要未核验岗位是否仍开放。", "详情可读，请投递前核对是否仍可申请。")
+        if row["classification"] == "engine_unspecified":
+            reasons = "职责为游戏客户端开发，原文未披露引擎；是否使用 Unity 需向招聘方核对。"
         excerpt = '<p style="font-size:12px;color:#667d8c">原始资料节选：' + esc(row["text"][:650]) + '</p>' if not a else ''
         evidence = ("公开详情正文" if row["page_status"] in ("readable", "closed", "expired")
                     else "搜索索引资料；本次未核验到完整详情")
@@ -107,7 +120,7 @@ def plain(report):
         for job in report.get(group, []):
             a = job.get("analysis") or {}
             lines += [a.get("title") or job["title"], f"状态：{STATUSES.get(job['page_status'], '待核实')}",
-                      f"公司：{a.get('company', '未披露')} | 城市：{a.get('city', '未披露')} | 薪资：{a.get('salary', '未披露')}",
+                      f"公司：{company_label(job)} | 城市：{a.get('city', '未披露')} | 薪资：{a.get('salary', '未披露')}",
                       "学历/届别："+a.get("education", "未披露")+" / "+a.get("graduation", "未披露"),
                       "出勤/时长："+a.get("days_per_week", "未披露")+" / "+a.get("duration", "未披露"),
                       a.get("summary", "资料不足"), a.get("concerns", "条件待核实"),
@@ -130,6 +143,7 @@ def csv_content(report):
         for job in report.get(group, []):
             analysis = job.get("analysis") or {}
             cells = [{"jobs":"Unity客户端实习", "engine_unspecified":"游戏客户端实习·引擎未披露", "leads":"待核实线索"}[group]] + [analysis.get(key) or (job["title"] if key == "title" else "未披露") for key in fields]
+            cells[2] = company_label(job)
             cells += [job["url"], analysis.get("company_website") or "待核实", analysis.get("company_careers") or "待核实",
                       STATUSES.get(job["page_status"], "待核实"), job["first_seen"], job["last_checked"], analysis.get("summary", "尚未归纳"), job["text"]]
             # Public source text must not become a spreadsheet formula.

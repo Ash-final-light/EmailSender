@@ -12,11 +12,11 @@
 | 叠纸 | [官网](https://www.papegames.com/) | [招聘入口](https://career.papegames.com/) |
 | 腾讯 | [官网](https://www.tencent.com/) | [招聘入口](https://join.qq.com/) |
 | 网易游戏 | [官网](https://game.163.com/) | [招聘入口](https://game.campus.163.com/) |
-| 莉莉丝 | [官网](https://www.lilith.com/) | [招聘入口](https://lilithgames.jobs.feishu.cn/) |
-| 波克城市 | [官网](https://www.boke.com/) | [招聘入口](https://boke.jobs.feishu.cn/) |
+| 莉莉丝 | [官网](https://www.lilith.com/) | [招聘入口](https://lilithgames.jobs.feishu.cn/intern/) |
+| 波克城市 | [官网](https://www.boke.com/) | [招聘入口](https://boke.jobs.feishu.cn/581609/) |
 | 鹰角网络 | [官网](https://www.hypergryph.com/) | [招聘入口](https://career.hypergryph.com/) |
 | 心动 | [官网](https://www.xd.com/) | [招聘入口](https://api.xd.com/hr/) |
-| 库洛游戏 | [官网](https://www.kurogames.com/) | [招聘入口](https://kurogame.jobs.feishu.cn/) |
+| 库洛游戏 | [官网](https://www.kurogames.com/) | [招聘入口](https://kurogame.jobs.feishu.cn/campus/) |
 | 散爆网络 | [官网](https://sunborngame.com/) | [招聘入口](https://sunborngame.com/) |
 | 悠星网络 | [官网](https://www.yostar.net/) | [招聘入口](https://www.yostar.net/recruit.html) |
 | 祖龙娱乐 | [官网](https://zulong.com/) | [招聘入口](https://campus.zulong.com/) |
