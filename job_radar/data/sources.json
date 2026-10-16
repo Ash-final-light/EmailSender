@@ -1,60 +1,259 @@
 {
-  "checked_at": "2026-10-16T13:17:24.039181+00:00",
+  "checked_at": "2026-10-16T13:54:51.628822+00:00",
   "seed_only": false,
-  "queries": 12,
-  "discovered": 26,
-  "page_statuses": {},
-  "new_urls": 0,
+  "queries": 40,
+  "discovered": 228,
+  "page_statuses": {
+    "network_error": 2,
+    "oversized": 7,
+    "readable": 48,
+    "dynamic_or_empty": 11,
+    "redirect_limit": 8,
+    "browser_error": 2,
+    "unverified_domain": 1
+  },
+  "new_urls": 18,
   "company_sites": [
     {
       "company": "米哈游",
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "network_error"
+      "careers_status": "network_error",
+      "job_links_found": 0
     },
     {
       "company": "叠纸",
       "website": "https://www.papegames.com/",
       "careers": "https://career.papegames.com/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "oversized",
+      "job_links_found": 0
     },
     {
       "company": "腾讯",
       "website": "https://www.tencent.com/",
       "careers": "https://join.qq.com/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "readable",
+      "job_links_found": 0
     },
     {
       "company": "网易游戏",
       "website": "https://game.163.com/",
       "careers": "https://game.campus.163.com/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "readable",
+      "job_links_found": 0
     },
     {
       "company": "莉莉丝",
       "website": "https://www.lilith.com/",
       "careers": "https://lilithgames.jobs.feishu.cn/",
       "status": "oversized",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "oversized",
+      "job_links_found": 0
     },
     {
       "company": "波克城市",
       "website": "https://www.boke.com/",
       "careers": "https://boke.jobs.feishu.cn/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "oversized",
+      "job_links_found": 0
     },
     {
-      "company": "索尼（中国）",
-      "website": "https://www.sony.com.cn/",
-      "careers": "https://www.sony.com.cn/careers/",
+      "company": "鹰角网络",
+      "website": "https://www.hypergryph.com/",
+      "careers": "https://career.hypergryph.com/",
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "心动",
+      "website": "https://www.xd.com/",
+      "careers": "https://api.xd.com/hr/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty"
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "库洛游戏",
+      "website": "https://www.kurogames.com/",
+      "careers": "https://kurogame.jobs.feishu.cn/",
+      "status": "dynamic_or_empty",
+      "careers_status": "oversized",
+      "job_links_found": 0
+    },
+    {
+      "company": "散爆网络",
+      "website": "https://sunborngame.com/",
+      "careers": "https://sunborngame.com/",
+      "status": "dynamic_or_empty",
+      "careers_status": "dynamic_or_empty",
+      "job_links_found": 0
+    },
+    {
+      "company": "悠星网络",
+      "website": "https://www.yostar.net/",
+      "careers": "https://www.yostar.net/recruit.html",
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "祖龙娱乐",
+      "website": "https://zulong.com/",
+      "careers": "https://campus.zulong.com/",
+      "status": "readable",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "西山居",
+      "website": "https://www.seasungames.cn/",
+      "careers": "https://job.seasungames.cn/",
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "完美世界",
+      "website": "https://www.wanmei.com/",
+      "careers": "https://jobs.games.wanmei.com/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "吉比特/雷霆",
+      "website": "https://www.g-bits.com/",
+      "careers": "https://www.g-bits.com/zh/join.html",
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "三七互娱",
+      "website": "https://www.37wan.net/",
+      "careers": "https://zhaopin.37.com/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "多益网络",
+      "website": "https://www.duoyi.com/",
+      "careers": "https://xz.duoyi.com/",
+      "status": "readable",
+      "careers_status": "browser_error",
+      "job_links_found": 0
+    },
+    {
+      "company": "巨人网络",
+      "website": "https://www.ztgame.com/",
+      "careers": "https://hr.ztgame.com/campus/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "恺英网络",
+      "website": "https://www.kingnet.com/",
+      "careers": "https://app.mokahr.com/campus_apply/kingnet/2246",
+      "status": "readable",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "游族网络",
+      "website": "https://www.yoozoo.com/",
+      "careers": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
+      "status": "readable",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "盛趣游戏",
+      "website": "https://www.shengqugames.com/",
+      "careers": "https://app.mokahr.com/campus_apply/shengqu/4078",
+      "status": "readable",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "畅游",
+      "website": "https://www.changyou.com/",
+      "careers": "https://campus.changyou.com/",
+      "status": "network_error",
+      "careers_status": "browser_error",
+      "job_links_found": 0
+    },
+    {
+      "company": "4399",
+      "website": "https://u.4399.com/hr/index",
+      "careers": "https://hr.4399om.com/campus/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "冰川网络",
+      "website": "https://www.q1.com/",
+      "careers": "https://bingchuan1.zhiye.com/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "途游游戏",
+      "website": "https://www.tuyoo.com/",
+      "careers": "https://www.tuyoo.com/",
+      "status": "readable",
+      "careers_status": "readable",
+      "job_links_found": 0
+    },
+    {
+      "company": "乐元素",
+      "website": "https://leyuansu.com/",
+      "careers": "https://join.leyuansu.com/",
+      "status": "dynamic_or_empty",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "创梦天地",
+      "website": "https://www.idreamsky.com/",
+      "careers": "https://idreamsky.jobs.feishu.cn/",
+      "status": "readable",
+      "careers_status": "oversized",
+      "job_links_found": 0
+    },
+    {
+      "company": "诗悦网络",
+      "website": "https://www.shiyue.com/",
+      "careers": "https://campus.shiyue.com/",
+      "status": "dynamic_or_empty",
+      "careers_status": "redirect_limit",
+      "job_links_found": 0
+    },
+    {
+      "company": "益世界",
+      "website": "https://www.eworld.cn/",
+      "careers": "https://eworldgroup.jobs.feishu.cn/",
+      "status": "dynamic_or_empty",
+      "careers_status": "oversized",
+      "job_links_found": 0
+    },
+    {
+      "company": "柠檬微趣",
+      "website": "https://www.microfun.cn/",
+      "careers": "https://www.microfun.cn/",
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 0
     }
   ],
-  "new_search_requests": 0
+  "new_search_requests": 28
 }
