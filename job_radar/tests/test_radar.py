@@ -262,6 +262,12 @@ class RadarTest(unittest.TestCase):
         self.assertFalse(sources.detail_url('https://www.nowcoder.com/discuss/391664131600920576'))
         self.assertEqual(curation.classify(job(page_status='public_post')), 'lead')
 
+    def test_card_description_is_not_treated_as_job_title(self):
+        html = '<main><a href="/index/position/123/detail"><h3>Unity客户端开发实习生</h3><p>与策划、美术协作开发游戏。</p></a></main>'
+        result = sources.parse_html(html, 'https://boke.jobs.feishu.cn/')
+        # Even a short page must preserve discoverable concrete links.
+        self.assertEqual(result.get('job_links', [])[0]['title'], 'Unity客户端开发实习生')
+
     def test_csv_formula_guard(self):
         row = job()
         row['analysis']['salary'] = '=1+1'

@@ -124,11 +124,14 @@ def parse_html(payload, current, url=None):
         except (ValueError, TypeError):
             continue
     links = [urljoin(current, link["href"]) for link in soup.find_all("a", href=True)]
+    def card_title(link):
+        heading = link.find(["h2", "h3", "h4"])
+        return heading.get_text(" ", strip=True) if heading else next(iter(link.get_text("\n", strip=True).splitlines()), "")[:160]
     job_links = [{"url": urljoin(current, link["href"]),
-                  "title": link.get_text(" ", strip=True)}
+                  "title": card_title(link)}
                  for link in soup.find_all("a", href=True)
                  if detail_url(urljoin(current, link["href"]))
-                 and re.search(UNITY + "|" + CLIENT, link.get_text(" ", strip=True), re.I)]
+                 and re.search(UNITY + "|" + CLIENT, card_title(link), re.I)]
     heading = soup.find("h1")
     heading = heading.get_text(" ", strip=True) if heading else ""
     for tag in soup(["script", "style", "nav", "footer", "header"]):
@@ -144,7 +147,8 @@ def parse_html(payload, current, url=None):
     if blocked:
         return {"status": "restricted", "url": url, "text": ""}
     if len(text) < 80:
-        return {"status": "dynamic_or_empty", "url": url, "text": text}
+        return {"status": "dynamic_or_empty", "url": url, "text": text,
+                "heading": heading, "links": links[:2000], "job_links": job_links}
     return {"status": "readable", "url": url, "text": text, "heading": heading,
             "structured": bool(postings), "links": links[:2000], "job_links": job_links}
 

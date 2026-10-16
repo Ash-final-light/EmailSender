@@ -70,7 +70,15 @@ class BrowserReader:
                         break
                     try:
                         inputs.first.fill(term)
-                        inputs.first.press("Enter")
+                        if domain(page.url).endswith(".jobs.feishu.cn"):
+                            try:
+                                with page.expect_response(lambda r: "/search/job/posts" in r.url, timeout=7000) as result_response:
+                                    inputs.first.press("Enter")
+                                result_response.value.finished()
+                            except Error:
+                                pass
+                        else:
+                            inputs.first.press("Enter")
                         try:
                             page.wait_for_load_state("networkidle", timeout=8000)
                         except Error:

@@ -246,7 +246,9 @@
       ],
       "website": "https://www.lilith.com/",
       "careers": "https://lilithgames.jobs.feishu.cn/",
-      "entries": []
+      "entries": [
+        "https://lilithgames.jobs.feishu.cn/intern/"
+      ]
     },
     {
       "name": "波克城市",
@@ -256,7 +258,9 @@
       ],
       "website": "https://www.boke.com/",
       "careers": "https://boke.jobs.feishu.cn/",
-      "entries": []
+      "entries": [
+        "https://boke.jobs.feishu.cn/581609/"
+      ]
     },
     {
       "name": "鹰角网络",
@@ -293,7 +297,9 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/",
       "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
-      "entries": []
+      "entries": [
+        "https://kurogame.jobs.feishu.cn/campus/"
+      ]
     },
     {
       "name": "散爆网络",
