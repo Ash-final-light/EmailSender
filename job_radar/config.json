@@ -1,0 +1,45 @@
+{
+  "timezone": "Asia/Shanghai",
+  "role": "全国 Unity 客户端开发实习",
+  "search_endpoint": "https://api.bochaai.com/v1/web-search",
+  "model": "deepseek-flash",
+  "max_search_daily": 12,
+  "max_details_daily": 40,
+  "max_model_calls": 2,
+  "max_output_tokens": 5000,
+  "weekly_token_soft_limit": 50000,
+  "max_input_chars": 14000,
+  "max_jobs": 15,
+  "max_leads": 5,
+  "retention_days": 90,
+  "history_days": 180,
+  "queries": [
+    {"query": "Unity 客户端 实习生 site:zhipin.com", "domain": "zhipin.com"},
+    {"query": "U3D 游戏开发 实习 site:zhipin.com", "domain": "zhipin.com"},
+    {"query": "Unity 客户端 实习 site:shixiseng.com", "domain": "shixiseng.com"},
+    {"query": "Unity 游戏开发 实习 site:nowcoder.com", "domain": "nowcoder.com"},
+    {"query": "Unity 客户端 实习生 校园招聘", "domain": null},
+    {"query": "Unity 游戏开发 实习生 官网 招聘", "domain": null},
+    {"query": "游戏客户端 实习 Unity 米哈游 site:mihoyo.com", "domain": "mihoyo.com"},
+    {"query": "Unity 客户端 实习 site:career.papegames.com", "domain": "career.papegames.com"},
+    {"query": "游戏客户端 实习 site:join.qq.com", "domain": "join.qq.com"},
+    {"query": "Unity 客户端 实习 site:163.com", "domain": "163.com"},
+    {"query": "Unity 客户端 实习 site:lilithgames.jobs.feishu.cn", "domain": "lilithgames.jobs.feishu.cn"},
+    {"query": "Unity 客户端 实习 site:boke.jobs.feishu.cn", "domain": "boke.jobs.feishu.cn"}
+  ],
+  "companies": [
+    {"name": "米哈游", "aliases": ["米哈游", "miHoYo"], "website": "https://www.mihoyo.com/", "careers": "https://join.mihoyo.com/"},
+    {"name": "叠纸", "aliases": ["叠纸", "Papergames"], "website": "https://www.papegames.com/", "careers": "https://career.papegames.com/"},
+    {"name": "腾讯", "aliases": ["腾讯", "Tencent"], "website": "https://www.tencent.com/", "careers": "https://join.qq.com/"},
+    {"name": "网易游戏", "aliases": ["网易", "NetEase"], "website": "https://game.163.com/", "careers": "https://game.campus.163.com/"},
+    {"name": "莉莉丝", "aliases": ["莉莉丝", "Lilith"], "website": "https://www.lilith.com/", "careers": "https://lilithgames.jobs.feishu.cn/"},
+    {"name": "波克城市", "aliases": ["波克", "BOKE"], "website": "https://www.boke.com/", "careers": "https://boke.jobs.feishu.cn/"},
+    {"name": "索尼（中国）", "aliases": ["索尼", "Sony"], "website": "https://www.sony.com.cn/", "careers": "https://www.sony.com.cn/careers/"}
+  ],
+  "platforms": ["zhipin.com", "shixiseng.com", "nowcoder.com"],
+  "validation_urls": [
+    "https://www.zhipin.com/job_detail/37d86b9954a0a1c90nd43t-8EFRU.html",
+    "https://www.shixiseng.com/intern/inn_056cji6xw3ih",
+    "https://www.shixiseng.com/intern/inn_dcbppevabzic"
+  ]
+}

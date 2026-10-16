@@ -31,7 +31,9 @@ def main():
     parser.add_argument("--repo", default="Ash-final-light/EmailSender")
     parser.add_argument("command", choices=["status", "dispatch", "set-secret", "set-var", "run"])
     parser.add_argument("name", nargs="?")
-    parser.add_argument("--mode", choices=["preview", "send"], default="preview")
+    parser.add_argument("--mode", choices=["preview", "send", "collect", "preview-seeds", "preview-cached", "resume",
+                                          "confirm-delivered", "release-delivery"], default="preview")
+    parser.add_argument("--weekly-token-limit")
     args = parser.parse_args()
     root = "repos/" + args.repo
     if args.command == "status":
@@ -46,7 +48,9 @@ def main():
                       "conclusion": r["conclusion"], "url": r["html_url"]} for r in runs.get("workflow_runs", [])]},
             indent=2))
     elif args.command == "dispatch":
-        inputs = {"mode": args.mode} if (args.name or "weekly.yml") == "weekly.yml" else {}
+        inputs = {"mode": args.mode} if (args.name or "weekly.yml") in ("weekly.yml", "job-radar.yml") else {}
+        if args.weekly_token_limit and args.name == "job-radar.yml":
+            inputs["weekly_token_limit"] = args.weekly_token_limit
         request(root + "/actions/workflows/" + (args.name or "weekly.yml") + "/dispatches", "POST",
                 {"ref": request(root)["default_branch"], "inputs": inputs})
         print("Workflow dispatched:", args.name or "weekly.yml", args.mode)
