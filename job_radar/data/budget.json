@@ -11,7 +11,10 @@
         {
           "id": 0,
           "created_at": "2026-10-16T13:12:29.512593+00:00",
-          "reserved": 7603
+          "reserved": 7603,
+          "actual": 1894,
+          "input": 1461,
+          "output": 433
         }
       ],
       "limit": 50000
