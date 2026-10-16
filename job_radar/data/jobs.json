@@ -141,5 +141,20 @@
     "deadline": null,
     "company_hint": null,
     "evidence": "detail"
+  },
+  "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba": {
+    "id": "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba",
+    "url": "https://jobs.bytedance.com/campus/position/7394658454352578826/detail?recomId=554b0e99-eaa4-11ef-b54e-b8599f3a94b8&referral_code=YVKBW6H&sourceJobId=7454103010348992775",
+    "title": "游戏客户端开发实习生-绿洲工作室",
+    "text": "ByteIntern:面向2025届毕业生(2024年9月-2025年8月期间毕业),为符合岗位要求的同学提供转正机会。 团队介绍:绿洲工作室2019年4月在北京成立,自研产品立足于动作/策略等基本方向,涵盖了ARPG/SLG/竞技/休闲棋牌等多个品类,旗下有《晶核》《Land of Empire》《芒果斗地主》等多款产品。我们的愿景是希望帮助玩家在令人惊叹的虚拟世界中一起玩耍与创造,加入这里,你将与一群简单、务实的优秀伙伴一起,Work hard,Play harder~ 1、负责UE4客户端功能的开发与维护; 2、解决游戏开发以及线上问题,和QA一起确保上线产品质量; 3、与策划、美术、服务器开发人员保持良好沟通,确保程序功能与需求一致; 4、保证代码质量与运行效率,持续进行项目功能优化与代码调优。\n1、2025届本科及以上学历在读,计算机相关专业优先; 2、能尽快入职实习的优先; 3、C++基础扎实,有良好的编程习惯,有C#或者Lua使用经验的优先; 4、熟悉常用的数据结构与算法,具备合理运用设计模式的能力; 5、优秀的学习能力和解决问题能力,能够熟练阅读英文技术文档; 6、良好的沟通和团队协作能力,主动性强,有游戏项目团队开发经验的优先; 7、对图形渲染有深入了解的优先,熟悉OpenGL、DirectX、Metal或Vulkan等技术的优先; 8、有UE4或Unity引擎使用经验的优先,有安卓或IOS原生开发经验的优先。",
+    "page_status": "unverified_domain",
+    "source": "jobs.bytedance.com",
+    "discovered_from": "search_result",
+    "first_seen": "2026-10-16T13:54:51.628822+00:00",
+    "last_checked": "2026-10-16T13:54:51.628822+00:00",
+    "raw_hash": "bb63c72680a03f25ac3e2010f86fdf754ccb2279dccab7845e929ea640894ad3",
+    "deadline": null,
+    "company_hint": null,
+    "evidence": "detail"
   }
 }

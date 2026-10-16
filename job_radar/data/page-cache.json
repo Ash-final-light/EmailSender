@@ -3131,5 +3131,13 @@
       ],
       "job_links": []
     }
+  },
+  "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "unverified_domain",
+      "url": "https://jobs.bytedance.com/campus/position/7394658454352578826/detail?recomId=554b0e99-eaa4-11ef-b54e-b8599f3a94b8&referral_code=YVKBW6H&sourceJobId=7454103010348992775",
+      "text": ""
+    }
   }
 }
