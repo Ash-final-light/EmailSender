@@ -56,12 +56,12 @@ def role_kind(title, text):
             or re.search(r"(?:岗位性质|职位性质|工作类型|employmentType)[\s:：\"']{0,10}实习|实习\s*\d+\s*个月", text, re.I)):
         return "excluded"
     if not re.search(UNITY, title + " " + text, re.I):
-        if re.search(r"unreal|虚幻|UE[45]", title + " " + text, re.I):
+        if re.search(r"unreal|虚幻|UE[45]|cocos|laya(?:air)?|godot|自研引擎", title + " " + text, re.I):
             return "excluded"
         return "engine_unspecified" if (re.search(r"(?:游戏|手游).{0,8}(?:客户端|程序)", title, re.I)
             or re.search(r"客户端.{0,8}(?:开发|实习)", title, re.I) and re.search(r"游戏|手游|gameplay", text, re.I)) else "unknown"
     # A Unity bonus does not turn an explicitly UE-based role into a Unity role.
-    if re.search(r"负责.{0,30}(?:UE[45]|Unreal|虚幻).{0,20}(?:开发|维护)|使用\s*(?:UE[45]|Unreal|虚幻).{0,20}(?:开发|实现)", text, re.I):
+    if re.search(r"负责.{0,30}(?:UE[45]|Unreal|虚幻|Cocos|Laya|Godot).{0,20}(?:开发|维护)|使用\s*(?:UE[45]|Unreal|虚幻|Cocos|Laya|Godot).{0,20}(?:开发|实现)", text, re.I):
         return "excluded"
     if re.search(CLIENT, title, re.I):
         return "match"

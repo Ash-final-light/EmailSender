@@ -125,7 +125,7 @@ def csv_content(report):
     for group in ("jobs", "engine_unspecified", "leads"):
         for job in report.get(group, []):
             analysis = job.get("analysis") or {}
-            cells = [group] + [analysis.get(key) or (job["title"] if key == "title" else "未披露") for key in fields]
+            cells = [{"jobs":"Unity客户端实习", "engine_unspecified":"游戏客户端实习·引擎未披露", "leads":"待核实线索"}[group]] + [analysis.get(key) or (job["title"] if key == "title" else "未披露") for key in fields]
             cells += [job["url"], analysis.get("company_website") or "待核实", analysis.get("company_careers") or "待核实",
                       STATUSES.get(job["page_status"], "待核实"), job["first_seen"], job["last_checked"], analysis.get("summary", "尚未归纳"), job["text"]]
             # Public source text must not become a spreadsheet formula.

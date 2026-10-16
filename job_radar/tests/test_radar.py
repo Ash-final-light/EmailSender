@@ -235,6 +235,7 @@ class RadarTest(unittest.TestCase):
 
     def test_unity_bonus_does_not_override_ue_duties(self):
         self.assertEqual(sources.role_kind('游戏客户端开发实习生', '负责UE4客户端功能的开发与维护；有Unity经验优先'), 'excluded')
+        self.assertEqual(sources.role_kind('游戏客户端开发实习生', '使用Cocos开发游戏'), 'excluded')
 
     def test_application_date_range_deadline(self):
         text = '投递时间：2026年7月8日-2026年9月1日（即将截止）'
