@@ -2,7 +2,7 @@
 
 EmailSender 仓库中的独立子项目：全国检索 Unity 客户端实习岗位，每周两封中文邮件，每期重发当前收集到的全部在列岗位。复用现有 DeepSeek 与 QQ SMTP Secrets；候选、去重历史、额度和发送状态全部保存在 `job_radar/data/`，与技术周报独立。
 
-真实搜索、模型与首封 QQ SMTP 发信均已通过，详细记录见 [DEPLOYMENT.md](DEPLOYMENT.md)。定时开关等待用户检查样报后开启。
+真实搜索、模型与 QQ SMTP 发信均已通过，详细记录见 [DEPLOYMENT.md](DEPLOYMENT.md)。用户已验收新版全量样报，定时发送于北京时间 2026-10-16 22:23 开启。
 
 ## 运行范围
 
@@ -19,7 +19,7 @@ EmailSender 仓库中的独立子项目：全国检索 Unity 客户端实习岗�
 
 在现有 Secrets 基础上新增 `BOCHA_API_KEY`。需要的 Secrets 共五个：`BOCHA_API_KEY`、`DEEPSEEK_API_KEY`、`SMTP_USER`、`SMTP_PASSWORD`、`MAIL_TO`。QQ 授权码不用重新配置。
 
-工作流 **Unity Internship Radar** 支持手动运行，默认 `preview`。定时运行受 Repository Variable `JOBS_SCHEDULE_ENABLED=true` 控制；首次样报确认前保持关闭。
+工作流 **Unity Internship Radar** 支持手动运行，默认 `preview`。定时运行受 Repository Variable `JOBS_SCHEDULE_ENABLED=true` 控制，当前已开启；需要停止定时时可将该变量改为 `false`。
 
 开启后，每天北京时间 08:30 采集，周二和周五 09:00 生成并发信。GitHub cron 可能延迟。每期发送收集到的全部符合条件岗位，已发送历史只用于标注是否变化，不再抑制在列岗位。取消原 15 条岗位和 5 条线索上限，常规邮件附完整 HTML / CSV 清单。
 
