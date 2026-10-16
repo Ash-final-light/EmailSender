@@ -1,0 +1,401 @@
+{
+  "start": "2026-10-09",
+  "end": "2026-10-16",
+  "created_at": "2026-10-16T12:30:31.056088+00:00",
+  "items": [
+    {
+      "key": "45a1faf30935d38e019aa1635f9b061e59d563f3d09fc6ebc628fbf29a0ad589",
+      "category": "游戏开发技术",
+      "title": "Dev snapshot: Godot 4.8 beta 1",
+      "url": "https://godotengine.org/article/dev-snapshot-godot-4-8-beta-1/",
+      "summary": "Godot 4.8 enters beta!",
+      "published": "2026-10-15T12:00:00+00:00",
+      "source": "Godot 官方博客",
+      "source_id": "Godot 官方博客",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 5,
+      "headline": "Godot 4.8 beta 1 开发快照发布",
+      "summary_zh": "Godot 官方博客发布 Godot 4.8 beta 1 开发快照，标志着该版本进入 beta 阶段。",
+      "impact": "使用 Godot 的团队可关注该 beta 版本的变动，正式版稳定性需以官方后续发布为准；对 Unity 项目无直接影响。需阅读原文确认具体改动清单。",
+      "score": 7
+    },
+    {
+      "key": "1542bb258d320fb6b8e165c2da498908b7fb1b0d3d4d386e406d94de3fda9471",
+      "category": "游戏开发技术",
+      "title": "Introducing dotnetup: A toolchain manager for .NET",
+      "url": "https://devblogs.microsoft.com/dotnet/introducing-dotnetup/",
+      "summary": "Learn how the new dotnetup tool helps macOS and Linux developers install, manage, and update user-local .NET SDKs and runtimes. The post Introducing dotnetup: A toolchain manager for .NET appeared first on .NET Blog .",
+      "published": "2026-10-15T16:50:00+00:00",
+      "source": ".NET 官方博客",
+      "source_id": ".NET 官方博客",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 3,
+      "headline": ".NET 推出 dotnetup：面向 .NET 的工具链管理器",
+      "summary_zh": ".NET 官方博客介绍 dotnetup，帮助 macOS 和 Linux 开发者安装、管理并更新用户本地的 .NET SDK 与运行时。",
+      "impact": "对使用 C# 的非 Windows 开发者有一定便利性，可简化多版本 SDK 管理；与 Unity 的 .NET 运行时选择无直接绑定关系。具体适用场景需阅读原文确认。",
+      "score": 6
+    },
+    {
+      "key": "360bd82b25599904de75997b46a3a882382d91264ae3f530c8ca555fc2450702",
+      "category": "游戏开发技术",
+      "title": "Announcing .NET 11 Release Candidate 2",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
+      "summary": ".NET 11 Release Candidate 2 is available with improvements across libraries, runtime, SDK, MSBuild, NuGet, F#, ASP.NET Core, .NET MAUI, and Windows Forms. The post Announcing .NET 11 Release Candidate 2 appeared first on .NET Blog .",
+      "published": "2026-10-13T19:40:00+00:00",
+      "source": ".NET 官方博客",
+      "source_id": ".NET 官方博客",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 9,
+      "headline": ".NET 11 Release Candidate 2 发布",
+      "summary_zh": ".NET 11 Release Candidate 2 可用，更新覆盖库、运行时、SDK、MSBuild、NuGet、F#、ASP.NET Core、.NET MAUI 与 Windows Forms。",
+      "impact": "这是 .NET 11 的候选发布版，不代表 Unity 已支持该版本，Unity 的脚本运行时选用需以其官方文档为准。评估升级前需阅读原文确认变更。",
+      "score": 6
+    },
+    {
+      "key": "b6210070c9827dd810d2765547eecde7f08c52574cd9f837c8871f9243ecc904",
+      "category": "游戏开发技术",
+      "title": ".NET and .NET Framework October 2026 servicing releases updates",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/",
+      "summary": "A recap of the latest servicing updates for .NET and .NET Framework for October 2026. The post .NET and .NET Framework October 2026 servicing releases updates appeared first on .NET Blog .",
+      "published": "2026-10-12T20:00:00+00:00",
+      "source": ".NET 官方博客",
+      "source_id": ".NET 官方博客",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 11,
+      "headline": ".NET 与 .NET Framework 2026 年 10 月服务更新汇总",
+      "summary_zh": ".NET 官方博客汇总了 2026 年 10 月 .NET 与 .NET Framework 的最新服务性更新。",
+      "impact": "使用 .NET 服务端或工具链的团队可据此安排补丁更新；与 Unity 编辑器及运行时版本的适用关系需阅读原文确认。",
+      "score": 5
+    },
+    {
+      "key": "e99c4829e39b2af985a462556dcf752449936d302066156ae4dbee45b53c0c52",
+      "category": "互联网与 AI 工具",
+      "title": "Linus Torvalds Rejects AI Coding Bans as Linux Rethinks Disclosure Rules - Linuxiac",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV2NzRHA5bjFIOHhGQ1hmT0Nxd0E0MmNQRWFmS0tkbVRwbVNUX203d1Q0Njh4S05YWVAzNWNBRDVVd3VxTGQ0R0hxT0J3LXAxYTM1bGhFcm1wRXU5Z3dueU5GbEpGa3pXTnNwYkJwVy0tZG1zNmVxRWc0STA2QTNJcjh1NzJadlA3amtqaWxHejktVmNPX0t1YzdB?oc=5",
+      "summary": "Linus Torvalds Rejects AI Coding Bans as Linux Rethinks Disclosure Rules Linuxiac",
+      "published": "2026-10-16T10:45:42+00:00",
+      "source": "Linuxiac（AI 开发工具检索）",
+      "source_id": "AI 开发工具检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 8,
+      "headline": "Linus Torvalds 反对禁止 AI 编码，Linux 重新审视披露规则",
+      "summary_zh": "据 Linuxiac 报道，Linus Torvalds 拒绝一刀切禁止 AI 编码，Linux 社区正在重新考虑 AI 参与的披露规则。",
+      "impact": "反映开源社区对 AI 辅助编码的治理取向，对采用 AI 编码工具的团队有参考意义；具体规则内容需阅读原文确认。",
+      "score": 5
+    },
+    {
+      "key": "134d0c775b4a599e00b9fafcdaa1686e3f5f657fa63c8ed21bafb623a1d50e23",
+      "category": "游戏开发技术",
+      "title": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development - Game Developer",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXc0NjhqQ2w3QXRrbXN6UGN5LU9CX0tOVHZoUnVJQ1hTYjhUSF9xZ1haWXZfMURRa3hsYl9aRUpvNE11ZUgtV1ZZZGFqSzY3dUlvOFgxcWJGRmV1a1RVMXpnY3pJWmMwRlYwMzV2bzBuME1mLVF1ZjNucWpTZFgyejRkUHJ5Z0gxZ3lPVUxSNnJiUDhFcjloMWFHeExTTTV1VXppM3BQRV9PcGJiUVpXX3djT2x0TUpzcFhxWU1DZWZYMlFWM3lJbEd5QQ?oc=5",
+      "summary": "No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development Game Developer",
+      "published": "2026-10-14T20:40:45+00:00",
+      "source": "Game Developer（Game Developer 开发检索）",
+      "source_id": "Game Developer 开发检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 7,
+      "headline": "报道称 Epic 的迪士尼项目转向“AI 优先”开发",
+      "summary_zh": "Game Developer 报道称，Epic 的迪士尼项目据称转向“AI 优先”的开发方式，涉及减少手写代码。",
+      "impact": "属报道性信息，尚不构成可直接复用的工程做法，适合观察大厂对 AI 参与内容生产的取向。细节需阅读原文确认。",
+      "score": 5
+    },
+    {
+      "key": "8a4873c063393a4bb480f9e8ddccb599a1661221491492f379ca6b745000bcc0",
+      "category": "互联网与 AI 工具",
+      "title": "Muse Spark Open Brings Meta’s AI Weights to Developers’ Desktops - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU015S2NCc1doS25WejN6cC1vR3IzWk1LVWplN2tnR04wOE5BZVVRelpBSWZSd2RxTWFWMnRHN1BVRWVybUtTVE4zY3VnYjA3cVlYZTFLR0tFQlpyRGl1RWcyYWNyeEMxbGZmOHN6OTNESUU4ZzBvZUFfdGk1alJJcUhPZ1hqMU9MMFFrQmdrcE84UUFheXpaU1phaFVyc01IRVBISGo0TkJxVjRFU1pz0gGvAUFVX3lxTE9TTXlLY0JzV2hLblZ6M3pwLW9HcjNaTUtVamU3a2dHTjA4TkFlVVF6WkFJZlJ3ZHFNYVYydEc3UFVFZXJtS1NUTjNjdWdiMDdxWVhlMUtHS0VCWnJEaXVFZzJhY3J4QzFsZmY4c3o5M0RJRThnMG9lQV90aTVqUklxSE9nWGoxT0wwUWtCZ2twTzhRQWF5elpTWmFoVXJzTUhFUEhIajROQnFWNEVTWnM?oc=5",
+      "summary": "Muse Spark Open Brings Meta’s AI Weights to Developers’ Desktops Analytics Insight",
+      "published": "2026-10-16T08:48:27+00:00",
+      "source": "Analytics Insight（AI 开发工具检索）",
+      "source_id": "AI 开发工具检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 17,
+      "headline": "Muse Spark Open 将 Meta 的 AI 权重带到开发者桌面",
+      "summary_zh": "Analytics Insight 报道，Muse Spark Open 让开发者可在本地桌面环境中使用 Meta 的 AI 权重。",
+      "impact": "若描述属实，则涉及本地化模型部署路径，对需要离线推理的工具开发者有参考价值；是否可用于生产需阅读原文确认。",
+      "score": 5
+    },
+    {
+      "key": "9bfc0b3ab023c738972ae54134a3ea6cfe17930ffb61ce39f11cb706c9d9ac43",
+      "category": "互联网与 AI 工具",
+      "title": "中国八大算力中心，都握着什么王牌？ - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ISFFoUHpKYTY0UnVvbjdVWG9QcnZ0OGFRRjBIdGZqbEZNY3Nib244MTJQcEVsRkhIUUZzN01MaDhZOGY4dm45U0lnVE9lSTlr?oc=5",
+      "summary": "中国八大算力中心，都握着什么王牌？ 36Kr",
+      "published": "2026-10-16T12:28:52+00:00",
+      "source": "36Kr（36氪互联网检索）",
+      "source_id": "36氪互联网检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 2,
+      "headline": "中国八大算力中心，各自握有什么资源？",
+      "summary_zh": "36Kr 梳理中国八大算力中心各自的资源与优势。",
+      "impact": "对关注算力供给与部署成本的团队提供宏观参考，不涉及具体开发技术细节。数据准确性需阅读原文确认。",
+      "score": 5
+    },
+    {
+      "key": "78d055826b4fb13b8d2c102af0371197dbb45bd45c6fa7221863b9a68e2dd911",
+      "category": "互联网与 AI 工具",
+      "title": "夹在字节缝隙中的AI融资明星们 - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IdXhDRUNocWxsZXBTeHRaUzZSeTJabG0yTWJkTnBRMnJDMzVFWHFCMElvRUhPU0hWek00bjhMaXhOYmFrOUF4Q2JObG42U2VD?oc=5",
+      "summary": "夹在字节缝隙中的AI融资明星们 36Kr",
+      "published": "2026-10-16T12:23:54+00:00",
+      "source": "36Kr（36氪互联网检索）",
+      "source_id": "36氪互联网检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 14,
+      "headline": "夹在字节缝隙中的 AI 融资明星们",
+      "summary_zh": "36Kr 报道在字节跳动生态竞争背景下，多家 AI 融资明星公司的处境。",
+      "impact": "属行业资本与竞争格局观察，对判断 AI 工具赛道格局有间接参考价值。需阅读原文确认具体论据。",
+      "score": 4
+    },
+    {
+      "key": "fbe1d0d3be34990fade4e5bc049f4a13bf8987ac0d903fc4e7f71e848826d785",
+      "category": "游戏行业与发行",
+      "title": "媒体报道：腾讯向土耳其的Flow Games投资了数千万美元 - WN Hub",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVzBqSzBNWHM4Y3BtZjhNVE9hbjhONktKcExxNmxvaEZLdWF1SFRuYjNRZWZGb0ZQYldkSlpGNGdKZXJ6X0I2LS1hODRrd2k5dE4yQVlvSDZDZw?oc=5",
+      "summary": "媒体报道：腾讯向土耳其的Flow Games投资了数千万美元 WN Hub",
+      "published": "2026-10-15T11:52:32+00:00",
+      "source": "WN Hub（国内游戏行业检索）",
+      "source_id": "国内游戏行业检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 29,
+      "headline": "媒体报道：腾讯向土耳其 Flow Games 投资数千万美元",
+      "summary_zh": "WN Hub 报道称，腾讯向土耳其的 Flow Games 投资了数千万美元。",
+      "impact": "属投资类信息，反映国内厂商对海外工作室的布局动向；交易细节需阅读原文确认。",
+      "score": 4
+    },
+    {
+      "key": "c21b1074af65567692eceb238be81eb2e8015e56f0e3c3a07a2654ef0f96263d",
+      "category": "游戏行业与发行",
+      "title": "Star Fox developer Velan: How to survive as a North American game studio",
+      "url": "https://www.thegamebusiness.com/p/star-fox-developer-velan-how-to-survive",
+      "summary": "Guha and Karthik Bala on how they won over Nintendo, keeping costs low and working with IP",
+      "published": "2026-10-13T13:19:53+00:00",
+      "source": "The Game Business",
+      "source_id": "The Game Business",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 26,
+      "headline": "《Star Fox》开发商 Velan 谈北美工作室的生存之道",
+      "summary_zh": "The Game Business 采访 Velan 的 Guha 与 Karthik Bala，谈及如何与任天堂合作、控制成本以及处理 IP 合作。",
+      "impact": "对独立与中小工作室的经营与 IP 合作策略有参考价值，不涉及引擎或渲染技术细节。经验可迁移性需阅读原文确认。",
+      "score": 4
+    },
+    {
+      "key": "9a58af7c24efad5c7e6d5bb167b531342cf854af71fa962ed0553a1ef7fc8791",
+      "category": "游戏行业与发行",
+      "title": "SA’s game development sector $1 million Digital Games Fund and new studio placement program - FilmInk",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVmc3VVdmenZUVTdkLW1yZ2VXcVdhc25wRUlFWGJqTEd6LWxLNUlTTUQtQ09TdHRuaVdGVnNLSkcwV3dZMEVwbVFxay1fUGdfYVpPX2N1UFA1NG1lZ3JWNzZrWmNsUmEwUFZmTldlUWczSlI0bGh5QUJxTlNkcjFPS01SNmxlRXJCbDhVWVNWUVcxbTE4clZHMG1OM1Z1Y2RqWXgzT2QzU0owMktLU1FZRlR6ZWFPbXNLMkVPa1lHVGJ5eE9YTDBveG5DRQ?oc=5",
+      "summary": "SA’s game development sector $1 million Digital Games Fund and new studio placement program FilmInk",
+      "published": "2026-10-16T03:09:39+00:00",
+      "source": "FilmInk（游戏行业检索）",
+      "source_id": "游戏行业检索",
+      "evidence": "基于来源摘要",
+      "prerelease": false,
+      "priority": 2,
+      "id": 28,
+      "headline": "南澳游戏开发行业获 100 万澳元数字游戏基金并推出工作室安置计划",
+      "summary_zh": "FilmInk 报道南澳游戏开发领域设立 100 万澳元数字游戏基金，并推出新的工作室安置项目。",
+      "impact": "对关注海外地区性扶持政策的团队有参考意义；申请条件与适用范围需阅读原文确认。",
+      "score": 4
+    }
+  ],
+  "takeaways": [
+    "本周游戏开发技术侧信息集中在引擎与工具链：Godot 4.8 进入 beta，.NET 官方博客更新了 dotnetup 工具链管理器与 10 月服务更新。",
+    "互联网与 AI 工具方向多为摘要级资讯，涉及算力中心、AI 融资、Linux 社区对 AI 编码的态度等，细节需阅读原文确认。",
+    "游戏行业与发行条目以投资、基金、会议与市场分析为主，缺少可验证的技术实现细节。"
+  ],
+  "sources": [
+    {
+      "source": "Unity 技术检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:26.189518+00:00",
+      "status": "ok",
+      "fresh_items": 7
+    },
+    {
+      "source": "Unity 中文检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:26.189913+00:00",
+      "status": "ok",
+      "fresh_items": 1
+    },
+    {
+      "source": "游戏工程检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:26.190433+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "其他引擎检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:26.190725+00:00",
+      "status": "ok",
+      "fresh_items": 45
+    },
+    {
+      "source": "海外互联网检索",
+      "category": "互联网与 AI 工具",
+      "checked_at": "2026-10-16T12:30:26.193920+00:00",
+      "status": "ok",
+      "fresh_items": 68
+    },
+    {
+      "source": "国内互联网检索",
+      "category": "互联网与 AI 工具",
+      "checked_at": "2026-10-16T12:30:28.888189+00:00",
+      "status": "ok",
+      "fresh_items": 36
+    },
+    {
+      "source": "AI 开发工具检索",
+      "category": "互联网与 AI 工具",
+      "checked_at": "2026-10-16T12:30:28.911976+00:00",
+      "status": "ok",
+      "fresh_items": 58
+    },
+    {
+      "source": "游戏行业检索",
+      "category": "游戏行业与发行",
+      "checked_at": "2026-10-16T12:30:29.022023+00:00",
+      "status": "ok",
+      "fresh_items": 25
+    },
+    {
+      "source": "国内游戏行业检索",
+      "category": "游戏行业与发行",
+      "checked_at": "2026-10-16T12:30:29.052635+00:00",
+      "status": "ok",
+      "fresh_items": 12
+    },
+    {
+      "source": "Unity 官方发布检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.189663+00:00",
+      "status": "ok",
+      "fresh_items": 1
+    },
+    {
+      "source": "36氪互联网检索",
+      "category": "互联网与 AI 工具",
+      "checked_at": "2026-10-16T12:30:29.260038+00:00",
+      "status": "ok",
+      "fresh_items": 80
+    },
+    {
+      "source": "Game Developer 开发检索",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.310905+00:00",
+      "status": "ok",
+      "fresh_items": 2
+    },
+    {
+      "source": "Hacker News",
+      "category": "互联网与 AI 工具",
+      "checked_at": "2026-10-16T12:30:29.372195+00:00",
+      "status": "ok",
+      "fresh_items": 20
+    },
+    {
+      "source": "Godot 官方博客",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.402927+00:00",
+      "status": "ok",
+      "fresh_items": 1
+    },
+    {
+      "source": "The Game Business",
+      "category": "游戏行业与发行",
+      "checked_at": "2026-10-16T12:30:29.487241+00:00",
+      "status": "ok",
+      "fresh_items": 3
+    },
+    {
+      "source": ".NET 官方博客",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.612231+00:00",
+      "status": "ok",
+      "fresh_items": 4
+    },
+    {
+      "source": "tuyoogame/YooAsset",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.750311+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "focus-creative-games/hybridclr",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.810421+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "hadashiA/VContainer",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.834881+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "Cysharp/UniTask",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:29.993180+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "needle-mirror/com.unity.netcode.gameobjects",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:30.146637+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "Unity-Technologies/EntityComponentSystemSamples",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:30.290280+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "Unity-Technologies/Graphics",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:30.383743+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    },
+    {
+      "source": "godotengine/godot",
+      "category": "游戏开发技术",
+      "checked_at": "2026-10-16T12:30:30.438590+00:00",
+      "status": "ok",
+      "fresh_items": 0
+    }
+  ],
+  "message_id": "<179215384021.2374.3622054742030691968@game-tech-weekly.invalid>",
+  "status": "attempting",
+  "reserved_at": "2026-10-16T12:30:41.101534+00:00"
+}
