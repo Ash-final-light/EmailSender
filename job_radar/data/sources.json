@@ -1,16 +1,14 @@
 {
-  "checked_at": "2026-10-16T14:12:37.922619+00:00",
+  "checked_at": "2026-10-16T14:16:39.943674+00:00",
   "seed_only": false,
   "queries": 40,
   "discovered": 228,
   "page_statuses": {
     "network_error": 1,
-    "readable": 8,
     "redirect_limit": 8,
-    "dynamic_or_empty": 1,
     "browser_error": 2
   },
-  "new_urls": 6,
+  "new_urls": 0,
   "company_sites": [
     {
       "company": "米哈游",
@@ -55,22 +53,22 @@
     {
       "company": "莉莉丝",
       "website": "https://www.lilith.com/",
-      "careers": "https://lilithgames.jobs.feishu.cn/",
+      "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 6,
+      "job_links_found": 12,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "波克城市",
       "website": "https://www.boke.com/",
-      "careers": "https://boke.jobs.feishu.cn/",
+      "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 5,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "鹰角网络",
@@ -88,19 +86,19 @@
       "careers": "https://api.xd.com/hr/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 2,
+      "job_links_found": 3,
       "reader": "browser",
       "browser_status": null
     },
     {
       "company": "库洛游戏",
       "website": "https://www.kurogames.com/",
-      "careers": "https://kurogame.jobs.feishu.cn/",
+      "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "散爆网络",
