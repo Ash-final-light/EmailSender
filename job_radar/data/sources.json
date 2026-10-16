@@ -1,18 +1,16 @@
 {
-  "checked_at": "2026-10-16T13:54:51.628822+00:00",
+  "checked_at": "2026-10-16T14:05:08.707897+00:00",
   "seed_only": false,
   "queries": 40,
   "discovered": 228,
   "page_statuses": {
-    "network_error": 2,
-    "oversized": 7,
-    "readable": 48,
-    "dynamic_or_empty": 11,
+    "network_error": 1,
+    "readable": 29,
     "redirect_limit": 8,
-    "browser_error": 2,
-    "unverified_domain": 1
+    "dynamic_or_empty": 4,
+    "browser_error": 2
   },
-  "new_urls": 18,
+  "new_urls": 1,
   "company_sites": [
     {
       "company": "米哈游",
@@ -27,7 +25,7 @@
       "website": "https://www.papegames.com/",
       "careers": "https://career.papegames.com/",
       "status": "readable",
-      "careers_status": "oversized",
+      "careers_status": "readable",
       "job_links_found": 0
     },
     {
@@ -51,7 +49,7 @@
       "website": "https://www.lilith.com/",
       "careers": "https://lilithgames.jobs.feishu.cn/",
       "status": "oversized",
-      "careers_status": "oversized",
+      "careers_status": "readable",
       "job_links_found": 0
     },
     {
@@ -59,8 +57,8 @@
       "website": "https://www.boke.com/",
       "careers": "https://boke.jobs.feishu.cn/",
       "status": "readable",
-      "careers_status": "oversized",
-      "job_links_found": 0
+      "careers_status": "readable",
+      "job_links_found": 5
     },
     {
       "company": "鹰角网络",
@@ -76,14 +74,14 @@
       "careers": "https://api.xd.com/hr/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 0
+      "job_links_found": 1
     },
     {
       "company": "库洛游戏",
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "oversized",
+      "careers_status": "readable",
       "job_links_found": 0
     },
     {
@@ -140,7 +138,7 @@
       "careers": "https://zhaopin.37.com/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 0
+      "job_links_found": 2
     },
     {
       "company": "多益网络",
@@ -227,8 +225,8 @@
       "website": "https://www.idreamsky.com/",
       "careers": "https://idreamsky.jobs.feishu.cn/",
       "status": "readable",
-      "careers_status": "oversized",
-      "job_links_found": 0
+      "careers_status": "dynamic_or_empty",
+      "job_links_found": 1
     },
     {
       "company": "诗悦网络",
@@ -243,17 +241,17 @@
       "website": "https://www.eworld.cn/",
       "careers": "https://eworldgroup.jobs.feishu.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "oversized",
-      "job_links_found": 0
+      "careers_status": "dynamic_or_empty",
+      "job_links_found": 1
     },
     {
       "company": "柠檬微趣",
       "website": "https://www.microfun.cn/",
       "careers": "https://www.microfun.cn/",
-      "status": "dynamic_or_empty",
+      "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0
     }
   ],
-  "new_search_requests": 28
+  "new_search_requests": 0
 }
