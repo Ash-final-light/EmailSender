@@ -232,6 +232,7 @@ class RadarTest(unittest.TestCase):
         row['analysis']['title'] = row['title']
         self.assertEqual(sources.role_kind(row['title'], row['text']), 'engine_unspecified')
         self.assertEqual(len(curation.report({'a':row}, {}, {}, self.budget)['engine_unspecified']), 1)
+        self.assertEqual(sources.role_kind('客户端实习（可转正）', '使用Flutter参与大前端开发。关于我们：一家游戏厂商。'), 'unknown')
 
     def test_unity_bonus_does_not_override_ue_duties(self):
         self.assertEqual(sources.role_kind('游戏客户端开发实习生', '负责UE4客户端功能的开发与维护；有Unity经验优先'), 'excluded')
