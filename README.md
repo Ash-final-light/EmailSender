@@ -1,8 +1,8 @@
 # 开发者视野 · 游戏开发与互联网中文周报
 
-按个人兴趣收集多个公开来源，使用 **DeepSeek** 筛选和归纳，再通过 Gmail SMTP 向配置的收信邮箱发送中文周报。默认 Unity 为主，兼顾其他引擎、国内外互联网与 AI 开发工具。
+按个人兴趣收集多个公开来源，使用 **DeepSeek** 筛选和归纳，再通过 SMTP 向配置的收信邮箱发送中文周报。当前部署使用 QQ 邮箱发信；也支持 Gmail 等服务。默认 Unity 为主，兼顾其他引擎、国内外互联网与 AI 开发工具。
 
-实际部署和云端验证状态见 [DEPLOYMENT.md](DEPLOYMENT.md)。云端预览已通过，实际 SMTP 发信仍需配置应用专用密码后验证。
+实际部署和云端验证状态见 [DEPLOYMENT.md](DEPLOYMENT.md)。云端预览已通过，实际 SMTP 发信仍需配置 QQ 邮箱授权码后验证。
 
 ## 自动运行
 
@@ -22,18 +22,20 @@
 | Secret | 用途 |
 | --- | --- |
 | DEEPSEEK_API_KEY | DeepSeek 官方 API Key |
-| SMTP_USER | 发信 Gmail 地址 |
-| SMTP_PASSWORD | Gmail 应用专用密码，不是 Google 登录密码 |
+| SMTP_USER | 发信邮箱完整地址（当前部署为 QQ 邮箱） |
+| SMTP_PASSWORD | 发信服务授权码；QQ 邮箱填写 SMTP 授权码，不是 QQ 登录密码 |
 | MAIL_TO | 收信邮箱；多个收件地址用英文逗号分隔 |
 
-Gmail 应用专用密码需要账号满足 Google 的相关条件，通常需要先开启两步验证。账号持有人自行在 [Google 应用密码页面](https://myaccount.google.com/apppasswords) 创建，然后直接填入仓库 Secret，无需提交到代码或聊天。部分账号不提供该选项，见 [Google 官方说明](https://support.google.com/accounts/answer/185833)。
+QQ 邮箱：账号持有人登录 [QQ 邮箱](https://mail.qq.com/)，进入设置 → 账户，找到包含 SMTP 的服务项目，按页面提示完成安全验证、开启服务并生成授权码。将授权码直接填入 SMTP_PASSWORD Secret，无需提交到代码或聊天。具体验证方式以账号页面为准；帮助见 [QQ 邮箱帮助中心](https://service.mail.qq.com/)。
+
+如以后改回 Gmail，填写 Gmail 应用专用密码，并将 SMTP_HOST 改为 smtp.gmail.com；见 [Google 官方说明](https://support.google.com/accounts/answer/185833)。
 
 可选 Repository Variables：
 
-| Variable | 默认值 |
+| Variable | 当前部署值（脚本未设置变量时的兼容默认值） |
 | --- | --- |
 | LLM_MODEL | deepseek-flash |
-| SMTP_HOST | smtp.gmail.com |
+| SMTP_HOST | smtp.qq.com（未配置时脚本默认 smtp.gmail.com） |
 | SMTP_PORT | 465 |
 | SMTP_SECURITY | ssl；也支持 starttls |
 

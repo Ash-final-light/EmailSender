@@ -6,7 +6,8 @@
 - 当前仓库可见性：公开，保持原设置。源码及公开新闻候选可见，凭据和收发件地址仅存储于 Actions Secrets。
 - 模型：DeepSeek 官方接口，deepseek-flash；已实际读取模型列表并生成中文周报。
 - 已配置 Secret 名称：DEEPSEEK_API_KEY、SMTP_USER、MAIL_TO。未在本文件记录值。
-- 尚缺：SMTP_PASSWORD，即指定 Gmail 的应用专用密码。
+- 发信服务：已按用户选择切换为 QQ 邮箱；发件与收件使用同一个用户指定地址，地址仅保存于 Secrets。SMTP_HOST=smtp.qq.com、SMTP_PORT=465、SMTP_SECURITY=ssl 已配置为 Repository Variables。
+- 尚缺：SMTP_PASSWORD，即该 QQ 邮箱的 SMTP 授权码。
 - 三个工作流已部署并处于 active：Checks、Collect News、Game Tech Weekly。
 
 ## 已实际验证
@@ -29,8 +30,8 @@
 
 ## 下一项验收
 
-账号持有人将 Gmail 应用专用密码填入 SMTP_PASSWORD 后，运行 Game Tech Weekly，mode = send。
+账号持有人将 QQ 邮箱 SMTP 授权码填入 SMTP_PASSWORD 后，运行 Game Tech Weekly，mode = send。
 
-实际 SMTP 登录、Gmail 到 QQ 的投递和收件箱显示仍待验证，不能视为已发信成功。每天 08:00/20:00 与每周一 09:00 的定时规则已配置，但尚未等待首个自然定时周期。
+实际 SMTP 登录、QQ 到同一 QQ 邮箱的投递和收件箱显示仍待验证，不能视为已发信成功。每天 08:00/20:00 与每周一 09:00 的定时规则已配置，但尚未等待首个自然定时周期。
 
 本轮样报中 Unity 专属技术资讯较少，采用其他引擎、.NET、开发工具和行业内容补充，未编造 Unity 更新。后续按每周实际质量调整来源和关键词。
