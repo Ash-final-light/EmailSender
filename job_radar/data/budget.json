@@ -1,0 +1,15 @@
+{
+  "days": {
+    "2026-10-16": {
+      "search": 1,
+      "details": 14
+    }
+  },
+  "weeks": {
+    "2026-W42": {
+      "charges": [],
+      "limit": 50000
+    }
+  },
+  "paused": null
+}
