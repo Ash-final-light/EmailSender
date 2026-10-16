@@ -71,7 +71,10 @@ def render(report):
         configured = next((c for c in CONFIG["companies"] if c["name"] == site["company"]), {})
         career = site.get("careers") or configured.get("careers")
         official.append(f"<li>{esc(site['company'])}：{link(site['website'], '公司官网')} · {link(career, '官方招聘入口')}"
-                        f"<br>官网：{esc(STATUSES.get(site['status'], '待核实'))}；招聘页：{esc(STATUSES.get(site['careers_status'], '待核实'))}；发现客户端相关详情链接 {site.get('job_links_found', 0)} 条（含非实习，后续另行筛选）。</li>")
+                        f"<br>官网：{esc(STATUSES.get(site['status'], '待核实'))}；招聘页：{esc(STATUSES.get(site['careers_status'], '待核实'))}；"
+                        f"读取方式：{'浏览器动态加载' if site.get('reader') == 'browser' else '静态公开页面'}；"
+                        f"动态读取：{esc(STATUSES.get(site.get('browser_status'), '未记录或无需尝试'))}；"
+                        f"发现客户端相关详情链接 {site.get('job_links_found', 0)} 条（含非实习，后续另行筛选）。</li>")
     official_section = ('<h2 style="font-size:20px">官网招聘入口与覆盖情况</h2><p style="font-size:13px">以下为本次检查的公司入口，不代表存在匹配或开放岗位。仅列本次读取到的公开页面和搜索结果；未承诺覆盖站内全部分页。</p>'
                         '<ul style="padding-left:20px;font-size:13px">' + "".join(official) + '</ul>') if official else ""
     return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">

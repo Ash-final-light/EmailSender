@@ -222,7 +222,7 @@ def report(jobs, history, stats, budget):
             "engine_unspecified": unspecified, "leads": leads, "changes": changes, "sources": stats,
             "usage": {"tokens_used_or_reserved": budget.tokens(week), "weekly_limit": week["limit"],
                       "search_weekly": week["search"], "search_weekly_limit": CONFIG["max_search_weekly"]},
-            "remaining_unprocessed": sum(not x.get("analysis") and classify(x) not in ("closed", "excluded")
+            "remaining_unprocessed": sum(not x.get("analysis") and classify(x) not in ("closed", "excluded", "historical")
                                          for x in jobs.values()),
             "archived_historical": sum(classify(x) == "historical" for x in jobs.values()),
             "visible_total": sum(classify(x) == "verified_detail" for x in jobs.values())}

@@ -244,9 +244,12 @@ def collect(data_dir, budget, seed_only=False):
                 rendered = browser.read(url, reserve_view=budget.reserve_detail)
                 result["browser_status"] = rendered["status"]
                 if rendered["status"] == "readable" or result["status"] != "readable":
-                    result = {**rendered, "links": list(dict.fromkeys(result.get("links", []) + rendered.get("links", [])))}
-            result["render_attempted"] = True
-            result["render_version"] = 3
+                    result = {**rendered, "browser_status": rendered["status"],
+                              "links": list(dict.fromkeys(result.get("links", []) + rendered.get("links", [])))}
+                result["render_attempted"] = True
+                result["render_version"] = 3
+            else:
+                result["browser_status"] = "daily_check_limit"
         stats["page_statuses"][result["status"]] = stats["page_statuses"].get(result["status"], 0) + 1
         page_cache[key] = {"day": day, "result": result}
         write(data_dir / "page-cache.json", {k: v for k, v in page_cache.items() if v["day"] == day})
@@ -310,7 +313,8 @@ def collect(data_dir, budget, seed_only=False):
             stats.setdefault("company_sites", []).append({
                 "company": company["name"], "website": company["website"],
                 "careers": company["careers"],
-                "status": home["status"], "careers_status": careers["status"], "job_links_found": len(linked_jobs)})
+                "status": home["status"], "careers_status": careers["status"], "job_links_found": len(linked_jobs),
+                "reader": careers.get("reader", "static"), "browser_status": careers.get("browser_status")})
             LOG.info("Company source checked: %s; careers=%s; candidate links=%d", company["name"], careers["status"], len(linked_jobs))
 
         if seed_only:
