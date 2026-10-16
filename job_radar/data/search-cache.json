@@ -395,5 +395,42 @@
         "isNavigational": null
       }
     ]
+  },
+  "ffd33128e089b2ed5a27962a6aaba1bd8e1577ef21e5d6b73572dd36d15826d7": {
+    "day": "2026-10-16",
+    "results": [
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.4",
+        "name": "米哈游官方网站-原神社区-米游社",
+        "url": "https://bbs.mihoyo.com/ys/article/20122325",
+        "displayUrl": "https://bbs.mihoyo.com/ys/article/20122325",
+        "snippet": "https://www.mihoyo.com需要含“下载功能(游戏中心)”的米游社 的 同学们请往这边走[图片]",
+        "summary": "https://www.mihoyo.com需要含“下载功能(游戏中心)”的米游社 的 同学们请往这边走[图片]",
+        "siteName": "米游社",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://bbs.mihoyo.com/ys/article/20122325",
+        "datePublished": "2022-04-06T20:01:46+08:00",
+        "dateLastCrawled": "2022-04-06T20:01:46Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "name": "miHoYo社会招聘-miHoYo招聘官网",
+        "url": "https://jobs.mihoyo.com/%27",
+        "displayUrl": "https://jobs.mihoyo.com/'",
+        "snippet": "社招首页 社招职位 切换到校招 米哈游致力于为用户提供美好的、超出预期的产品与内容,并希望打造出全球十亿人愿意生活在其中的虚拟世界 关于米哈游 发展历程 荣誉资质 新闻动态 游戏新闻 公司资讯 加入我",
+        "summary": "社招首页 社招职位 切换到校招 米哈游致力于为用户提供美好的、超出预期的产品与内容,并希望打造出全球十亿人愿意生活在其中的虚拟世界 关于米哈游 发展历程 荣誉资质 新闻动态 游戏新闻 公司资讯 加入我们 社会招聘 校园招聘 关注招聘动态: ©miHoYo 2023 沪ICP备19018275号-4",
+        "siteName": "jobs.mihoyo.com",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://jobs.mihoyo.com/%27",
+        "datePublished": "2024-09-10T06:40:50+08:00",
+        "dateLastCrawled": "2024-09-10T06:40:50Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      }
+    ]
   }
 }
