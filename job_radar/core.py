@@ -230,6 +230,7 @@ def notify_pause(budget, data_dir):
     count = len(read(data_dir / "jobs.json", {}))
     text = (f"Unity 实习岗位雷达已暂停，等待你确认。\n原因：{paused['reason']}\n"
             f"已保存候选：{count} 条\n今日预留/已发起搜索：{day['search']} 次\n"
+            f"本周已发起/保守预留搜索：{week['search']} / {budget.config.get('max_search_weekly', 200)} 次\n"
             f"本周已用或保守预留模型 Token：{budget.tokens(week)} / {week['limit']}\n"
             "没有继续付费调用。请检查额度或预算，然后通过 Job Radar 工作流的 resume 模式恢复；"
             "恢复不会清空已用次数和 Token。QQ 发信失败时以 Actions 运行记录为准。")

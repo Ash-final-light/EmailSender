@@ -89,6 +89,7 @@ def render(report):
 {empty}{cards(report['jobs'], 'Unity 客户端实习')}{cards(report.get('engine_unspecified', []), '游戏客户端实习 · 引擎未披露')}{cards(report['leads'], '待核实线索')}{cards(report['changes'], '重要状态变化')}{official_section}
 <h2 style="font-size:20px">来源与用量</h2><p style="font-size:12px;color:#667d8c">本次检索 {source_stats.get('queries', 0)} 组关键词（新增搜索请求 {source_stats.get('new_search_requests', '未记录')} 次，其余复用当日缓存），发现 {source_stats.get('discovered', 0)} 条搜索结果（不是有效岗位数）。<br>
 页面检查：{esc(observed)}。登录/验证受限的详情不作为已核验岗位。<br>
+本周搜索已发起/保守预留 {report['usage'].get('search_weekly', '未记录')} / {report['usage'].get('search_weekly_limit', 200)} 次。<br>
 本周模型已用/保守预留 {report['usage']['tokens_used_or_reserved']} Token，软预算 {report['usage']['weekly_limit']}。达到预算后需用户确认恢复。</p>
 </td></tr><tr><td style="padding:18px 24px;background:#f5f8fa;font-size:12px;color:#667d8c">
 事实字段从所列资料摘录，缺失不补写；中文解释含 AI 归纳。首次发现不代表刚发布，页面可读不代表招聘方确认仍开放。请在原始页面核对条件。</td></tr>

@@ -140,7 +140,7 @@ def parse_html(payload, current, url=None):
     structured = json.dumps(postings, ensure_ascii=False)
     text = (text[:7500] + ("\nJobPosting: " + structured[:7500] if postings else "")).strip()
     blocked = ("security.html" in current or "passport" in current
-               or bool(re.search(r"请完成安全验证|访问验证|请先登录|验证码验证", text[:400])))
+               or bool(re.search(r"请完成安全验证|访问验证|请先登录|验证码验证|滑块验证|访问过于频繁|verify you are human|please verify", text[:500], re.I)))
     if blocked:
         return {"status": "restricted", "url": url, "text": ""}
     if len(text) < 80:
