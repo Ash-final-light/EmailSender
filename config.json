@@ -1,0 +1,164 @@
+{
+  "timezone": "Asia/Shanghai",
+  "days_back": 7,
+  "max_candidates": 80,
+  "max_items": 16,
+  "min_items": 10,
+  "max_items_per_source": 3,
+  "llm": {
+    "provider": "deepseek",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-flash"
+  },
+  "category_weights": {
+    "游戏开发技术": 0.5,
+    "互联网与 AI 工具": 0.35,
+    "游戏行业与发行": 0.15
+  },
+  "google_news_queries": [
+    {
+      "name": "Unity 技术检索",
+      "category": "游戏开发技术",
+      "query": "Unity engine rendering performance optimization",
+      "priority": 3
+    },
+    {
+      "name": "Unity 中文检索",
+      "category": "游戏开发技术",
+      "query": "Unity 引擎 渲染 性能 开发",
+      "locale": "zh-CN",
+      "region": "CN",
+      "edition": "CN:zh-Hans",
+      "priority": 3
+    },
+    {
+      "name": "游戏工程检索",
+      "category": "游戏开发技术",
+      "query": "game development netcode ECS optimization",
+      "priority": 2
+    },
+    {
+      "name": "其他引擎检索",
+      "category": "游戏开发技术",
+      "query": "Unreal Engine OR Godot engine release development",
+      "priority": 1
+    },
+    {
+      "name": "海外互联网检索",
+      "category": "互联网与 AI 工具",
+      "query": "technology platform cloud software industry product",
+      "priority": 2
+    },
+    {
+      "name": "国内互联网检索",
+      "category": "互联网与 AI 工具",
+      "query": "互联网 科技 产品 平台 云服务",
+      "locale": "zh-CN",
+      "region": "CN",
+      "edition": "CN:zh-Hans",
+      "priority": 2
+    },
+    {
+      "name": "AI 开发工具检索",
+      "category": "互联网与 AI 工具",
+      "query": "AI coding developer tools release",
+      "priority": 2
+    },
+    {
+      "name": "游戏行业检索",
+      "category": "游戏行业与发行",
+      "query": "video game industry studio developer publishing market",
+      "priority": 2
+    },
+    {
+      "name": "国内游戏行业检索",
+      "category": "游戏行业与发行",
+      "query": "游戏 行业 开发商 发行 Steam",
+      "locale": "zh-CN",
+      "region": "CN",
+      "edition": "CN:zh-Hans",
+      "priority": 2
+    },
+    {
+      "name": "Unity 官方发布检索",
+      "category": "游戏开发技术",
+      "query": "site:unity.com/blog Unity",
+      "priority": 4
+    },
+    {
+      "name": "36氪互联网检索",
+      "category": "互联网与 AI 工具",
+      "query": "site:36kr.com 科技 互联网 产品",
+      "locale": "zh-CN",
+      "region": "CN",
+      "edition": "CN:zh-Hans",
+      "priority": 2
+    },
+    {
+      "name": "Game Developer 开发检索",
+      "category": "游戏开发技术",
+      "query": "site:gamedeveloper.com programming development engine",
+      "priority": 2
+    }
+  ],
+  "feeds": [
+    {
+      "category": "互联网与 AI 工具",
+      "name": "Hacker News",
+      "url": "https://hnrss.org/frontpage",
+      "priority": 1
+    },
+    {
+      "category": "互联网与 AI 工具",
+      "name": "36氪",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "enabled": false,
+      "note": "Direct feed failed validation; use the publisher-specific news query below."
+    },
+    {
+      "category": "游戏开发技术",
+      "name": "Unity 官方博客",
+      "url": "https://unity.com/blog/rss.xml",
+      "priority": 4,
+      "enabled": false,
+      "note": "Direct feed failed validation; use the publisher-specific news query below."
+    },
+    {
+      "category": "游戏开发技术",
+      "name": "Godot 官方博客",
+      "url": "https://godotengine.org/rss.xml",
+      "priority": 2
+    },
+    {
+      "category": "游戏开发技术",
+      "name": "Game Developer",
+      "url": "https://www.gamedeveloper.com/rss.xml",
+      "priority": 2,
+      "enabled": false,
+      "note": "Direct feed failed validation; use the publisher-specific news query below."
+    },
+    {
+      "category": "游戏行业与发行",
+      "name": "The Game Business",
+      "url": "https://www.thegamebusiness.com/feed",
+      "priority": 2
+    },
+    {
+      "category": "游戏开发技术",
+      "name": ".NET 官方博客",
+      "url": "https://devblogs.microsoft.com/dotnet/feed/",
+      "priority": 2
+    }
+  ],
+  "github_repositories": [
+    "tuyoogame/YooAsset",
+    "focus-creative-games/hybridclr",
+    "hadashiA/VContainer",
+    "Cysharp/UniTask",
+    "needle-mirror/com.unity.netcode.gameobjects",
+    "Unity-Technologies/EntityComponentSystemSamples",
+    "Unity-Technologies/Graphics",
+    "godotengine/godot"
+  ]
+}

@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+_deploy/
+__pycache__/
+*.pyc
+report-preview.html
+artifacts/
+*.tmp

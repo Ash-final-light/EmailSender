@@ -1,0 +1,75 @@
+name: Game Tech Weekly
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Preview generates an artifact; send delivers to the configured recipient.'
+        required: true
+        default: preview
+        type: choice
+        options: [preview, send]
+  schedule:
+    # UTC 01:00 Monday = Asia/Shanghai 09:00 Monday.
+    - cron: '0 1 * * 1'
+permissions:
+  contents: write
+concurrency:
+  group: news-state
+  cancel-in-progress: false
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      LLM_MODEL: ${{ vars.LLM_MODEL }}
+      SMTP_USER: ${{ secrets.SMTP_USER }}
+      SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      MAIL_TO: ${{ secrets.MAIL_TO }}
+      SMTP_HOST: ${{ vars.SMTP_HOST }}
+      SMTP_PORT: ${{ vars.SMTP_PORT }}
+      SMTP_SECURITY: ${{ vars.SMTP_SECURITY }}
+      GITHUB_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Check sending configuration
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: python main.py --check-config
+      - name: Collect for preview
+        if: github.event_name != 'schedule' && inputs.mode != 'send'
+        run: python main.py --collect-only
+      - name: Generate preview
+        if: github.event_name != 'schedule' && inputs.mode != 'send'
+        run: python main.py --preview --offline --output artifacts/report-preview.html
+      - name: Prepare email
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: python main.py --prepare --output artifacts/report-preview.html
+      - name: Reserve delivery
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: python main.py --reserve-send
+      - name: Checkpoint before SMTP
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: bash scripts/persist-state.sh
+      - name: Deliver email
+        if: github.event_name == 'schedule' || inputs.mode == 'send'
+        run: python main.py --deliver
+      - name: Persist source and delivery state
+        if: always()
+        run: bash scripts/persist-state.sh
+      - name: Save report preview
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-preview
+          path: |
+            artifacts/report-preview.html
+            data/sources.json
+          if-no-files-found: warn
+          retention-days: 14
