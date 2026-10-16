@@ -666,7 +666,32 @@
         "https://lilithgames.jobs.feishu.cn/intern/",
         "https://lilithgames.jobs.feishu.cn/career/login"
       ],
-      "job_links": [],
+      "job_links": [
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7681525899707320619/detail",
+          "title": "U3D客户端开发实习生"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7667782728607811881/detail",
+          "title": "【27校储实习】U3D客户端开发实习生"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail",
+          "title": "【校招储备】客户端开发实习生（AFK Journey）"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail",
+          "title": "【校招储备】客户端开发实习生-cocos (AFK)"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail",
+          "title": "【校招储备】客户端开发实习生（塔塔冒险队）"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail",
+          "title": "【校招储备】客户端开发实习生（欧美写实SLG-VT）"
+        }
+      ],
       "reader": "browser",
       "rendered_at_url": "https://lilithgames.jobs.feishu.cn/career/?keywords=Unity&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
       "coverage": "当前公开页面；未承诺覆盖站内全部分页",
@@ -1347,6 +1372,10 @@
         "https://www.xd.com/?lang=zh"
       ],
       "job_links": [
+        {
+          "url": "https://hr.xd.cn/117745/position/7697090660449896713/detail",
+          "title": "TapTap 全栈开发实习生（上海） 上海 实习 互联网 / 电子 / 网游 - 研发 技术大类 TapTap 主站工程团队负责 TapTap 主站的研发与迭代——游戏库与详情页、评价与社区内容、搜索与榜单、账号与增长活动等核心链路，服务海量游戏玩家与开发者。\n我们想找的不是「来打杂的实习生」，而是愿意长期投入、真正想做出好产品的同学。你会完整参与功能从需求到上线的全过程，和我们一起把想法做成玩家每天在用的东西。\n\n1. 前后端全链路开发：参与主站核心功能的研发，从页面与交互实现、接口设计到数据落地，完整走通「需求 → 开发 → 上线 → 迭代」；\n2. 体验与性能优化：参与主站页面性能、稳定性与可观测性建设，让玩家打开更快、用得更爽；\n3. 工程效率建设：参与研发工具链、CI/CD、组件库等基础设施的持续改进；\n4. 与真实用户同行：与产品、设计、测试紧密协作，关注线上反馈，参与问题定位与修复。"
+        },
         {
           "url": "https://hr.xd.cn/117745/position/7697090660449896713/detail",
           "title": "TapTap 全栈开发实习生（上海） 上海 实习 互联网 / 电子 / 网游 - 研发 技术大类 TapTap 主站工程团队负责 TapTap 主站的研发与迭代——游戏库与详情页、评价与社区内容、搜索与榜单、账号与增长活动等核心链路，服务海量游戏玩家与开发者。\n我们想找的不是「来打杂的实习生」，而是愿意长期投入、真正想做出好产品的同学。你会完整参与功能从需求到上线的全过程，和我们一起把想法做成玩家每天在用的东西。\n\n1. 前后端全链路开发：参与主站核心功能的研发，从页面与交互实现、接口设计到数据落地，完整走通「需求 → 开发 → 上线 → 迭代」；\n2. 体验与性能优化：参与主站页面性能、稳定性与可观测性建设，让玩家打开更快、用得更爽；\n3. 工程效率建设：参与研发工具链、CI/CD、组件库等基础设施的持续改进；\n4. 与真实用户同行：与产品、设计、测试紧密协作，关注线上反馈，参与问题定位与修复。"
@@ -4767,6 +4796,255 @@
       "rendered_at_url": "https://eworldgroup.jobs.feishu.cn/index/position/7428051001892882698/detail",
       "coverage": "当前公开页面；未承诺覆盖站内全部分页",
       "links": [],
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "a5d5d59a5b897a78ae5ca054a5aac6a13777b32b40af70883ce9e9070d862da1": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/",
+      "text": "搜索 筛选 清除 招聘项目 校招储备实习 城市 上海 北京 职能分类 技术 艺术 产品 发行 战略 质量 项目管理 职能 开启新的工作（13） 【校招储备】关卡策划实习生（开放世界/SOC） 上海 实习 产品 - 游戏策划 1. 负责一部分关卡设计，包括原型、设计案、结构搭建、交互物设计和放置、机制和玩法设计等。\n2. 完成关卡的制作，跟进功能、资源，使用Unity和其他策划工具制作关卡所需数据和配置，进行关卡的调试上线。\n3. 参与和其他小组和部门如系统、战斗、世界观、美术、程序等跨部门沟通协调工作。 【校招储备】引擎开发实习生（大世界） 上海 实习 技术 - 引擎 1.负责Unity 多端项目的性能分析、问题定位与优化方案落地。 \n2.负责若干引擎/底层通用能力的开发与维护：资源管理、加载流程、运行时诊断、通用组件等方向。 \n3.完成渲染相关的优化与效果支持，在保证效果的同时提升运行效率与稳定性。 \n4.开发与迭代工具链/提效工具：性能与日志分析工具、资源规范检查工具、自动化流程脚本等。 \n5.跟进性能与资源规范的落地执行，推动与客户端、TA、美术的协作闭环。 TA实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升产品表现力。\n2. 根据项目及美术生产需求编写工具组件，优化生产管线。\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求。\n4. 分析游戏中的性能问题，测试并给出优化标准和方案。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升现有项目技术在产品中的实际表现；\n2. 根据项目及美术生产需求编写工具组件，优化生产管线；\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求；\n4. 协助团队开展AI模型训练、调试相关工作，参与模型技术实验与效果验证，完成模型适配、内容筛选及测试反馈。\n5. 对接各职能团队，沟通需求，反馈并协助解决AI技术美术方案在落地中的各类技术问题，梳理并完善功能及制作规范。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 工具与管线优化： 独立开发工具组件，优化美术生产管线，提高工作效率，确保生产流程的顺畅。\n2. 性能分析与优化： 分析游戏中的性能瓶颈，制定并实施优化方案，提升游戏的运行效率和用户体验。\n3. Shader 开发与维护： 根据项目需求，编写和维护高效的 Shader，实现复杂的视觉效果，提升产品的技术表现。 【校招储备】PCG算法工程师（开放世界/SOC） 上海 实习 艺术 - TA 1. 程序化生成逻辑与方案辅助实现：\n1.1 参与程序化生成算法的设计、实现与验证，探索基于空间关系、视觉目标或设计规则的内容生成方案。\n1.2 学习并使用主流PCG工具（如Houdini）或自研框架，协助构建生成管线，参与解决生成效率、可控性或输出质量等基础问题。\n1.3 协助进行生成结果的测试与调优，记录并分析不同参数对效果的影响。\n2. 生成内容的集成与工程辅助\n2.1 协助将生成内容及流程集成到目标引擎或平台（如Unity/Unreal/Web等），参与基本的运行时模块或编辑器工具的开发和调试。\n2.2 编写单元测试与简单的调试脚本，帮助验证生成结果的正确性与稳定性。\n3. 工具链与数据基础支持\n3.1 协助搭建和维护PCG相关的资产预处理、批量导出或结果校验等辅助工具，了解版本管理与批量生产流程。\n3.2 参与生成系统与数据源的对接工作，学习并实践数据输入/输出规范设计、格式转换及基础的数据一致性检查。\n3.3 协助建立简单的数据质量记录与反馈表格，为算法迭代提供基础数据支撑。\n4. 跨职能协作与文档整理\n4.1 与美术、设计、程序等团队成员沟通，理解项目需求，协助将技术方案落地。\n4.2 撰写清晰的技术文档，包括生成逻辑说明、接口使用指南及操作流程等。 技术策划实习生（都市生活模拟） 上海 实习 产品 - 游戏策划 1. 参与游戏日常研发，与策划、美术、程序沟通，收集并梳理工作中的效率问题和协作痛点。\n2. 协助将实际问题整理为清晰的工具需求、流程方案、使用场景及验收标准。\n3. 跟进工具或流程的开发、测试和使用，记录问题、收集反馈并推动后续优化。\n4. 编写和维护工具说明、流程规范及常见问题文档，协助同事快速上手。 系统策划实习生（Warline） 上海 实习 产品 - 游戏策划 1.协助导师完成游戏系统与玩法模块的资料整理、竞品研究、功能拆解和文档输出；\n2.协助维护项目内游戏前期系统设计资料，包括新手流程、D1-D7 留存/付费数据追踪、内测反馈汇总、和跨部门任务跟进；\n3.根据明确需求完成表格、文档、对比分析、测试记录等基础策划交付物，保证信息清晰、准确、可追溯；\n4.在导师指导下参与轻量系统或功能点的设计支持工作，包括资料准备、配置检查、测试验证和问题跟进；\n5.与策划、美术、程序、测试等团队成员协作，推动具体执行任务按时落地。 系统策划实习生（欧美现代SLG） 上海 实习 产品 - 游戏策划 1.协助完成游戏系统与玩法模块的资料整理、竞品研究、功能拆解和文档输出；\n2.协助梳理与维护模拟经营模块的开发文档与配置资料；\n3.跑测前期新手引导流程，整理成问题清单并跟进；\n4.根据明确需求完成表格、文档、对比分析、测试记录等基础策划交付物；\n5.参与轻量配置与功能点的支持工作，包括资料准备、配置检查、测试验证和开发跟进；\n6.与策划、美术、程序、测试等团队成员协作，推动具体执行任务按时落地。 【储备实习】创意编导实习生 上海 实习 艺术 - 分镜导演 1. 负责游戏产品宣发PV项目的全流程导演工作。\n2. 撰写PV的创意方案与分镜脚本；利用相关制作工具精准呈现创意，如动态分镜绘制。\n3. 跟进内外部制作人员或供应商产出优质内容；完成具备传播价值，宣扬产品亮点，符合项目表现品质的视频作品。 1 2",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7482981433197316379/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7678630224095578419/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7612923932329511214/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7680037868295145774/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7680038626201536810/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7672229515678959878/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7679707020065655078/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7559786807341877523/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7660738803171379507/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7663399789987907882/detail"
+      ],
+      "job_links": [
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7681525899707320619/detail",
+          "title": "U3D客户端开发实习生"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7667782728607811881/detail",
+          "title": "【27校储实习】U3D客户端开发实习生"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail",
+          "title": "【校招储备】客户端开发实习生（AFK Journey）"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail",
+          "title": "【校招储备】客户端开发实习生-cocos (AFK)"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail",
+          "title": "【校招储备】客户端开发实习生（塔塔冒险队）"
+        },
+        {
+          "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail",
+          "title": "【校招储备】客户端开发实习生（欧美写实SLG-VT）"
+        }
+      ],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/?keywords=Unity&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "777492bbd2ad28aa780818b9694444f95f91b46aab9f80b3a2057ca838c0f223": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7681525899707320619/detail",
+      "text": "U3D客户端开发实习生 上海 实习 技术 - 前端 职位描述 1. 负责游戏客户端程序开发。\n2. 根据策划需求实现游戏的系统，交互物，战斗等模块开发和迭代。\n3. 配合服务器完成通讯协议的制定。\n4. 开发以及维护项目中常用的通用组件，保持易用性，提升开发效率。\n5. 完成开发过程中需要的相关工具的开发和迭代。 职位要求 1. 计算机或者相关专业。\n2. 熟悉Lua语言，了解Lua面向对象的实现更佳。\n3. 熟悉c#或c++语言，理解面向对象相关编程思想，了解编程语言相关特性更佳。\n4. 有良好的数据结构和算法基础。\n5. 有强烈的求知欲，学习能力强，对游戏开发有强烈的热情。\n6. 有实际的游戏开发经验或者实习经历者加分。\n7. 英语CET4及以上水平，能够阅读英文技术文档。\n8. 每周出勤不少于4天。 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7681525899707320619/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "6c2613e1cac1745d29332715bb3311c5556f56f58eadd14a6f6a289c15e36c7e": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7667782728607811881/detail",
+      "text": "【27校储实习】U3D客户端开发实习生 上海 实习 技术 - 前端 职位描述 1. 负责游戏客户端程序开发。\n2. 根据策划需求实现游戏的系统，交互物，战斗等模块开发和迭代。\n3. 配合服务器完成通讯协议的制定。\n4. 开发以及维护项目中常用的通用组件，保持易用性，提升开发效率。\n5. 完成开发过程中需要的相关工具的开发和迭代。 职位要求 1. 计算机或者相关专业。\n2. 熟悉Lua语言，了解Lua面向对象的实现更佳。\n3. 熟悉c#或c++语言，理解面向对象相关编程思想，了解编程语言相关特性更佳。\n4. 有良好的数据结构和算法基础。\n5. 有强烈的求知欲，学习能力强，对游戏开发有强烈的热情。\n6. 有实际的游戏开发经验或者实习经历者加分。\n7. 英语CET4及以上水平，能够阅读英文技术文档。\n8. 每周出勤不少于4天\n\n*仅限预计27年内毕业的在校生投递，实习表现优秀者将有机会转正留用。 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7667782728607811881/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "07d2794176852d2b7c366b37b750339e67f43c831285683b9bd0c0705bed9c9e": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail",
+      "text": "【校招储备】客户端开发实习生（AFK Journey） 上海 实习 技术 - 前端 职位描述 1. 负责游戏客户端程序开发。\n2. 根据策划需求实现游戏的系统，交互物，战斗等模块开发和迭代。\n3. 配合服务器完成通讯协议的制定。\n4. 开发以及维护项目中常用的通用组件，保持易用性，提升开发效率。\n5. 完成开发过程中需要的相关工具的开发和迭代。 职位要求 1. 计算机或者相关专业。\n2. 熟悉Lua语言，了解Lua面向对象的实现更佳。\n3. 熟悉c#或c++语言，理解面向对象相关编程思想，了解编程语言相关特性更佳。\n4. 有良好的数据结构和算法基础。\n5. 有强烈的求知欲，学习能力强，对游戏开发有强烈的热情。\n6. 有实际的游戏开发经验或者实习经历者加分。\n7. 英语CET4及以上水平，能够阅读英文技术文档。\n8. 每周出勤不少于4天 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "96fd322543f991d657d2441ca61ed510728552650ac38962a90bf7cc3c5afb69": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail",
+      "text": "【校招储备】客户端开发实习生-cocos (AFK) 上海 实习 技术 - 前端 职位描述 1. 参与游戏内系统及功能的开发、测试与优化。\n2. 协助定位和修复游戏运行及线上反馈问题。\n3. 参与日常开发工具链的建设与维护，提升研发效率。 职位要求 1. 统招本科及以上学历，计算机、软件工程等相关专业的应届毕业生。\n2. 熟悉 Python，JavaScript，了解 C++ 及面向对象编程；了解 Cocos2d-x或其他游戏引擎者优先。\n3. 具备良好的数据结构与算法基础，掌握常用设计模式及基本的软件工程知识。\n4. 具备较强的学习能力和问题分析能力，有良好的编码习惯和团队协作意识。\n5. 热爱游戏，对游戏客户端开发有浓厚兴趣；责任心强，思维严谨，逻辑清晰，乐于沟通和分享。\n6. 熟悉 AI 编程工具，或有 AI 工具、自动化工作流实践经验者优先。 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "0e54dd0e8c49778d8af2e77920a0a0d23e8c50b9960c65c66f0cd35aedb6c0a6": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail",
+      "text": "【校招储备】客户端开发实习生（塔塔冒险队） 上海 实习 技术 - 前端 职位描述 1. 负责游戏客户端程序开发。\n2. 根据策划需求实现游戏的系统，交互物，战斗等模块开发和迭代。\n3. 配合服务器完成通讯协议的制定。\n4. 开发以及维护项目中常用的通用组件，保持易用性，提升开发效率。\n5. 完成开发过程中需要的相关工具的开发和迭代。 职位要求 1. 计算机或者相关专业。\n2. 熟悉Lua语言，了解Lua面向对象的实现更佳。\n3. 熟悉c#或c++语言，理解面向对象相关编程思想，了解编程语言相关特性更佳。\n4. 有良好的数据结构和算法基础。\n5. 有强烈的求知欲，学习能力强，对游戏开发有强烈的热情。\n6. 有实际的游戏开发经验或者实习经历者加分。\n7. 英语CET4及以上水平，能够阅读英文技术文档。\n8. 每周出勤不少于4天 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "df47f6c751f40036884d2c5dbe6d36dedf109954956c9b615829c3fedffb1cfc": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail",
+      "text": "【校招储备】客户端开发实习生（欧美写实SLG-VT） 上海 实习 技术 - 前端 职位描述 1. 负责游戏客户端程序开发。\n2. 根据策划需求实现游戏的系统，交互物，战斗等模块开发和迭代。\n3. 配合服务器完成通讯协议的制定。\n4. 开发以及维护项目中常用的通用组件，保持易用性，提升开发效率。\n5. 完成开发过程中需要的相关工具的开发和迭代。 职位要求 1. 计算机或者相关专业。\n2. 熟悉Lua语言，了解Lua面向对象的实现更佳。\n3. 熟悉c#或c++语言，理解面向对象相关编程思想，了解编程语言相关特性更佳。\n4. 有良好的数据结构和算法基础。\n5. 有强烈的求知欲，学习能力强，对游戏开发有强烈的热情。\n6. 有实际的游戏开发经验或者实习经历者加分。\n7. 英语CET4及以上水平，能够阅读英文技术文档。\n8. 每周出勤不少于4天 投递",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://lilithgames.jobs.feishu.cn/intern/",
+        "https://jobs.lilith.com/",
+        "https://lilithgames.jobs.feishu.cn/career/",
+        "https://lilithgames.jobs.feishu.cn/campus/",
+        "https://lilithgames.jobs.feishu.cn/intern/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "bf62437787ef9c64d1f874289c8a6413e6b5dc739c6c2132a7011278689d3b3d": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "readable",
+      "url": "https://boke.jobs.feishu.cn/581609/",
+      "text": "来波克，遇见BOKE思议！ 立即投递 招聘项目 应届生招聘 面向人群：2027届毕业生\n即：毕业时间在2026年9月1日-2027年8月31日之间的学生\n*中国大陆(内地)以毕业证时间为准，中国港澳台以及海外地区以学位证为准。 实习生招聘 面向人群：2028届及之后的毕业生，全年开放。 投递岗位 招聘流程 网申 8月18日起 在线笔试 8月底起 面试 即日起 录用意向书 即日起 Offer 发放 校招动态 波仔服揭秘 | 我们在找这样的队友！ 技术岗位怎么准备面试、美术岗位怎么准备作品集、校招生生活...一篇讲透! 查看详情 【直播预告】波克校招独家揭秘！| 附带9月进校行程一览 线上波仔游戏厅同步开服，在家也能解锁波克秋招全攻略！ 查看详情 Tech ∞ Talk 报名开启｜与我们一起探索技术的无限可能 Tech ∞ Talk 正在报名，和波克的技术团队一起聊聊游戏、AI与前沿技术的真实实践。 查看详情 波克2027届秋季校园招聘正式启动 | 寻找BOKE思议的你 行业竞争力薪酬、免费三餐、租房补贴、年度带薪旅游、多重员工福利～ 查看详情 波克2027届空中直播&校园宣讲会火热报名中！！！ 9月起，波克将陆续走进校园。你将有机会解锁:岗位专场解读、Boker成长分享、线下面试速通机会。 一键戳我报名 波克2027届秋季校园招聘Q&A（内含笔试安排） 这里有一份波克校招问答大合集，内容覆盖网申、内推、笔面试等环节，你关心的这里都有！ 查看详情 8小时，4支队伍，∞种可能 | 波克校招VibeJam游戏创作营路演纪实 当一群年轻人拿到一个\"∞\"的命题，8小时他们能做出什么？\n\n这个夏天，波克校招VibeJam给出了答案。 查看详情 来波克，遇见BOKE思议！波克首届BOKE DAY开放日 游戏+的跨界探索中，铺就彼此成就、价值共生的前行之路。15年热爱沉淀，玩者之心在波克不断延续。 查看详情 2026校招签约礼盒 | 来波克，遇见BOKE思议 遇见BOKE思议，从解锁这份礼盒开始，从校园到职场，从\"玩家\"到\"造梦者\"。 查看详情 波克生活 免费三餐 免费一日三餐+下午茶自由！ 住房补贴 人才公寓/就近租房补贴二选一！ 年度旅游 年度带薪旅游、组队探索新地图! 健康生活 三甲医院年度体检、补充商业保险、健身课程! 辅助落户 辅助上海落户，解决落户需求! BOKE校园招聘 ​ Copyright@2026 Boke ​ boke.hr@boke.com ​ 京公网安备 11010802029085 号 京ICP备16045432号 - 4 本站使用 搭建",
+      "heading": "",
+      "structured": false,
+      "links": [
+        "https://boke.jobs.feishu.cn/581609/",
+        "https://boke.jobs.feishu.cn/581609/position/list",
+        "https://www.boke.com/",
+        "https://boke.jobs.feishu.cn/index",
+        "https://boke.jobs.feishu.cn/581609/login",
+        "https://hire.feishu.cn/"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://boke.jobs.feishu.cn/581609/",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
+      "render_attempted": true,
+      "render_version": 3
+    }
+  },
+  "195683d3113e45a155f14c0aeeaa6936a36f95f547b7209f4bfbe11d70b8273d": {
+    "day": "2026-10-16",
+    "result": {
+      "status": "dynamic_or_empty",
+      "url": "https://kurogame.jobs.feishu.cn/campus/",
+      "text": "",
+      "heading": "",
+      "links": [
+        "https://kurogame.jobs.feishu.cn/campus/",
+        "https://kurogame.jobs.feishu.cn/campus/position/list",
+        "https://kurogame.jobs.feishu.cn/campus/login"
+      ],
+      "job_links": [],
+      "reader": "browser",
+      "rendered_at_url": "https://kurogame.jobs.feishu.cn/campus/position/list",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "dynamic_or_empty",
       "render_attempted": true,
       "render_version": 3
     }
