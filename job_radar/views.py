@@ -2,7 +2,6 @@
 import html
 import csv
 import io
-import re
 
 from .core import CONFIG, public_url
 
@@ -30,6 +29,14 @@ def company_label(row):
     return row["company_hint"] + "（依据官方招聘站）" if row.get("company_hint") else "未披露"
 
 
+def concerns_text(row):
+    text = (row.get("analysis") or {}).get("concerns") or "详情与当前招聘状态待核实。"
+    text = text.replace("公司名来自company_hint而非职位原文；", "")
+    if row["page_status"] == "readable":
+        text = text.replace("搜索摘要未核验岗位是否仍开放。", "详情可读，请投递前核对是否仍可申请。")
+    return text
+
+
 def cards(rows, title):
     if not rows:
         return ""
@@ -47,10 +54,7 @@ def cards(rows, title):
                  else "已关闭或截止" if row["classification"] == "closed" else "待核实线索")
         summary = a.get("summary") or "仅有搜索线索或受限页面，尚未提取可确认的岗位字段。"
         reasons = a.get("relevance") or "请在原始平台正常查看岗位，核对 Unity、客户端及实习条件。"
-        concerns = a.get("concerns") or "详情与当前招聘状态待核实。"
-        concerns = concerns.replace("公司名来自company_hint而非职位原文；", "")
-        if row["page_status"] == "readable":
-            concerns = concerns.replace("搜索摘要未核验岗位是否仍开放。", "详情可读，请投递前核对是否仍可申请。")
+        concerns = concerns_text(row)
         if row["classification"] == "engine_unspecified":
             reasons = "职责为游戏客户端开发，原文未披露引擎；是否使用 Unity 需向招聘方核对。"
         excerpt = '<p style="font-size:12px;color:#667d8c">原始资料节选：' + esc(row["text"][:650]) + '</p>' if not a else ''
@@ -123,7 +127,7 @@ def plain(report):
                       f"公司：{company_label(job)} | 城市：{a.get('city', '未披露')} | 薪资：{a.get('salary', '未披露')}",
                       "学历/届别："+a.get("education", "未披露")+" / "+a.get("graduation", "未披露"),
                       "出勤/时长："+a.get("days_per_week", "未披露")+" / "+a.get("duration", "未披露"),
-                      a.get("summary", "资料不足"), a.get("concerns", "条件待核实"),
+                      a.get("summary", "资料不足"), concerns_text(job),
                       job["url"], "公司官网：" + (a.get("company_website") or "待核实"),
                       "官方招聘：" + (a.get("company_careers") or "待核实")]
     if not any(report.get(group) for group in ("jobs", "engine_unspecified", "leads", "changes")):
