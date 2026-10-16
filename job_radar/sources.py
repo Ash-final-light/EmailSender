@@ -241,7 +241,7 @@ def collect(data_dir, budget, seed_only=False):
             result = fetch(url)
         if render and CONFIG.get("render_js") and result["status"] in ("dynamic_or_empty", "readable", "oversized") and not result.get("job_links"):
             if budget.reserve_detail():
-                rendered = browser.read(url)
+                rendered = browser.read(url, reserve_view=budget.reserve_detail)
                 result["browser_status"] = rendered["status"]
                 if rendered["status"] == "readable" or result["status"] != "readable":
                     result = {**rendered, "links": list(dict.fromkeys(result.get("links", []) + rendered.get("links", [])))}
