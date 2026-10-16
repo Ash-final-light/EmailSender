@@ -11,7 +11,26 @@
     "last_checked": "2026-10-16T13:10:18.673730+00:00",
     "raw_hash": "7c3401618a32f0cdf04f4ee9d074d3f1219c0d1528ba8a3cbccea54faff75728",
     "deadline": null,
-    "company_hint": null
+    "company_hint": null,
+    "analysis": {
+      "id": "6f503031a8cfeb6ff517c7f81162be845a84a8b82885f08a596d71378fb1d698",
+      "title": "Unity客户端开发实习生",
+      "company": "杭州以咏今朝信息科技",
+      "city": "杭州",
+      "salary": "200-400元/天",
+      "education": "本科",
+      "graduation": "未披露",
+      "days_per_week": "5天/周",
+      "duration": "6个月",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "辅助使用C#与xlua进行编程开发，辅助UI页面搭建及逻辑编写，并配合团队其他程序共同开发。要求熟悉Unity开发流程与C#编程，掌握常用数据结构与算法。",
+      "relevance": "岗位标题为Unity客户端开发实习生，职责涉及Unity环境下的C#/xlua编程与UI逻辑开发，属于Unity客户端实习方向。",
+      "concerns": "要求本科及以上、计算机或数学专业优先、英语四级、有Unity开发经验及项目展示优先；未披露到岗时间、截止日期与届别。",
+      "company_website": null,
+      "company_careers": null,
+      "website_evidence": "官网待核实"
+    }
   },
   "060bea754f5899e6e54681aa90e5a65e080fb9cf0e096b170dc8a634e67af3ae": {
     "id": "060bea754f5899e6e54681aa90e5a65e080fb9cf0e096b170dc8a634e67af3ae",
@@ -53,6 +72,25 @@
     "last_checked": "2026-10-16T13:10:18.673730+00:00",
     "raw_hash": "4b1074d9a35a54ae6b8ff3eb9ddaeab61dbc9024b6f8e583d02c68649c4544c0",
     "deadline": null,
-    "company_hint": null
+    "company_hint": null,
+    "analysis": {
+      "id": "f1f7950efb310cc470f45d95e182f5e753f22772cd64025fefafd1a697c077c9",
+      "title": "「Unity开发实习生招聘」_放置网络招聘-BOSS直聘",
+      "company": "放置网络",
+      "city": "广州",
+      "salary": "150-200元/天",
+      "education": "本科",
+      "graduation": "未披露",
+      "days_per_week": "5天/周",
+      "duration": "6个月",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "负责手游项目逻辑功能实现，负责与服务器相应逻辑协议的整合，并与策划、美术协同工作。",
+      "relevance": "标题为Unity开发实习生，职责涉及手游逻辑功能与协议整合，属于Unity客户端相关实习方向。",
+      "concerns": "要求熟练lua语言，但岗位描述未明确提及Unity引擎使用；未披露到岗时间、截止日期与届别；福利部分提到大小周休息。",
+      "company_website": null,
+      "company_careers": null,
+      "website_evidence": "官网待核实"
+    }
   }
 }
