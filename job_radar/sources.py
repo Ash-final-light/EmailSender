@@ -71,7 +71,7 @@ def known_company(name, config=CONFIG):
     name = normalized(name)
     if not name or name == "未披露":
         return None
-    return next((company for company in config["companies"]
+    return next((company for company in config["companies"] + config.get("company_directory", [])
                  if any(normalized(alias) in name for alias in company["aliases"])), None)
 
 
@@ -202,6 +202,7 @@ def collect(data_dir, budget, seed_only=False):
     day = now().astimezone(TZ).date().isoformat()
     stats = {"checked_at": stamp, "seed_only": seed_only, "queries": 0,
              "discovered": 0, "page_statuses": {}, "new_urls": 0}
+    search_before = budget.periods()[0]["search"]
 
     def page(url):
         key = digest(canonical(url))
@@ -263,6 +264,7 @@ def collect(data_dir, budget, seed_only=False):
                 add(link["url"], title=link["title"], hint=company, discovered_from="official_careers")
         stats.setdefault("company_sites", []).append({
             "company": company["name"], "website": company["website"],
+            "careers": company["careers"],
             "status": home["status"], "careers_status": careers["status"]})
 
     if seed_only:
@@ -281,6 +283,7 @@ def collect(data_dir, budget, seed_only=False):
     cutoff = (now() - timedelta(days=CONFIG["retention_days"])).isoformat()
     jobs = {key: value for key, value in jobs.items() if value["last_checked"] >= cutoff}
     write(data_dir / "jobs.json", jobs)
+    stats["new_search_requests"] = budget.periods()[0]["search"] - search_before
     write(data_dir / "sources.json", stats)
     budget.save()
     LOG.info("Job collection: %d candidates retained; %d queries; %d new URLs",

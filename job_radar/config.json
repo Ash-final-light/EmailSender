@@ -36,6 +36,10 @@
     {"name": "波克城市", "aliases": ["波克", "BOKE"], "website": "https://www.boke.com/", "careers": "https://boke.jobs.feishu.cn/"},
     {"name": "索尼（中国）", "aliases": ["索尼", "Sony"], "website": "https://www.sony.com.cn/", "careers": "https://www.sony.com.cn/careers/"}
   ],
+  "company_directory": [
+    {"name": "以咏今朝（杭州）信息科技有限责任公司", "aliases": ["杭州以咏今朝信息科技", "以咏今朝"], "website": "https://millervlogs.com/", "careers": null,
+     "evidence": "2026-10-16 人工核对：官网页尾主体与BOSS搜索资料中的工商名称对应；不是已核验招聘入口"}
+  ],
   "platforms": ["zhipin.com", "shixiseng.com", "nowcoder.com"],
   "validation_urls": [
     "https://www.zhipin.com/job_detail/37d86b9954a0a1c90nd43t-8EFRU.html",

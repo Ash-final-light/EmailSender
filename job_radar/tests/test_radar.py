@@ -203,6 +203,14 @@ class RadarTest(unittest.TestCase):
         self.assertNotIn('href="javascript:', content)
         self.assertIn("&lt;script&gt;", content)
 
+    def test_reviewed_directory_refreshes_cached_extraction(self):
+        candidate = job()
+        candidate["analysis"].update(company="杭州以咏今朝信息科技", company_website=None, company_careers=None)
+        report = curation.report({"a": candidate}, {}, {}, self.budget)
+        self.assertEqual(report["jobs"][0]["analysis"]["company_website"], "https://millervlogs.com/")
+        self.assertIsNone(report["jobs"][0]["analysis"]["company_careers"])
+        self.assertIn("人工核对", report["jobs"][0]["analysis"]["website_evidence"])
+
 
 if __name__ == "__main__":
     unittest.main()

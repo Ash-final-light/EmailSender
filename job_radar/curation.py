@@ -74,7 +74,7 @@ def apply_extraction(raw, candidates):
             company = known_company(candidate["company_hint"])
         facts["company_website"] = company["website"] if company else None
         facts["company_careers"] = company["careers"] if company else None
-        facts["website_evidence"] = "预设公司域名；本次访问情况见来源状态" if company else "官网待核实"
+        facts["website_evidence"] = company.get("evidence", "预设公司域名；本次访问情况见来源状态") if company else "官网待核实"
         results[row.id] = facts
     return results
 
@@ -107,6 +107,7 @@ def signature(job):
     analysis = job.get("analysis") or {}
     facts = {key: analysis.get(key) for key in FACT_FIELDS}
     facts.update(status=classify(job), deadline=job.get("deadline"))
+    facts.update(company_website=analysis.get("company_website"), company_careers=analysis.get("company_careers"))
     return digest(json.dumps(facts, ensure_ascii=False, sort_keys=True))
 
 
@@ -178,6 +179,14 @@ def curate(jobs, data_dir, budget):
 def report(jobs, history, stats, budget):
     candidates, leads, changes = [], [], []
     for job in sorted(jobs.values(), key=relevance_order, reverse=True):
+        # Refresh reviewed domain mappings even when extraction is cached; no extra model call.
+        analysis = job.get("analysis")
+        if analysis:
+            company = known_company(analysis.get("company")) or known_company(job.get("company_hint"))
+            if company:
+                job = {**job, "analysis": {**analysis, "company_website": company["website"],
+                       "company_careers": company["careers"],
+                       "website_evidence": company.get("evidence", "预设公司域名；本次访问情况见来源状态")}}
         kind = classify(job)
         previous = history.get(job["id"])
         version = signature(job)
