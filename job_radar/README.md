@@ -2,6 +2,8 @@
 
 EmailSender 仓库中的独立子项目：全国检索 Unity 客户端实习岗位，每周两封中文邮件。复用现有 DeepSeek 与 QQ SMTP Secrets；候选、去重历史、额度和发送状态全部保存在 `job_radar/data/`，与技术周报独立。
 
+真实搜索、模型与首封 QQ SMTP 发信均已通过，详细记录见 [DEPLOYMENT.md](DEPLOYMENT.md)。定时开关等待用户检查样报后开启。
+
 ## 运行范围
 
 - 博查 Web Search：BOSS直聘、实习僧、牛客，以及公司官方招聘站的 12 组查询。搜索结果只是线索。
