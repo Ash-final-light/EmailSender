@@ -1,58 +1,60 @@
 {
-  "checked_at": "2026-10-16T13:10:18.673730+00:00",
+  "checked_at": "2026-10-16T13:17:24.039181+00:00",
   "seed_only": false,
   "queries": 12,
   "discovered": 26,
-  "page_statuses": {
-    "dynamic_or_empty": 7,
-    "network_error": 1,
-    "readable": 7,
-    "oversized": 1,
-    "restricted": 2
-  },
-  "new_urls": 4,
+  "page_statuses": {},
+  "new_urls": 0,
   "company_sites": [
     {
       "company": "米哈游",
       "website": "https://www.mihoyo.com/",
+      "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
       "careers_status": "network_error"
     },
     {
       "company": "叠纸",
       "website": "https://www.papegames.com/",
+      "careers": "https://career.papegames.com/",
       "status": "readable",
       "careers_status": "dynamic_or_empty"
     },
     {
       "company": "腾讯",
       "website": "https://www.tencent.com/",
+      "careers": "https://join.qq.com/",
       "status": "readable",
       "careers_status": "dynamic_or_empty"
     },
     {
       "company": "网易游戏",
       "website": "https://game.163.com/",
+      "careers": "https://game.campus.163.com/",
       "status": "readable",
       "careers_status": "dynamic_or_empty"
     },
     {
       "company": "莉莉丝",
       "website": "https://www.lilith.com/",
+      "careers": "https://lilithgames.jobs.feishu.cn/",
       "status": "oversized",
       "careers_status": "dynamic_or_empty"
     },
     {
       "company": "波克城市",
       "website": "https://www.boke.com/",
+      "careers": "https://boke.jobs.feishu.cn/",
       "status": "readable",
       "careers_status": "dynamic_or_empty"
     },
     {
       "company": "索尼（中国）",
       "website": "https://www.sony.com.cn/",
+      "careers": "https://www.sony.com.cn/careers/",
       "status": "readable",
       "careers_status": "dynamic_or_empty"
     }
-  ]
+  ],
+  "new_search_requests": 0
 }
