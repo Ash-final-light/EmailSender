@@ -143,7 +143,8 @@
   },
   "remaining_unprocessed": 0,
   "visible_total": 0,
-  "status": "attempting",
+  "status": "sent",
   "message_id": "<179215664404.2370.13814249573286585612@qq.com>",
-  "reserved_at": "2026-10-16T13:17:24.047812+00:00"
+  "reserved_at": "2026-10-16T13:17:24.047812+00:00",
+  "sent_at": "2026-10-16T13:17:29.317366+00:00"
 }
