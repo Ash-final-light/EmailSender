@@ -3,6 +3,7 @@
 No logins, form submissions, stealth plugins, CAPTCHA handling, or private API calls.
 """
 from .core import public_url
+from bs4 import BeautifulSoup
 
 
 class BrowserReader:
@@ -49,6 +50,13 @@ class BrowserReader:
             except Error:
                 pass
             content = page.content()
+            # Generated CSS and embedded runtime scripts can be megabytes while the
+            # visible listing is small. Apply the content cap after removing them.
+            soup = BeautifulSoup(content, "html.parser")
+            for tag in soup.find_all(["style", "script"]):
+                if tag.get("type") != "application/ld+json":
+                    tag.decompose()
+            content = str(soup)
             if len(content.encode("utf-8")) > 2000000:
                 return {"status": "oversized", "url": url, "text": ""}
             result = parse_html(content, page.url, url)

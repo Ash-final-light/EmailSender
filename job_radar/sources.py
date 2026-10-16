@@ -233,13 +233,13 @@ def collect(data_dir, budget, seed_only=False):
         cached = page_cache.get(key, {})
         if cached.get("day") == day:
             result = cached["result"]
-            if not render or result.get("render_attempted"):
+            if not render or result.get("render_attempted") and result["status"] != "oversized":
                 return result
         else:
             if not budget.reserve_detail():
                 return {"status": "daily_check_limit", "url": url, "text": ""}
             result = fetch(url)
-        if render and CONFIG.get("render_js") and result["status"] in ("dynamic_or_empty", "readable") and not result.get("job_links"):
+        if render and CONFIG.get("render_js") and result["status"] in ("dynamic_or_empty", "readable", "oversized") and not result.get("job_links"):
             if budget.reserve_detail():
                 rendered = browser.read(url)
                 result["browser_status"] = rendered["status"]
