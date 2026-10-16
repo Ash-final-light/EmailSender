@@ -75,7 +75,7 @@ def canonical(url):
                  "pcm", "pagesource", "logid", "share_token", "recommendationcode",
                  "isrecommendation", "sharepageid", "oc", "ref", "source")]
     # SPA job IDs in the hash are meaningful, unlike generic tracking anchors.
-    fragment = p.fragment if re.search(r"(position|job)/[\w-]+", p.fragment) else ""
+    fragment = p.fragment if re.search(r"(position|job)/[\w-]+|jobId=[\w-]+", p.fragment) else ""
     return urlunsplit((p.scheme, p.netloc.lower(), p.path.rstrip("/") or "/",
                        urlencode(query), fragment))
 
@@ -106,6 +106,9 @@ class Budget:
         week = f"{iso.year}-W{iso.week:02d}"
         self.value["days"].setdefault(day, {"search": 0, "details": 0})
         self.value["weeks"].setdefault(week, {"charges": [], "limit": self.config["weekly_token_soft_limit"]})
+        if "search" not in self.value["weeks"][week]:
+            self.value["weeks"][week]["search"] = sum(v["search"] for k, v in self.value["days"].items()
+                if datetime.fromisoformat(k).date().isocalendar()[:2] == iso[:2])
         # Keep a bounded accounting history, without clearing pending approval.
         self.value["days"] = dict(sorted(self.value["days"].items())[-190:])
         self.value["weeks"] = dict(sorted(self.value["weeks"].items())[-30:])
@@ -133,10 +136,13 @@ class Budget:
 
     def reserve_search(self):
         self.gate()
-        day, _ = self.periods()
+        day, week = self.periods()
         if day["search"] >= self.config["max_search_daily"]:
-            self.pause("已达到每天 12 次搜索请求上限，需要确认后继续；不会自动清空已用次数。")
+            self.pause(f"已达到每天 {self.config['max_search_daily']} 次搜索上限，需要确认后继续。")
+        if week["search"] >= self.config.get("max_search_weekly", 200):
+            self.pause(f"已达到每周 {self.config.get('max_search_weekly', 200)} 次搜索上限，需要确认后继续。")
         day["search"] += 1
+        week["search"] += 1
         self.save(durable=True)
 
     def reserve_detail(self):
@@ -187,7 +193,7 @@ def mail_settings():
         raise RuntimeError("Missing mail settings: " + ", ".join(missing))
 
 
-def send(subject, body, text, message_id=None):
+def send(subject, body, text, message_id=None, attachments=()):
     mail_settings()
     message = EmailMessage()
     message["Subject"] = subject
@@ -198,6 +204,8 @@ def send(subject, body, text, message_id=None):
     message["Message-ID"] = message_id or make_msgid(domain="qq.com")
     message.set_content(text, charset="utf-8")
     message.add_alternative(body, subtype="html", charset="utf-8")
+    for filename, subtype, content in attachments:
+        message.add_attachment(content, maintype="text", subtype=subtype, filename=filename)
     security = os.getenv("SMTP_SECURITY") or "ssl"
     host = os.getenv("SMTP_HOST") or "smtp.qq.com"
     if security not in ("ssl", "starttls"):

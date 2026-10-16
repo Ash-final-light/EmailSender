@@ -26,6 +26,7 @@ def build(data_dir, budget, output):
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(views.render(report), encoding="utf-8", newline="\n")
     write(output.with_suffix(".json"), report)
+    output.with_suffix(".csv").write_bytes(views.csv_content(report))
     LOG.info("Job preview: %d matched, %d leads, %d status changes",
              len(report["jobs"]), len(report["leads"]), len(report["changes"]))
     return report
@@ -54,8 +55,8 @@ def reserve(data_dir):
 def confirm(data_dir, report):
     values = history(data_dir)
     sent_at = now().isoformat()
-    for group in ("jobs", "leads", "changes"):
-        for row in report[group]:
+    for group in ("jobs", "engine_unspecified", "leads", "changes"):
+        for row in report.get(group, []):
             for key in [row["id"]] + row.get("merged_ids", []):
                 values[key] = {"signature": row["signature"], "sent_at": sent_at}
     write(data_dir / "history.json", values)
@@ -69,7 +70,9 @@ def deliver(data_dir):
         raise RuntimeError("Job email must be reserved and checkpointed first")
     try:
         send(f"【Unity实习雷达】全国客户端岗位｜{report['date']}", views.render(report),
-             views.plain(report), report["message_id"])
+             views.plain(report), report["message_id"], attachments=[
+                 (f"Unity实习岗位清单-{report['date']}.html", "html", views.render(report).encode("utf-8")),
+                 (f"Unity实习岗位清单-{report['date']}.csv", "csv", views.csv_content(report))])
     except Exception:
         report.update(status="uncertain", updated_at=now().isoformat())
         write(data_dir / "outbox.json", report)

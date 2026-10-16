@@ -3,47 +3,578 @@
   "role": "全国 Unity 客户端开发实习",
   "search_endpoint": "https://api.bochaai.com/v1/web-search",
   "model": "deepseek-flash",
-  "max_search_daily": 12,
-  "max_details_daily": 40,
+  "max_search_daily": 40,
+  "max_details_daily": 200,
   "max_model_calls": 2,
   "max_output_tokens": 5000,
   "weekly_token_soft_limit": 50000,
   "max_input_chars": 14000,
-  "max_jobs": 15,
-  "max_leads": 5,
   "retention_days": 90,
   "history_days": 180,
   "queries": [
-    {"query": "Unity 客户端 实习生 site:zhipin.com", "domain": "zhipin.com"},
-    {"query": "U3D 游戏开发 实习 site:zhipin.com", "domain": "zhipin.com"},
-    {"query": "Unity 客户端 实习 site:shixiseng.com", "domain": "shixiseng.com"},
-    {"query": "Unity 游戏开发 实习 site:nowcoder.com", "domain": "nowcoder.com"},
-    {"query": "Unity 客户端 实习生 校园招聘", "domain": null},
-    {"query": "Unity 游戏开发 实习生 官网 招聘", "domain": null},
-    {"query": "游戏客户端 实习 Unity 米哈游 site:mihoyo.com", "domain": "mihoyo.com"},
-    {"query": "Unity 客户端 实习 site:career.papegames.com", "domain": "career.papegames.com"},
-    {"query": "游戏客户端 实习 site:join.qq.com", "domain": "join.qq.com"},
-    {"query": "Unity 客户端 实习 site:163.com", "domain": "163.com"},
-    {"query": "Unity 客户端 实习 site:lilithgames.jobs.feishu.cn", "domain": "lilithgames.jobs.feishu.cn"},
-    {"query": "Unity 客户端 实习 site:boke.jobs.feishu.cn", "domain": "boke.jobs.feishu.cn"}
+    {
+      "query": "Unity 客户端 实习生 site:zhipin.com",
+      "domain": "zhipin.com"
+    },
+    {
+      "query": "U3D 游戏开发 实习 site:zhipin.com",
+      "domain": "zhipin.com"
+    },
+    {
+      "query": "Unity 客户端 实习 site:shixiseng.com",
+      "domain": "shixiseng.com"
+    },
+    {
+      "query": "Unity 游戏开发 实习 site:nowcoder.com",
+      "domain": "nowcoder.com"
+    },
+    {
+      "query": "Unity 客户端 实习生 校园招聘",
+      "domain": null
+    },
+    {
+      "query": "Unity 游戏开发 实习生 官网 招聘",
+      "domain": null
+    },
+    {
+      "query": "游戏客户端 实习 Unity 米哈游 site:mihoyo.com",
+      "domain": "mihoyo.com"
+    },
+    {
+      "query": "Unity 客户端 实习 site:career.papegames.com",
+      "domain": "career.papegames.com"
+    },
+    {
+      "query": "游戏客户端 实习 site:join.qq.com",
+      "domain": "join.qq.com"
+    },
+    {
+      "query": "Unity 客户端 实习 site:163.com",
+      "domain": "163.com"
+    },
+    {
+      "query": "Unity 客户端 实习 site:lilithgames.jobs.feishu.cn",
+      "domain": "lilithgames.jobs.feishu.cn"
+    },
+    {
+      "query": "Unity 客户端 实习 site:boke.jobs.feishu.cn",
+      "domain": "boke.jobs.feishu.cn"
+    },
+    {
+      "query": "鹰角网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "鹰角网络"
+    },
+    {
+      "query": "心动 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "心动"
+    },
+    {
+      "query": "库洛游戏 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "库洛游戏"
+    },
+    {
+      "query": "散爆网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "散爆网络"
+    },
+    {
+      "query": "悠星网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "悠星网络"
+    },
+    {
+      "query": "祖龙娱乐 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "祖龙娱乐"
+    },
+    {
+      "query": "西山居 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "西山居"
+    },
+    {
+      "query": "完美世界 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "完美世界"
+    },
+    {
+      "query": "吉比特/雷霆 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "吉比特/雷霆"
+    },
+    {
+      "query": "三七互娱 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "三七互娱"
+    },
+    {
+      "query": "多益网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "多益网络"
+    },
+    {
+      "query": "巨人网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "巨人网络"
+    },
+    {
+      "query": "恺英网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "恺英网络"
+    },
+    {
+      "query": "游族网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "游族网络"
+    },
+    {
+      "query": "盛趣游戏 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "盛趣游戏"
+    },
+    {
+      "query": "畅游 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "畅游"
+    },
+    {
+      "query": "4399 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "4399"
+    },
+    {
+      "query": "冰川网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "冰川网络"
+    },
+    {
+      "query": "途游游戏 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "途游游戏"
+    },
+    {
+      "query": "乐元素 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "乐元素"
+    },
+    {
+      "query": "创梦天地 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "创梦天地"
+    },
+    {
+      "query": "诗悦网络 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "诗悦网络"
+    },
+    {
+      "query": "益世界 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "益世界"
+    },
+    {
+      "query": "柠檬微趣 游戏客户端 实习 招聘",
+      "domain": null,
+      "company": "柠檬微趣"
+    },
+    {
+      "query": "游戏客户端 实习 site:liepin.com",
+      "domain": "liepin.com"
+    },
+    {
+      "query": "游戏客户端 实习 site:zhaopin.com",
+      "domain": "zhaopin.com"
+    },
+    {
+      "query": "游戏客户端 实习 site:51job.com",
+      "domain": "51job.com"
+    },
+    {
+      "query": "游戏客户端 实习 招聘 内推 site:nowcoder.com",
+      "domain": "nowcoder.com"
+    }
   ],
   "companies": [
-    {"name": "米哈游", "aliases": ["米哈游", "miHoYo"], "website": "https://www.mihoyo.com/", "careers": "https://join.mihoyo.com/"},
-    {"name": "叠纸", "aliases": ["叠纸", "Papergames"], "website": "https://www.papegames.com/", "careers": "https://career.papegames.com/"},
-    {"name": "腾讯", "aliases": ["腾讯", "Tencent"], "website": "https://www.tencent.com/", "careers": "https://join.qq.com/"},
-    {"name": "网易游戏", "aliases": ["网易", "NetEase"], "website": "https://game.163.com/", "careers": "https://game.campus.163.com/"},
-    {"name": "莉莉丝", "aliases": ["莉莉丝", "Lilith"], "website": "https://www.lilith.com/", "careers": "https://lilithgames.jobs.feishu.cn/"},
-    {"name": "波克城市", "aliases": ["波克", "BOKE"], "website": "https://www.boke.com/", "careers": "https://boke.jobs.feishu.cn/"},
-    {"name": "索尼（中国）", "aliases": ["索尼", "Sony"], "website": "https://www.sony.com.cn/", "careers": "https://www.sony.com.cn/careers/"}
+    {
+      "name": "米哈游",
+      "aliases": [
+        "米哈游",
+        "miHoYo"
+      ],
+      "website": "https://www.mihoyo.com/",
+      "careers": "https://join.mihoyo.com/",
+      "entries": []
+    },
+    {
+      "name": "叠纸",
+      "aliases": [
+        "叠纸",
+        "Papergames"
+      ],
+      "website": "https://www.papegames.com/",
+      "careers": "https://career.papegames.com/",
+      "entries": []
+    },
+    {
+      "name": "腾讯",
+      "aliases": [
+        "腾讯",
+        "Tencent"
+      ],
+      "website": "https://www.tencent.com/",
+      "careers": "https://join.qq.com/",
+      "entries": []
+    },
+    {
+      "name": "网易游戏",
+      "aliases": [
+        "网易",
+        "NetEase"
+      ],
+      "website": "https://game.163.com/",
+      "careers": "https://game.campus.163.com/",
+      "entries": []
+    },
+    {
+      "name": "莉莉丝",
+      "aliases": [
+        "莉莉丝",
+        "Lilith"
+      ],
+      "website": "https://www.lilith.com/",
+      "careers": "https://lilithgames.jobs.feishu.cn/",
+      "entries": []
+    },
+    {
+      "name": "波克城市",
+      "aliases": [
+        "波克",
+        "BOKE"
+      ],
+      "website": "https://www.boke.com/",
+      "careers": "https://boke.jobs.feishu.cn/",
+      "entries": []
+    },
+    {
+      "name": "鹰角网络",
+      "aliases": [
+        "鹰角",
+        "Hypergryph"
+      ],
+      "website": "https://www.hypergryph.com/",
+      "careers": "https://career.hypergryph.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": [
+        "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/"
+      ]
+    },
+    {
+      "name": "心动",
+      "aliases": [
+        "心动",
+        "XD"
+      ],
+      "website": "https://www.xd.com/",
+      "careers": "https://api.xd.com/hr/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": [
+        "https://hr.xd.cn/campus#/"
+      ]
+    },
+    {
+      "name": "库洛游戏",
+      "aliases": [
+        "库洛",
+        "Kuro"
+      ],
+      "website": "https://www.kurogames.com/",
+      "careers": "https://kurogame.jobs.feishu.cn/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "散爆网络",
+      "aliases": [
+        "散爆",
+        "Sunborn"
+      ],
+      "website": "https://sunborngame.com/",
+      "careers": "https://sunborngame.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "悠星网络",
+      "aliases": [
+        "悠星",
+        "Yostar"
+      ],
+      "website": "https://www.yostar.net/",
+      "careers": "https://www.yostar.net/recruit.html",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "祖龙娱乐",
+      "aliases": [
+        "祖龙",
+        "Archosaur"
+      ],
+      "website": "https://zulong.com/",
+      "careers": "https://campus.zulong.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "西山居",
+      "aliases": [
+        "西山居",
+        "Seasun"
+      ],
+      "website": "https://www.seasungames.cn/",
+      "careers": "https://job.seasungames.cn/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "完美世界",
+      "aliases": [
+        "完美世界",
+        "Perfect World"
+      ],
+      "website": "https://www.wanmei.com/",
+      "careers": "https://jobs.games.wanmei.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "吉比特/雷霆",
+      "aliases": [
+        "吉比特",
+        "雷霆",
+        "G-bits"
+      ],
+      "website": "https://www.g-bits.com/",
+      "careers": "https://www.g-bits.com/zh/join.html",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "三七互娱",
+      "aliases": [
+        "三七互娱",
+        "三七",
+        "37互娱"
+      ],
+      "website": "https://www.37wan.net/",
+      "careers": "https://zhaopin.37.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "多益网络",
+      "aliases": [
+        "多益",
+        "Duoyi"
+      ],
+      "website": "https://www.duoyi.com/",
+      "careers": "https://xz.duoyi.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "巨人网络",
+      "aliases": [
+        "巨人网络",
+        "巨人"
+      ],
+      "website": "https://www.ztgame.com/",
+      "careers": "https://hr.ztgame.com/campus/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": [
+        "https://app.mokahr.com/campus-recruitment/ztgame/92438#/jobs?page=1&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0"
+      ]
+    },
+    {
+      "name": "恺英网络",
+      "aliases": [
+        "恺英",
+        "Kingnet"
+      ],
+      "website": "https://www.kingnet.com/",
+      "careers": "https://app.mokahr.com/campus_apply/kingnet/2246",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "游族网络",
+      "aliases": [
+        "游族",
+        "Yoozoo"
+      ],
+      "website": "https://www.yoozoo.com/",
+      "careers": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "盛趣游戏",
+      "aliases": [
+        "盛趣",
+        "盛大游戏"
+      ],
+      "website": "https://www.shengqugames.com/",
+      "careers": "https://app.mokahr.com/campus_apply/shengqu/4078",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "畅游",
+      "aliases": [
+        "畅游",
+        "Changyou"
+      ],
+      "website": "https://www.changyou.com/",
+      "careers": "https://campus.changyou.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "4399",
+      "aliases": [
+        "四三九九",
+        "4399"
+      ],
+      "website": "https://u.4399.com/hr/index",
+      "careers": "https://hr.4399om.com/campus/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": [
+        "https://u.4399.com/hr/xiaozhao",
+        "https://web.4399.com/campus/"
+      ]
+    },
+    {
+      "name": "冰川网络",
+      "aliases": [
+        "冰川网络",
+        "冰川"
+      ],
+      "website": "https://www.q1.com/",
+      "careers": "https://bingchuan1.zhiye.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": [
+        "https://zhaopin.q1.com/"
+      ]
+    },
+    {
+      "name": "途游游戏",
+      "aliases": [
+        "途游",
+        "Tuyoo"
+      ],
+      "website": "https://www.tuyoo.com/",
+      "careers": "https://www.tuyoo.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "乐元素",
+      "aliases": [
+        "乐元素",
+        "Happy Elements"
+      ],
+      "website": "https://leyuansu.com/",
+      "careers": "https://join.leyuansu.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "创梦天地",
+      "aliases": [
+        "创梦天地",
+        "乐逗",
+        "iDreamSky"
+      ],
+      "website": "https://www.idreamsky.com/",
+      "careers": "https://idreamsky.jobs.feishu.cn/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "诗悦网络",
+      "aliases": [
+        "诗悦"
+      ],
+      "website": "https://www.shiyue.com/",
+      "careers": "https://campus.shiyue.com/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "益世界",
+      "aliases": [
+        "益世界",
+        "Eworld"
+      ],
+      "website": "https://www.eworld.cn/",
+      "careers": "https://eworldgroup.jobs.feishu.cn/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    },
+    {
+      "name": "柠檬微趣",
+      "aliases": [
+        "柠檬微趣",
+        "Microfun"
+      ],
+      "website": "https://www.microfun.cn/",
+      "careers": "https://www.microfun.cn/",
+      "evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态",
+      "entries": []
+    }
   ],
   "company_directory": [
-    {"name": "以咏今朝（杭州）信息科技有限责任公司", "aliases": ["杭州以咏今朝信息科技", "以咏今朝"], "website": "https://millervlogs.com/", "careers": null,
-     "evidence": "2026-10-16 人工核对：官网页尾主体与BOSS搜索资料中的工商名称对应；不是已核验招聘入口"}
+    {
+      "name": "以咏今朝（杭州）信息科技有限责任公司",
+      "aliases": [
+        "杭州以咏今朝信息科技",
+        "以咏今朝"
+      ],
+      "website": "https://millervlogs.com/",
+      "careers": null,
+      "evidence": "2026-10-16 人工核对：官网页尾主体与BOSS搜索资料中的工商名称对应；不是已核验招聘入口"
+    },
+    {
+      "name": "索尼（中国）",
+      "aliases": [
+        "索尼",
+        "Sony"
+      ],
+      "website": "https://www.sony.com.cn/",
+      "careers": "https://www.sony.com.cn/careers/"
+    }
   ],
-  "platforms": ["zhipin.com", "shixiseng.com", "nowcoder.com"],
+  "platforms": [
+    "zhipin.com",
+    "shixiseng.com",
+    "nowcoder.com",
+    "liepin.com",
+    "zhaopin.com",
+    "51job.com"
+  ],
   "validation_urls": [
     "https://www.zhipin.com/job_detail/37d86b9954a0a1c90nd43t-8EFRU.html",
     "https://www.shixiseng.com/intern/inn_056cji6xw3ih",
     "https://www.shixiseng.com/intern/inn_dcbppevabzic"
+  ],
+  "max_search_weekly": 200,
+  "search_queries_quiet_day": 24,
+  "render_js": true,
+  "public_post_domains": [
+    "nowcoder.com",
+    "mp.weixin.qq.com"
   ]
 }

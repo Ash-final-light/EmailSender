@@ -89,9 +89,9 @@ def classify(job):
     analysis = job.get("analysis")
     if not analysis:
         return "lead"
-    if kind != "match" or analysis["title"] == "未披露":
+    if kind not in ("match", "engine_unspecified") or analysis["title"] == "未披露":
         return "lead"
-    if role_kind(analysis["title"], job["text"]) != "match":
+    if role_kind(analysis["title"], job["text"]) not in ("match", "engine_unspecified"):
         return "lead"
     if re.search(r"(?:[3-9]|[1-9]\d)\s*年(?:以上)?(?:的)?(?:开发|工作|项目)?经验", job["text"]):
         return "lead"
@@ -100,7 +100,7 @@ def classify(job):
     checked = datetime.fromisoformat(job["last_checked"])
     if now() - checked > timedelta(days=3):
         return "lead"
-    return "verified_detail"
+    return "engine_unspecified" if kind == "engine_unspecified" else "verified_detail"
 
 
 def signature(job):
@@ -177,7 +177,7 @@ def curate(jobs, data_dir, budget):
 
 
 def report(jobs, history, stats, budget):
-    candidates, leads, changes = [], [], []
+    candidates, unspecified, leads, changes = [], [], [], []
     for job in sorted(jobs.values(), key=relevance_order, reverse=True):
         # Refresh reviewed domain mappings even when extraction is cached; no extra model call.
         analysis = job.get("analysis")
@@ -190,15 +190,15 @@ def report(jobs, history, stats, budget):
         kind = classify(job)
         previous = history.get(job["id"])
         version = signature(job)
-        if previous and previous["signature"] == version:
-            continue
         row = {**job, "classification": kind, "signature": version,
-               "change": "信息变化" if previous else "首次提醒"}
+               "change": "本期在列" if previous and previous["signature"] == version else "信息变化" if previous else "首次发现"}
         if kind == "verified_detail":
             candidates.append(row)
+        elif kind == "engine_unspecified":
+            unspecified.append(row)
         elif kind == "lead":
             leads.append(row)
-        elif kind == "closed" and previous:
+        elif kind == "closed" and previous and previous["signature"] != version:
             changes.append(row)
     # Only merge nearly identical descriptions with the same known identity and city.
     unique = []
@@ -215,9 +215,10 @@ def report(jobs, history, stats, budget):
             unique.append(row)
     _, week = budget.periods()
     date = now().astimezone(TZ).date().isoformat()
-    return {"created_at": now().isoformat(), "date": date, "jobs": unique[:CONFIG["max_jobs"]],
-            "leads": leads[:CONFIG["max_leads"]], "changes": changes[:10], "sources": stats,
-            "usage": {"tokens_used_or_reserved": budget.tokens(week), "weekly_limit": week["limit"]},
+    return {"created_at": now().isoformat(), "date": date, "jobs": unique,
+            "engine_unspecified": unspecified, "leads": leads, "changes": changes, "sources": stats,
+            "usage": {"tokens_used_or_reserved": budget.tokens(week), "weekly_limit": week["limit"],
+                      "search_weekly": week["search"], "search_weekly_limit": CONFIG["max_search_weekly"]},
             "remaining_unprocessed": sum(not x.get("analysis") and classify(x) not in ("closed", "excluded")
                                          for x in jobs.values()),
             "visible_total": sum(classify(x) == "verified_detail" for x in jobs.values())}

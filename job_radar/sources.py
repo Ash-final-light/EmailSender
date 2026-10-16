@@ -14,18 +14,27 @@ UNITY = r"(?<![a-z])(?:unity(?:3d)?|u3d)(?![a-z])"
 INTERN = r"实习|intern"
 CLIENT = r"客户端|游戏.{0,10}(?:开发|编程|研发)|游戏程序|gameplay|game\s*(?:client|develop|program)"
 NON_CLIENT = r"技术美术|美术|策划|运营|招聘实习|人力资源|测试实习|服务端|后端"
-CLOSED = r"当前职位已下线|职位已关闭|岗位已关闭|停止招聘|已停止投递|招聘已结束|该职位已失效"
-DETAIL = r"/job_detail/[^/?]+|/intern/inn_[^/?]+|/jobs/(?:intern/)?detail|/(?:m/)?position/[\w-]+(?:/detail)?"
+CLOSED = r"当前职位已下线|职位已关闭|岗位已关闭|停止招聘|已停止投递|招聘已结束|该职位已失效|收藏\s*已结束|该职位已结束"
+DETAIL = r"/job_detail/[^/?]+|/intern/inn_[^/?]+|/jobs/(?:intern/)?detail|/(?:m/)?position/[\w-]+(?:/detail)?|/jobdetail/[^/?]+|/job/\d+"
 
 
 def detail_url(url):
     p = urlsplit(url)
-    return bool(re.search(DETAIL, p.path) or re.search(r"(?:position|job)/[\w-]+", p.fragment))
+    return bool(re.search(DETAIL, p.path) or re.search(r"(?:position|job)/[\w-]+|jobId=[\w-]+", p.fragment)
+                or (host_matches(domain(url), "51job.com") and bool(re.search(r"/\d+\.html|positiondetail", p.path)))
+                or (company_for(url) and re.search(r"(?:jobId|positionId|postId)=", p.query, re.I)))
+
+
+def public_post(url):
+    return (host_matches(domain(url), "nowcoder.com") and bool(re.search(r"/discuss/\d+", url))
+            or host_matches(domain(url), "mp.weixin.qq.com") and "/s/" in url)
 
 
 def deadline(text):
+    span = re.search(r"投递(?:时间|期限|有效期)[\s:：]*\d{4}[-/年]\d{1,2}[-/月]\d{1,2}日?\s*[-~～至]\s*(\d{4})[-/年](\d{1,2})[-/月](\d{1,2})", text)
     match = re.search(r"(?:截止(?:日期|时间)?|validThrough)[\s:：\"']{0,12}"
                       r"(\d{4})[-/年](\d{1,2})[-/月](\d{1,2})", text, re.I)
+    match = match or span
     if match:
         from datetime import date
         try:
@@ -49,7 +58,11 @@ def role_kind(title, text):
     if not re.search(UNITY, title + " " + text, re.I):
         if re.search(r"unreal|虚幻|UE[45]", title + " " + text, re.I):
             return "excluded"
-        return "unknown"
+        return "engine_unspecified" if (re.search(r"(?:游戏|手游).{0,8}(?:客户端|程序)", title, re.I)
+            or re.search(r"客户端.{0,8}(?:开发|实习)", title, re.I) and re.search(r"游戏|手游|gameplay", text, re.I)) else "unknown"
+    # A Unity bonus does not turn an explicitly UE-based role into a Unity role.
+    if re.search(r"负责.{0,30}(?:UE[45]|Unreal|虚幻).{0,20}(?:开发|维护)|使用\s*(?:UE[45]|Unreal|虚幻).{0,20}(?:开发|实现)", text, re.I):
+        return "excluded"
     if re.search(CLIENT, title, re.I):
         return "match"
     if re.search(r"XR|VR|AR|数字孪生|可视化|工业仿真", title, re.I):
@@ -62,8 +75,12 @@ def role_kind(title, text):
 def company_for(url, config=CONFIG):
     host = domain(url)
     for company in config["companies"]:
-        if host in (domain(company["website"]), domain(company["careers"])):
-            return company
+        for base in [company["website"], company["careers"]] + company.get("entries", []):
+            if base and host == domain(base):
+                path = urlsplit(base).path.rstrip("/")
+                if host_matches(host, "mokahr.com") and not (urlsplit(url).path == path or urlsplit(url).path.startswith(path + "/")):
+                    continue
+                return company
     return None
 
 
@@ -77,7 +94,8 @@ def known_company(name, config=CONFIG):
 
 def source_name(url):
     host = domain(url)
-    for suffix, name in (("zhipin.com", "BOSS直聘"), ("shixiseng.com", "实习僧"), ("nowcoder.com", "牛客")):
+    for suffix, name in (("zhipin.com", "BOSS直聘"), ("shixiseng.com", "实习僧"), ("nowcoder.com", "牛客"),
+                         ("liepin.com", "猎聘"), ("zhaopin.com", "智联招聘"), ("51job.com", "前程无忧")):
         if host_matches(host, suffix):
             return name
     company = company_for(url)
@@ -85,9 +103,50 @@ def source_name(url):
 
 
 def allowed_host(host, config=CONFIG):
-    domains = config["platforms"] + [domain(c[key]) for c in config["companies"] for key in ("website", "careers")]
+    domains = config["platforms"] + config.get("public_post_domains", []) + [domain(url) for c in config["companies"]
+              for url in [c["website"], c["careers"]] + c.get("entries", []) if url]
     return any(host_matches(host, suffix) for suffix in domains)
 
+
+def parse_html(payload, current, url=None):
+    url = url or current
+    soup = BeautifulSoup(payload, "html.parser")
+    postings = []
+    for script in soup.find_all("script", type="application/ld+json"):
+        try:
+            parsed = json.loads(script.string or script.get_text())
+            nodes = parsed if isinstance(parsed, list) else [parsed]
+            for node in nodes:
+                if isinstance(node, dict):
+                    nodes.extend(node.get("@graph", []))
+                    if node.get("@type") == "JobPosting":
+                        postings.append(node)
+        except (ValueError, TypeError):
+            continue
+    links = [urljoin(current, link["href"]) for link in soup.find_all("a", href=True)]
+    job_links = [{"url": urljoin(current, link["href"]),
+                  "title": link.get_text(" ", strip=True)}
+                 for link in soup.find_all("a", href=True)
+                 if detail_url(urljoin(current, link["href"]))
+                 and re.search(UNITY + "|" + CLIENT, link.get_text(" ", strip=True), re.I)]
+    heading = soup.find("h1")
+    heading = heading.get_text(" ", strip=True) if heading else ""
+    for tag in soup(["script", "style", "nav", "footer", "header"]):
+        tag.decompose()
+    main = soup.find("main") or soup.find("article") or soup
+    text = main.get_text(" ", strip=True)
+    if heading and heading in text:
+        text = text[text.index(heading):]
+    structured = json.dumps(postings, ensure_ascii=False)
+    text = (text[:7500] + ("\nJobPosting: " + structured[:7500] if postings else "")).strip()
+    blocked = ("security.html" in current or "passport" in current
+               or bool(re.search(r"请完成安全验证|访问验证|请先登录|验证码验证", text[:400])))
+    if blocked:
+        return {"status": "restricted", "url": url, "text": ""}
+    if len(text) < 80:
+        return {"status": "dynamic_or_empty", "url": url, "text": text}
+    return {"status": "readable", "url": url, "text": text, "heading": heading,
+            "structured": bool(postings), "links": links[:2000], "job_links": job_links}
 
 def fetch(url):
     """Fetch only configured public domains; validate every redirect and cap response size."""
@@ -114,44 +173,7 @@ def fetch(url):
                     if length > 2000000:
                         return {"status": "oversized", "url": url, "text": ""}
                     chunks.append(chunk)
-                soup = BeautifulSoup(b"".join(chunks), "html.parser")
-                postings = []
-                for script in soup.find_all("script", type="application/ld+json"):
-                    try:
-                        parsed = json.loads(script.string or script.get_text())
-                        nodes = parsed if isinstance(parsed, list) else [parsed]
-                        for node in nodes:
-                            if isinstance(node, dict):
-                                nodes.extend(node.get("@graph", []))
-                                if node.get("@type") == "JobPosting":
-                                    postings.append(node)
-                    except (ValueError, TypeError):
-                        continue
-                links = [urljoin(current, link["href"]) for link in soup.find_all("a", href=True)]
-                job_links = [{"url": urljoin(current, link["href"]),
-                              "title": link.get_text(" ", strip=True)}
-                             for link in soup.find_all("a", href=True)
-                             if detail_url(urljoin(current, link["href"]))
-                             and re.search(INTERN, link.get_text(" ", strip=True), re.I)
-                             and re.search(UNITY + "|" + CLIENT, link.get_text(" ", strip=True), re.I)]
-                heading = soup.find("h1")
-                heading = heading.get_text(" ", strip=True) if heading else ""
-                for tag in soup(["script", "style", "nav", "footer", "header"]):
-                    tag.decompose()
-                main = soup.find("main") or soup.find("article") or soup
-                text = main.get_text(" ", strip=True)
-                if heading and heading in text:
-                    text = text[text.index(heading):]
-                structured = json.dumps(postings, ensure_ascii=False)
-                text = (text[:7500] + ("\nJobPosting: " + structured[:7500] if postings else "")).strip()
-                blocked = ("security.html" in current or "passport" in current
-                           or bool(re.search(r"请完成安全验证|访问验证|请先登录|验证码验证", text[:400])))
-                if blocked:
-                    return {"status": "restricted", "url": url, "text": ""}
-                if len(text) < 80:
-                    return {"status": "dynamic_or_empty", "url": url, "text": text}
-                return {"status": "readable", "url": url, "text": text, "heading": heading,
-                        "structured": bool(postings), "links": links[:400], "job_links": job_links[:20]}
+                return parse_html(b"".join(chunks), current, url)
         except requests.RequestException as exc:
             return {"status": "network_error", "url": url, "text": "", "error": type(exc).__name__}
     return {"status": "redirect_limit", "url": url, "text": ""}
@@ -203,14 +225,27 @@ def collect(data_dir, budget, seed_only=False):
     stats = {"checked_at": stamp, "seed_only": seed_only, "queries": 0,
              "discovered": 0, "page_statuses": {}, "new_urls": 0}
     search_before = budget.periods()[0]["search"]
+    from .browser_reader import BrowserReader
+    browser = BrowserReader()
 
-    def page(url):
+    def page(url, render=False):
         key = digest(canonical(url))
-        if page_cache.get(key, {}).get("day") == day:
-            return page_cache[key]["result"]
-        if not budget.reserve_detail():
-            return {"status": "daily_check_limit", "url": url, "text": ""}
-        result = fetch(url)
+        cached = page_cache.get(key, {})
+        if cached.get("day") == day:
+            result = cached["result"]
+            if not render or result.get("render_attempted"):
+                return result
+        else:
+            if not budget.reserve_detail():
+                return {"status": "daily_check_limit", "url": url, "text": ""}
+            result = fetch(url)
+        if render and CONFIG.get("render_js") and result["status"] in ("dynamic_or_empty", "readable") and not result.get("job_links"):
+            if budget.reserve_detail():
+                rendered = browser.read(url)
+                result["browser_status"] = rendered["status"]
+                if rendered["status"] == "readable" or result["status"] != "readable":
+                    result = {**rendered, "links": list(dict.fromkeys(result.get("links", []) + rendered.get("links", [])))}
+            result["render_attempted"] = True
         stats["page_statuses"][result["status"]] = stats["page_statuses"].get(result["status"], 0) + 1
         page_cache[key] = {"day": day, "result": result}
         write(data_dir / "page-cache.json", {k: v for k, v in page_cache.items() if v["day"] == day})
@@ -220,7 +255,8 @@ def collect(data_dir, budget, seed_only=False):
         if not public_url(url):
             return
         url = canonical(url)
-        if not detail_url(url):
+        posting = public_post(url)
+        if not detail_url(url) and not posting:
             return  # Homepage/search lists are discovery inputs, never individual jobs.
         key = digest(url)
         old = jobs.get(key, {})
@@ -229,9 +265,9 @@ def collect(data_dir, budget, seed_only=False):
                 return
             if not re.search(UNITY + "|" + CLIENT, title + " " + snippet, re.I):
                 return
-        result = page(url)
-        text = (result.get("text") if result["status"] == "readable" else snippet) or ""
-        heading = result.get("heading") or title
+        result = page(url, render=bool(company_for(url)))
+        text = (result.get("text") if result["status"] == "readable" else snippet or old.get("text")) or ""
+        heading = result.get("heading") or title or old.get("title", "")
         if not re.search(INTERN, title + " " + heading + " " + text, re.I) and not old:
             return
         state = result["status"]
@@ -240,7 +276,9 @@ def collect(data_dir, budget, seed_only=False):
                 state = "closed"
             elif expired(text):
                 state = "expired"
-            elif not result.get("structured") and not re.search(INTERN, heading, re.I):
+            elif posting:
+                state = "public_post"
+            elif not result.get("structured") and role_kind(heading, text) == "excluded":
                 state = "detail_context_unconfirmed"
         company = hint or company_for(url)
         raw_hash = digest(heading + text)
@@ -248,38 +286,56 @@ def collect(data_dir, budget, seed_only=False):
                   "text": text[:8000], "page_status": state, "source": source_name(url),
                   "discovered_from": discovered_from, "first_seen": old.get("first_seen", stamp),
                   "last_checked": stamp, "raw_hash": raw_hash, "deadline": deadline(text),
-                  "company_hint": company["name"] if company else None}
+                  "company_hint": company["name"] if company else old.get("company_hint"),
+                  "evidence": "public_post" if posting else "detail"}
         if old.get("raw_hash") != raw_hash:
             record.pop("analysis", None)
         jobs[key] = record
         stats["new_urls"] += int(not old)
         write(data_dir / "jobs.json", jobs)  # Preserve partial work before subsequent paid calls.
 
-    # Check known homepages and discover actual public job links from official recruitment pages.
-    for company in CONFIG["companies"]:
-        home = page(company["website"])
-        careers = page(company["careers"])
-        for link in careers.get("job_links", [])[:2]:
-            if domain(link["url"]) == domain(company["careers"]):
-                add(link["url"], title=link["title"], hint=company, discovered_from="official_careers")
-        stats.setdefault("company_sites", []).append({
-            "company": company["name"], "website": company["website"],
-            "careers": company["careers"],
-            "status": home["status"], "careers_status": careers["status"]})
+    try:
+        # Check known homepages and discover actual public job links from official recruitment pages.
+        for company in CONFIG["companies"]:
+            home = page(company["website"])
+            careers = page(company["careers"], render=True)
+            linked_jobs = careers.get("job_links", [])
+            for entry in company.get("entries", []):
+                result = page(entry, render=True)
+                linked_jobs += result.get("job_links", [])
+            for link in linked_jobs:
+                if company_for(link["url"]) == company:
+                    add(link["url"], title=link["title"], hint=company, discovered_from="official_careers")
+            stats.setdefault("company_sites", []).append({
+                "company": company["name"], "website": company["website"],
+                "careers": company["careers"],
+                "status": home["status"], "careers_status": careers["status"], "job_links_found": len(linked_jobs)})
+            LOG.info("Company source checked: %s; careers=%s; candidate links=%d", company["name"], careers["status"], len(linked_jobs))
 
-    if seed_only:
-        for url in CONFIG["validation_urls"]:
-            add(url, discovered_from="validation_seed")
-    else:
-        if not __import__("os").getenv("BOCHA_API_KEY"):
-            raise RuntimeError("BOCHA_API_KEY is missing; use preview-seeds only for an explicit limited trial")
-        for query in CONFIG["queries"]:
-            hits = search(query, budget, search_cache, data_dir / "search-cache.json")
-            stats["queries"] += 1
-            stats["discovered"] += len(hits)
-            for hit in hits:
-                add(hit["url"], hit.get("name") or "", hit.get("summary") or hit.get("snippet") or "",
-                    discovered_from="search_result")
+        if seed_only:
+            for url in CONFIG["validation_urls"]:
+                add(url, discovered_from="validation_seed")
+        else:
+            if not __import__("os").getenv("BOCHA_API_KEY"):
+                raise RuntimeError("BOCHA_API_KEY is missing; use preview-seeds only for an explicit limited trial")
+            queries = CONFIG["queries"]
+            if now().astimezone(TZ).weekday() not in (1, 4):
+                # 40 on Tue/Fri + 24 on five other days = 200 searches/week.
+                offset = now().astimezone(TZ).toordinal() % len(queries)
+                queries = (queries[offset:] + queries[:offset])[:CONFIG["search_queries_quiet_day"]]
+            for query in queries:
+                hits = search(query, budget, search_cache, data_dir / "search-cache.json")
+                stats["queries"] += 1
+                stats["discovered"] += len(hits)
+                for hit in hits:
+                    add(hit["url"], hit.get("name") or "", hit.get("summary") or hit.get("snippet") or "",
+                        discovered_from="search_result")
+        # Recheck every retained active record; previous delivery never excludes it.
+        for old in list(jobs.values()):
+            if old["last_checked"][:10] != stamp[:10] and old["page_status"] not in ("closed", "expired"):
+                add(old["url"], old["title"], old["text"], old.get("discovered_from", "recheck"))
+    finally:
+        browser.close()
     cutoff = (now() - timedelta(days=CONFIG["retention_days"])).isoformat()
     jobs = {key: value for key, value in jobs.items() if value["last_checked"] >= cutoff}
     write(data_dir / "jobs.json", jobs)

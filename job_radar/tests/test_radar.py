@@ -160,10 +160,12 @@ class RadarTest(unittest.TestCase):
         second["analysis"]["salary"] = "300元/天"
         self.assertNotEqual(curation.signature(first), curation.signature(second))
 
-    def test_report_suppresses_old_and_reports_closure(self):
+    def test_full_report_repeats_current_jobs_and_reports_closure(self):
         first = job()
         history = {"a": {"signature": curation.signature(first), "sent_at": core.now().isoformat()}}
-        self.assertFalse(curation.report({"a": first}, history, {}, self.budget)["jobs"])
+        current = curation.report({"a": first}, history, {}, self.budget)
+        self.assertEqual(len(current["jobs"]), 1)
+        self.assertEqual(current["jobs"][0]["change"], "本期在列")
         first["page_status"] = "closed"
         self.assertEqual(len(curation.report({"a": first}, history, {}, self.budget)["changes"]), 1)
 
@@ -210,6 +212,72 @@ class RadarTest(unittest.TestCase):
         self.assertEqual(report["jobs"][0]["analysis"]["company_website"], "https://millervlogs.com/")
         self.assertIsNone(report["jobs"][0]["analysis"]["company_careers"])
         self.assertIn("人工核对", report["jobs"][0]["analysis"]["website_evidence"])
+
+    def test_full_report_has_no_previous_fifteen_or_five_item_caps(self):
+        values = {}
+        for i in range(25):
+            row = job(str(i))
+            row["analysis"]["city"] = "城市"+str(i)
+            values[row["id"]] = row
+        for i in range(10):
+            row = job("lead"+str(i), page_status="restricted")
+            values[row["id"]] = row
+        report = curation.report(values, {}, {}, self.budget)
+        self.assertEqual(len(report["jobs"]), 25)
+        self.assertEqual(len(report["leads"]), 10)
+        self.assertEqual(len(views.csv_content(report).decode('utf-8-sig').splitlines()), 36)
+
+    def test_engine_unspecified_has_its_own_group(self):
+        row = job(title="游戏客户端开发实习生", text="游戏客户端开发实习生，参与游戏战斗系统开发。")
+        row['analysis']['title'] = row['title']
+        self.assertEqual(sources.role_kind(row['title'], row['text']), 'engine_unspecified')
+        self.assertEqual(len(curation.report({'a':row}, {}, {}, self.budget)['engine_unspecified']), 1)
+
+    def test_unity_bonus_does_not_override_ue_duties(self):
+        self.assertEqual(sources.role_kind('游戏客户端开发实习生', '负责UE4客户端功能的开发与维护；有Unity经验优先'), 'excluded')
+
+    def test_application_date_range_deadline(self):
+        text = '投递时间：2026年7月8日-2026年9月1日（即将截止）'
+        self.assertEqual(sources.deadline(text), '2026-09-01')
+        self.assertTrue(sources.expired(text, '2026-10-16'))
+
+    def test_weekly_search_cap_and_old_counter_migration(self):
+        day, week = self.budget.periods()
+        day['search'] = 12
+        week.pop('search')
+        self.assertEqual(self.budget.periods()[1]['search'], 12)
+        week['search'] = core.CONFIG['max_search_weekly']
+        with self.assertRaises(core.QuotaPause):
+            self.budget.reserve_search()
+        self.assertEqual(day['search'], 12)
+
+    def test_shared_recruitment_vendor_does_not_mix_companies(self):
+        self.assertEqual(sources.company_for('https://app.mokahr.com/campus_apply/shengqu/4078')['name'], '盛趣游戏')
+        self.assertEqual(sources.company_for('https://app.mokahr.com/campus_apply/kingnet/2246')['name'], '恺英网络')
+        self.assertIsNone(sources.company_for('https://app.mokahr.com/campus_apply/unknown/1'))
+
+    def test_post_is_a_lead_not_a_verified_job(self):
+        self.assertTrue(sources.public_post('https://www.nowcoder.com/discuss/391664131600920576'))
+        self.assertFalse(sources.detail_url('https://www.nowcoder.com/discuss/391664131600920576'))
+        self.assertEqual(curation.classify(job(page_status='public_post')), 'lead')
+
+    def test_csv_formula_guard(self):
+        row = job()
+        row['analysis']['salary'] = '=1+1'
+        data = views.csv_content(curation.report({'a':row}, {}, {}, self.budget)).decode('utf-8-sig')
+        self.assertIn("'=1+1", data)
+
+    def test_email_attaches_complete_html_and_utf8_csv(self):
+        smtp = MagicMock()
+        smtp.__enter__.return_value = smtp
+        smtp.send_message.return_value = {}
+        with patch.dict('os.environ', {'SMTP_USER':'sender@qq.com', 'SMTP_PASSWORD':'unit-test',
+                                     'MAIL_TO':'recipient@qq.com', 'SMTP_SECURITY':'ssl'}), patch('job_radar.core.smtplib.SMTP_SSL',return_value=smtp):
+            core.send('中文测试', '<p>正文</p>', '正文', attachments=[('完整清单.html','html','中文'.encode()),('完整清单.csv','csv','公司,岗位'.encode('utf-8-sig'))])
+        message = smtp.send_message.call_args.args[0]
+        attachments = list(message.iter_attachments())
+        self.assertEqual([item.get_filename() for item in attachments], ['完整清单.html','完整清单.csv'])
+        self.assertEqual(attachments[1].get_payload(decode=True).decode('utf-8-sig'), '公司,岗位')
 
 
 if __name__ == "__main__":
