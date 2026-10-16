@@ -85,6 +85,7 @@ def render(report):
 {seed_notice}<h2 style="font-size:20px">本期先看</h2><div style="padding:15px 18px;background:#edf6f4;font-size:14px">
 详情可核验的 Unity 岗位 {matched} 条，引擎未披露的游戏客户端实习 {unspecified} 条，待核实线索 {leads} 条。<br>
 本期发送收集到的全部在列岗位，已发过的也保留；同一岗位的重复来源合并，不按发布时间截断。<br>
+明确指向较早毕业届别的历史招聘帖已归档 {report.get('archived_historical', 0)} 条，不算当前岗位。<br>
 尚未完成 AI 归纳的候选 {report['remaining_unprocessed']} 条仍保留标题、原始资料和链接。正式邮件附完整 HTML / CSV 清单。</div>
 {empty}{cards(report['jobs'], 'Unity 客户端实习')}{cards(report.get('engine_unspecified', []), '游戏客户端实习 · 引擎未披露')}{cards(report['leads'], '待核实线索')}{cards(report['changes'], '重要状态变化')}{official_section}
 <h2 style="font-size:20px">来源与用量</h2><p style="font-size:12px;color:#667d8c">本次检索 {source_stats.get('queries', 0)} 组关键词（新增搜索请求 {source_stats.get('new_search_requests', '未记录')} 次，其余复用当日缓存），发现 {source_stats.get('discovered', 0)} 条搜索结果（不是有效岗位数）。<br>

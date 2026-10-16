@@ -83,8 +83,11 @@ def classify(job):
     status = job["page_status"]
     if status in ("closed", "expired") or expired(job["text"]):
         return "closed"
+    cohorts = re.findall(r"(20\d{2})\s*(?:届|实习生招聘)", job["title"])
+    if status == "public_post" and cohorts and max(map(int, cohorts)) < now().astimezone(TZ).year - 1:
+        return "historical"
     kind = role_kind(job["title"], job["text"])
-    if kind == "excluded" or kind == "related":
+    if kind in ("excluded", "related", "unknown"):
         return "excluded"
     analysis = job.get("analysis")
     if not analysis:
@@ -119,7 +122,7 @@ def relevance_order(job):
 
 def curate(jobs, data_dir, budget):
     missing = [job for job in jobs.values() if not job.get("analysis")
-               and classify(job) not in ("closed", "excluded")]
+               and classify(job) not in ("closed", "excluded", "historical")]
     missing.sort(key=relevance_order, reverse=True)
     if not missing:
         return jobs
@@ -221,4 +224,5 @@ def report(jobs, history, stats, budget):
                       "search_weekly": week["search"], "search_weekly_limit": CONFIG["max_search_weekly"]},
             "remaining_unprocessed": sum(not x.get("analysis") and classify(x) not in ("closed", "excluded")
                                          for x in jobs.values()),
+            "archived_historical": sum(classify(x) == "historical" for x in jobs.values()),
             "visible_total": sum(classify(x) == "verified_detail" for x in jobs.values())}

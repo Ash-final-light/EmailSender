@@ -13,8 +13,8 @@ from .core import (CONFIG, TZ, LOG, canonical, digest, domain, host_matches, now
 UNITY = r"(?<![a-z])(?:unity(?:3d)?|u3d)(?![a-z])"
 INTERN = r"实习|intern"
 CLIENT = r"客户端|游戏.{0,10}(?:开发|编程|研发)|游戏程序|gameplay|game\s*(?:client|develop|program)"
-NON_CLIENT = r"技术美术|美术|策划|运营|招聘实习|人力资源|测试实习|服务端|后端"
-CLOSED = r"当前职位已下线|职位已关闭|岗位已关闭|停止招聘|已停止投递|招聘已结束|该职位已失效|收藏\s*已结束|该职位已结束"
+NON_CLIENT = r"技术美术|美术|策划|运营|招聘实习|人力资源|测试实习|服务端|后端|服务开发|服务器|用研|用户研究|战略"
+CLOSED = r"当前职位已下线|职位已关闭|岗位已关闭|停止招聘|已停止投递|招聘已结束|该职位已失效|收藏\s*已结束|该职位已结束|已结束\s*发布者"
 DETAIL = r"/job_detail/[^/?]+|/intern/inn_[^/?]+|/jobs/(?:intern/)?detail|/(?:m/)?position/[\w-]+(?:/detail)?|/jobdetail/[^/?]+|/job/\d+"
 
 
