@@ -60,5 +60,42 @@
         "isNavigational": null
       }
     ]
+  },
+  "8a35ecad71fe81d0e5d8e1d790a31af5e894fc2b1c2d43aa89910fa07bf74994": {
+    "day": "2026-10-16",
+    "results": [
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.2",
+        "name": "可以关注一下这个帖子:https://www.nowcoder.com/disc_牛客网",
+        "url": "https://www.nowcoder.com/discuss/comment/12989949",
+        "displayUrl": "https://www.nowcoder.com/discuss/comment/12989949",
+        "snippet": "可以关注一下这个帖子:https://www.nowcoder.com/discuss/855688?source_id=profile_create_nctrack;channel=-1,暑期实习汇",
+        "summary": "可以关注一下这个帖子:https://www.nowcoder.com/discuss/855688?source_id=profile_create_nctrack;channel=-1,暑期实习汇总~_牛客网_牛客在手,offer不愁",
+        "siteName": "牛客网",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/comment/12989949",
+        "datePublished": "2022-05-06T13:54:00+08:00",
+        "dateLastCrawled": "2022-05-06T13:54:00Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.7",
+        "name": "招聘游戏运营实习生_牛客网",
+        "url": "https://www.nowcoder.com/discuss/680789601165783040?sourceSSR=post",
+        "displayUrl": "https://www.nowcoder.com/discuss/680789601165783040?sourceSSR=post",
+        "snippet": "投递点这里:https://www.nowcoder.com/jobs/detail/30300000010122我们正在寻找一群对游戏充满热情,在校即将于2025年及以后毕业的学生们,加入我们的团队",
+        "summary": "投递点这里:https://www.nowcoder.com/jobs/detail/30300000010122我们正在寻找一群对游戏充满热情,在校即将于2025年及以后毕业的学生们,加入我们的团队,一起为玩家创造更精彩的游戏体验!...",
+        "siteName": "牛客网",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/680789601165783040?sourceSSR=post",
+        "datePublished": "2025-02-10T16:57:38+08:00",
+        "dateLastCrawled": "2025-02-10T16:57:38Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      }
+    ]
   }
 }
