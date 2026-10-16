@@ -110,7 +110,26 @@
     "raw_hash": "9b71f3863ef0a04b79ca5933e363795b15a5e97825f04a5afc1e6f7e602b62fc",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "ac51cc435afa2e29180a292f85b3a184953e17644b4e02850b81c00e5c832d19",
+      "title": "Unity中国2022实习生招聘火热进行中",
+      "company": "Unity",
+      "city": "上海/北京",
+      "salary": "未披露",
+      "education": "本科、研究生以上在读",
+      "graduation": "未披露",
+      "days_per_week": "一周工作至少3天",
+      "duration": "持续至少6个月以上",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "软件工程实习生将与工程师合作，在Unity引擎和服务中实现新功能并参与核心引擎或游戏、VR/AR、数字孪生等解决方案开发；需按团队需求开发新功能并维护系统、提出改进建议。",
+      "relevance": "岗位直接涉及Unity核心引擎开发及相关领域解决方案，与Unity客户端实习方向存在关联。",
+      "concerns": "信息为2022年招聘推文，网申时间已过且未披露截止日期，无法确认岗位是否仍开放；同一推文含页面评论等无关内容。",
+      "company_website": null,
+      "company_careers": null,
+      "website_evidence": "官网待核实"
+    }
   },
   "bebdfbe2f3e552f305765036161d408be8d568c6546485d4ec38335756ec0888": {
     "id": "bebdfbe2f3e552f305765036161d408be8d568c6546485d4ec38335756ec0888",
@@ -140,7 +159,26 @@
     "raw_hash": "33d62894de05339a6a9c0447f95d184f3079c8f1ef758d8b627ad40fefb41917",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "cf1ac3386e4a992b3f7b10867b6e2ca5db6191fa6072916cd23890ac94f98007",
+      "title": "职位详情",
+      "company": "网易游戏雷火事业群",
+      "city": "杭州",
+      "salary": "150-200元/天",
+      "education": "本科及以上学历",
+      "graduation": "未披露",
+      "days_per_week": "4天/周",
+      "duration": "4个月以上",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "游戏客户端开发实习生负责根据策划需求设计和开发客户端模块，优化功能、动作行为逻辑与AI，并研发工具编辑器及进行各平台性能优化。",
+      "relevance": "游戏客户端开发实习，与Unity客户端方向相关，但原文未说明使用Unity引擎。",
+      "concerns": "页面显示已结束，无法确认岗位仍开放；原文未明确Unity技术栈；另有每周4~5天、连续4个月优先的表述与主要字段存在差异。",
+      "company_website": "https://game.163.com/",
+      "company_careers": "https://game.campus.163.com/",
+      "website_evidence": "预设公司域名；本次访问情况见来源状态"
+    }
   },
   "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba": {
     "id": "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba",
@@ -185,7 +223,26 @@
     "raw_hash": "c372607d62a0c300d471b5e52938576cb9a3f4e14a98ded362e6f9663a33eed7",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "53a7b016acecb698d915a38180d298c40701cffd88af768c10ed488f23dd1a3d",
+      "title": "【游戏服务开发实习生-22年毕业,可转正招聘】_完美世界招聘信息-猎聘",
+      "company": "完美世界",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "22年毕业",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "原文仅提供标题与推荐企业等页面信息，未给出具体岗位职责描述。",
+      "relevance": "标题为游戏服务开发实习，偏向服务端方向，未提及Unity客户端，不符合Unity客户端实习方向。",
+      "concerns": "正文为招聘网站导航与广告内容，缺少岗位详情；无法核验职责、出勤、时长等实习条件。",
+      "company_website": "https://www.wanmei.com/",
+      "company_careers": "https://jobs.games.wanmei.com/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d": {
     "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
@@ -200,7 +257,26 @@
     "raw_hash": "e398113875e490f528804c5953041cfcec6c8836bfbf8783015ee1fd42db6510",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
+      "title": "（内推）【吉比特&雷霆游戏2022届实习生招聘启动】",
+      "company": "吉比特&雷霆游戏",
+      "city": "深圳、厦门",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "2022届在校生（毕业时间：2021年9月至2022年8月）",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "招聘含游戏研发实习生等岗位，实习月薪技术类本科3800元、研究生4800元，并提供深圳3300元/月、厦门2000元/月的租房补贴。",
+      "relevance": "仅列出游戏研发实习生等大类岗位，未说明引擎与客户端方向，无法确认与Unity客户端实习相关。",
+      "concerns": "为2022届招聘，时效性不足；未披露具体客户端岗位职责、出勤与时长；原文含内推码等联系方式信息，此处不作引用。",
+      "company_website": "https://www.g-bits.com/",
+      "company_careers": "https://www.g-bits.com/zh/join.html",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "e598be67a07f8c4b6ea5eec5ac5d70b88d7e1a797a6a232025896c7bc9da6dfd": {
     "id": "e598be67a07f8c4b6ea5eec5ac5d70b88d7e1a797a6a232025896c7bc9da6dfd",
@@ -215,7 +291,26 @@
     "raw_hash": "6b94348157b51ff5e40dc1b88594df4f45a35dbfbda80c16cd237ff53a41d1f0",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "e598be67a07f8c4b6ea5eec5ac5d70b88d7e1a797a6a232025896c7bc9da6dfd",
+      "title": "【盛趣】2023届暑期实习全面启动啦！！",
+      "company": "盛趣游戏",
+      "city": "上海",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "2023届",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "2023届暑期实习开放客户端开发等岗位，工作地点上海。",
+      "relevance": "招聘岗位中包含客户端开发实习，与Unity客户端方向相关，但原文未说明引擎技术栈。",
+      "concerns": "面向2023届暑期实习，时间较早；未披露客户端岗位的具体职责、出勤与时长，也未提及Unity。",
+      "company_website": "https://www.shengqugames.com/",
+      "company_careers": "https://app.mokahr.com/campus_apply/shengqu/4078",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "533e4ff21a63f4a409b75c8bc51086782e4cf5126449108015b2ac56f4b8fbb6": {
     "id": "533e4ff21a63f4a409b75c8bc51086782e4cf5126449108015b2ac56f4b8fbb6",
@@ -245,7 +340,26 @@
     "raw_hash": "6dcc1d448d9ad0ca7c2707dee00c9d22c7b50e95606c3ea947b12fa993259b4e",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "81f1dfc918f0c8f3c23669cc7d7dd8c319aefcafebd41775894bde68459a375d",
+      "title": "畅游诚聘用研/战略实习生!游戏行业优质团队,欢迎加入!_牛客网",
+      "company": "畅游",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "未披露",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "原文仅提供标题与网站推荐、热榜等页面信息，未给出具体岗位职责。",
+      "relevance": "标题为用研/战略实习生，不属于客户端开发，也不涉及Unity，不符合Unity客户端实习方向。",
+      "concerns": "正文为网站热榜等无关内容，缺少岗位详情，无法核验任何实习条件。",
+      "company_website": "https://www.changyou.com/",
+      "company_careers": "https://campus.changyou.com/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "1ea0ae83c55495731321b7bca8cbc3fdcb27b3a888bc63a99eafcb26663c785a": {
     "id": "1ea0ae83c55495731321b7bca8cbc3fdcb27b3a888bc63a99eafcb26663c785a",
@@ -335,7 +449,26 @@
     "raw_hash": "f60a7aa6c0ae95de76db022c289ab23271ac1aaf7ccab168ec25271d04a869d6",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "3d697d6508efa75a5a8b580aa73a577ddecc42241b4257107226885ed9686bbb",
+      "title": "创梦天地客户端实习（可转正）招聘--长沙",
+      "company": "创梦天地",
+      "city": "长沙",
+      "salary": "未披露",
+      "education": "本科及以上",
+      "graduation": "大三大四",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "使用Flutter参与大前端开发，优化产品性能及代码，并有机会参与Flutter引擎优化。",
+      "relevance": "属客户端方向实习，但原文主要技术栈为Flutter，未明确涉及Unity，与Unity客户端实习方向相关性有限。",
+      "concerns": "原文未提及Unity或游戏引擎客户端开发，核心要求为Flutter；未披露出勤天数与实习时长，无法确认是否满足条件。",
+      "company_website": "https://www.idreamsky.com/",
+      "company_careers": "https://idreamsky.jobs.feishu.cn/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc": {
     "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
@@ -350,7 +483,26 @@
     "raw_hash": "6f426cc2d340cabbbfbecf80bac4b1d0b2d53ba86317b26caba7fbea2c8c6209",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
+      "title": "【网易游戏】游戏客户端开发实习生招聘",
+      "company": "网易游戏",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "本科及以上学历",
+      "graduation": "2022届及之后毕业",
+      "days_per_week": "每周实习4~5天",
+      "duration": "连续实习4个月",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能、动作行为逻辑与AI，并研发工具编辑器及进行各平台性能优化。",
+      "relevance": "游戏客户端开发实习，涉及客户端模块与性能优化，与Unity客户端实习方向存在关联，但原文未明确指定Unity引擎。",
+      "concerns": "发布信息为2020年，时效性存疑；原文未明确使用Unity引擎，出勤与时长写为优先条件而非硬性要求。",
+      "company_website": "https://game.163.com/",
+      "company_careers": "https://game.campus.163.com/",
+      "website_evidence": "预设公司域名；本次访问情况见来源状态"
+    }
   },
   "a81dbb765dcebb79fb5c93fd3b8ff4fe45a633c65ed6d67efa9480156b647d8d": {
     "id": "a81dbb765dcebb79fb5c93fd3b8ff4fe45a633c65ed6d67efa9480156b647d8d",
