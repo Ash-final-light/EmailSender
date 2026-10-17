@@ -5,7 +5,7 @@
       "details": 193
     },
     "2026-10-17": {
-      "search": 21,
+      "search": 22,
       "details": 200
     }
   },
@@ -38,7 +38,7 @@
         }
       ],
       "limit": 50000,
-      "search": 61
+      "search": 62
     }
   },
   "paused": null
