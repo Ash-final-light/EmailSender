@@ -3,6 +3,10 @@
     "2026-10-16": {
       "search": 40,
       "details": 193
+    },
+    "2026-10-17": {
+      "search": 1,
+      "details": 200
     }
   },
   "weeks": {
@@ -34,7 +38,7 @@
         }
       ],
       "limit": 50000,
-      "search": 40
+      "search": 41
     }
   },
   "paused": null
