@@ -1,12 +1,15 @@
 {
-  "checked_at": "2026-10-16T14:16:39.943674+00:00",
+  "checked_at": "2026-10-17T04:50:40.911895+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 228,
+  "queries": 24,
+  "discovered": 112,
   "page_statuses": {
-    "network_error": 1,
+    "dynamic_or_empty": 12,
+    "network_error": 3,
+    "readable": 83,
+    "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 2
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -28,7 +31,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "腾讯",
@@ -38,7 +41,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "网易游戏",
@@ -48,7 +51,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "莉莉丝",
@@ -56,7 +59,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 12,
+      "job_links_found": 15,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -66,7 +69,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 5,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -78,7 +81,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "心动",
@@ -86,9 +89,9 @@
       "careers": "https://api.xd.com/hr/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 3,
+      "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "库洛游戏",
@@ -105,10 +108,10 @@
       "website": "https://sunborngame.com/",
       "careers": "https://sunborngame.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": null
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "悠星网络",
@@ -118,7 +121,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
@@ -138,7 +141,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "完美世界",
@@ -148,7 +151,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "吉比特/雷霆",
@@ -158,7 +161,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "三七互娱",
@@ -168,17 +171,17 @@
       "careers_status": "readable",
       "job_links_found": 2,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "多益网络",
       "website": "https://www.duoyi.com/",
       "careers": "https://xz.duoyi.com/",
       "status": "readable",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "巨人网络",
@@ -188,7 +191,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "恺英网络",
@@ -204,7 +207,7 @@
       "company": "游族网络",
       "website": "https://www.yoozoo.com/",
       "careers": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "redirect_limit",
       "job_links_found": 0,
       "reader": "static",
@@ -224,11 +227,11 @@
       "company": "畅游",
       "website": "https://www.changyou.com/",
       "careers": "https://campus.changyou.com/",
-      "status": "network_error",
-      "careers_status": "browser_error",
+      "status": "readable",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "4399",
@@ -238,17 +241,17 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "冰川网络",
       "website": "https://www.q1.com/",
       "careers": "https://bingchuan1.zhiye.com/",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "dynamic_or_empty"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "途游游戏",
@@ -258,7 +261,7 @@
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "乐元素",
@@ -275,10 +278,10 @@
       "website": "https://www.idreamsky.com/",
       "careers": "https://idreamsky.jobs.feishu.cn/",
       "status": "readable",
-      "careers_status": "dynamic_or_empty",
-      "job_links_found": 1,
+      "careers_status": "readable",
+      "job_links_found": 3,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "诗悦网络",
@@ -295,21 +298,21 @@
       "website": "https://www.eworld.cn/",
       "careers": "https://eworldgroup.jobs.feishu.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
-      "job_links_found": 1,
+      "careers_status": "readable",
+      "job_links_found": 6,
       "reader": "browser",
-      "browser_status": null
+      "browser_status": "readable"
     },
     {
       "company": "柠檬微趣",
       "website": "https://www.microfun.cn/",
       "careers": "https://www.microfun.cn/",
-      "status": "readable",
-      "careers_status": "readable",
+      "status": "daily_check_limit",
+      "careers_status": "daily_check_limit",
       "job_links_found": 0,
-      "reader": "browser",
+      "reader": "static",
       "browser_status": null
     }
   ],
-  "new_search_requests": 0
+  "new_search_requests": 24
 }
