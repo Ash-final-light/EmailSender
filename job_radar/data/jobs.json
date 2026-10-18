@@ -623,5 +623,20 @@
       "company_careers": "https://lilithgames.jobs.feishu.cn/",
       "website_evidence": "预设公司域名；本次访问情况见来源状态"
     }
+  },
+  "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287": {
+    "id": "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287",
+    "url": "https://www.nowcoder.com/jobs/detail/30300000110340?channel=npJobTab&deliverSource=1",
+    "title": "游戏客户端开发实习生（U3D）-25/26届",
+    "text": "广州诗悦网络科技有限公司 游戏 不需要融资 广州 查看其他 28 个职位 0 笔试题目 46 面试经验 0 面试短评 刷真题、补算法、看面经、得内推 扫一扫,把题目装进口袋 移动版 加入我们 企业服务 校企合作 免责声明 资源导航 付费咨询 扫描二维码,进入QQ群 扫描二维码,关注牛客公众号 公司地址:北京市朝阳区北苑路北美国际商务中心K1座一层-北京牛客科技有限公司 联系方式:010-60728802 投诉举报电话:010-57596212(朝阳人力社保局) 牛客科技©2025 All rights reserved admin@nowcoder.com 京ICP备14055008号-4 增值电信业务经营许可证 营业执照 人力资源服务许可证 京公网安备 11010502036488号 我是求职者 我是招聘方 校招快人一步 注册登录 密码登录 中国+86 美国+1 加拿大+1 俄罗斯+7 埃及+20 南非+27 希腊+30 荷兰+31 比利时+32 法国+33 西班牙+34 匈牙利+36 意大利+39 罗马尼亚+...",
+    "page_status": "daily_check_limit",
+    "source": "牛客",
+    "discovered_from": "search_result",
+    "first_seen": "2026-10-18T04:56:28.249828+00:00",
+    "last_checked": "2026-10-18T04:56:28.249828+00:00",
+    "raw_hash": "363a7a661221d8cf6ec5e68abfaea400a9775a1de18b0dd0af2aac34f6b42b9a",
+    "deadline": null,
+    "company_hint": null,
+    "evidence": "detail"
   }
 }
