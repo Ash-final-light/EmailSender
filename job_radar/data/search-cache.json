@@ -3461,7 +3461,7 @@
     ]
   },
   "5d0db6e84633cffc69e67ad477c583830befe3652cde1de77e5440cdeee65d0f": {
-    "day": "2026-10-17",
+    "day": "2026-10-18",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -3545,22 +3545,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.5",
-        "name": "游戏客户端开发校招生(2025届秋招)_白日梦游戏校招_牛客网",
-        "url": "https://www.nowcoder.com/jobs/detail/356036",
-        "displayUrl": "https://www.nowcoder.com/jobs/detail/356036",
-        "snippet": "15-20K * 12薪 Unity3D客户端 深圳 本科 岗位职责 我们致力于创造极具创意和乐趣的经典多人互动游戏,正在寻找热爱游戏,充满激情与创意,且具备扎实编程基础的应届毕业生加入我们的游戏开发",
-        "summary": "15-20K * 12薪 Unity3D客户端 深圳 本科 岗位职责 我们致力于创造极具创意和乐趣的经典多人互动游戏,正在寻找热爱游戏,充满激情与创意,且具备扎实编程基础的应届毕业生加入我们的游戏开发团队。作为游戏客户端开发工程师,你将参与到从创意构思到游戏发布的整个开发流程,一起为玩家带来难忘的游戏体验。【岗位职责】1、使用Unity引擎开发和维护游戏客户端,针对产品需求进行框架及功能设计;2、与策划和美术团队紧密合作,将创新的设计理念和经典的游戏元素融入游戏中,一起讨论并提出技术方案迭代优化游戏的细节体验;3、为游戏玩法和系统开发相关的编辑器,为策划美术的创作以及测试提升效率;4、在网络、性能优化、音视频、交互等基础技术上提供解决方案,支撑游戏所需的体验;5、编写高质量的代码,确保游戏的可维护性和扩展性,为未来的创意更新奠定基础。 岗位要求 【岗位要求】1、全日制本科及以上学历,专业不限,计算机科学或相关专业优先;2、熟悉C#编程语言,并具有使用Unity引擎进行游戏开发的经验;3、对图形、物理、动画、AI、帧同步等某一领域比较熟悉;4、有良好的英语阅读能力,能够理解和使用技术相关的英文文档和资源;5、具备良好的创意思维,愿意尝试并实现新的游戏概念和玩法;6、具备良好的团队协作能力,能够与跨职能团队紧密合作,推动项目进展;7、具备良好的沟通能力,分析解决问题能力,责任心强,有较高的自我管理能力。加分项!1、有完整的Unity游戏项目经验,或发布过创意游戏作品,可以提供视频链接,steam链接和PC端程序;2、参与游戏开发相关的竞赛或开源项目,展现出你的创意与技术实力;3、有自己的Github或者Gitee仓库;4、热爱游戏,对游戏有自己的独立见解,对玩过的游戏常主动去探索背后的技术实现,有志于在游戏开发方向发展。 深圳市南山区沙河街道华侨城东部工业区A5栋401A 牛客",
-        "siteName": "牛客网",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/jobs/detail/356036",
-        "datePublished": "2024-09-13T12:31:00+08:00",
-        "dateLastCrawled": "2024-09-13T12:31:00Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
         "name": "UE游戏客户端其它开发_荒物匠坊社招_牛客网",
         "url": "https://www.nowcoder.com/jobs/detail/373394?deliverSource=1&pageSource=5001&channel=npJobTab",
         "displayUrl": "https://www.nowcoder.com/jobs/detail/373394?deliverSource=1&pageSource=5001&channel=npJobTab",
@@ -3570,6 +3554,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/jobs/detail/373394?deliverSource=1&pageSource=5001&channel=npJobTab",
         "datePublished": "2025-02-11T19:31:21+08:00",
         "dateLastCrawled": "2025-02-11T19:31:21Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "name": "游戏客户端开发校招生(2025届秋招)_白日梦游戏校招_牛客网",
+        "url": "https://www.nowcoder.com/jobs/detail/356036",
+        "displayUrl": "https://www.nowcoder.com/jobs/detail/356036",
+        "snippet": "15-20K * 12薪 Unity3D客户端 深圳 本科 岗位职责 我们致力于创造极具创意和乐趣的经典多人互动游戏,正在寻找热爱游戏,充满激情与创意,且具备扎实编程基础的应届毕业生加入我们的游戏开发",
+        "summary": "15-20K * 12薪 Unity3D客户端 深圳 本科 岗位职责 我们致力于创造极具创意和乐趣的经典多人互动游戏,正在寻找热爱游戏,充满激情与创意,且具备扎实编程基础的应届毕业生加入我们的游戏开发团队。作为游戏客户端开发工程师,你将参与到从创意构思到游戏发布的整个开发流程,一起为玩家带来难忘的游戏体验。【岗位职责】1、使用Unity引擎开发和维护游戏客户端,针对产品需求进行框架及功能设计;2、与策划和美术团队紧密合作,将创新的设计理念和经典的游戏元素融入游戏中,一起讨论并提出技术方案迭代优化游戏的细节体验;3、为游戏玩法和系统开发相关的编辑器,为策划美术的创作以及测试提升效率;4、在网络、性能优化、音视频、交互等基础技术上提供解决方案,支撑游戏所需的体验;5、编写高质量的代码,确保游戏的可维护性和扩展性,为未来的创意更新奠定基础。 岗位要求 【岗位要求】1、全日制本科及以上学历,专业不限,计算机科学或相关专业优先;2、熟悉C#编程语言,并具有使用Unity引擎进行游戏开发的经验;3、对图形、物理、动画、AI、帧同步等某一领域比较熟悉;4、有良好的英语阅读能力,能够理解和使用技术相关的英文文档和资源;5、具备良好的创意思维,愿意尝试并实现新的游戏概念和玩法;6、具备良好的团队协作能力,能够与跨职能团队紧密合作,推动项目进展;7、具备良好的沟通能力,分析解决问题能力,责任心强,有较高的自我管理能力。加分项!1、有完整的Unity游戏项目经验,或发布过创意游戏作品,可以提供视频链接,steam链接和PC端程序;2、参与游戏开发相关的竞赛或开源项目,展现出你的创意与技术实力;3、有自己的Github或者Gitee仓库;4、热爱游戏,对游戏有自己的独立见解,对玩过的游戏常主动去探索背后的技术实现,有志于在游戏开发方向发展。 深圳市南山区沙河街道华侨城东部工业区A5栋401A 牛客",
+        "siteName": "牛客网",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/jobs/detail/356036",
+        "datePublished": "2024-09-13T12:31:00+08:00",
+        "dateLastCrawled": "2024-09-13T12:31:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
