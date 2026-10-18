@@ -3626,7 +3626,7 @@
     ]
   },
   "a0e7c8275d3723ba807648233432a10f6a0914e677d7cda966ae3a6f7d1ff953": {
-    "day": "2026-10-17",
+    "day": "2026-10-18",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -3662,22 +3662,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.3",
-        "name": "北京柠檬微趣科技股份有限公司招聘信息_武汉大学校园宣讲会-海投网",
-        "url": "https://xjh.haitou.cc/article/1858426.html",
-        "displayUrl": "https://xjh.haitou.cc/article/1858426.html",
-        "snippet": "举办地点: 就业中心第一报告厅 发布时间: 单位信息 北京柠檬微趣科技股份有限公司 其他企业 200-500人 北京市北京市西城区 招聘公告(简章) 【参加线下宣讲会】 1、直接笔试+面试,通过当天发",
-        "summary": "举办地点: 就业中心第一报告厅 发布时间: 单位信息 北京柠檬微趣科技股份有限公司 其他企业 200-500人 北京市北京市西城区 招聘公告(简章) 【参加线下宣讲会】 1、直接笔试+面试,通过当天发offer! 2、线下面试速度更快,线下会进行3轮面试,对比线上流程更快! 3、宣讲会积极互动还可领取宾果周边大礼包! 【公司介绍】 柠檬微趣, 一家有趣又有料的休闲手游公司。公司 2008 年成立, 创始团队来自清华大学、北京航空航天大学等名校。 从 90 后一代经典的《梦幻蛋糕店》到与迪士尼合作的《冰雪奇缘缤纷乐》,从国内火爆手游《宾果消消消》,到海外玩家喜爱的《 Merge County 》、《 Gossip Harbor 》等系列手游, 柠檬微趣拥有 3 亿 + 游戏用户,遍及 100 余个国家和地区。 我们在休闲游戏品类上,持续耕耘,维护好老玩家,新项目稳定开发,企业保持稳健发展。 【宣讲会流程】 公司介绍&岗位福利介绍——笔试——面试 客户端开发工程师 岗位职责: 1、使用 c++ 和 cocos2d-x 开发 ios/ andriod 手机游戏; 2、研究、优化 cocos2d-x 引擎; 3、参与 ios/andriod 游戏的设计与实现,编写接口文档;   4、与团队其他角色一起协作,保证系统的可用性和稳定性。 任职要求: 1、本科及以上学历,计算机相关专业; 2、有 Cocos2d-x 或其他游戏引擎使用 / 开发经验优的责任心、执行力,喜欢创业的环境和氛围;   4、热爱技术,有钻研精神,喜欢挑战;   5、准确、清晰语言表达能力,良好的沟通能力;   6、优秀的编程基础,算法、逻辑基础扎实。 招聘人数: 5 人 薪资范围: 15-25K ,年包 14 薪起 2 、 U3D 客户端开发工程师 岗位职责: 1、使用 U3D 引擎, lua 和 C# 开发手机",
-        "siteName": "杭州校园招聘",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://xjh.haitou.cc/article/1858426.html",
-        "datePublished": "2023-10-16T19:00:00+08:00",
-        "dateLastCrawled": "2023-10-16T19:00:00Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.4",
         "name": "柠檬微趣游戏策划实习生_牛客网",
         "url": "https://www.nowcoder.com/discuss/489075246595649536",
         "displayUrl": "https://www.nowcoder.com/discuss/489075246595649536",
@@ -3693,7 +3677,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.5",
+        "id": "https://api.bochaai.com/v1/#WebPages.4",
         "name": "柠檬微趣2024最新实习_校园招聘信息 - 实习僧",
         "url": "https://www.shixiseng.com/com/com_diydpwwoozto",
         "displayUrl": "https://www.shixiseng.com/com/com_diydpwwoozto",
@@ -3709,7 +3693,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "id": "https://api.bochaai.com/v1/#WebPages.5",
         "name": "Unity客户端开发工程师",
         "url": "https://m.zhipin.com/job_detail/745447784629b0c51XZy29i9E1VZ.html",
         "displayUrl": "https://m.zhipin.com/job_detail/745447784629b0c51XZy29i9E1VZ.html",
@@ -3719,6 +3703,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://m.zhipin.com/job_detail/745447784629b0c51XZy29i9E1VZ.html",
         "datePublished": "2022-09-10T02:11:06+08:00",
         "dateLastCrawled": "2022-09-10T02:11:06Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "name": "【招聘信息】柠檬微趣",
+        "url": "https://eco.hust.edu.cn/info/1085/12914.htm",
+        "displayUrl": "https://eco.hust.edu.cn/info/1085/12914.htm",
+        "snippet": "柠檬微趣26届春招&27届暑期实习招聘开启\n关于我们:中国领先的手机休闲游戏开发商和运营商之一,研发发行的爆款游戏有《宾果消消消》、《浪漫餐厅》等,柠檬微趣已成为合成手游赛道全球收入最高发行商!\n招聘",
+        "summary": "柠檬微趣26届春招&27届暑期实习招聘开启\n关于我们:中国领先的手机休闲游戏开发商和运营商之一,研发发行的爆款游戏有《宾果消消消》、《浪漫餐厅》等,柠檬微趣已成为合成手游赛道全球收入最高发行商!\n招聘岗位:策划类/测试类/游戏开发类/后台类/运维类/数据类/运营类\n工作地点:北京市西城区\n福利待遇:\n-\n北京户口指标、一年免费住宿\n-\n七险一金、丰厚年终奖、免费早晚餐\n-\n带薪年假、带薪全员旅游、年度体检\n-\n导师11带教、学习津贴、节日礼物\n-\n社团活动、生日礼物、水果下午茶\n内推链接:https://app.mokahr.com/m/recommendation-apply/microfunhr/36717?sharePageId=4467201&recommendCode=NTAcHUY\n内推码:NTAcHUY(简历优先筛选,加速流程推进)\n27届暑期实习生交流:https://h.qr61.cn/oaxbkW/qFg2upC",
+        "siteName": "经济学院",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://eco.hust.edu.cn/info/1085/12914.htm",
+        "datePublished": "2026-04-17T00:00:00+08:00",
+        "dateLastCrawled": "2026-04-17T00:00:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
@@ -3742,22 +3742,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.8",
-        "name": "【招聘信息】柠檬微趣",
-        "url": "https://eco.hust.edu.cn/info/1085/12914.htm",
-        "displayUrl": "https://eco.hust.edu.cn/info/1085/12914.htm",
-        "snippet": "柠檬微趣26届春招&27届暑期实习招聘开启\n关于我们:中国领先的手机休闲游戏开发商和运营商之一,研发发行的爆款游戏有《宾果消消消》、《浪漫餐厅》等,柠檬微趣已成为合成手游赛道全球收入最高发行商!\n招聘",
-        "summary": "柠檬微趣26届春招&27届暑期实习招聘开启\n关于我们:中国领先的手机休闲游戏开发商和运营商之一,研发发行的爆款游戏有《宾果消消消》、《浪漫餐厅》等,柠檬微趣已成为合成手游赛道全球收入最高发行商!\n招聘岗位:策划类/测试类/游戏开发类/后台类/运维类/数据类/运营类\n工作地点:北京市西城区\n福利待遇:\n-\n北京户口指标、一年免费住宿\n-\n七险一金、丰厚年终奖、免费早晚餐\n-\n带薪年假、带薪全员旅游、年度体检\n-\n导师11带教、学习津贴、节日礼物\n-\n社团活动、生日礼物、水果下午茶\n内推链接:https://app.mokahr.com/m/recommendation-apply/microfunhr/36717?sharePageId=4467201&recommendCode=NTAcHUY\n内推码:NTAcHUY(简历优先筛选,加速流程推进)\n27届暑期实习生交流:https://h.qr61.cn/oaxbkW/qFg2upC",
-        "siteName": "经济学院",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://eco.hust.edu.cn/info/1085/12914.htm",
-        "datePublished": "2026-04-17T00:00:00+08:00",
-        "dateLastCrawled": "2026-04-17T00:00:00Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
         "name": "【校园招聘】柠檬微趣2025届实习招聘_内容_微信_公众",
         "url": "https://www.sohu.com/a/787912290_121123843",
         "displayUrl": "https://www.sohu.com/a/787912290_121123843",
@@ -3767,6 +3751,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.sohu.com/a/787912290_121123843",
         "datePublished": "2024-06-23T18:00:00+08:00",
         "dateLastCrawled": "2024-06-23T18:00:00Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "name": "「Unity3D客户端开发(柠檬微趣)招聘」-CG设计求职-火星时代教育招聘",
+        "url": "https://www.hxsd.com/zhaopin/position_detail/1085/",
+        "displayUrl": "https://www.hxsd.com/zhaopin/position_detail/1085/",
+        "snippet": "最火\nUnity3D客户端开发(柠檬微趣)\n15-30K\n代招公司:Testin\n云测\n北京\n1-3年\n本科\n...\n补充医疗保险\n带薪年假\n年终奖\n五险一金\n定期体检\n节日福利\n补充医疗保险\n带薪年",
+        "summary": "最火\nUnity3D客户端开发(柠檬微趣)\n15-30K\n代招公司:Testin\n云测\n北京\n1-3年\n本科\n...\n补充医疗保险\n带薪年假\n年终奖\n五险一金\n定期体检\n节日福利\n补充医疗保险\n带薪年假\n年终奖\n五险一金\n定期体检\n节日福利\nUnity3D\n3D游戏客户端开发经验\nUnity3D开发经验\n岗位职责:\n1、基于Unity3d引擎的手机游戏开发;\n2、负责游戏客户端相关逻辑开发。\n任职要求:\n1、国家统招本科及以上学历,计算机相关专业优先,具有1年以上Unity/Cocos引擎开发经验;\n2、熟悉Unity/Cocos引擎架构设计,熟悉Lua/JS/Python/Perl或其他脚本语言,具有严谨的逻辑思维能力;\n3、热爱生活、热爱游戏,对玩游戏和做游戏充满激情,并渴望做出成功的游戏。\n同学您好!\n您已成功报名0元试学活动,老师会在第一时间与您取得联系,请保持电话畅通!\n确定",
+        "siteName": "火星时代教育",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.hxsd.com/zhaopin/position_detail/1085/",
+        "datePublished": "2026-05-17T02:36:51+08:00",
+        "dateLastCrawled": "2026-05-17T02:36:51Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
