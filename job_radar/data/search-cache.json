@@ -3030,7 +3030,7 @@
     ]
   },
   "f40d40f6ac1db7404278dc40432c6485177930b0e3d033a2bf031d6acb2c1720": {
-    "day": "2026-10-17",
+    "day": "2026-10-18",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -3043,6 +3043,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.wondercv.com/jobs/90fSkK4.html",
         "datePublished": "2022-08-11T23:21:52+08:00",
         "dateLastCrawled": "2022-08-11T23:21:52Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.1",
+        "name": "乐元素运营实习生招聘_牛客网",
+        "url": "https://www.nowcoder.com/discuss/468367771022200832",
+        "displayUrl": "https://www.nowcoder.com/discuss/468367771022200832",
+        "snippet": "运营实习生 实习其他 上海市·黄浦区 岗位职责 1、完成日常初级运营工作。 2、需主动和业务侧沟通,定期收集用户反馈,提炼产品优化建议,推进产品的持续迭代。 3、深入理解产品内容,善于总结提炼产品优化",
+        "summary": "运营实习生 实习其他 上海市·黄浦区 岗位职责 1、完成日常初级运营工作。 2、需主动和业务侧沟通,定期收集用户反馈,提炼产品优化建议,推进产品的持续迭代。 3、深入理解产品内容,善于总结提炼产品优化建议,推进产品的持续迭代。 岗位要求 1、热爱二次元、热爱游戏并具有较好的抗压能力。 2、具备良好的文字呈现能力、数据分析能力和较强的沟通协调能力。 3、具备较强的自驱能力,工作积极主动,目标意识强。 4、具有较强的学习能力,简单掌握PS、EXCEL等基本办公软件。 5、游戏体验丰富者优先(不限手游、电脑游戏、主机游戏) 投递方式: https://app.mokahr.com/apply/leyuansu/2358#/job/8d077e9d-3a2f-4ad4-a372-82992c064729 #非技术实习信息共享#",
+        "siteName": "牛客网",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/468367771022200832",
+        "datePublished": "2023-03-23T10:46:00+08:00",
+        "dateLastCrawled": "2023-03-23T10:46:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
@@ -3066,22 +3082,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.3",
-        "name": "乐元素运营实习生招聘_牛客网",
-        "url": "https://www.nowcoder.com/discuss/468367771022200832",
-        "displayUrl": "https://www.nowcoder.com/discuss/468367771022200832",
-        "snippet": "运营实习生 实习其他 上海市·黄浦区 岗位职责 1、完成日常初级运营工作。 2、需主动和业务侧沟通,定期收集用户反馈,提炼产品优化建议,推进产品的持续迭代。 3、深入理解产品内容,善于总结提炼产品优化",
-        "summary": "运营实习生 实习其他 上海市·黄浦区 岗位职责 1、完成日常初级运营工作。 2、需主动和业务侧沟通,定期收集用户反馈,提炼产品优化建议,推进产品的持续迭代。 3、深入理解产品内容,善于总结提炼产品优化建议,推进产品的持续迭代。 岗位要求 1、热爱二次元、热爱游戏并具有较好的抗压能力。 2、具备良好的文字呈现能力、数据分析能力和较强的沟通协调能力。 3、具备较强的自驱能力,工作积极主动,目标意识强。 4、具有较强的学习能力,简单掌握PS、EXCEL等基本办公软件。 5、游戏体验丰富者优先(不限手游、电脑游戏、主机游戏) 投递方式: https://app.mokahr.com/apply/leyuansu/2358#/job/8d077e9d-3a2f-4ad4-a372-82992c064729 #非技术实习信息共享#",
-        "siteName": "牛客网",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/468367771022200832",
-        "datePublished": "2023-03-23T10:46:00+08:00",
-        "dateLastCrawled": "2023-03-23T10:46:00Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.4",
         "name": "【美术-计算机-会计】乐元素科技(北京)股份有限公司2021校园招聘",
         "url": "https://www.hljbys.org.cn/campus/view/id/17261/mark/jmsu",
         "displayUrl": "https://www.hljbys.org.cn/campus/view/id/17261/mark/jmsu",
@@ -3097,7 +3097,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.5",
+        "id": "https://api.bochaai.com/v1/#WebPages.4",
         "name": "乐元素2015校园招聘信息",
         "url": "https://www.51test.net/show/4460123.html",
         "displayUrl": "https://www.51test.net/show/4460123.html",
@@ -3113,7 +3113,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "id": "https://api.bochaai.com/v1/#WebPages.5",
         "name": "乐元素2016校园招聘信息",
         "url": "https://www.51test.net/show/7255364.html",
         "displayUrl": "https://www.51test.net/show/7255364.html",
@@ -3129,7 +3129,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.7",
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
         "name": "乐元互动(北京)游戏技术有限公司2015招聘_北京校园招聘",
         "url": "https://www.yingjiesheng.com/job-002-093-610.html",
         "displayUrl": "https://www.yingjiesheng.com/job-002-093-610.html",
@@ -3145,7 +3145,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.8",
+        "id": "https://api.bochaai.com/v1/#WebPages.7",
         "name": "新媒体设计实习生实习招聘-乐元素实习生招聘-实习僧",
         "url": "https://www.shixiseng.com/intern/inn_9ycs0tpfohxn",
         "displayUrl": "https://www.shixiseng.com/intern/inn_9ycs0tpfohxn",
@@ -3161,7 +3161,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "id": "https://api.bochaai.com/v1/#WebPages.8",
         "name": "乐元素-校园招聘",
         "url": "https://app.mokahr.com/campus_apply/leyuansu/2357#/",
         "displayUrl": "https://app.mokahr.com/campus_apply/leyuansu/2357#/",
@@ -3171,6 +3171,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://app.mokahr.com/campus_apply/leyuansu/2357#/",
         "datePublished": "2004-11-22T15:36:42+08:00",
         "dateLastCrawled": "2004-11-22T15:36:42Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "name": "加入我们",
+        "url": "https://www.happyelements.com/jobs/campus/",
+        "displayUrl": "https://www.happyelements.com/jobs/campus/",
+        "snippet": "新出发京零字第石160026号 校园招聘 乐元素2020 届毕业生校园招聘 校园招聘Opening! 我们 Open的职位( 工作地:北京 /上海) 包括: Game Designer/ 休闲游戏策划",
+        "summary": "新出发京零字第石160026号 校园招聘 乐元素2020 届毕业生校园招聘 校园招聘Opening! 我们 Open的职位( 工作地:北京 /上海) 包括: Game Designer/ 休闲游戏策划 岗位职责: 1、负责设计游戏新玩法,新功能,撰写策划文档; 2、负责与相关的产品、美术、开发、测试等团队成员进行沟通,落实具体的游戏设计需求的实施; 3、关注游戏产品数据,不断优化产品方案; 4、关注玩法功能,推进功能进度、关注美术设计、用户体验设计; 5、关注游戏市场趋势,关注产品大方向,设计合适不同时期的产品。 我们希望你: 1、热爱游戏,有丰富的游戏经验,熟悉休闲游戏类型; 2、热爱研究游戏,有敏捷的思考能力,能分析游戏系统和关卡的设计原理,并提出自己的改进建议; 3、热爱互联网/游戏行业,关注互联网产品,关注用户体验,喜欢产品设计; 4、有大量且深度的消除、模拟经营、休闲小游戏体验者优先; 5、2018届本科/硕士生,专业不限,广告营销类、经济学、心理学、电影类、哲学类、计算机类等专业优先。 Gameplay Programmer/Software Engineer 前端 /后端 工程 师 我们的游戏需要处理大量增长的用户带来的海量请求和数据。无论是UI面板构建,游戏玩法开发,渲染效率优化,动画效果展现,存储系统搭建,集群升级扩容,还是游戏配套工具,您会面临各种最具挑战性的技术问题,需要提供最佳的解决方案。 您会成为顶级游戏开发团队的一员,参与国内顶尖游戏的开发。随着您个人的快速成长,游戏业务的高速发展,我们为您提供灵活的转换团队和项目的机会。 我们招募 - Unity Programmer - Java 开发工程师 - Cocos2dx 开发工程师 我们希望你 - 有良好的计算机基础,对操作系统、数据结构、网络通讯协议、数据库等基础知识都有不错的掌握 - 对技术有足",
+        "siteName": "www.happyelements.com",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.happyelements.com/jobs/campus/",
+        "datePublished": "2020-01-01T00:00:00+08:00",
+        "dateLastCrawled": "2020-01-01T00:00:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
