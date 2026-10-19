@@ -11,6 +11,10 @@
     "2026-10-18": {
       "search": 24,
       "details": 200
+    },
+    "2026-10-19": {
+      "search": 1,
+      "details": 200
     }
   },
   "weeks": {
@@ -43,6 +47,11 @@
       ],
       "limit": 50000,
       "search": 88
+    },
+    "2026-W43": {
+      "charges": [],
+      "limit": 50000,
+      "search": 1
     }
   },
   "paused": null
