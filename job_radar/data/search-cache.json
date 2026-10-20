@@ -588,7 +588,7 @@
     ]
   },
   "1ceb3a84c2a0ccc7aab879afb7c8fa4bd34877d4222a279c5c1bd050abe76894": {
-    "day": "2026-10-16",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -608,22 +608,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.1",
-        "name": "【秋季校招】游戏产品发行实习-心动网络股份有限公司实习生招聘-Hi实习",
-        "url": "https://shixi.gaodun.com/Posts/8932413.html",
-        "displayUrl": "https://shixi.gaodun.com/Posts/8932413.html",
-        "snippet": "454~863元/天|每周五天 | 招聘1人|实习6个月以上 | 上海市 2021/2022年|本科 | 专业不限 已下线 已投递 投份简历 Hi实习提示您:用人单位发布虚假招聘信息,或以任何名义向求",
-        "summary": "454~863元/天|每周五天 | 招聘1人|实习6个月以上 | 上海市 2021/2022年|本科 | 专业不限 已下线 已投递 投份简历 Hi实习提示您:用人单位发布虚假招聘信息,或以任何名义向求职者收取财物(如体检费、置装费、押金、培训费、身份证、毕业证等),均涉嫌违法,请求职者务必提高警惕。一经发现,请立即举报。举报电话:021-31590081;举报邮箱:career@hishixi.com 职位描述 工作职责: 1、负责独立或跨端游戏的全套发行运营,规划游戏版号办理、社区运营、市场构思、测试、本地化等工作,与公司各部门及外部合作方沟通对接需求、协调资源,自主且高效地推动并保证项目进度; 2、与研发进行深入合作并建立紧密联系,把控游戏开发进度,评估产品并定期向研发进行反馈,从发行与市场角度,协助研发进行产品调优、移植适配、迭代更新; 3、根据游戏调性,负责游戏的日常社区运营,丰富社区内容、提升社区活跃度,独立策划社区活动并落地执行,维护游戏口碑、把控舆情氛围。 职位要求: 1、有游戏公司的游戏策划技术/发行运营向工作经验者优先; 2、独立完成或参与过游戏的开发、策划、设计者优先,熟练使用Unity、Unreal等主流游戏开发引擎者优先; 3、思想活跃、富有创意、逻辑清晰,具有优秀的策划与文字表达能力,能够独立挖掘产品亮点,并规划产品宣发传播链及创意点,有游戏向市场推广经验者优先; 4、优秀的分析、判断、总结和学习能力,能多线程工作且承受高强度的工作压力,并在日常工作中不断进步提高; 5、拥有极强的沟通能力、团队合作能力、时间管理能力,有强烈的责任感,工作积极主动; 6、对游戏的玩法策划、剧本演出、视觉设计等多方面有自己独到的见解与判断能力,对它们的发行策略、社区调性、市场规划有深入分析研究,且输出过文字/可视化分析; 7、多年游戏经验,熟悉游戏行业发展动态,对PC",
-        "siteName": "Hi实习",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://shixi.gaodun.com/Posts/8932413.html",
-        "datePublished": "2021-08-19T17:59:29+08:00",
-        "dateLastCrawled": "2021-08-19T17:59:29Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.2",
         "name": "心动网络2023&2024美术实习生招聘宣讲会-西安科技大学艺术学院",
         "url": "https://ysxy.xust.edu.cn/info/1055/2494.htm",
         "displayUrl": "https://ysxy.xust.edu.cn/info/1055/2494.htm",
@@ -639,7 +623,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.3",
+        "id": "https://api.bochaai.com/v1/#WebPages.2",
         "name": "心动互动娱乐有限公司招聘简章-轻工科学与工程学院",
         "url": "https://qfsp.scu.edu.cn/info/1042/10375.htm",
         "displayUrl": "https://qfsp.scu.edu.cn/info/1042/10375.htm",
@@ -655,7 +639,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "id": "https://api.bochaai.com/v1/#WebPages.5",
         "name": "游戏客户端开发实习生",
         "url": "https://job.xidian.edu.cn/job/view/id/1505466",
         "displayUrl": "https://job.xidian.edu.cn/job/view/id/1505466",
@@ -671,23 +655,23 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.7",
-        "name": "【(实习)项目助理招聘】心动网络招聘信息- 超级简历WonderCV",
-        "url": "https://www.wondercv.com/jobs/K1hNK_M.html",
-        "displayUrl": "https://www.wondercv.com/jobs/K1hNK_M.html",
-        "snippet": "超级简历 APP 登录 注册 (实习)项目助理 150-200/天 (实习)项目助理 150-200/天 上海 本科 5天/周 3个月 发布于 2月21日 职位描述 游戏 职位职责:1、协助项目负责人",
-        "summary": "超级简历 APP 登录 注册 (实习)项目助理 150-200/天 (实习)项目助理 150-200/天 上海 本科 5天/周 3个月 发布于 2月21日 职位描述 游戏 职位职责:1、协助项目负责人处理项目日常工作;2、协助对部门内各游戏项目进度的协调与沟通,确保项目规范及有序运行;3、协助各发行和运营团队记录项目需求,并跟踪项目需求落实进度;职位要求:1、大学本科及以上学历;2、关注游戏圈文化,熟悉PC游戏,主机游戏和移动独立游戏;3、优秀的个人沟通能力和团队精神;4、优秀的执行能力和逻辑思维能力; 工作地址 万荣路700号大宁中心广场A2 谢先生 本周活跃 心动网络 - 招聘主管 谢先生 - 招聘主管 Hi~对我发布的职位感兴趣吗?打开App和我聊聊吧~ 三个月内共 87 位应聘者投递了该职位,您的简历与该职位的匹配度为: 323 较低 一般 较为匹配 非常匹配 公司信息 心动网络股份有限公司(简称:心动网络,新三板:833897)是verycd创始人黄一孟、戴云杰于2011年7月[注1]在上海注册成立的一家电子游戏公司。心动网络在中国大陆地区主要从事网络游戏运营和电子游戏发行业务。[1]",
-        "siteName": "超级简历WonderCV",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.wondercv.com/jobs/K1hNK_M.html",
-        "datePublished": "2022-08-11T23:21:52+08:00",
-        "dateLastCrawled": "2022-08-11T23:21:52Z",
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "name": "心动网络招聘信息-电子与信息工程学院",
+        "url": "https://see.tongji.edu.cn/info/1106/5908.htm",
+        "displayUrl": "https://see.tongji.edu.cn/info/1106/5908.htm",
+        "snippet": "一、公司简介 心动网络是一支热爱游戏、热爱用户、充满个性的团队,也是一支有技术、有梦想、坚持初心的团队。 自2003年创业以来,坚信可以用科技与艺术,智慧与勇气,让世界变得更加有趣和美好。 敢于颠覆,",
+        "summary": "一、公司简介 心动网络是一支热爱游戏、热爱用户、充满个性的团队,也是一支有技术、有梦想、坚持初心的团队。 自2003年创业以来,坚信可以用科技与艺术,智慧与勇气,让世界变得更加有趣和美好。 敢于颠覆,突破局限,只为还原游戏本身的乐趣,坚持探索,乐于创新,不断尝试去赋予游戏以新的形式。 始终倾听玩家最真实的需求与心声,打造平等且纯粹的游戏社区,也同样不囿于游戏产业,发展的视野延伸至偶像娱乐与原创动漫。 二、联系方式 心动官网: www.XD.com 心动HR官网: www.XD.com/hr/ 心动HR微信公众号:心动网络HR 三、 招聘信息 1 、招聘职位:公共关系专员 薪资区间:5K-7K 岗位职责 : 1、协助做好部门内部相关简单文档草拟工作,其中包括政府文案、汇报稿等; 2、汇总收集部门工作信息和相关行业动态并进行梳理成文; 3、协助部门领导跟进工作进程,并统计形成表格; 4、协助收集整理公司内部游戏研发进程情况以及运营相关情况; 岗位要求 : 1、全日制本科,有1-2年工作经验或应届毕业生,男生优先考虑; 2、善于沟通、协调公司内部关系,爱玩游戏者优先考虑; 3、对政府工作和公关工作有一定理解,拥有一定的文案能力。 投递简历邮箱 : daililiang@xindong.com 2 、招聘职位:移动端开发 薪资区间:8K-12K 岗位职责: 1、发统计系统移动端SDK(Android和iOS); 2、封装统计系统移动端SDK,并对外提供Unity3D/Cocos2d-x等接口调用方式; 3、移动端统计数据模型设计; 4、协助其他游戏项目组接入统计系统移动端SDK。 岗位要求: 1、熟悉Android和iOS软件开发,熟悉相应的SDK和API接口,有成熟产品开发经验; 2、了解Unity3D/Cocos2d-x等游戏开发框架工作原理,有使用经验者更佳; 3、Andro",
+        "siteName": "电子与信息工程学院",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://see.tongji.edu.cn/info/1106/5908.htm",
+        "datePublished": "2017-02-27T20:09:30+08:00",
+        "dateLastCrawled": "2017-02-27T20:09:30Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.8",
+        "id": "https://api.bochaai.com/v1/#WebPages.7",
         "name": "【游戏数据分析师实习生招聘】心动网络招聘信息- 超级简历WonderCV",
         "url": "https://www.wondercv.com/jobs/uIqXpOg.html",
         "displayUrl": "https://www.wondercv.com/jobs/uIqXpOg.html",
@@ -703,16 +687,16 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
-        "name": "心动网络招聘信息-电子与信息工程学院",
-        "url": "https://see.tongji.edu.cn/info/1106/5908.htm",
-        "displayUrl": "https://see.tongji.edu.cn/info/1106/5908.htm",
-        "snippet": "一、公司简介 心动网络是一支热爱游戏、热爱用户、充满个性的团队,也是一支有技术、有梦想、坚持初心的团队。 自2003年创业以来,坚信可以用科技与艺术,智慧与勇气,让世界变得更加有趣和美好。 敢于颠覆,",
-        "summary": "一、公司简介 心动网络是一支热爱游戏、热爱用户、充满个性的团队,也是一支有技术、有梦想、坚持初心的团队。 自2003年创业以来,坚信可以用科技与艺术,智慧与勇气,让世界变得更加有趣和美好。 敢于颠覆,突破局限,只为还原游戏本身的乐趣,坚持探索,乐于创新,不断尝试去赋予游戏以新的形式。 始终倾听玩家最真实的需求与心声,打造平等且纯粹的游戏社区,也同样不囿于游戏产业,发展的视野延伸至偶像娱乐与原创动漫。 二、联系方式 心动官网: www.XD.com 心动HR官网: www.XD.com/hr/ 心动HR微信公众号:心动网络HR 三、 招聘信息 1 、招聘职位:公共关系专员 薪资区间:5K-7K 岗位职责 : 1、协助做好部门内部相关简单文档草拟工作,其中包括政府文案、汇报稿等; 2、汇总收集部门工作信息和相关行业动态并进行梳理成文; 3、协助部门领导跟进工作进程,并统计形成表格; 4、协助收集整理公司内部游戏研发进程情况以及运营相关情况; 岗位要求 : 1、全日制本科,有1-2年工作经验或应届毕业生,男生优先考虑; 2、善于沟通、协调公司内部关系,爱玩游戏者优先考虑; 3、对政府工作和公关工作有一定理解,拥有一定的文案能力。 投递简历邮箱 : daililiang@xindong.com 2 、招聘职位:移动端开发 薪资区间:8K-12K 岗位职责: 1、发统计系统移动端SDK(Android和iOS); 2、封装统计系统移动端SDK,并对外提供Unity3D/Cocos2d-x等接口调用方式; 3、移动端统计数据模型设计; 4、协助其他游戏项目组接入统计系统移动端SDK。 岗位要求: 1、熟悉Android和iOS软件开发,熟悉相应的SDK和API接口,有成熟产品开发经验; 2、了解Unity3D/Cocos2d-x等游戏开发框架工作原理,有使用经验者更佳; 3、Andro",
-        "siteName": "电子与信息工程学院",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://see.tongji.edu.cn/info/1106/5908.htm",
-        "datePublished": "2017-02-27T20:09:30+08:00",
-        "dateLastCrawled": "2017-02-27T20:09:30Z",
+        "id": "https://api.bochaai.com/v1/#WebPages.8",
+        "name": "【网易游戏】游戏客户端开发实习生招聘_招聘信息_牛客网",
+        "url": "https://ac.nowcoder.com/discuss/584557",
+        "displayUrl": "https://ac.nowcoder.com/discuss/584557",
+        "snippet": "1.根据策划需求,对游戏客户端模块进行设计和开发; 2.对游戏客户端已有功能模块,动作行为逻辑,AI等进行优化。 3.研发所需的各类工具,编辑器等内容的再开发以及调整优化; 4.针对各个发布平台进行游",
+        "summary": "1.根据策划需求,对游戏客户端模块进行设计和开发; 2.对游戏客户端已有功能模块,动作行为逻辑,AI等进行优化。 3.研发所需的各类工具,编辑器等内容的再开发以及调整优化; 4.针对各个发布平台进行游戏性能优化。 该岗位欢迎2022届及之后毕业的同学投递 1.计算机、数字媒体技术或相关专业,本科及以上学历; 2.精通C/C++编程语言,具备软件工程思想; 3.扎实的计算机基础知识,深入理解数据结构,算法,操作系统等知识; 4.良好的逻辑综合分析能力,以及强烈的解决问题的意愿; 5.强烈的求知欲,和与之相适应的学习能力; 6.良好的沟通能力,能清晰、准确的在团队成员中传达自己的想法; 7.有美术功底,喜欢游戏或动作电影优先; 8.能保证每周实习4~5天,连续实习4个月的学生优先。 【投递方式】 请将简历发至 suqihao@corp.netease.com。",
+        "siteName": "牛客竞赛",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://ac.nowcoder.com/discuss/584557",
+        "datePublished": "2020-12-30T10:07:00+08:00",
+        "dateLastCrawled": "2020-12-30T10:07:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
