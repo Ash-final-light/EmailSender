@@ -886,7 +886,8 @@
   "remaining_unprocessed": 0,
   "archived_historical": 0,
   "visible_total": 2,
-  "status": "attempting",
+  "status": "sent",
   "message_id": "<179247543761.2985.9434458642094740483@qq.com>",
-  "reserved_at": "2026-10-20T05:50:37.615986+00:00"
+  "reserved_at": "2026-10-20T05:50:37.615986+00:00",
+  "sent_at": "2026-10-20T05:50:43.995976+00:00"
 }
