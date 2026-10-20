@@ -1285,7 +1285,7 @@
     ]
   },
   "65448cc0791afda269097746d6a2ad0e7c870774a3aa6c7dc714d914e12c4992": {
-    "day": "2026-10-16",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -1426,22 +1426,6 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://hr.xishanju.com/school-job.html?typeId=1",
         "datePublished": "2023-02-27T05:36:33+08:00",
         "dateLastCrawled": "2023-02-27T05:36:33Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
-        "name": "【招聘信息】珠海市重点企业招聘信工专场--珠海金山网络游戏科技有限公司-广东工业大学信息工程学院",
-        "url": "https://xxgcxy.gdut.edu.cn/info/1276/4899.htm",
-        "displayUrl": "https://xxgcxy.gdut.edu.cn/info/1276/4899.htm",
-        "snippet": "企业简介:\n1995年,西山居成立于珠海,是中国大陆历史最悠久的游戏工作室,国内唯一一家使用自家研发的游戏引擎游戏开发商,至今已研发运营超过数十款网络游戏,涉及包括武侠、二次元、科幻、棋牌、换装养成、",
-        "summary": "企业简介:\n1995年,西山居成立于珠海,是中国大陆历史最悠久的游戏工作室,国内唯一一家使用自家研发的游戏引擎游戏开发商,至今已研发运营超过数十款网络游戏,涉及包括武侠、二次元、科幻、棋牌、换装养成、军事等诸多品类,创造出无数经典传说。其中《剑侠情缘》系列已成功拓展至亚洲市场,自研的3D引擎也是业界尖端之一。\n目前西山居在八大领域——游戏、影视、动画、文学、戏剧、音乐、竞技、高端文化周边引领跨界联动,全方位进军文化产业。\n“创造快乐,传递快乐,分享快乐”一直是西山居士们的创作宗旨。西山居以领先的技术作为坚实的基石,历经20多年传承,初心未改,不断书写江湖新篇章!\n联系人:\n王佳琪\n联系电话:13527207252\n地址:珠海市高新区唐家湾镇前岛环路325号102室、202室、302室、402室,327号102室、202室,329号\nE-mail:wangjiaqi1@kingsoft.com\n【职位一】\n职位名称:【校招】客户端开发工程师\n人数:20\n学历要求:本科及以上学历\n专业要求:专业不限\n薪酬待遇:10k-20k\n职位要求:\n1、与西山居技术大牛一起,负责具体项目开发工作;\n2、游戏核心组件和模块的封装,满足不同功能模块的实现需求;\n3、与服务端、美术、策划保持良好沟通,确保程序功能与设计需求一致;\n4、研发各类工具,编辑器等内容的再开发以及调整优化;\n5、日常bug维护,保持代码的高效和优雅。\n岗位要求:\n1、全日制本科及以上学历,计算机及相关专业毕业,基本的英语阅读与交流能力;\n2、逻辑思维能力强,思路清晰,沟通顺畅,学习能力强,有责任心;\n3、熟练掌握Go、C#、C、C++、Lua、Python等编程语言中的一种或多种者优先;\n4、有使用Unity\n、Unreal等游戏引擎使用经验者优先;\n5、在校期间有参与过游戏开发大赛或制作过独立游戏者优先;\n6、逻辑思",
-        "siteName": "xxgcxy.gdut.edu.cn",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://xxgcxy.gdut.edu.cn/info/1276/4899.htm",
-        "datePublished": "2020-09-30T00:00:00+08:00",
-        "dateLastCrawled": "2020-09-30T00:00:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
