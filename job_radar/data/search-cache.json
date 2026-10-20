@@ -1434,7 +1434,7 @@
     ]
   },
   "7ddb089b8f518fcdd57b2a45056212075dfbfbc89372cbe002019a5ba2afbfec": {
-    "day": "2026-10-16",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -1559,6 +1559,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.wondercv.com/jobs/rICLICA.html",
         "datePublished": "2023-11-28T00:03:47+08:00",
         "dateLastCrawled": "2023-11-28T00:03:47Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "name": "实习经验分享完美世界 C游戏研发岗_牛客网",
+        "url": "https://www.nowcoder.com/discuss/353154402947112960",
+        "displayUrl": "https://www.nowcoder.com/discuss/353154402947112960",
+        "snippet": "个人介绍: 昵称: 病名为菜 学校: 泽江大学 年级: 19届 专业: 软件工程 实习公司: 完美世界 实习岗位: C++游戏研发 公司部门业务介绍: 技术支持平台 技术栈介绍: Unity3D、C#",
+        "summary": "个人介绍: 昵称: 病名为菜 学校: 泽江大学 年级: 19届 专业: 软件工程 实习公司: 完美世界 实习岗位: C++游戏研发 公司部门业务介绍: 技术支持平台 技术栈介绍: Unity3D、C#、C++ 能否转正: 未知 实习待遇: 200一天,有免费宿舍、餐补 公司大致性别比例: 技术岗几乎全男性,非技术岗(美术、策划、运营等等)几乎全女性,总体算大概五五开 发展前景: 做游戏去不了网易腾讯,完美应该算还不错的选择 实习体会 实习了一个月,公司没有实习生培训流程什么的,项目又刚刚经历了第一次测试,所有大佬们都比较忙,几乎没什么时间管我,前半个月就是在 带薪自习 (突然兴奋?),后来提了两个需求给我做,其中有一个需求有些困难,尝试了几天没搞定后向大佬表示干不来这个需求,大佬也只说不着急再研究研究,后来总算做出来了,大佬看了后表示可以,不过也没有仔细审核用到项目中去(小失落)。 总的来说实习的时候没多少活,有比较多的时间可以自己学习,大佬可以说非常平易近人了,根据你感兴趣的方向给你安排一些需求,不急着产出有足够的时间学习研究,请教问题的时候就像坐你旁边的程序小哥,完全没什么架子,这点上体验比较好。 其他你想分享的: 需求少其实对我来说还是比较好的,毕竟我这么菜还是要多腾出点时间来多看多学为秋招准备。如果期待有 完整规范的培训流程 ,完美并不满足。 #实习# #C/C++# #完美世界#",
+        "siteName": "牛客网",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/353154402947112960",
+        "datePublished": "2018-07-08T08:41:00+08:00",
+        "dateLastCrawled": "2018-07-08T08:41:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
