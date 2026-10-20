@@ -2381,7 +2381,7 @@
     ]
   },
   "f4e2591678d60c93abbed7b9587f811abd722835c2433560e5c1416d64dfac8d": {
-    "day": "2026-10-17",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -2465,22 +2465,6 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.6",
-        "name": "「职位对比」盛趣游戏 游戏客户端U3D开发(实习)怎么样 - BOSS直聘",
-        "url": "https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
-        "displayUrl": "https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
-        "snippet": "职位详情 上海 本科 在校/应届 Unity3D C/C++ C# Lua Python Unity3D开发经验 计算机/软件工程相关专业 岗位职责:1、负责游戏客户端的游戏逻辑模块的搭建和实现;您可",
-        "summary": "职位详情 上海 本科 在校/应届 Unity3D C/C++ C# Lua Python Unity3D开发经验 计算机/软件工程相关专业 岗位职责:1、负责游戏客户端的游戏逻辑模块的搭建和实现;您可以Carry游戏客户端,搭建与实现富有创意的游戏逻辑模块;2、运用您的火 boss 眼金睛深入分析系统的底 BOSS直聘 层模块,发动技能对其进行必要的修改;3、控制游戏软件产品性能和质量;",
-        "siteName": "BOSS直聘",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
-        "datePublished": "2024-11-18T14:47:10+08:00",
-        "dateLastCrawled": "2024-11-18T14:47:10Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.7",
         "name": "【游戏策划实习生招聘】盛趣信息招聘信息- 超级简历WonderCV",
         "url": "https://www.wondercv.com/jobs/9PzGTlE.html",
         "displayUrl": "https://www.wondercv.com/jobs/9PzGTlE.html",
@@ -2490,6 +2474,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.wondercv.com/jobs/9PzGTlE.html",
         "datePublished": "2021-08-04T04:03:52+08:00",
         "dateLastCrawled": "2021-08-04T04:03:52Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.7",
+        "name": "「职位对比」盛趣游戏 游戏客户端U3D开发(实习)怎么样 - BOSS直聘",
+        "url": "https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
+        "displayUrl": "https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
+        "snippet": "职位详情 上海 本科 在校/应届 Unity3D C/C++ C# Lua Python Unity3D开发经验 计算机/软件工程相关专业 岗位职责:1、负责游戏客户端的游戏逻辑模块的搭建和实现;您可",
+        "summary": "职位详情 上海 本科 在校/应届 Unity3D C/C++ C# Lua Python Unity3D开发经验 计算机/软件工程相关专业 岗位职责:1、负责游戏客户端的游戏逻辑模块的搭建和实现;您可以Carry游戏客户端,搭建与实现富有创意的游戏逻辑模块;2、运用您的火 boss 眼金睛深入分析系统的底 BOSS直聘 层模块,发动技能对其进行必要的修改;3、控制游戏软件产品性能和质量;",
+        "siteName": "BOSS直聘",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.zhipin.com/job_pk/523e63b0e38fca121H183dW0FlJQ/94a581d86c90e23d1HFz3dy_FFdV.html",
+        "datePublished": "2024-11-18T14:47:10+08:00",
+        "dateLastCrawled": "2024-11-18T14:47:10Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
