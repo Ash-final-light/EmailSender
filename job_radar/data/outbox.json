@@ -1,6 +1,6 @@
 {
-  "created_at": "2026-10-16T14:16:40.106655+00:00",
-  "date": "2026-10-16",
+  "created_at": "2026-10-20T05:50:37.607750+00:00",
+  "date": "2026-10-20",
   "jobs": [
     {
       "id": "777492bbd2ad28aa780818b9694444f95f91b46aab9f80b3a2057ca838c0f223",
@@ -11,7 +11,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "f89c2e760664a7ec7f7c5121e6c554518a4898377a475160107f3c618d051386",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -37,7 +37,7 @@
       },
       "classification": "verified_detail",
       "signature": "cc8fd0b17940fb0b3902628bbc46c9fb6f96d4a351b0766cf5b545a7286cf159",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "6c2613e1cac1745d29332715bb3311c5556f56f58eadd14a6f6a289c15e36c7e",
@@ -48,7 +48,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "ae4fbd7b0ed9a8cacebc883b098fc123038f4e6d63540fb099519ae1849d40f3",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -74,7 +74,7 @@
       },
       "classification": "verified_detail",
       "signature": "6b0068429fee47a7deeed5e7e567212debfb913b829056e3e188113184245e23",
-      "change": "首次发现"
+      "change": "本期在列"
     }
   ],
   "engine_unspecified": [
@@ -87,7 +87,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "8418b06f17319bb568d826e7d1c04d43dd06aabf65fa8e9ee5c7e2b13e7e4f69",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -113,7 +113,7 @@
       },
       "classification": "engine_unspecified",
       "signature": "907389cb573ba2eac41ec6171df05b90a97b289737c8eb83e543e921be10e96b",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "0e54dd0e8c49778d8af2e77920a0a0d23e8c50b9960c65c66f0cd35aedb6c0a6",
@@ -124,7 +124,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "76435ceeac67a2d77bfdd396bf04e40da0f0bdff2d6da6ebb805abebc0234427",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -150,7 +150,7 @@
       },
       "classification": "engine_unspecified",
       "signature": "5b0126b2e82f1417dac525c3b7535fabc5b85a14a58ea370b0969a8d099e4817",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "df47f6c751f40036884d2c5dbe6d36dedf109954956c9b615829c3fedffb1cfc",
@@ -161,7 +161,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "1f0ceca529ff6e9d082e799d143300a3640f53b4bdf2d3578a4e9e6cb69d7a7b",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -187,7 +187,7 @@
       },
       "classification": "engine_unspecified",
       "signature": "74f3ea46c1122ec67b92bc419accb0f726f10c4965ead2de275c20d8cc340c92",
-      "change": "首次发现"
+      "change": "本期在列"
     }
   ],
   "leads": [
@@ -196,11 +196,11 @@
       "url": "https://m.zhipin.com/job_detail/b6b51ba0782699d41XB52di-EFtZ.html",
       "title": "Unity客户端开发实习生",
       "text": "200-400元/天\n杭州 5天/周 6个月 本科\n年终奖 定期体检 \n职位描述\n微信扫码分享 \nUnity3D\n客户端实习生:\n岗位职责\n1.辅助C#+xlua编程开发\n2.辅助UI页面搭建以及逻辑编写;\n3.配合团队其他程序共同开发。\n岗位需求:\n1.大学本科及以上学历,计算机软件专业或数学专业优先;\n2.unity开发经验,熟悉unity开发流程;\n2.熟悉C#编程开发,熟悉lua的优先;\n3.掌握常用的数据结构与算法;\n4.有项目展示的优先;\n5.英语四级,能无压力阅读开发文档;\n6.愿意了解 游戏客户端开发框架/性能优化/美术标准制定/编辑器开发/制作管线/资源管理/开发流程/同步模型/网络优化/游戏引擎 中的任一模块;\n7.学习能力强,抗压能力强。\n周女士 3日内活跃\n 杭州以咏今朝信息科技 · HR \n竞争力分析\n查看完整个人竞争力\n个人综合排名: 在 人中排名第\n一般 良好 优秀 极好\nBOSS 安全提示\nBOSS直聘严禁用人单位和招聘者用户做出任何损害求职者合法权益的违法违规行为,包括但不限于扣押求职者证件、收取求职者财物、向求职者集资、让求职者入股、诱导求职者异地入职、异地参加培训、违法违规使用求职者简历等,您一旦发现此类行为,  \n公司介绍\n公司致力于创建一个 ONLINE STORY 游戏化内容平台,使得人们能够在碎片化的时间,扮演你想扮演的一切角色,体会到演员飙对手戏的精彩瞬间与高光互动时刻。\n我们目前已拿到顶尖美元基金的天使轮投资。核心团队来自网易、抖音、叠纸、索尼等国内外一线互联网公司。团队在游戏、社交网络领域深耕多年,拥有丰富经验,并对海外市场有着深刻理解。\n欢迎点击我们的微信公众号了解我们。\nhttps://mp.weixin.qq.com/s/J_JpANsLNEUnkh30lygi5Q\n查看全部\n工商信息\n公司名称 以咏今朝(杭州)信息",
-      "page_status": "restricted",
+      "page_status": "daily_check_limit",
       "source": "BOSS直聘",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:10:18.673730+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "7c3401618a32f0cdf04f4ee9d074d3f1219c0d1528ba8a3cbccea54faff75728",
       "deadline": null,
       "company_hint": null,
@@ -229,15 +229,89 @@
       "change": "本期在列"
     },
     {
+      "id": "060bea754f5899e6e54681aa90e5a65e080fb9cf0e096b170dc8a634e67af3ae",
+      "url": "https://www.shixiseng.com/intern/inn_bhqvpwuxysnr",
+      "title": "校园招聘-游戏客户端开发U3D实习招聘-盛趣游戏实习生招聘-实习僧",
+      "text": "工作职责 你将来做的是: 1. 负责游戏客户端的游戏逻辑模块的搭建和实现,您可以Carry游戏客户端,搭建与实现富有创意的游戏逻辑模块; 2. 利用您的火眼金睛深入分析系统的底层模块,发动技能对其进行必要的修改; 3. 作为游戏的主人,您需要控制游戏软件产品性能和质量,控制游戏软件产品性能和质量; 4. 赶走拖延症,按照进度计划完成对应的开发任务。 任职资格 我们希望你是: 1. 精通C#和C/C++、数据结构和算法,熟悉图形学; 2. 对客户端开发有浓厚兴趣,优先考虑能熟练应用unity进行开发游戏的同学。",
+      "page_status": "daily_check_limit",
+      "source": "实习僧",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-16T13:10:18.673730+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "4ffa4cd09d9d3fd5b795f9ebf283739493d575da3be15f22e44e79f3dde06b3f",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "detail",
+      "analysis": {
+        "id": "060bea754f5899e6e54681aa90e5a65e080fb9cf0e096b170dc8a634e67af3ae",
+        "title": "校园招聘-游戏客户端开发U3D实习招聘-盛趣游戏实习生招聘-实习僧",
+        "company": "盛趣游戏",
+        "city": "未披露",
+        "salary": "未披露",
+        "education": "未披露",
+        "graduation": "未披露",
+        "days_per_week": "未披露",
+        "duration": "未披露",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "负责游戏客户端游戏逻辑模块的搭建和实现，分析并修改底层模块，控制产品性能和质量，按进度完成开发任务。要求精通C#和C/C++、数据结构与算法，熟悉图形学，优先考虑能熟练应用Unity开发游戏的同学。",
+        "relevance": "职位为游戏客户端U3D实习，涉及客户端逻辑模块开发，与Unity客户端实习方向相关。",
+        "concerns": "学历、年级、出勤天数、实习时长和到岗时间均未披露，请按原文核对实习条件。",
+        "company_website": "https://www.shengqugames.com/",
+        "company_careers": "https://app.mokahr.com/campus_apply/shengqu/4078",
+        "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+      },
+      "classification": "lead",
+      "signature": "dd58b3feca0027cb6e0787c124968d38afabc12d6d54db19a7a3d6a0f64a4a27",
+      "change": "首次发现"
+    },
+    {
+      "id": "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287",
+      "url": "https://www.nowcoder.com/jobs/detail/30300000110340?channel=npJobTab&deliverSource=1",
+      "title": "游戏客户端开发实习生（U3D）-25/26届",
+      "text": "广州诗悦网络科技有限公司 游戏 不需要融资 广州 查看其他 28 个职位 0 笔试题目 46 面试经验 0 面试短评 刷真题、补算法、看面经、得内推 扫一扫,把题目装进口袋 移动版 加入我们 企业服务 校企合作 免责声明 资源导航 付费咨询 扫描二维码,进入QQ群 扫描二维码,关注牛客公众号 公司地址:北京市朝阳区北苑路北美国际商务中心K1座一层-北京牛客科技有限公司 联系方式:010-60728802 投诉举报电话:010-57596212(朝阳人力社保局) 牛客科技©2025 All rights reserved admin@nowcoder.com 京ICP备14055008号-4 增值电信业务经营许可证 营业执照 人力资源服务许可证 京公网安备 11010502036488号 我是求职者 我是招聘方 校招快人一步 注册登录 密码登录 中国+86 美国+1 加拿大+1 俄罗斯+7 埃及+20 南非+27 希腊+30 荷兰+31 比利时+32 法国+33 西班牙+34 匈牙利+36 意大利+39 罗马尼亚+...",
+      "page_status": "daily_check_limit",
+      "source": "牛客",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-18T04:56:28.249828+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "363a7a661221d8cf6ec5e68abfaea400a9775a1de18b0dd0af2aac34f6b42b9a",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "detail",
+      "analysis": {
+        "id": "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287",
+        "title": "游戏客户端开发实习生（U3D）-25/26届",
+        "company": "广州诗悦网络科技有限公司",
+        "city": "广州",
+        "salary": "未披露",
+        "education": "未披露",
+        "graduation": "25/26届",
+        "days_per_week": "未披露",
+        "duration": "未披露",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "原文仅标题和公司信息，未披露具体岗位职责。",
+        "relevance": "标题为游戏客户端开发实习生（U3D），与Unity客户端实习方向相关。",
+        "concerns": "正文为页面导航和公司信息，缺少职责、要求、出勤和实习时长等岗位详情，请按原文核对实习条件。",
+        "company_website": "https://www.shiyue.com/",
+        "company_careers": "https://campus.shiyue.com/",
+        "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+      },
+      "classification": "lead",
+      "signature": "d075178da75de2b6fb26b23d9e510315592a70e09d6043908d609dc31d4d2ba3",
+      "change": "首次发现"
+    },
+    {
       "id": "f1f7950efb310cc470f45d95e182f5e753f22772cd64025fefafd1a697c077c9",
       "url": "https://www.zhipin.com/job_detail/43965a707f20be9b03V43dW4EVtU.html",
       "title": "「Unity开发实习生招聘」_放置网络招聘-BOSS直聘",
       "text": "招聘中 150-200元/天 广州 5天/周 6个月 本科 节日福利 团建聚餐 餐补 带薪年假 全勤奖 五险一金 节日福利 团建聚餐 餐补 带薪年假 全勤奖 五险一金 Unity开发实习生 150-200元/天 节日福利 团建聚餐 餐补 带薪年假 全勤奖 五险一金 节日福利 团建聚餐 餐补 带薪年假 全勤奖 五险一金 点击登录,立即与BOSS沟通 各大行业职位任你选 首次验证通过即注册BOSS直聘账号 +86 中国大陆 +852 中国香港 +853 中国澳门 +886 中国台湾 +1 美国 +81 日本 +44 英国 +82 韩国 +33 法国 +7 俄罗斯 +39 意大利 +65 新加坡 +63 菲律宾 +60 马来西亚 +64 新西兰 +34 西班牙 +95 缅甸 +230 毛里求斯 +263 津巴布韦 +20 埃及 +92 巴基斯坦 +880 孟加拉国 发送验证码 登录/注册 已阅读并同意BOSS直聘《用户协议》《隐私政策》 ,允许BOSS直聘统一管理本人账号信息 公司基本信息 不需要融资 20-99人 职位描述 1、负责手游项目的逻辑功能实现; 2、负责与服务器相应逻辑协议的整合; 3、负责与相关策划、美术协同工作; 任职要求: 1、计算机、软件工程等相关专业本科及以上学历; 2、熟练lua语言,数据结构、算法; 3、热爱游戏行业,有较强的学习能力了和技术开发能力,责任心强,拥有良好的团队协作能力 公司优势: 【薪酬】正式员工按能力定薪、半年调薪机会;五险一金、餐补、全勤奖、项目奖金; 【工作时间】弹性工作制,大小周休息 【假期】法定节假日、年休假、带薪病假、婚假、产假、陪产假等一应俱全; 【福利】丰富零食饮料免费畅享;节日礼品、下午茶、部门团建、聚餐;加班打车报销; 【发展】专注游戏研发,多个项目并行开发;项目管理醇熟,精英化团队、高效协作;现金流稳定、发展可期;",
-      "page_status": "restricted",
+      "page_status": "daily_check_limit",
       "source": "BOSS直聘",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:10:18.673730+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
       "raw_hash": "4b1074d9a35a54ae6b8ff3eb9ddaeab61dbc9024b6f8e583d02c68649c4544c0",
       "deadline": null,
       "company_hint": null,
@@ -266,22 +340,133 @@
       "change": "本期在列"
     },
     {
-      "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
-      "url": "https://ac.nowcoder.com/discuss/584557",
-      "title": "【网易游戏】游戏客户端开发实习生招聘",
-      "text": "【网易游戏】游戏客户端开发实习生招聘_招聘信息_牛客网 首页 比赛 tracker 题库 课程 竞赛讨论区 登录 / 注册 去牛客 首页 > 【网易游戏】游戏客户端开发实习生招聘 网易游戏-Austin 编辑于  2020-12-30 10:07 + 关注 【网易游戏】游戏客户端开发实习生招聘 【职位描述】 1.根据策划需求，对游戏客户端模块进行设计和开发； 2.对游戏客户端已有功能模块，动作行为逻辑，AI等进行优化。 3.研发所需的各类工具，编辑器等内容的再开发以及调整优化； 4.针对各个发布平台进行游戏性能优化。 【职位要求】 该岗位欢迎2022届及之后毕业的同学投递 1.计算机、数字媒体技术或相关专业，本科及以上学历； 2.精通C/C++编程语言，具备软件工程思想； 3.扎实的计算机基础知识，深入理解数据结构，算法，操作系统等知识； 4.良好的逻辑综合分析能力，以及强烈的解决问题的意愿； 5.强烈的求知欲，和与之相适应的学习能力； 6.良好的沟通能力，能清晰、准确的在团队成员中传达自己的想法； 7.有美术功底，喜欢游戏或动作电影优先； 8.能保证每周实习4~5天，连续实习4个月的学生优先。 【投递方式】 请将简历发至 suqihao@corp.netease.com。 (1) (2) 分享 举报 浏览5191 网易游戏雷火求职资料大礼包领取 真题 历年笔试真题附答案 网易互娱雷火事业群笔试-游戏研发工程师（第二批） 网易互娱雷火校园招聘试卷-游戏研发工程师（第一批） 2017网易互娱雷火盘古实习生招聘笔试真题 全部 > 面经 面试常考问题整理 网易雷火游戏测开面试 网易雷火9.18笔试 网易笔试9.18 全部 > 内推 员工内推码获取 拼多多内推码d6j495kPqq 腾讯银行27年校招内推 字节跳动校招内推（全程推进）-内推码：8HUH9ZA 全部 > 大家都在关注 校招日程表 笔试日历 ai模拟面试 面试宝典 剑指offer 知识点专项练习 已采纳 采纳 精彩回帖 精彩 全部评论 (0) 回帖 加载中... 话题 同步到我的动态 回帖 近期热帖 面试反问阶段应该问什么？ 回复 (7) 发表于  昨天 18:16 帆软一面 回复 (8) 发表于  今天 12:28 25届双非本硕，幸好当年没去卷互联网 回复 (18) 发表于  昨天 23:27 满帮全栈一面（后端） 回复 (3) 发表于  今天 16:27 （秋招）灵犀互娱-测试开发一面 回复 (5) 发表于  10-14 17:18 历年真题 真题热练榜 24小时 技术（软件）/信息技术类 中国联通 4140 中国移动 1474 华为HUAWEI 1313 中国银行 831 牛客 569 查看全部 热门推荐 发现好帖子？赶紧 收藏 一下！！精彩内容不错过 扫码加入竞赛交流群 扫描二维码，关注牛客 意见反馈 下载牛客APP，随时随地刷题 刷真题、补算法、看面经、得内推 使用第三方账号直接登录使用吧： 更多 牛客竞赛，专业的竞技算法训练平台 扫描二维码，进入QQ群 扫码关注“比赛自动姬” 关于我们 加入我们 意见反馈 企业服务 校企合作 联系我们 免责声明 友情链接 公司地址：北京市朝阳区北苑路北美国际商务中心K1座一层-北京牛客科技有限公司 联系方式： 010-60728802 投诉举报电话： 010-57596212 （朝阳人力社保局） 牛客科技© All rights reserved admin@nowcoder.com 京ICP备14055008号-4 增值电信业务经营许可证 营业执照 人力资源服务许可证 京公网安备 11010502036488号",
-      "page_status": "public_post",
+      "id": "ac51cc435afa2e29180a292f85b3a184953e17644b4e02850b81c00e5c832d19",
+      "url": "https://www.nowcoder.com/discuss/353158918467690496",
+      "title": "Unity中国2022实习生招聘火热进行中_牛客网",
+      "text": "——关于Unity—— Unity是全球领先的实时3D互动内容创作和运营平台。包括游戏开发、美术、建筑、汽车设计、影视在内的所有创作者,都能利用Unity将他们的理想变成现实。我们相信世界会因有更多的创造者而变得更美好。 ——实习生成长项目—— 1对1导师指导 学生认可计划 大咖演讲活动 专业知识储备 职场软技能提升 实习生专属活力   ——招聘职位—— 软件工程实习生 (上海/北京) ——申请流程—— 网申时间:10月25日开启 技术测评:11月初开启 视频面试:11月-12月 Offer:12月 入职:1月上旬 ——职位描述—— 作为一名软件工程实习生,你将与其他工程师同伴们密切合作,真正推动 Unity 的一切可能性发展。你将在 Unity 引擎和服务中实现新功能,构建统一的核心可扩展用户服务。 Responsibilities 与合作伙伴和团队一起为Unity构建核心的可扩展电子商务系统和服务, 参与核心引擎开发,或是相关领域(游戏,VR/AR,数字孪生等)解决方案的开发 根据团队需求和产品规格开发新功能 协助维护相关系统软件,为如何改进现有功能,或新的功能提出建议 Requirements 本科、研究生以上在读,计算机相关专业 有一定的编程能力,熟练掌握一到两门计算机语言 自我学习能力强,能较快的掌握新知识 良好的团队沟通能力及团队合作精神,工作踏实认真,责任心强 一周工作至少3天并持续至少6个月以上 #实习生# #实习# #Unity 3D# #内推#",
+      "page_status": "daily_check_limit",
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-16T14:16:39.943674+00:00",
-      "raw_hash": "6f426cc2d340cabbbfbecf80bac4b1d0b2d53ba86317b26caba7fbea2c8c6209",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "705d16d43bc0d595573bf8fde0674b3cf2f5f632cdd5dff06439873dc4bb7792",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "public_post",
+      "analysis": {
+        "id": "ac51cc435afa2e29180a292f85b3a184953e17644b4e02850b81c00e5c832d19",
+        "title": "Unity中国2022实习生招聘火热进行中_牛客网",
+        "company": "Unity中国",
+        "city": "上海/北京",
+        "salary": "未披露",
+        "education": "本科、研究生以上在读",
+        "graduation": "未披露",
+        "days_per_week": "一周工作至少3天",
+        "duration": "持续至少6个月以上",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "软件工程实习生将与其他工程师合作，在Unity引擎和服务中实现新功能，参与核心引擎开发或游戏、VR/AR、数字孪生等领域解决方案开发，并协助维护系统、提出改进建议。",
+        "relevance": "岗位为Unity软件工程实习，涉及Unity引擎和服务开发，与Unity客户端实习方向有一定相关性。",
+        "concerns": "职位名称为软件工程实习生，未明确限定为客户端方向；招聘信息标注为2022实习生招聘，时效性存疑，请按原文核对实习条件。",
+        "company_website": null,
+        "company_careers": null,
+        "website_evidence": "官网待核实"
+      },
+      "classification": "lead",
+      "signature": "9b2e4732373e45d0ad878488481df128e8c69e85b31591cda0be37c3a4c33ff0",
+      "change": "首次发现"
+    },
+    {
+      "id": "cf1ac3386e4a992b3f7b10867b6e2ca5db6191fa6072916cd23890ac94f98007",
+      "url": "https://www.nowcoder.com/job/589?jobIds=15048&ncsr=",
+      "title": "游戏客户端开发实习生_网易游戏雷火事业群招聘内推_牛客网",
+      "text": "搜索面经/职位/试题/公司 搜索 薪资:150-200元/天|实习要求:4天/周,4个月以上 | 转正机会:有 岗位职责 1.根据策划需求,对游戏客户端模块进行设计和开发;2.对游戏客户端已有功能模块,动作行为逻辑,AI等进行优化。3.研发所需的各类工具,编辑器等内容的再开发以及调整优化;4.针对各个发布平台进行游戏性能优化。 岗位要求 1.计算机、数字媒体技术或相关专业,本科及以上学历;2.精通C/C++编程语言,具备软件工程思想;3.扎实的计算机基础知识,深入理解数据结构,算法,操作系统等知识;4.良好的逻辑综合分析能力,以及强烈的解决问题的意愿;5.强烈的求知欲,和与之相适应的学习能力;6.良好的沟通能力,能清晰、准确的在团队成员中传达自己的想法;7.有美术功底,喜欢游戏或动作电影优先;8.能保证每周实习4~5天,连续实习4个月的学生优先。 企业用户:网易游戏雷火事业群 平均简历处理率 99% 平均简历处理时间 10天 当前简历处理率 98% 当前简历处理时间 8天 游戏、游戏AI 上市公司 杭州 笔试 248 面试短评 1547 面经 2277 公司地址:北京市朝阳区北苑路北美国际商务中心K1座一层-北京牛客科技有限公司 联系方式: 010-60728802 投诉举报电话: 010-57596212 (朝阳人力社保局)",
+      "page_status": "daily_check_limit",
+      "source": "牛客",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-16T13:54:51.628822+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "365ab8b639c5ee8faafa6dc888ab5a199e2c0a0bbe3a3cd2e2dff08fc12b08a2",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "detail",
+      "analysis": {
+        "id": "cf1ac3386e4a992b3f7b10867b6e2ca5db6191fa6072916cd23890ac94f98007",
+        "title": "游戏客户端开发实习生_网易游戏雷火事业群招聘内推_牛客网",
+        "company": "网易游戏雷火事业群",
+        "city": "杭州",
+        "salary": "150-200元/天",
+        "education": "本科及以上学历",
+        "graduation": "未披露",
+        "days_per_week": "4天/周",
+        "duration": "4个月以上",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能模块、动作行为逻辑和AI，开发调整工具与编辑器，并针对发布平台进行游戏性能优化。",
+        "relevance": "职位为游戏客户端开发实习，涉及客户端模块开发与性能优化，与Unity客户端实习方向相关。",
+        "concerns": "原文未明确要求Unity引擎经验；转正机会为有，请按原文核对实习条件。",
+        "company_website": "https://game.163.com/",
+        "company_careers": "https://game.campus.163.com/",
+        "website_evidence": "预设公司域名；本次访问情况见来源状态"
+      },
+      "classification": "lead",
+      "signature": "f5a470d31f8b3cdbe720a8fbbacd85d7e2ca2a8f6a6f4dc65f11bfcf14950fd5",
+      "change": "首次发现"
+    },
+    {
+      "id": "cb8dc2ceb7dd5fafa914c3644cc4b036be7dbd6b3beed3f164df0b8e9b162d96",
+      "url": "https://www.shixiseng.com/intern/inn_rsvos6qn9r38",
+      "title": "游戏客户端软件工程师2021届实习招聘-完美世界实习生招聘-实习僧",
+      "text": "岗位职责 1. 负责游戏功能开发,通常会同时涉及客户端和服务器; 2. 负责游戏功能维护,通常会同时涉及客户端和服务器。 基本任职条件 1. 热爱游戏,对游戏研发充满热情和梦想,渴望制作出成功的游戏产品。 2. 理解、认同积极主动、认真负责的工作价值观。 岗位任职条件 1. 热爱生活、热爱游戏,对玩游戏和做游戏充满激情,并渴望做出成功的游戏; 2. 熟练掌握OOP编程思想,熟悉C++、Java、C#语言,了解或者熟悉Lua语言; 3. 有2款以上 MMORPG游戏经验者优先考虑 ; 4. 熟悉Unity3D引擎开发者优先考虑;",
+      "page_status": "daily_check_limit",
+      "source": "实习僧",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-16T13:54:51.628822+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "b9640caf285200847a774b8575d4398f4a74b14b8e643c1511edc86fdf0d7c18",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "detail",
+      "analysis": {
+        "id": "cb8dc2ceb7dd5fafa914c3644cc4b036be7dbd6b3beed3f164df0b8e9b162d96",
+        "title": "游戏客户端软件工程师2021届实习招聘-完美世界实习生招聘-实习僧",
+        "company": "完美世界",
+        "city": "未披露",
+        "salary": "未披露",
+        "education": "未披露",
+        "graduation": "2021届",
+        "days_per_week": "未披露",
+        "duration": "未披露",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "负责游戏功能开发与维护，工作通常同时涉及客户端和服务器。要求熟悉C++、Java、C#及Lua，有MMORPG经验优先，熟悉Unity3D引擎者优先。",
+        "relevance": "职位为游戏客户端软件工程师实习，优先考虑Unity3D引擎开发者，与Unity客户端实习方向相关。",
+        "concerns": "岗位同时涉及服务器开发，且为2021届实习招聘，时效性存疑；出勤、时长、到岗时间未披露，请按原文核对实习条件。",
+        "company_website": "https://www.wanmei.com/",
+        "company_careers": "https://jobs.games.wanmei.com/",
+        "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+      },
+      "classification": "lead",
+      "signature": "795eadc163df43873e72cd51f1a996ba7e7d9991ab1f87c0dbb6605ff02bb6a3",
+      "change": "首次发现"
+    },
+    {
+      "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
+      "url": "https://ac.nowcoder.com/discuss/584557",
+      "title": "【网易游戏】游戏客户端开发实习生招聘_招聘信息_牛客网",
+      "text": "1.根据策划需求,对游戏客户端模块进行设计和开发; 2.对游戏客户端已有功能模块,动作行为逻辑,AI等进行优化。 3.研发所需的各类工具,编辑器等内容的再开发以及调整优化; 4.针对各个发布平台进行游戏性能优化。 该岗位欢迎2022届及之后毕业的同学投递 1.计算机、数字媒体技术或相关专业,本科及以上学历; 2.精通C/C++编程语言,具备软件工程思想; 3.扎实的计算机基础知识,深入理解数据结构,算法,操作系统等知识; 4.良好的逻辑综合分析能力,以及强烈的解决问题的意愿; 5.强烈的求知欲,和与之相适应的学习能力; 6.良好的沟通能力,能清晰、准确的在团队成员中传达自己的想法; 7.有美术功底,喜欢游戏或动作电影优先; 8.能保证每周实习4~5天,连续实习4个月的学生优先。 【投递方式】 请将简历发至 suqihao@corp.netease.com。",
+      "page_status": "daily_check_limit",
+      "source": "牛客",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-16T13:54:51.628822+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "070d22b9a1fcf52e2433593718350b4bbc6aa05a084f2f81b6c3f2ba9ed3178e",
       "deadline": null,
       "company_hint": null,
       "evidence": "public_post",
       "analysis": {
         "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
-        "title": "【网易游戏】游戏客户端开发实习生招聘",
+        "title": "【网易游戏】游戏客户端开发实习生招聘_招聘信息_牛客网",
         "company": "网易游戏",
         "city": "未披露",
         "salary": "未披露",
@@ -291,28 +476,101 @@
         "duration": "连续实习4个月",
         "arrival": "未披露",
         "closing_date": "未披露",
-        "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能、动作行为逻辑与AI，并研发工具编辑器及进行各平台性能优化。",
-        "relevance": "游戏客户端开发实习，涉及客户端模块与性能优化，与Unity客户端实习方向存在关联，但原文未明确指定Unity引擎。",
-        "concerns": "发布信息为2020年，时效性存疑；原文未明确使用Unity引擎，出勤与时长写为优先条件而非硬性要求。",
+        "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能模块、动作行为逻辑和AI，再开发工具与编辑器，并针对发布平台进行游戏性能优化。",
+        "relevance": "职位为游戏客户端开发实习，涉及客户端模块开发与性能优化，与Unity客户端实习方向相关。",
+        "concerns": "原文未明确要求Unity引擎经验；出勤4~5天和4个月为优先条件表述；请按原文核对实习条件。",
         "company_website": "https://game.163.com/",
         "company_careers": "https://game.campus.163.com/",
         "website_evidence": "预设公司域名；本次访问情况见来源状态"
       },
       "classification": "lead",
-      "signature": "7caeea4681ab86794a08158ec418c53f9889b44e02c0debafa93737372f52090",
+      "signature": "f9f8edb0ba884d10568678b67fb0996ea485cbf081be1b03e1022763fb353aff",
+      "change": "信息变化"
+    },
+    {
+      "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
+      "url": "https://www.nowcoder.com/discuss/353157814354911232",
+      "title": "(内推)【吉比特雷霆游戏2022届实习生招聘启动】_牛客网",
+      "text": "优厚实习薪资...... 资深导师一对一指导....... 快人一步锁定offer...... 尽在【吉比特&雷霆游戏】!  关于吉比特&雷霆游戏 • 摩尔庄园、一念逍遥、问道等多款热门游戏 • 薪酬福利完善 • 行业技术研究 • 以兴趣为导向 ️  工作地点 • 深圳、厦门 ️  招聘岗位 •技术类 游戏研发实习生 游戏策划实习生 •运营类 产品运营实习生 营销策划实习生 •职能类 财务实习生 HR实习生 行政实习生 ️  面向人群 • 2022 届在校生(毕业时间:2021年9月至2022年8月) ️  实习收获 实习月薪:技术类:本科 3800 元,研究生 4800 元 非技术类:本科 3000 元,研究生 4000 元 实习租房补贴: 3300 元 / 月(深圳), 2000 元 / 月(厦门) 注:(实习表现优异者可提前拿到正式 offer ) 官方招聘推文请见: 来来来! 附送内推码:nkw2022shixi(已使用完) 第二个内推码来啦!!! nkw2022shixi2 老规矩: 阅读量 1000 以上再放送两个可使用30次的内推码~ 请大家多多帮忙顶贴转贴评论~ 也欢迎有问题的同学来私信沟通~ 感谢大家对【吉比特&雷霆游戏】的支持和关注! 全部评论 推荐 最新 楼层 吉比特&雷霆游戏内推 楼主 中南财经政法大学 数据分析师 吉比特_HR 网易互娱_市场与渠道中心_海外市场 西安电子科技大学 C++ 滴滴出行_Java 同济大学 游戏策划 嘉应学院 测试工程师 中国矿业大学 行政专员/助理 FUNPLUS_unity研发工程师 东北农业大学 游戏策划 上海海洋大学 行政专员/助理 广州大学华软软件学院 运营 40min女面试官,没开摄像头。1.自我介绍2.介绍下你的实习业务以及实习时遇到的难点,你是怎么解决的?3.TCP和UDP的区别?",
+      "page_status": "daily_check_limit",
+      "source": "牛客",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-16T13:54:51.628822+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "748c51597603ddcecca7026dd88ccf2c5de971bd8a990e6c64edf6466d79c5a4",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "public_post",
+      "analysis": {
+        "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
+        "title": "(内推)【吉比特雷霆游戏2022届实习生招聘启动】_牛客网",
+        "company": "吉比特&雷霆游戏",
+        "city": "深圳、厦门",
+        "salary": "未披露",
+        "education": "未披露",
+        "graduation": "2022届",
+        "days_per_week": "未披露",
+        "duration": "未披露",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "招聘游戏研发实习生等技术类岗位，提供实习薪资和租房补贴，实习表现优异者可提前获得正式offer。",
+        "relevance": "招聘岗位为游戏研发实习生，未明确为Unity客户端方向，与Unity客户端实习方向的相关性有限。",
+        "concerns": "岗位为泛游戏研发实习生，未明确Unity客户端职责；面向2022届，时效性存疑，请按原文核对实习条件。",
+        "company_website": "https://www.g-bits.com/",
+        "company_careers": "https://www.g-bits.com/zh/join.html",
+        "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+      },
+      "classification": "lead",
+      "signature": "886c028feae95d8269641168e32ae05b25d0316c5893544ceec56a5b67505075",
+      "change": "首次发现"
+    },
+    {
+      "id": "305377d1d2483ecae7b3f6cb663f0f69fd751dbb4cff2cce9a7dc9555d7354cf",
+      "url": "https://www.nowcoder.com/discuss/353154402947112960",
+      "title": "实习经验分享完美世界 C游戏研发岗_牛客网",
+      "text": "个人介绍: 昵称: 病名为菜 学校: 泽江大学 年级: 19届 专业: 软件工程 实习公司: 完美世界 实习岗位: C++游戏研发 公司部门业务介绍: 技术支持平台 技术栈介绍: Unity3D、C#、C++ 能否转正: 未知 实习待遇: 200一天,有免费宿舍、餐补 公司大致性别比例: 技术岗几乎全男性,非技术岗(美术、策划、运营等等)几乎全女性,总体算大概五五开 发展前景: 做游戏去不了网易腾讯,完美应该算还不错的选择 实习体会 实习了一个月,公司没有实习生培训流程什么的,项目又刚刚经历了第一次测试,所有大佬们都比较忙,几乎没什么时间管我,前半个月就是在 带薪自习 (突然兴奋?),后来提了两个需求给我做,其中有一个需求有些困难,尝试了几天没搞定后向大佬表示干不来这个需求,大佬也只说不着急再研究研究,后来总算做出来了,大佬看了后表示可以,不过也没有仔细审核用到项目中去(小失落)。 总的来说实习的时候没多少活,有比较多的时间可以自己学习,大佬可以说非常平易近人了,根据你感兴趣的方向给你安排一些需求,不急着产出有足够的时间学习研究,请教问题的时候就像坐你旁边的程序小哥,完全没什么架子,这点上体验比较好。 其他你想分享的: 需求少其实对我来说还是比较好的,毕竟我这么菜还是要多腾出点时间来多看多学为秋招准备。如果期待有 完整规范的培训流程 ,完美并不满足。 #实习# #C/C++# #完美世界#",
+      "page_status": "daily_check_limit",
+      "source": "牛客",
+      "discovered_from": "search_result",
+      "first_seen": "2026-10-20T05:08:09.107093+00:00",
+      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "raw_hash": "2ee0225b3ecdbea65b48ce79ea25123bca7b217dad9735caf005907d3afd473a",
+      "deadline": null,
+      "company_hint": null,
+      "evidence": "public_post",
+      "analysis": {
+        "id": "305377d1d2483ecae7b3f6cb663f0f69fd751dbb4cff2cce9a7dc9555d7354cf",
+        "title": "实习经验分享完美世界 C游戏研发岗_牛客网",
+        "company": "完美世界",
+        "city": "未披露",
+        "salary": "200一天",
+        "education": "未披露",
+        "graduation": "19届",
+        "days_per_week": "未披露",
+        "duration": "未披露",
+        "arrival": "未披露",
+        "closing_date": "未披露",
+        "summary": "个人实习经验分享，描述在完美世界技术支持平台从事C++游戏研发的体会，技术栈包括Unity3D、C#、C++，并提及实习待遇和工作内容。",
+        "relevance": "经验分享涉及Unity3D技术栈和游戏研发，但并非在招Unity客户端实习岗位。",
+        "concerns": "内容为个人实习经验分享而非正式招聘，岗位为C++游戏研发，请按原文核对实习条件。",
+        "company_website": "https://www.wanmei.com/",
+        "company_careers": "https://jobs.games.wanmei.com/",
+        "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+      },
+      "classification": "lead",
+      "signature": "b6adcb7ba940bde5d295cab751ed4f39d526390ad9fe6e8f69776cce6623b6f9",
       "change": "首次发现"
     }
   ],
   "changes": [],
   "sources": {
-    "checked_at": "2026-10-16T14:16:39.943674+00:00",
+    "checked_at": "2026-10-20T05:50:25.644906+00:00",
     "seed_only": false,
     "queries": 40,
-    "discovered": 228,
+    "discovered": 227,
     "page_statuses": {
-      "network_error": 1,
       "redirect_limit": 8,
-      "browser_error": 2
+      "dynamic_or_empty": 1
     },
     "new_urls": 0,
     "company_sites": [
@@ -321,10 +579,10 @@
         "website": "https://www.mihoyo.com/",
         "careers": "https://join.mihoyo.com/",
         "status": "dynamic_or_empty",
-        "careers_status": "network_error",
+        "careers_status": "dynamic_or_empty",
         "job_links_found": 0,
-        "reader": "static",
-        "browser_status": null
+        "reader": "browser",
+        "browser_status": "dynamic_or_empty"
       },
       {
         "company": "叠纸",
@@ -334,7 +592,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "腾讯",
@@ -344,7 +602,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "网易游戏",
@@ -354,7 +612,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "莉莉丝",
@@ -362,7 +620,7 @@
         "careers": "https://lilithgames.jobs.feishu.cn/intern/",
         "status": "oversized",
         "careers_status": "readable",
-        "job_links_found": 12,
+        "job_links_found": 24,
         "reader": "browser",
         "browser_status": "readable"
       },
@@ -372,7 +630,7 @@
         "careers": "https://boke.jobs.feishu.cn/581609/",
         "status": "readable",
         "careers_status": "readable",
-        "job_links_found": 5,
+        "job_links_found": 38,
         "reader": "browser",
         "browser_status": "readable"
       },
@@ -384,7 +642,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "心动",
@@ -392,9 +650,9 @@
         "careers": "https://api.xd.com/hr/",
         "status": "readable",
         "careers_status": "readable",
-        "job_links_found": 3,
+        "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "库洛游戏",
@@ -414,7 +672,7 @@
         "careers_status": "dynamic_or_empty",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "dynamic_or_empty"
       },
       {
         "company": "悠星网络",
@@ -424,7 +682,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "祖龙娱乐",
@@ -444,7 +702,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "完美世界",
@@ -454,7 +712,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "吉比特/雷霆",
@@ -464,7 +722,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "三七互娱",
@@ -474,17 +732,17 @@
         "careers_status": "readable",
         "job_links_found": 2,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "多益网络",
         "website": "https://www.duoyi.com/",
         "careers": "https://xz.duoyi.com/",
         "status": "readable",
-        "careers_status": "browser_error",
+        "careers_status": "readable",
         "job_links_found": 0,
-        "reader": "static",
-        "browser_status": null
+        "reader": "browser",
+        "browser_status": "readable"
       },
       {
         "company": "巨人网络",
@@ -494,7 +752,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "恺英网络",
@@ -530,11 +788,11 @@
         "company": "畅游",
         "website": "https://www.changyou.com/",
         "careers": "https://campus.changyou.com/",
-        "status": "network_error",
-        "careers_status": "browser_error",
+        "status": "readable",
+        "careers_status": "readable",
         "job_links_found": 0,
-        "reader": "static",
-        "browser_status": null
+        "reader": "browser",
+        "browser_status": "readable"
       },
       {
         "company": "4399",
@@ -544,7 +802,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "冰川网络",
@@ -553,8 +811,8 @@
         "status": "readable",
         "careers_status": "readable",
         "job_links_found": 0,
-        "reader": "static",
-        "browser_status": "dynamic_or_empty"
+        "reader": "browser",
+        "browser_status": "readable"
       },
       {
         "company": "途游游戏",
@@ -564,7 +822,7 @@
         "careers_status": "readable",
         "job_links_found": 0,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "乐元素",
@@ -581,10 +839,10 @@
         "website": "https://www.idreamsky.com/",
         "careers": "https://idreamsky.jobs.feishu.cn/",
         "status": "readable",
-        "careers_status": "dynamic_or_empty",
-        "job_links_found": 1,
+        "careers_status": "readable",
+        "job_links_found": 3,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "诗悦网络",
@@ -601,35 +859,34 @@
         "website": "https://www.eworld.cn/",
         "careers": "https://eworldgroup.jobs.feishu.cn/",
         "status": "dynamic_or_empty",
-        "careers_status": "dynamic_or_empty",
-        "job_links_found": 1,
+        "careers_status": "readable",
+        "job_links_found": 6,
         "reader": "browser",
-        "browser_status": null
+        "browser_status": "readable"
       },
       {
         "company": "柠檬微趣",
         "website": "https://www.microfun.cn/",
         "careers": "https://www.microfun.cn/",
-        "status": "readable",
-        "careers_status": "readable",
+        "status": "daily_check_limit",
+        "careers_status": "daily_check_limit",
         "job_links_found": 0,
-        "reader": "browser",
+        "reader": "static",
         "browser_status": null
       }
     ],
     "new_search_requests": 0
   },
   "usage": {
-    "tokens_used_or_reserved": 15024,
+    "tokens_used_or_reserved": 5302,
     "weekly_limit": 50000,
-    "search_weekly": 40,
+    "search_weekly": 64,
     "search_weekly_limit": 200
   },
   "remaining_unprocessed": 0,
-  "archived_historical": 4,
+  "archived_historical": 0,
   "visible_total": 2,
-  "status": "sent",
-  "message_id": "<179216020011.3039.11842712162947857047@qq.com>",
-  "reserved_at": "2026-10-16T14:16:40.115011+00:00",
-  "sent_at": "2026-10-16T14:16:45.497428+00:00"
+  "status": "attempting",
+  "message_id": "<179247543761.2985.9434458642094740483@qq.com>",
+  "reserved_at": "2026-10-20T05:50:37.615986+00:00"
 }

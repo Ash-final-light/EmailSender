@@ -46,7 +46,26 @@
     "raw_hash": "4ffa4cd09d9d3fd5b795f9ebf283739493d575da3be15f22e44e79f3dde06b3f",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "060bea754f5899e6e54681aa90e5a65e080fb9cf0e096b170dc8a634e67af3ae",
+      "title": "校园招聘-游戏客户端开发U3D实习招聘-盛趣游戏实习生招聘-实习僧",
+      "company": "盛趣游戏",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "未披露",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "负责游戏客户端游戏逻辑模块的搭建和实现，分析并修改底层模块，控制产品性能和质量，按进度完成开发任务。要求精通C#和C/C++、数据结构与算法，熟悉图形学，优先考虑能熟练应用Unity开发游戏的同学。",
+      "relevance": "职位为游戏客户端U3D实习，涉及客户端逻辑模块开发，与Unity客户端实习方向相关。",
+      "concerns": "学历、年级、出勤天数、实习时长和到岗时间均未披露，请按原文核对实习条件。",
+      "company_website": "https://www.shengqugames.com/",
+      "company_careers": "https://app.mokahr.com/campus_apply/shengqu/4078",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "4e20b13246dc7bfd2e2db48bf0a81fc816c5e3af267d37d9ab101edfcc57721b": {
     "id": "4e20b13246dc7bfd2e2db48bf0a81fc816c5e3af267d37d9ab101edfcc57721b",
@@ -110,7 +129,26 @@
     "raw_hash": "705d16d43bc0d595573bf8fde0674b3cf2f5f632cdd5dff06439873dc4bb7792",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "ac51cc435afa2e29180a292f85b3a184953e17644b4e02850b81c00e5c832d19",
+      "title": "Unity中国2022实习生招聘火热进行中_牛客网",
+      "company": "Unity中国",
+      "city": "上海/北京",
+      "salary": "未披露",
+      "education": "本科、研究生以上在读",
+      "graduation": "未披露",
+      "days_per_week": "一周工作至少3天",
+      "duration": "持续至少6个月以上",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "软件工程实习生将与其他工程师合作，在Unity引擎和服务中实现新功能，参与核心引擎开发或游戏、VR/AR、数字孪生等领域解决方案开发，并协助维护系统、提出改进建议。",
+      "relevance": "岗位为Unity软件工程实习，涉及Unity引擎和服务开发，与Unity客户端实习方向有一定相关性。",
+      "concerns": "职位名称为软件工程实习生，未明确限定为客户端方向；招聘信息标注为2022实习生招聘，时效性存疑，请按原文核对实习条件。",
+      "company_website": null,
+      "company_careers": null,
+      "website_evidence": "官网待核实"
+    }
   },
   "bebdfbe2f3e552f305765036161d408be8d568c6546485d4ec38335756ec0888": {
     "id": "bebdfbe2f3e552f305765036161d408be8d568c6546485d4ec38335756ec0888",
@@ -140,7 +178,26 @@
     "raw_hash": "365ab8b639c5ee8faafa6dc888ab5a199e2c0a0bbe3a3cd2e2dff08fc12b08a2",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "cf1ac3386e4a992b3f7b10867b6e2ca5db6191fa6072916cd23890ac94f98007",
+      "title": "游戏客户端开发实习生_网易游戏雷火事业群招聘内推_牛客网",
+      "company": "网易游戏雷火事业群",
+      "city": "杭州",
+      "salary": "150-200元/天",
+      "education": "本科及以上学历",
+      "graduation": "未披露",
+      "days_per_week": "4天/周",
+      "duration": "4个月以上",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能模块、动作行为逻辑和AI，开发调整工具与编辑器，并针对发布平台进行游戏性能优化。",
+      "relevance": "职位为游戏客户端开发实习，涉及客户端模块开发与性能优化，与Unity客户端实习方向相关。",
+      "concerns": "原文未明确要求Unity引擎经验；转正机会为有，请按原文核对实习条件。",
+      "company_website": "https://game.163.com/",
+      "company_careers": "https://game.campus.163.com/",
+      "website_evidence": "预设公司域名；本次访问情况见来源状态"
+    }
   },
   "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba": {
     "id": "8fd466160c9ec091649f8173187bd9e8fd58148c2897577a6a486f9d83fe61ba",
@@ -170,7 +227,26 @@
     "raw_hash": "b9640caf285200847a774b8575d4398f4a74b14b8e643c1511edc86fdf0d7c18",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "cb8dc2ceb7dd5fafa914c3644cc4b036be7dbd6b3beed3f164df0b8e9b162d96",
+      "title": "游戏客户端软件工程师2021届实习招聘-完美世界实习生招聘-实习僧",
+      "company": "完美世界",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "2021届",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "负责游戏功能开发与维护，工作通常同时涉及客户端和服务器。要求熟悉C++、Java、C#及Lua，有MMORPG经验优先，熟悉Unity3D引擎者优先。",
+      "relevance": "职位为游戏客户端软件工程师实习，优先考虑Unity3D引擎开发者，与Unity客户端实习方向相关。",
+      "concerns": "岗位同时涉及服务器开发，且为2021届实习招聘，时效性存疑；出勤、时长、到岗时间未披露，请按原文核对实习条件。",
+      "company_website": "https://www.wanmei.com/",
+      "company_careers": "https://jobs.games.wanmei.com/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "53a7b016acecb698d915a38180d298c40701cffd88af768c10ed488f23dd1a3d": {
     "id": "53a7b016acecb698d915a38180d298c40701cffd88af768c10ed488f23dd1a3d",
@@ -200,7 +276,26 @@
     "raw_hash": "748c51597603ddcecca7026dd88ccf2c5de971bd8a990e6c64edf6466d79c5a4",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
+      "title": "(内推)【吉比特雷霆游戏2022届实习生招聘启动】_牛客网",
+      "company": "吉比特&雷霆游戏",
+      "city": "深圳、厦门",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "2022届",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "招聘游戏研发实习生等技术类岗位，提供实习薪资和租房补贴，实习表现优异者可提前获得正式offer。",
+      "relevance": "招聘岗位为游戏研发实习生，未明确为Unity客户端方向，与Unity客户端实习方向的相关性有限。",
+      "concerns": "岗位为泛游戏研发实习生，未明确Unity客户端职责；面向2022届，时效性存疑，请按原文核对实习条件。",
+      "company_website": "https://www.g-bits.com/",
+      "company_careers": "https://www.g-bits.com/zh/join.html",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "e598be67a07f8c4b6ea5eec5ac5d70b88d7e1a797a6a232025896c7bc9da6dfd": {
     "id": "e598be67a07f8c4b6ea5eec5ac5d70b88d7e1a797a6a232025896c7bc9da6dfd",
@@ -350,7 +445,26 @@
     "raw_hash": "070d22b9a1fcf52e2433593718350b4bbc6aa05a084f2f81b6c3f2ba9ed3178e",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
+      "title": "【网易游戏】游戏客户端开发实习生招聘_招聘信息_牛客网",
+      "company": "网易游戏",
+      "city": "未披露",
+      "salary": "未披露",
+      "education": "本科及以上学历",
+      "graduation": "2022届及之后毕业",
+      "days_per_week": "每周实习4~5天",
+      "duration": "连续实习4个月",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "根据策划需求设计和开发游戏客户端模块，优化已有功能模块、动作行为逻辑和AI，再开发工具与编辑器，并针对发布平台进行游戏性能优化。",
+      "relevance": "职位为游戏客户端开发实习，涉及客户端模块开发与性能优化，与Unity客户端实习方向相关。",
+      "concerns": "原文未明确要求Unity引擎经验；出勤4~5天和4个月为优先条件表述；请按原文核对实习条件。",
+      "company_website": "https://game.163.com/",
+      "company_careers": "https://game.campus.163.com/",
+      "website_evidence": "预设公司域名；本次访问情况见来源状态"
+    }
   },
   "a81dbb765dcebb79fb5c93fd3b8ff4fe45a633c65ed6d67efa9480156b647d8d": {
     "id": "a81dbb765dcebb79fb5c93fd3b8ff4fe45a633c65ed6d67efa9480156b647d8d",
@@ -580,7 +694,26 @@
     "raw_hash": "363a7a661221d8cf6ec5e68abfaea400a9775a1de18b0dd0af2aac34f6b42b9a",
     "deadline": null,
     "company_hint": null,
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287",
+      "title": "游戏客户端开发实习生（U3D）-25/26届",
+      "company": "广州诗悦网络科技有限公司",
+      "city": "广州",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "25/26届",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "原文仅标题和公司信息，未披露具体岗位职责。",
+      "relevance": "标题为游戏客户端开发实习生（U3D），与Unity客户端实习方向相关。",
+      "concerns": "正文为页面导航和公司信息，缺少职责、要求、出勤和实习时长等岗位详情，请按原文核对实习条件。",
+      "company_website": "https://www.shiyue.com/",
+      "company_careers": "https://campus.shiyue.com/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "76d282cd804465dc3bf6ef82df59a261544d76fba74cf1ebe5d810a22008eef8": {
     "id": "76d282cd804465dc3bf6ef82df59a261544d76fba74cf1ebe5d810a22008eef8",
@@ -610,6 +743,25 @@
     "raw_hash": "2ee0225b3ecdbea65b48ce79ea25123bca7b217dad9735caf005907d3afd473a",
     "deadline": null,
     "company_hint": null,
-    "evidence": "public_post"
+    "evidence": "public_post",
+    "analysis": {
+      "id": "305377d1d2483ecae7b3f6cb663f0f69fd751dbb4cff2cce9a7dc9555d7354cf",
+      "title": "实习经验分享完美世界 C游戏研发岗_牛客网",
+      "company": "完美世界",
+      "city": "未披露",
+      "salary": "200一天",
+      "education": "未披露",
+      "graduation": "19届",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "个人实习经验分享，描述在完美世界技术支持平台从事C++游戏研发的体会，技术栈包括Unity3D、C#、C++，并提及实习待遇和工作内容。",
+      "relevance": "经验分享涉及Unity3D技术栈和游戏研发，但并非在招Unity客户端实习岗位。",
+      "concerns": "内容为个人实习经验分享而非正式招聘，岗位为C++游戏研发，请按原文核对实习条件。",
+      "company_website": "https://www.wanmei.com/",
+      "company_careers": "https://jobs.games.wanmei.com/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   }
 }
