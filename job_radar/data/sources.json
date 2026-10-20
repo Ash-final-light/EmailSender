@@ -1,26 +1,25 @@
 {
-  "checked_at": "2026-10-19T05:05:39.957092+00:00",
+  "checked_at": "2026-10-20T05:08:09.107093+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 92,
+  "queries": 40,
+  "discovered": 227,
   "page_statuses": {
     "dynamic_or_empty": 14,
-    "network_error": 3,
-    "readable": 82,
+    "readable": 84,
     "oversized": 1,
     "redirect_limit": 8
   },
-  "new_urls": 0,
+  "new_urls": 2,
   "company_sites": [
     {
       "company": "米哈游",
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "network_error",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "叠纸",
@@ -187,10 +186,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "network_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "恺英网络",
@@ -246,7 +245,7 @@
       "company": "冰川网络",
       "website": "https://www.q1.com/",
       "careers": "https://bingchuan1.zhiye.com/",
-      "status": "network_error",
+      "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
@@ -313,5 +312,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
