@@ -1003,7 +1003,7 @@
     ]
   },
   "9fd94234c650166efd83e403d8529b7d39380d3eec0ca7b1629384ef58c0dda3": {
-    "day": "2026-10-16",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -1071,6 +1071,22 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.4",
+        "name": "上海悠星网络科技有限公司游戏客服招聘信息 - 企查查",
+        "url": "https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
+        "displayUrl": "https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
+        "snippet": "全国企业信用查询系统 官方备案企业征信机构 查一下 岗位职责 1、利用在线、电话等渠道解答各类用户问题 2、为用户提供优质服务,挖掘用户需求,提升用户体验 3、主动发现问题、推进问题处理及流程改进;对",
+        "summary": "全国企业信用查询系统 官方备案企业征信机构 查一下 岗位职责 1、利用在线、电话等渠道解答各类用户问题 2、为用户提供优质服务,挖掘用户需求,提升用户体验 3、主动发现问题、推进问题处理及流程改进;对异常和突发情况保持敏感,及时反馈 4、秉持良好的服务意识与团队精神,与部门共同发展,积极接受部门的其他安排 岗位要求 1、大专及以上学历 2、热爱游戏、熟悉所负责的游戏品类知识 3、有1年以上VIP客服或投诉类客服工作经验优先 4、有良好的学习能力、问题分析和数据分析能力 5、善于沟通表达,逻辑性强,具备扎实的文字功底 6、接受轮班等综合工作制 岗位名称: 游戏客服 该岗位平均薪资: 5638元/月 其他企业拥有相似岗位: 727家 其中薪资 Top3 的企业为 薪资分布 学历要求 经验要求 关于企查查 客服电话:400-928-2212 工作时间:工作日 9:00-20:00 客服邮箱: kefu@qcc.com 商务合作: bd@qcc.com 地址:江苏省苏州市工业园区汇智街8号 数据来源: 国家企业信用信息公示系统 中国裁判文书网 中国执行信息公开网 国家知识产权局 国家版权局",
+        "siteName": "企查查",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
+        "datePublished": "2024-08-05T07:34:24+08:00",
+        "dateLastCrawled": "2024-08-05T07:34:24Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.5",
         "name": "悠星网络招聘岗位-悠星网络2025年招聘岗位信息-拉勾招聘",
         "url": "https://www.lagou.com/gongsi/j130392.html",
         "displayUrl": "https://www.lagou.com/gongsi/j130392.html",
@@ -1086,7 +1102,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.5",
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
         "name": "「职位对比」上海悠星网络 游戏运营实习生怎么样 - BOSS直聘",
         "url": "https://www.zhipin.com/job_pk/273fa85e5eeba98e1XB43t61E1c~/73d2a8fafb2e96621Xd409W_EVFQ.html",
         "displayUrl": "https://www.zhipin.com/job_pk/273fa85e5eeba98e1XB43t61E1c~/73d2a8fafb2e96621Xd409W_EVFQ.html",
@@ -1096,22 +1112,6 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.zhipin.com/job_pk/273fa85e5eeba98e1XB43t61E1c~/73d2a8fafb2e96621Xd409W_EVFQ.html",
         "datePublished": "2024-11-06T16:28:53+08:00",
         "dateLastCrawled": "2024-11-06T16:28:53Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
-        "name": "上海悠星网络科技有限公司游戏客服招聘信息 - 企查查",
-        "url": "https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
-        "displayUrl": "https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
-        "snippet": "全国企业信用查询系统 官方备案企业征信机构 查一下 岗位职责 1、利用在线、电话等渠道解答各类用户问题 2、为用户提供优质服务,挖掘用户需求,提升用户体验 3、主动发现问题、推进问题处理及流程改进;对",
-        "summary": "全国企业信用查询系统 官方备案企业征信机构 查一下 岗位职责 1、利用在线、电话等渠道解答各类用户问题 2、为用户提供优质服务,挖掘用户需求,提升用户体验 3、主动发现问题、推进问题处理及流程改进;对异常和突发情况保持敏感,及时反馈 4、秉持良好的服务意识与团队精神,与部门共同发展,积极接受部门的其他安排 岗位要求 1、大专及以上学历 2、热爱游戏、熟悉所负责的游戏品类知识 3、有1年以上VIP客服或投诉类客服工作经验优先 4、有良好的学习能力、问题分析和数据分析能力 5、善于沟通表达,逻辑性强,具备扎实的文字功底 6、接受轮班等综合工作制 岗位名称: 游戏客服 该岗位平均薪资: 5638元/月 其他企业拥有相似岗位: 727家 其中薪资 Top3 的企业为 薪资分布 学历要求 经验要求 关于企查查 客服电话:400-928-2212 工作时间:工作日 9:00-20:00 客服邮箱: kefu@qcc.com 商务合作: bd@qcc.com 地址:江苏省苏州市工业园区汇智街8号 数据来源: 国家企业信用信息公示系统 中国裁判文书网 中国执行信息公开网 国家知识产权局 国家版权局",
-        "siteName": "企查查",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.qcc.com/jobdetail/93b7fcc1b4240bef49c414b79415bfcb.html",
-        "datePublished": "2024-08-05T07:34:24+08:00",
-        "dateLastCrawled": "2024-08-05T07:34:24Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
