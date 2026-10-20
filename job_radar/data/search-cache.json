@@ -1716,7 +1716,7 @@
     ]
   },
   "ac0b6a5882f3869ab6649c151a5b0a7a388e36a35dd138dad3afa488619f337f": {
-    "day": "2026-10-16",
+    "day": "2026-10-20",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.1",
@@ -1815,7 +1815,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "id": "https://api.bochaai.com/v1/#WebPages.8",
         "name": "三七互娱内推,马上有offer!_牛客网",
         "url": "https://www.nowcoder.com/discuss/397540",
         "displayUrl": "https://www.nowcoder.com/discuss/397540",
@@ -1825,6 +1825,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.nowcoder.com/discuss/397540",
         "datePublished": "2020-04-01T15:05:00+08:00",
         "dateLastCrawled": "2020-04-01T15:05:00Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.9",
+        "name": "【招聘信息】三七互娱2018校园招聘",
+        "url": "https://www.sohu.com/a/223548181_675555",
+        "displayUrl": "https://www.sohu.com/a/223548181_675555",
+        "snippet": "三七互娱 — 成立于 2011 年,是全球 TOP25 互动娱乐企业、中国互联网二十强企业,于2015 年完成整体上市(股票代码:002555),是国内 A 股优秀的互动娱乐公司。 在招职位 一、游戏",
+        "summary": "三七互娱 — 成立于 2011 年,是全球 TOP25 互动娱乐企业、中国互联网二十强企业,于2015 年完成整体上市(股票代码:002555),是国内 A 股优秀的互动娱乐公司。 在招职位 一、游戏研发类 数值策划、系统策划、文案策划、执行策划、C++ 程序、Java 服务端程序、 Unity3d 客户端程序、Cocos2d-x 客户端程序、页游客户端程序、游戏测试工程师 二、技术支持类 前端开发工程师、Android 开发工程师、IOS 开发工程师、PHP 开发工程师、网站工程师、数据挖掘工程师、安全工程师、运维开发工程师、运维工程师 三、游戏运营类 页游运营专员、手游运营专员、手游产品专员、海外运营专员、本地化专员、数据分析专员 四、美术设计类 广告设计师、平面设计师、网页设计师、视频设计师、原画设计师、UI 设计师、特效设计师、动作设计师、模型设计师、场景修图 五、商务市场类 市场策划、媒介专员、广告投放专员、广告优化师、推广专员 六、职能管理类 人力资源专员、投资助理、会计、法务专员 工作地点 广州、上海、武汉 招聘对象 2018 届应届毕业生及海外留学生 来源:校园招 返回搜狐,查看更多",
+        "siteName": "搜狐",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.sohu.com/a/223548181_675555",
+        "datePublished": "2018-02-22T20:37:00+08:00",
+        "dateLastCrawled": "2018-02-22T20:37:00Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
