@@ -1,11 +1,13 @@
 {
-  "checked_at": "2026-10-20T05:50:25.644906+00:00",
+  "checked_at": "2026-10-21T05:09:12.813519+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 227,
+  "queries": 24,
+  "discovered": 95,
   "page_statuses": {
-    "redirect_limit": 8,
-    "dynamic_or_empty": 1
+    "dynamic_or_empty": 15,
+    "readable": 84,
+    "oversized": 1,
+    "redirect_limit": 8
   },
   "new_urls": 0,
   "company_sites": [
@@ -55,7 +57,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 24,
+      "job_links_found": 15,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -65,7 +67,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 38,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -310,5 +312,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 0
+  "new_search_requests": 24
 }
