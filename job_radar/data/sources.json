@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-21T05:09:12.813519+00:00",
+  "checked_at": "2026-10-22T05:12:25.531227+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 95,
+  "discovered": 98,
   "page_statuses": {
     "dynamic_or_empty": 15,
     "readable": 84,
