@@ -705,7 +705,7 @@
     ]
   },
   "9225cb3e9d5ea5ae4838a3040fa6c29e489a3c00161187bcfa1c25f3cd41d2a8": {
-    "day": "2026-10-22",
+    "day": "2026-10-23",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.0",
@@ -725,6 +725,22 @@
       },
       {
         "id": "https://api.bochaai.com/v1/#WebPages.1",
+        "name": "库洛游戏2027届秋季校园招聘 - 广州大学就业网",
+        "url": "https://jy.gzhu.edu.cn/web/Index/jobs-brief-detail?id=SVUXSVP",
+        "displayUrl": "https://jy.gzhu.edu.cn/web/Index/jobs-brief-detail?id=SVUXSVP",
+        "snippet": "一、公司介绍库洛游戏(KURO\nGAMES)诞生于2014年,总部位于广州,致力于打造优质的互动娱乐体验,通过传递“勇于挑战”的精神,让每个人都能成就更好的自己。目前,库洛游戏通过游戏研发及长线运营、",
+        "summary": "一、公司介绍库洛游戏(KURO\nGAMES)诞生于2014年,总部位于广州,致力于打造优质的互动娱乐体验,通过传递“勇于挑战”的精神,让每个人都能成就更好的自己。目前,库洛游戏通过游戏研发及长线运营、全球化发行及原创IP孵化实现自我挑战和成长,旗下产品包括《战场双马尾》、《战双帕弥什》、《鸣潮》以及游戏IP衍生品,海外发行覆盖日韩、东南亚、欧美等国家或区域。\n二、招聘要求2027届在校毕业生毕业时间:2026年9月-2027年8月*中国大陆院校以毕业证为准,非中国大陆地区以学位证时间为准\n三、工作地点&职位类别工作地点:广州、上海职位类别:策划类、技术类、美术类、音频类、营销类、职能类、运营类、项管类岗位列举:游戏客户端工程师、游戏图形工程师、游戏测试工程师、AIGC系统工程师、游戏策划(关卡/战斗/系统/任务/数值/技术/文案)、游戏技术美术工程师(程序向、美术向)、CG动画师、3D/2D角色/场景、分镜师、UI设计师、3D动作、3D特效、分镜师(三维方向)、3D角色、3D场景模型、3D场景地编、环境灯光师、境内品牌营销、产品运营、数据运营等(更多岗位可登录官网查看)官网链接:https://kurogame.jobs.feishu.cn/campus/\n四、投递攻略&投递方式【投递攻略】1信息准确:请准确填写简历中的手机号、邮箱、微信号、毕业时间等重要信息2简历完整:简历完成度越高越有利于筛选通过(推荐PDF格式),除了基本信息之外,可书写已掌握的与岗位要求所相关的游戏引擎/软件/工具及对应的熟练程度3丰富的实践经历:相关岗位实习经历、培训经历、大赛经历、岗位相关项目经历4游戏游玩经历:如果你是深度的游戏热爱者,可以列举你的游戏经历和游戏游玩时长【重要】作品集是美术岗位简历筛选的关键,与岗位匹配&高质量的作品集将大大提升筛选通过率!\n【投递方式】电脑端投递方式:“搜索",
+        "siteName": "jy.gzhu.edu.cn",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://jy.gzhu.edu.cn/web/Index/jobs-brief-detail?id=SVUXSVP",
+        "datePublished": "2026-08-26T00:00:00+08:00",
+        "dateLastCrawled": "2026-08-26T00:00:00Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.2",
         "name": "游戏相关职位-广州库洛科技有限公司",
         "url": "https://tmjy.tjarts.edu.cn/correcruit/content/id/4207.html",
         "displayUrl": "https://tmjy.tjarts.edu.cn/correcruit/content/id/4207.html",
@@ -740,7 +756,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.2",
+        "id": "https://api.bochaai.com/v1/#WebPages.3",
         "name": "「职位对比」库洛 新项目-UE客户端开发(gameplay向)怎么样 - BOSS直聘",
         "url": "https://www.zhipin.com/job_pk/1460836a57d6404d1Hd73NS4FVtU/dcdd1b023baf18091HF_29W4GFJT.html",
         "displayUrl": "https://www.zhipin.com/job_pk/1460836a57d6404d1Hd73NS4FVtU/dcdd1b023baf18091HF_29W4GFJT.html",
@@ -756,7 +772,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.3",
+        "id": "https://api.bochaai.com/v1/#WebPages.4",
         "name": "【库洛游戏2025秋季校园招聘】含内推码_牛客网",
         "url": "https://www.nowcoder.com/feed/main/detail/d436550673f243ed97ef19f76ed73245",
         "displayUrl": "https://www.nowcoder.com/feed/main/detail/d436550673f243ed97ef19f76ed73245",
@@ -772,7 +788,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.4",
+        "id": "https://api.bochaai.com/v1/#WebPages.5",
         "name": "「职位对比」库洛 新项目-UE客户端开发(gameplay向)怎么样 - BOSS直聘",
         "url": "https://www.zhipin.com/job_pk/1460836a57d6404d1Hd73NS4FVtU/a8b48b9725339e0c1Hx639W8E1JW.html",
         "displayUrl": "https://www.zhipin.com/job_pk/1460836a57d6404d1Hd73NS4FVtU/a8b48b9725339e0c1Hx639W8E1JW.html",
@@ -788,7 +804,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.5",
+        "id": "https://api.bochaai.com/v1/#WebPages.6",
         "name": "库洛游戏",
         "url": "https://www.nowcoder.com/enterprise/4785?channel=tz_ntt&pageSource=5015",
         "displayUrl": "https://www.nowcoder.com/enterprise/4785?channel=tz_ntt&pageSource=5015",
@@ -804,7 +820,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.6",
+        "id": "https://api.bochaai.com/v1/#WebPages.7",
         "name": "广州库洛科技有限公司2025校园招聘-鱼泡直聘校招(原海投网)",
         "url": "https://xyzp.haitou.cc/article/3435914.html",
         "displayUrl": "https://xyzp.haitou.cc/article/3435914.html",
@@ -820,7 +836,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.7",
+        "id": "https://api.bochaai.com/v1/#WebPages.8",
         "name": "【英语商务实习生招聘】库洛游戏招聘信息- 超级简历WonderCV",
         "url": "https://www.wondercv.com/jobs/jffyD5k.html",
         "displayUrl": "https://www.wondercv.com/jobs/jffyD5k.html",
@@ -836,7 +852,7 @@
         "isNavigational": null
       },
       {
-        "id": "https://api.bochaai.com/v1/#WebPages.8",
+        "id": "https://api.bochaai.com/v1/#WebPages.9",
         "name": "【就业信息】库洛游戏 2026 届校园招聘",
         "url": "https://cnsba.scut.edu.cn/2026/0306/c29313a619207/page.htm",
         "displayUrl": "https://cnsba.scut.edu.cn/2026/0306/c29313a619207/page.htm",
@@ -844,22 +860,6 @@
         "summary": "一、公司简介库洛游戏(Kuro\nGame)是一家专注于二次元游戏研发与运营的新一代游戏公司,致力于为全球玩家打造高品质、高沉浸感的原创\nIP\n作品。公司拥有顶尖的研发团队和深厚的技术积累,在动作游戏、开放世界等领域具有独特优势。库洛游戏代表作品包括:公司以追求极致品质为核心理念,持续投入技术创新与内容创作,在二次元游戏领域建立了良好的口碑与影响力。二、招聘对象2026\n届校招及27届实习生三、招聘岗位方向【1】游戏策划方向:系统策划、数值策划、剧情策划、关卡策划【2】游戏开发方向:Unity\n开发工程师、C++\n开发工程师、引擎开发工程师、服务端开发工程师【3】游戏美术方向:角色原画、场景原画、3D\n角色美术、3D\n场景美术、特效美术、技术美术(TA)【4】其他方向:AI\n算法工程师、音频设计师、运营策划、市场发行等工作地点:广州、深圳四、薪酬与福利具有行业竞争力的薪酬体系,本硕同级同薪完善的培养机制与晋升通道(导师制\n+\n定期培训)充足的成长资源与学习平台丰富的员工活动与团队建设(游戏内测、主题派对等)弹性工作制,扁平化管理五险一金\n+\n补充商业保险\n+\n年度体检五、投递方式⚠️\n重要提醒内推码:【575M1ND】简历投递时请务必填写内推码,可享受以下专属福利:\n进度加速\nbuff\n——\n简历优先筛选,更快进入面试环节\n反馈直通车\n——\n投递后有专人追踪进度,全程护航不迷路\n一对一答疑\n——\n招聘流程问题可随时咨询,可加入下方交流群,或者备用QQ群:718743281",
         "siteName": "工商管理学院",
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://cnsba.scut.edu.cn/2026/0306/c29313a619207/page.htm",
-        "datePublished": "2026-03-06T00:00:00+08:00",
-        "dateLastCrawled": "2026-03-06T00:00:00Z",
-        "cachedPageUrl": null,
-        "language": null,
-        "isFamilyFriendly": null,
-        "isNavigational": null
-      },
-      {
-        "id": "https://api.bochaai.com/v1/#WebPages.9",
-        "name": "库洛游戏2026届校招-南开大学学生就业指导中心代发",
-        "url": "https://career.nankai.edu.cn/correcruit/content/id/113645.html",
-        "displayUrl": "https://career.nankai.edu.cn/correcruit/content/id/113645.html",
-        "snippet": "一、公司简介库洛游戏(Kuro\nGame)是一家专注于二次元游戏研发与运营的新一代游戏公司,致力于为全球玩家打造高品质、高沉浸感的原创\nIP\n作品。公司拥有顶尖的研发团队和深厚的技术积累,在动作游戏、",
-        "summary": "一、公司简介库洛游戏(Kuro\nGame)是一家专注于二次元游戏研发与运营的新一代游戏公司,致力于为全球玩家打造高品质、高沉浸感的原创\nIP\n作品。公司拥有顶尖的研发团队和深厚的技术积累,在动作游戏、开放世界等领域具有独特优势。库洛游戏代表作品包括:《战双帕弥什》——\n末世科幻题材动作手游,全球累计下载量突破\n4000\n万《鸣潮》(Wuthering\nWaves)——\n开放世界动作\nRPG,采用虚幻引擎\n4\n打造,支持多平台互通公司以\"追求极致品质\"为核心理念,持续投入技术创新与内容创作,在二次元游戏领域建立了良好的口碑与影响力。二、招聘对象2026\n届校招及27届实习生校招毕业时间:2025\n年\n9\n月\n1\n日\n-\n2026\n年\n8\n月\n31\n日日常实习生不限毕业时间海外院校毕业生以毕业证时间为准三、招聘岗位方向【1】游戏策划方向:系统策划、数值策划、剧情策划、关卡策划【2】游戏开发方向:Unity\n开发工程师、C++\n开发工程师、引擎开发工程师、服务端开发工程师【3】游戏美术方向:角色原画、场景原画、3D\n角色美术、3D\n场景美术、特效美术、技术美术(TA)【4】其他方向:AI\n算法工程师、音频设计师、运营策划、市场发行等工作地点:广州、深圳四、薪酬与福利具有行业竞争力的薪酬体系,本硕同级同薪完善的培养机制与晋升通道(导师制\n+\n定期培训)充足的成长资源与学习平台丰富的员工活动与团队建设(游戏内测、主题派对等)弹性工作制,扁平化管理五险一金\n+\n补充商业保险\n+\n年度体检五、投递方式网申地址:https://kurogame.jobs.feishu.cn/campus/position/list投递流程:网申\n→\n笔试/测评\n→\n面试\n→\nOffer\n重要提醒内推码:【575M1ND】简历投递时请务必填写内推码,可享受以下专属福利:\n进度加速\nbuff\n——\n简历优先筛",
-        "siteName": "南开大学学生就业指导中心",
-        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://career.nankai.edu.cn/correcruit/content/id/113645.html",
         "datePublished": "2026-03-06T00:00:00+08:00",
         "dateLastCrawled": "2026-03-06T00:00:00Z",
         "cachedPageUrl": null,
