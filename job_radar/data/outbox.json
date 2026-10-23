@@ -1,6 +1,6 @@
 {
-  "created_at": "2026-10-20T05:50:37.607750+00:00",
-  "date": "2026-10-20",
+  "created_at": "2026-10-23T05:53:40.126970+00:00",
+  "date": "2026-10-23",
   "jobs": [
     {
       "id": "777492bbd2ad28aa780818b9694444f95f91b46aab9f80b3a2057ca838c0f223",
@@ -11,7 +11,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "f89c2e760664a7ec7f7c5121e6c554518a4898377a475160107f3c618d051386",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -48,7 +48,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "ae4fbd7b0ed9a8cacebc883b098fc123038f4e6d63540fb099519ae1849d40f3",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -87,7 +87,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "8418b06f17319bb568d826e7d1c04d43dd06aabf65fa8e9ee5c7e2b13e7e4f69",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -124,7 +124,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "76435ceeac67a2d77bfdd396bf04e40da0f0bdff2d6da6ebb805abebc0234427",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -161,7 +161,7 @@
       "source": "莉莉丝招聘页",
       "discovered_from": "official_careers",
       "first_seen": "2026-10-16T14:12:37.922619+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "1f0ceca529ff6e9d082e799d143300a3640f53b4bdf2d3578a4e9e6cb69d7a7b",
       "deadline": null,
       "company_hint": "莉莉丝",
@@ -200,7 +200,7 @@
       "source": "BOSS直聘",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:10:18.673730+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "7c3401618a32f0cdf04f4ee9d074d3f1219c0d1528ba8a3cbccea54faff75728",
       "deadline": null,
       "company_hint": null,
@@ -237,7 +237,7 @@
       "source": "实习僧",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:10:18.673730+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "4ffa4cd09d9d3fd5b795f9ebf283739493d575da3be15f22e44e79f3dde06b3f",
       "deadline": null,
       "company_hint": null,
@@ -263,7 +263,7 @@
       },
       "classification": "lead",
       "signature": "dd58b3feca0027cb6e0787c124968d38afabc12d6d54db19a7a3d6a0f64a4a27",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "e2b87094bf8f0f9bd68b5145058ccd2ed48eeb648e2e61739271aa249f365287",
@@ -274,7 +274,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-18T04:56:28.249828+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "363a7a661221d8cf6ec5e68abfaea400a9775a1de18b0dd0af2aac34f6b42b9a",
       "deadline": null,
       "company_hint": null,
@@ -300,7 +300,7 @@
       },
       "classification": "lead",
       "signature": "d075178da75de2b6fb26b23d9e510315592a70e09d6043908d609dc31d4d2ba3",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "f1f7950efb310cc470f45d95e182f5e753f22772cd64025fefafd1a697c077c9",
@@ -311,7 +311,7 @@
       "source": "BOSS直聘",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:10:18.673730+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "4b1074d9a35a54ae6b8ff3eb9ddaeab61dbc9024b6f8e583d02c68649c4544c0",
       "deadline": null,
       "company_hint": null,
@@ -348,7 +348,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "705d16d43bc0d595573bf8fde0674b3cf2f5f632cdd5dff06439873dc4bb7792",
       "deadline": null,
       "company_hint": null,
@@ -374,7 +374,7 @@
       },
       "classification": "lead",
       "signature": "9b2e4732373e45d0ad878488481df128e8c69e85b31591cda0be37c3a4c33ff0",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "cf1ac3386e4a992b3f7b10867b6e2ca5db6191fa6072916cd23890ac94f98007",
@@ -385,7 +385,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "365ab8b639c5ee8faafa6dc888ab5a199e2c0a0bbe3a3cd2e2dff08fc12b08a2",
       "deadline": null,
       "company_hint": null,
@@ -411,7 +411,7 @@
       },
       "classification": "lead",
       "signature": "f5a470d31f8b3cdbe720a8fbbacd85d7e2ca2a8f6a6f4dc65f11bfcf14950fd5",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "cb8dc2ceb7dd5fafa914c3644cc4b036be7dbd6b3beed3f164df0b8e9b162d96",
@@ -422,7 +422,7 @@
       "source": "实习僧",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "b9640caf285200847a774b8575d4398f4a74b14b8e643c1511edc86fdf0d7c18",
       "deadline": null,
       "company_hint": null,
@@ -448,7 +448,7 @@
       },
       "classification": "lead",
       "signature": "795eadc163df43873e72cd51f1a996ba7e7d9991ab1f87c0dbb6605ff02bb6a3",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "3d5b19776729ad3b7863d135ea158b9c6bdb78238f8131a842cfdd475f4971bc",
@@ -459,7 +459,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "070d22b9a1fcf52e2433593718350b4bbc6aa05a084f2f81b6c3f2ba9ed3178e",
       "deadline": null,
       "company_hint": null,
@@ -485,7 +485,7 @@
       },
       "classification": "lead",
       "signature": "f9f8edb0ba884d10568678b67fb0996ea485cbf081be1b03e1022763fb353aff",
-      "change": "信息变化"
+      "change": "本期在列"
     },
     {
       "id": "22ca4847e1bd82f4988e9f9a65a1029344d3ff787357694d813176f8b8ea919d",
@@ -496,7 +496,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-16T13:54:51.628822+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "748c51597603ddcecca7026dd88ccf2c5de971bd8a990e6c64edf6466d79c5a4",
       "deadline": null,
       "company_hint": null,
@@ -522,7 +522,7 @@
       },
       "classification": "lead",
       "signature": "886c028feae95d8269641168e32ae05b25d0316c5893544ceec56a5b67505075",
-      "change": "首次发现"
+      "change": "本期在列"
     },
     {
       "id": "305377d1d2483ecae7b3f6cb663f0f69fd751dbb4cff2cce9a7dc9555d7354cf",
@@ -533,7 +533,7 @@
       "source": "牛客",
       "discovered_from": "search_result",
       "first_seen": "2026-10-20T05:08:09.107093+00:00",
-      "last_checked": "2026-10-20T05:50:25.644906+00:00",
+      "last_checked": "2026-10-23T05:53:40.039954+00:00",
       "raw_hash": "2ee0225b3ecdbea65b48ce79ea25123bca7b217dad9735caf005907d3afd473a",
       "deadline": null,
       "company_hint": null,
@@ -559,12 +559,12 @@
       },
       "classification": "lead",
       "signature": "b6adcb7ba940bde5d295cab751ed4f39d526390ad9fe6e8f69776cce6623b6f9",
-      "change": "首次发现"
+      "change": "本期在列"
     }
   ],
   "changes": [],
   "sources": {
-    "checked_at": "2026-10-20T05:50:25.644906+00:00",
+    "checked_at": "2026-10-23T05:53:40.039954+00:00",
     "seed_only": false,
     "queries": 40,
     "discovered": 227,
@@ -590,7 +590,7 @@
         "careers": "https://career.papegames.com/",
         "status": "readable",
         "careers_status": "readable",
-        "job_links_found": 0,
+        "job_links_found": 1,
         "reader": "browser",
         "browser_status": "readable"
       },
@@ -679,10 +679,10 @@
         "website": "https://www.yostar.net/",
         "careers": "https://www.yostar.net/recruit.html",
         "status": "dynamic_or_empty",
-        "careers_status": "readable",
+        "careers_status": "browser_error",
         "job_links_found": 0,
-        "reader": "browser",
-        "browser_status": "readable"
+        "reader": "static",
+        "browser_status": "browser_error"
       },
       {
         "company": "祖龙娱乐",
@@ -699,10 +699,10 @@
         "website": "https://www.seasungames.cn/",
         "careers": "https://job.seasungames.cn/",
         "status": "dynamic_or_empty",
-        "careers_status": "readable",
+        "careers_status": "browser_error",
         "job_links_found": 0,
-        "reader": "browser",
-        "browser_status": "readable"
+        "reader": "static",
+        "browser_status": "browser_error"
       },
       {
         "company": "完美世界",
@@ -768,7 +768,7 @@
         "company": "游族网络",
         "website": "https://www.yoozoo.com/",
         "careers": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
-        "status": "readable",
+        "status": "network_error",
         "careers_status": "redirect_limit",
         "job_links_found": 0,
         "reader": "static",
@@ -880,14 +880,13 @@
   "usage": {
     "tokens_used_or_reserved": 5302,
     "weekly_limit": 50000,
-    "search_weekly": 64,
+    "search_weekly": 152,
     "search_weekly_limit": 200
   },
   "remaining_unprocessed": 0,
   "archived_historical": 0,
   "visible_total": 2,
-  "status": "sent",
-  "message_id": "<179247543761.2985.9434458642094740483@qq.com>",
-  "reserved_at": "2026-10-20T05:50:37.615986+00:00",
-  "sent_at": "2026-10-20T05:50:43.995976+00:00"
+  "status": "attempting",
+  "message_id": "<179273482013.2914.7952603305385866675@qq.com>",
+  "reserved_at": "2026-10-23T05:53:40.131635+00:00"
 }
