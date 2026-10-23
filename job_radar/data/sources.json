@@ -1,13 +1,15 @@
 {
-  "checked_at": "2026-10-22T05:12:25.531227+00:00",
+  "checked_at": "2026-10-23T05:12:11.544316+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 98,
+  "queries": 40,
+  "discovered": 227,
   "page_statuses": {
-    "dynamic_or_empty": 15,
-    "readable": 84,
+    "dynamic_or_empty": 14,
+    "readable": 81,
     "oversized": 1,
-    "redirect_limit": 8
+    "redirect_limit": 8,
+    "browser_error": 2,
+    "network_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -27,7 +29,7 @@
       "careers": "https://career.papegames.com/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 0,
+      "job_links_found": 1,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -116,10 +118,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "祖龙娱乐",
@@ -136,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "完美世界",
@@ -205,7 +207,7 @@
       "company": "游族网络",
       "website": "https://www.yoozoo.com/",
       "careers": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "redirect_limit",
       "job_links_found": 0,
       "reader": "static",
@@ -312,5 +314,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
