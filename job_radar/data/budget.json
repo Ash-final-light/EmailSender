@@ -29,7 +29,7 @@
       "details": 200
     },
     "2026-10-23": {
-      "search": 1,
+      "search": 2,
       "details": 200
     }
   },
@@ -76,7 +76,7 @@
         }
       ],
       "limit": 50000,
-      "search": 113
+      "search": 114
     }
   },
   "paused": null
