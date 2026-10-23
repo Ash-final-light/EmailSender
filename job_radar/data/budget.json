@@ -27,6 +27,10 @@
     "2026-10-22": {
       "search": 24,
       "details": 200
+    },
+    "2026-10-23": {
+      "search": 1,
+      "details": 200
     }
   },
   "weeks": {
@@ -72,7 +76,7 @@
         }
       ],
       "limit": 50000,
-      "search": 112
+      "search": 113
     }
   },
   "paused": null
