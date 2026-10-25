@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-24T04:55:01.068390+00:00",
+  "checked_at": "2026-10-25T05:06:00.374155+00:00",
   "seed_only": false,
   "queries": 24,
   "discovered": 97,
   "page_statuses": {
     "dynamic_or_empty": 15,
-    "readable": 83,
+    "readable": 84,
     "oversized": 1,
     "redirect_limit": 8
   },
@@ -27,7 +27,7 @@
       "careers": "https://career.papegames.com/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 1,
+      "job_links_found": 0,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -285,7 +285,7 @@
       "company": "诗悦网络",
       "website": "https://www.shiyue.com/",
       "careers": "https://campus.shiyue.com/",
-      "status": "dynamic_or_empty",
+      "status": "readable",
       "careers_status": "redirect_limit",
       "job_links_found": 0,
       "reader": "static",
