@@ -37,7 +37,7 @@
       "details": 200
     },
     "2026-10-25": {
-      "search": 4,
+      "search": 5,
       "details": 200
     }
   },
@@ -84,7 +84,7 @@
         }
       ],
       "limit": 50000,
-      "search": 180
+      "search": 181
     }
   },
   "paused": null
