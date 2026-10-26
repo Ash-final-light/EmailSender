@@ -1,13 +1,15 @@
 {
-  "checked_at": "2026-10-25T05:06:00.374155+00:00",
+  "checked_at": "2026-10-26T05:09:13.557246+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 97,
+  "discovered": 96,
   "page_statuses": {
-    "dynamic_or_empty": 15,
-    "readable": 84,
+    "dynamic_or_empty": 13,
+    "network_error": 2,
+    "readable": 83,
     "oversized": 1,
-    "redirect_limit": 8
+    "redirect_limit": 8,
+    "browser_error": 2
   },
   "new_urls": 0,
   "company_sites": [
@@ -16,10 +18,10 @@
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "叠纸",
@@ -96,10 +98,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "browser_status": "readable"
     },
     {
       "company": "散爆网络",
@@ -116,10 +118,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "祖龙娱乐",
@@ -136,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "完美世界",
@@ -226,10 +228,10 @@
       "website": "https://www.changyou.com/",
       "careers": "https://campus.changyou.com/",
       "status": "readable",
-      "careers_status": "readable",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "4399",
