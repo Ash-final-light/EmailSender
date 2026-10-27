@@ -1,15 +1,14 @@
 {
-  "checked_at": "2026-10-26T05:09:13.557246+00:00",
+  "checked_at": "2026-10-27T05:23:52.873307+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 96,
+  "queries": 40,
+  "discovered": 227,
   "page_statuses": {
-    "dynamic_or_empty": 13,
-    "network_error": 2,
-    "readable": 83,
+    "dynamic_or_empty": 14,
+    "readable": 84,
     "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 2
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -18,10 +17,10 @@
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "network_error",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "叠纸",
@@ -118,10 +117,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
@@ -150,8 +149,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "吉比特/雷霆",
@@ -228,10 +227,10 @@
       "website": "https://www.changyou.com/",
       "careers": "https://campus.changyou.com/",
       "status": "readable",
-      "careers_status": "network_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "4399",
@@ -314,5 +313,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
