@@ -1,13 +1,15 @@
 {
-  "checked_at": "2026-10-28T06:02:49.188405+00:00",
+  "checked_at": "2026-10-29T06:14:41.173180+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 104,
+  "discovered": 112,
   "page_statuses": {
-    "dynamic_or_empty": 13,
-    "readable": 86,
+    "dynamic_or_empty": 12,
+    "network_error": 1,
+    "readable": 85,
     "oversized": 1,
-    "redirect_limit": 8
+    "redirect_limit": 8,
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -25,7 +27,7 @@
       "company": "叠纸",
       "website": "https://www.papegames.com/",
       "careers": "https://career.papegames.com/",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
@@ -96,10 +98,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "browser_status": "readable"
     },
     {
       "company": "散爆网络",
@@ -136,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "完美世界",
@@ -148,8 +150,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "吉比特/雷霆",
