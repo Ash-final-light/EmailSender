@@ -1,6 +1,6 @@
 {
   "01cf4978a638f51fe375946cceb565debc9aae187e6b61d7d20c40a1f32199fe": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.mihoyo.com/",
@@ -11,7 +11,7 @@
     }
   },
   "1dcdf86034951a68d9e2439302b09daf4f66b7c1fcd5dfa7eacdb1d10bdc6bac": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://join.mihoyo.com/",
@@ -30,58 +30,20 @@
     }
   },
   "bc279771954d6ee1247d8cba108345cc77c7140c53cc41b90a82bc56c172207e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
-      "status": "readable",
+      "status": "network_error",
       "url": "https://www.papegames.com/",
-      "text": "叠纸游戏-Papergames ... 《无限暖暖》是由叠纸游戏开发的一款多平台开放世界换装冒险游戏。各位将与暖暖和大喵一起，在广袤奇幻的大世界获得高自由度且新奇丰富的游戏体验，蕴藏于套装中的各种力量将会帮各位开拓前进的道路，带来缤纷多彩的冒险乐趣！ GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 《万物契约》是由叠纸游戏旗下TipsWorks工作室研发的全新大型跨平台动作角色扮演游戏。和神秘的少女卓姆一起，弥合一个破碎的世界。踏上一段险恶重重的漫长旅程，追寻犹如神祇一般的巨大生物，夺回早已扭曲与失落的世间“常理” GAMES 官网 WEIBO 官方微博 BILIBILI 哔哩哔哩 2034年，人类首次接收到来自宇宙深处的讯息。这段来自深空文明的讯息并未能够被完整破译，激发了人们对于宇宙和未知文明探索的好奇心，也衍生了各种有关于深空的传说。故事就发生在这样背景下的未来世界⋯⋯ ——未来，与他一起并肩作战！ GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 叠纸旗下十七折工作室自研的多平台中国风开放世界动作游戏。 乱世不休，唯有人心信守；千相阅尽，方知众生百面。 GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 叠纸动画是一支热爱电影、热爱动画、坚持原创，始终专注于创作出给人带来力量的、高品质作品的动画团队。 WEIBO 官方微博 叠纸旗下暖暖系列3D换装手游。 为闪耀的自我而生！与暖暖一同探索广阔的奇迹大陆，以搭配迎接未知与挑战，冒险的旅程因有你相伴而闪耀。 GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 叠纸旗下超现实恋爱经营手游。 爱和梦想，都要棋逢对手。与日常生活中不同职业的隐藏超能力者近距离接触，在跌宕起伏的超现实世界中体验心动！ GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 叠纸旗下暖暖系列第三代换装手游。 献给每个女孩的奇迹与梦想！绝美服饰多种搭配，和暖暖一起，开启沉浸体验的七国旅程吧！ GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 BILIBILI 哔哩哔哩 叠纸旗下休闲类换装养成手游。 奇特搞怪的人物，精彩的故事，众多的萌物，让整个旅途充满乐趣！ 各种未知的谜题也等待着暖暖去寻找最终的答案 。 GAMES 官网 WEIBO 官方微博 WECHAT 官方微信 01 09 愿景 VISION 关于我们 发展历程 在叠纸，做创造性的事 参与创造性的游戏制作 每个人都是创作主体 与行业前沿创作团队同行 为你提供安心创造的土壤 在叠纸长期可持续发展 在激发创造的氛围中持续创作 多重福利保障为你护航 1 2 3 4 5 2024 12-05 叠纸游戏《无限暖暖》全球正式公测，和暖暖大喵一同开启奇想冒险 和暖暖在开放世界捕捉美好瞬间 COPYRIGHT ©2013- 2026 Papergames. ALL RIGHTS RESERVED. 上海叠纸科技有限公司 沪ICP备19024742号-1 | 沪公网安备 31011002005515号 沪B2-20190689 | 沪网文〔2022〕1782-109号 健康游戏忠告：抵制不良游戏，拒绝盗版游戏。 注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。 合理安排时间，享受健康生活。",
-      "heading": "",
-      "structured": false,
-      "links": [
-        "https://infinitynikki.papegames.com/",
-        "https://weibo.com/u/7801655101",
-        "https://space.bilibili.com/3461576715667734",
-        "https://balladofantara.nuanpaper.com/",
-        "https://weibo.com/u/7922775291",
-        "https://space.bilibili.com/3546686590814305?spm_id_from=333.337.0.0",
-        "https://deepspace.papegames.cn/",
-        "https://weibo.com/u/7484247626",
-        "https://space.bilibili.com/699603717",
-        "https://bmqx.papegames.com/home",
-        "https://weibo.com/u/7797691300",
-        "https://space.bilibili.com/3461576713570746",
-        "https://weibo.com/u/7460535870",
-        "https://nikki4.papegames.cn/home",
-        "https://weibo.com/u/6498105282",
-        "https://space.bilibili.com/303469491?spm_id_from=333.337.0.0",
-        "https://evol.papegames.cn/",
-        "https://weibo.com/u/3248438592",
-        "https://space.bilibili.com/80696429?spm_id_from=333.337.0.0",
-        "https://qjnn.qq.com/index.shtml",
-        "https://weibo.com/u/5396121198",
-        "https://space.bilibili.com/37478304?spm_id_from=333.337.0.0",
-        "http://nikkiup2u2.com/",
-        "https://weibo.com/nikkiup2u",
-        "https://papergames.jobs.feishu.cn/social",
-        "https://papergames.jobs.feishu.cn/campus",
-        "https://career.papegames.com/PaperStar",
-        "https://www.papegames.com/news",
-        "https://www.papegames.com/contract?key=legal",
-        "https://www.papegames.com/contract",
-        "https://www.papegames.com/contract?key=privacy",
-        "https://www.papegames.com/contactUs",
-        "https://beian.miit.gov.cn/#/Integrated/index",
-        "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002005515"
-      ],
-      "job_links": []
+      "text": "",
+      "error": "HTTPError"
     }
   },
   "ac11c71d7aa1a53bcd839f50d9a4e6bbeff2a529237814c633d9a696a5049888": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://career.papegames.com/",
-      "text": "搜索 筛选 清除 城市 上海 职能分类 技术研发类 美术类 策划类 动画CG类 市场运营类 质量管理类 平台类 IP开发类 音频类 项管类 职能支持类 开启新的工作（297） 1 2 3 4 5 30",
+      "text": "搜索 筛选 清除 城市 上海 职能分类 技术研发类 美术类 策划类 动画CG类 市场运营类 质量管理类 平台类 IP开发类 音频类 项管类 职能支持类 开启新的工作（288） 1 2 3 4 5 29",
       "heading": "",
       "structured": false,
       "links": [
@@ -100,11 +62,11 @@
     }
   },
   "b87ecd9e97ce2ca33d0eb9ac76b192de8542b5564c032bf61a2572eb47c28c32": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.tencent.com/",
-      "text": "We build technologies that create the future Who we are What's happening View all news Tencent's Quirky, Accidental Mascot Turns 10 September 24, 2026 The Professor Who Teaches Students to Read Games, Not Win Them October 15, 2026 99 Giving Day: How Technology Creates More Ways to Do Good September 4, 2026 Tencent is improving quality of life around the world through innovative technology, products and services For consumers Connecting users in their everyday lives Tencent Games Tencent is: Four players left on the map. And millions of game downloads around the world. Learn more about Tencent for consumers Weixin/WeChat Tencent is: Three friends making dinner plans. And over a billion monthly active users. Learn more about Tencent for consumers For business Connecting business strategy to digital delivery Tencent Cloud Tencent is: One breakthrough in a lab. And myriad business solutions at work on cloud. Learn more about Tencent for business For the future Developing technology that matters Tencent Media Lab Tencent is: One composer recording long into the night. And millions of listeners appreciating crystal-clear creativity. Learn more about Tencent for the future Tencent Ethereal Lab Tencent is: Multiple speakers chime in at once. Yet each voice remains perfectly intelligible. Learn more about Tencent for the future Value for Users, Tech for Good Our vision and mission 100% of all electricity consumed in our own operations and supply chain will be green power by 2030 52,400 tons of CO2 emissions saved annually, equivalent to planting 2.86 million trees Environment Tencent strives to promote environmental sustainability in our daily operations, product development, and public outreach initiatives. Learn more Social As a technology company, we have a responsibility to support society's most vulnerable and drive positive change. Learn more Governance Tencent is committed to the highest levels of corporate governance. Learn more Latest news See all Stories For business Speak With Confidence: The Technology Behind Clearer Conversations October 27, 2026 Stories For consumers Your New AI Colleague Brought a Few Talented Friends October 23, 2026 Featured Stories +2 more The Professor Who Teaches Students to Read Games, Not Win Them October 15, 2026 Stories For consumers You Work Across Six Apps. Your AI Should Too. October 12, 2026",
+      "text": "We build technologies that create the future Who we are What's happening View all news Tencent and Visa Announce Strategic Partnership to Enhance Global Payment and Commerce Experiences Across Tencent’s Ecosystem October 29, 2026 The Professor Who Teaches Students to Read Games, Not Win Them October 15, 2026 99 Giving Day: How Technology Creates More Ways to Do Good September 4, 2026 Tencent is improving quality of life around the world through innovative technology, products and services For consumers Connecting users in their everyday lives Tencent Games Tencent is: Four players left on the map. And millions of game downloads around the world. Learn more about Tencent for consumers Weixin/WeChat Tencent is: Three friends making dinner plans. And over a billion monthly active users. Learn more about Tencent for consumers For business Connecting business strategy to digital delivery Tencent Cloud Tencent is: One breakthrough in a lab. And myriad business solutions at work on cloud. Learn more about Tencent for business For the future Developing technology that matters Tencent Media Lab Tencent is: One composer recording long into the night. And millions of listeners appreciating crystal-clear creativity. Learn more about Tencent for the future Tencent Ethereal Lab Tencent is: Multiple speakers chime in at once. Yet each voice remains perfectly intelligible. Learn more about Tencent for the future Value for Users, Tech for Good Our vision and mission 100% of all electricity consumed in our own operations and supply chain will be green power by 2030 52,400 tons of CO2 emissions saved annually, equivalent to planting 2.86 million trees Environment Tencent strives to promote environmental sustainability in our daily operations, product development, and public outreach initiatives. Learn more Social As a technology company, we have a responsibility to support society's most vulnerable and drive positive change. Learn more Governance Tencent is committed to the highest levels of corporate governance. Learn more Latest news See all Featured Corporate +1 more Tencent and Visa Announce Strategic Partnership to Enhance Global Payment and Commerce Experiences Across Tencent’s Ecosystem October 29, 2026 Stories For business Speak With Confidence: The Technology Behind Clearer Conversations October 27, 2026 Stories For consumers Your New AI Colleague Brought a Few Talented Friends October 23, 2026 Featured Stories +2 more The Professor Who Teaches Students to Read Games, Not Win Them October 15, 2026",
       "heading": "We build technologies that create the future",
       "structured": false,
       "links": [
@@ -200,8 +162,8 @@
         "https://www.tencent.com/zh-hk/",
         "https://www.tencent.com/who-we-are/",
         "https://www.tencent.com/newsroom/all-news/",
-        "https://www.tencent.com/tencents-quirky-accidental-mascot-turns-10/",
-        "https://www.tencent.com/tencents-quirky-accidental-mascot-turns-10/",
+        "https://www.tencent.com/tencent-and-visa-announce-strategic-partnership-to-enhance-global-payment-and-commerce-experiences/",
+        "https://www.tencent.com/tencent-and-visa-announce-strategic-partnership-to-enhance-global-payment-and-commerce-experiences/",
         "https://www.tencent.com/the-professor-who-teaches-students-to-read-games-not-win-them/",
         "https://www.tencent.com/the-professor-who-teaches-students-to-read-games-not-win-them/",
         "https://www.tencent.com/99-giving-day-how-technology-creates-more-ways-to-do-good/",
@@ -217,6 +179,9 @@
         "https://www.tencent.com/our-actions/social/",
         "https://www.tencent.com/our-actions/governance/",
         "https://www.tencent.com/newsroom/all-news/",
+        "https://www.tencent.com/tencent-and-visa-announce-strategic-partnership-to-enhance-global-payment-and-commerce-experiences/",
+        "https://www.tencent.com/category/corporate/",
+        "https://www.tencent.com/tencent-and-visa-announce-strategic-partnership-to-enhance-global-payment-and-commerce-experiences/",
         "https://www.tencent.com/speak-with-confidence-the-technology-behind-clearer-conversations/",
         "https://www.tencent.com/category/stories/",
         "https://www.tencent.com/topic/topic-for-business/",
@@ -228,10 +193,6 @@
         "https://www.tencent.com/the-professor-who-teaches-students-to-read-games-not-win-them/",
         "https://www.tencent.com/category/stories/",
         "https://www.tencent.com/the-professor-who-teaches-students-to-read-games-not-win-them/",
-        "https://www.tencent.com/you-work-across-six-apps-your-ai-should-too/",
-        "https://www.tencent.com/category/stories/",
-        "https://www.tencent.com/topic/topic-for-consumers/",
-        "https://www.tencent.com/you-work-across-six-apps-your-ai-should-too/",
         "https://www.tencent.com",
         "https://www.linkedin.com/company/tencentglobal",
         "https://twitter.com/TencentGlobal",
@@ -286,7 +247,7 @@
     }
   },
   "f3a106b5d4fb86bee04bf5f0c1ac9445c92d578e1dc26f3144055297f1592f2b": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://join.qq.com/",
@@ -312,7 +273,7 @@
     }
   },
   "1eff0917a5fcb415c3eb4c99f0e79d1c00e8362e815f5bb3320be7647022e06e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://game.163.com/",
@@ -635,7 +596,7 @@
     }
   },
   "57da08024909e580ae8c9f9aeec20857d2a22193df53f37b6aeeb949b14192c0": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://game.campus.163.com/",
@@ -660,7 +621,7 @@
     }
   },
   "88391778b5b837cccecfc86d942b7f3239cb517274498edcadf3e19220fc39a7": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "oversized",
       "url": "https://www.lilith.com/",
@@ -668,7 +629,7 @@
     }
   },
   "e2ec2d925cc5ebfe85077a4bf84574f6b6845bcd470fee59f28182a5cfb56969": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/",
@@ -743,7 +704,7 @@
     }
   },
   "c8bd59b46126e6b6b3c5d21d25fef9011425f80ce467b4ed71f79f52465558a6": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.boke.com/",
@@ -806,11 +767,11 @@
     }
   },
   "e62eb8e1e256152276d5ac414f9111fdacaceffb0b53099ff784365ef119f6c5": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/",
-      "text": "创造无限KE能 搜索 筛选 清除 城市 上海 武汉 广州 北京 新加坡 职能分类 研发 美术 策划 客服 发行 职能 技术 开启新的工作（81） Unity主程 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导Unity3D客户端开发，完善引擎架构。\n2. 负责客户端核心模块设计与编码，保障游戏性能。\n3. 推动产品快速迭代，解决开发中技术难题。\n4. 与策划、美术等团队协作，确保产品品质。\n5. 指导和培养团队成员，提升整体技术水平。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity开发引擎，熟悉Unity常用框架，5年游戏开发经验,有0到1的成功项目经验；\n3. 熟练掌握C#/C++计算机语言，有lua研发经验者优先。\n4. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配。\n5. 熟悉面向对象编程，了解设计模式，有lua编程经验者优先；\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； 中级Unity开发 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 使用 Unity，C# 开发 iOS，Android 跨平台游戏，编写稳定，高效，安全的代码和脚本。\n2. 对接策划与服务器，完成接口设计，实现游戏玩法；确保功能完整，稳定，性能消耗合理。\n3. 参与框架优化，AI Agent 游戏开发工作流搭建。\n4. 对所负责的功能进行跟踪推进，促使任务闭环。\n任职要求：\n1. 热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n2. 本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n3. 熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n4. 熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n5. 熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n6. 思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。 高级Unity开发 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 使用 Unity，C# 开发 iOS，Android 跨平台游戏，编写稳定，高效，安全的代码和脚本。\n2. 微信小游戏的转换环境搭建与性能优化。\n3. 在IOS原生代码环境接入SDK。\n4. 对接策划与服务器，完成接口设计，实现游戏玩法；确保功能完整，稳定，性能消耗合理。\n5. 对所负责的功能进行跟踪推进，促使任务闭环。\n任职要求：\n1. 热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n2. 本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n3. 熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n4. 熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n5. 有微信小游戏的实际项目开发和上线经验。\n6. 有苹果商店的上线经验。\n7. 熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n8. 思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。 Unity 客户端开发 上海 全职 互联网 / 电子 / 网游 1. 岗位职责\n（1）使用 Unity，C# 开发 iOS，Android 等跨平台游戏，编写稳定，高效，安全的代码和脚本。\n（2）对接策划与服务器，完成接口设计，实现游戏玩法，确保功能完整，稳定，性能消耗合理。\n（3）完成微信小游戏的转换环境搭建与性能优化。\n（4）对所负责的功能进行跟踪推进，保障任务闭环。\n\n2. 任职要求\n（1）熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n（2）熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n（3）热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n（4）本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n（5）熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n（6）思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。\n（7）有苹果商店的上线经验，有微信小游戏的实际项目开发和上线经验者优先。\n（8）对 UI 架构模式有深入研究，有 UI 框架设计经验，对 UI 开发规范有深入了解者优先。 Unity主程（棋牌） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导Unity3D客户端开发，完善引擎架构。\n2. 负责客户端核心模块设计与编码，保障游戏性能。\n3. 推动产品快速迭代，解决开发中技术难题。\n4. 与策划、美术等团队协作，确保产品品质。\n5. 指导和培养团队成员，提升整体技术水平。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity开发引擎，熟悉Unity常用框架，5年游戏开发经验,有0到1的成功项目经验；\n3. 熟练掌握C#/C++计算机语言，有lua研发经验者优先。\n4. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配。\n5. 熟悉面向对象编程，了解设计模式，有lua编程经验者优先；\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； Unity工程师（小游戏） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 负责微信小程序游戏各系统的解决方案制定和逻辑编写；\n2. 协同美术、策划、测试、运维等,完成客户端版本迭代；\n3. 持续优化客户端开发工作流，维护和研发Unity客户端相关的工具和插件；\n4. 持续优化客户端性能；\n5. 能解决Unity客户端疑难杂症，具有快速定位问题、解决问题的能力；\n\n任职资格:\n6. 本科及以上学历，985、211优先；\n7. 精通C#，熟悉Lua脚本语言，另有其他语言经验更佳；\n8. 精通Unity引擎架构，对Unity底层有深刻认识，能深度挖掘引擎性能；\n9. 有一定的图形学基础，熟悉Shader编程；\n10. 有良好代码习惯，对面向对象思想有较深的理解，熟悉常用的设计模式；\n11. 有独立完成过中小型项目，或者深度参与过中大型项目者优先;\n12. 热爱游戏行业且愿意在游戏行业长久发展;\n\n我们秉承“BE WILD. BE FREE.”的品牌主张，坚持始终创业、简单务实、开放包容、勇于担当的文化理念。在这里——\n【态度】我们讲求自驱，不设边界，没有人能定义你的舞台和天花板；\n【氛围】内部真·扁平，新人的意见、不同的观点都有可能成为波克前行的关键；\n【成长】入职即有指导人和成长伙伴双cover，内部分享+外聘大神助你突破自我； unity 开发工程师（捕鱼类） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 负责手游客户端各系统的解决方案制定和逻辑编写；\n2. 协同美术、策划、测试、运维等,完成客户端版本迭代；\n3. 持续优化客户端开发工作流，维护和研发Unity客户端相关的工具和插件；\n4. 持续优化客户端性能；\n5. 能解决Unity客户端疑难杂症，具有快速定位问题、解决问题的能力；\n\n任职资格:\n6. 本科及以上学历，985、211优先；\n7. 精通C#，熟悉Lua脚本语言，另有其他语言经验更佳；\n8. 精通Unity引擎架构，对Unity底层有深刻认识，能深度挖掘引擎性能；\n9. 有一定的图形学基础，熟悉Shader编程；\n10. 有良好代码习惯，对面向对象思想有较深的理解，熟悉常用的设计模式；\n11. 有独立完成过中小型项目，或者深度参与过中大型项目者优先;\n12. 热爱游戏行业且愿意在游戏行业长久发展;\n\n我们秉承“BE WILD. BE FREE.”的品牌主张，坚持始终创业、简单务实、开放包容、勇于担当的文化理念。在这里——\n【态度】我们讲求自驱，不设边界，没有人能定义你的舞台和天花板；\n【氛围】内部真·扁平，新人的意见、不同的观点都有可能成为波克前行的关键；\n【成长】入职即有指导人和成长伙伴双cover，内部分享+外聘大神助你突破自我； Unity特效师 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 了解策划需求，配合策划根据游戏内容提出相应的3D特效优化方案，合理规划特效资源大小；\n2. 主导棋牌游戏核心特效风格，以及关键元素的特效设计工作；\n3. 积极参与特效实现技术方案的讨论，提供专业见解，定义视觉动效标准，制定特效制作规范；\n4. 严格把控动效质量，对输出的成果进行审核与验收，确保结果符合设计标准，且特效资源满足性能要求；\n\n任职资格:\n1. 专科及以上学历，具备5年以上游戏动效设计经验，至少主导过两款游戏的核心动效设计；\n2. 具有跨团队协作经验，能够清晰撰写动效需求文档，并主动解决技术落地过程中出现的问题；\n3. 能够胜任3D(unity+3Dmax)，同时对2D（spine+ae）特效有一定的了解研究；\n4. 熟练使用unity引擎制作特效，完全掌握粒子系统、trail组件，能独立完成特效所需的shader制作；\n4. 熟练使用ps、ae、flash等软件产出所需的特效素材；\n5. 能够适应产品的不同风格，具有较强的沟通能力，执行能力和问题解决能力；\n6. 具有优秀的色感、节奏感，对运动规律有较深的认知，有自己的审美体系； Unity主程（小游戏） 上海 全职 互联网 / 电子 / 网游 岗位职责\n1. 主导Unity3D游戏项目的架构设计与搭建，确保游戏具备高扩展性、稳定性。\n2. 负责核心游戏逻辑模块开发，保证游戏玩法流畅。\n3. 与美术团队紧密配合，优化游戏资源加载与渲染流程，实现高质量视觉效果。\n4. 协同后端团队，设计高效的数据交互协议，保障游戏数据实时同步。\n5. 深入分析游戏性能瓶颈，运用Unity3D引擎特性进行针对性优化，如优化内存管理、减少内存泄漏、优化提升游戏帧率、提升游戏在不同机型上的适配性等。\n6. 指导和培养团队成员，提升整体技术水平；\n7. 严格审查代码，确保代码质量符合团队规范。\n任职资格\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity3D开发引擎，熟悉Unity常用框架，6年及以上游戏开发经验；\n3. 熟悉面向对象编程，了解设计模式，有0-1大型网游开发经验，能处理资源、性能优化和表现效果；\n4. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情；\n5. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配；\n6. 具备AI工具/AI Agent的实际应用经验者优先，能将其融入日常工作流程提升效率与交付质量； 资深Unity客户端 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导核心玩法框架开发，构建高复用、易扩展的客户端玩法业务框架，支持麻将/扑克等多玩法在3D场景中的快速接入\n2. 构建数据驱动开发体系，规则编辑器开发（Unity Editor扩展）实现牌型、出牌规则、洗牌规则、计分规则配置\n3. 设计玩法内3D资源规范、运行时调度和质量设置策略以满足不同档位机型的性能。\n4. 提供玩法表现和3C相关的技术方案支持和实现，包括动效、灯光、镜头、角色、控制。\n5. 指导和培养组员设计模式应用能力，建立玩法内容技术规范，提升整体技术水平。\n6. 持续与策划、美术、服务器等团队协作，打磨产品核心体验，保障玩法内容的效果、质量和稳定。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 8年+Unity游戏3D项目开发经验。有棋牌/卡牌战斗/RPG战斗相关项目经验优先，有0到1的成功项目经验优先；\n3. 熟练掌握C#，精通面向对象编程、设计模式运用。C++/golang服务器相关经验者加分。\n4. 掌握3D性能优化，熟悉镜头控制、特效表现、角色动画。有Timeline/Cinemachine/图形渲染shader能力优先。\n5. 具备良好的代码组织能力，有良好的代码和文档习惯，对代码质量有较高要求。\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； 1 2 3 4 5 6 7 8 9",
+      "text": "创造无限KE能 搜索 筛选 清除 城市 上海 武汉 广州 北京 新加坡 职能分类 研发 美术 策划 客服 发行 职能 技术 开启新的工作（81） Unity主程 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导Unity3D客户端开发，完善引擎架构。\n2. 负责客户端核心模块设计与编码，保障游戏性能。\n3. 推动产品快速迭代，解决开发中技术难题。\n4. 与策划、美术等团队协作，确保产品品质。\n5. 指导和培养团队成员，提升整体技术水平。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity开发引擎，熟悉Unity常用框架，5年游戏开发经验,有0到1的成功项目经验；\n3. 熟练掌握C#/C++计算机语言，有lua研发经验者优先。\n4. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配。\n5. 熟悉面向对象编程，了解设计模式，有lua编程经验者优先；\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； 中级Unity开发 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 使用 Unity，C# 开发 iOS，Android 跨平台游戏，编写稳定，高效，安全的代码和脚本。\n2. 对接策划与服务器，完成接口设计，实现游戏玩法；确保功能完整，稳定，性能消耗合理。\n3. 参与框架优化，AI Agent 游戏开发工作流搭建。\n4. 对所负责的功能进行跟踪推进，促使任务闭环。\n任职要求：\n1. 热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n2. 本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n3. 熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n4. 熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n5. 熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n6. 思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。 高级Unity开发 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 使用 Unity，C# 开发 iOS，Android 跨平台游戏，编写稳定，高效，安全的代码和脚本。\n2. 微信小游戏的转换环境搭建与性能优化。\n3. 在IOS原生代码环境接入SDK。\n4. 对接策划与服务器，完成接口设计，实现游戏玩法；确保功能完整，稳定，性能消耗合理。\n5. 对所负责的功能进行跟踪推进，促使任务闭环。\n任职要求：\n1. 热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n2. 本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n3. 熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n4. 熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n5. 有微信小游戏的实际项目开发和上线经验。\n6. 有苹果商店的上线经验。\n7. 熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n8. 思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。 Unity 客户端开发 上海 全职 互联网 / 电子 / 网游 1. 岗位职责\n（1）使用 Unity，C# 开发 iOS，Android 等跨平台游戏，编写稳定，高效，安全的代码和脚本。\n（2）对接策划与服务器，完成接口设计，实现游戏玩法，确保功能完整，稳定，性能消耗合理。\n（3）完成微信小游戏的转换环境搭建与性能优化。\n（4）对所负责的功能进行跟踪推进，保障任务闭环。\n\n2. 任职要求\n（1）熟练使用 C#，对设计原则与 OOP 有正确的见解，掌握常见的数据结构和算法，注重代码的稳定性和可读性。\n（2）熟练使用 Unity，掌握 Unity 开发最佳实践策略，涵盖资源，动效，UI，物理使用等方面。\n（3）热爱游戏，对游戏开发抱有热情，注重功能游戏体验。\n（4）本科及以上学历，计算机相关专业，985 或 211 院校毕业者优先。\n（5）熟练使用 Git，Svn 等版本管理工具，熟练使用 Cursor，Codex，Claude 等 vibe Coding 工具。\n（6）思维严谨，逻辑清晰，有求知欲和责任心，具备良好的沟通能力。\n（7）有苹果商店的上线经验，有微信小游戏的实际项目开发和上线经验者优先。\n（8）对 UI 架构模式有深入研究，有 UI 框架设计经验，对 UI 开发规范有深入了解者优先。 Unity主程（棋牌） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导Unity3D客户端开发，完善引擎架构。\n2. 负责客户端核心模块设计与编码，保障游戏性能。\n3. 推动产品快速迭代，解决开发中技术难题。\n4. 与策划、美术等团队协作，确保产品品质。\n5. 指导和培养团队成员，提升整体技术水平。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity开发引擎，熟悉Unity常用框架，5年游戏开发经验,有0到1的成功项目经验；\n3. 熟练掌握C#/C++计算机语言，有lua研发经验者优先。\n4. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配。\n5. 熟悉面向对象编程，了解设计模式，有lua编程经验者优先；\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； Unity工程师（小游戏） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 负责微信小程序游戏各系统的解决方案制定和逻辑编写；\n2. 协同美术、策划、测试、运维等,完成客户端版本迭代；\n3. 持续优化客户端开发工作流，维护和研发Unity客户端相关的工具和插件；\n4. 持续优化客户端性能；\n5. 能解决Unity客户端疑难杂症，具有快速定位问题、解决问题的能力；\n\n任职资格:\n6. 本科及以上学历，985、211优先；\n7. 精通C#，熟悉Lua脚本语言，另有其他语言经验更佳；\n8. 精通Unity引擎架构，对Unity底层有深刻认识，能深度挖掘引擎性能；\n9. 有一定的图形学基础，熟悉Shader编程；\n10. 有良好代码习惯，对面向对象思想有较深的理解，熟悉常用的设计模式；\n11. 有独立完成过中小型项目，或者深度参与过中大型项目者优先;\n12. 热爱游戏行业且愿意在游戏行业长久发展;\n\n我们秉承“BE WILD. BE FREE.”的品牌主张，坚持始终创业、简单务实、开放包容、勇于担当的文化理念。在这里——\n【态度】我们讲求自驱，不设边界，没有人能定义你的舞台和天花板；\n【氛围】内部真·扁平，新人的意见、不同的观点都有可能成为波克前行的关键；\n【成长】入职即有指导人和成长伙伴双cover，内部分享+外聘大神助你突破自我； Unity特效师 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 了解策划需求，配合策划根据游戏内容提出相应的3D特效优化方案，合理规划特效资源大小；\n2. 主导棋牌游戏核心特效风格，以及关键元素的特效设计工作；\n3. 积极参与特效实现技术方案的讨论，提供专业见解，定义视觉动效标准，制定特效制作规范；\n4. 严格把控动效质量，对输出的成果进行审核与验收，确保结果符合设计标准，且特效资源满足性能要求；\n\n任职资格:\n1. 专科及以上学历，具备5年以上游戏动效设计经验，至少主导过两款游戏的核心动效设计；\n2. 具有跨团队协作经验，能够清晰撰写动效需求文档，并主动解决技术落地过程中出现的问题；\n3. 能够胜任3D(unity+3Dmax)，同时对2D（spine+ae）特效有一定的了解研究；\n4. 熟练使用unity引擎制作特效，完全掌握粒子系统、trail组件，能独立完成特效所需的shader制作；\n4. 熟练使用ps、ae、flash等软件产出所需的特效素材；\n5. 能够适应产品的不同风格，具有较强的沟通能力，执行能力和问题解决能力；\n6. 具有优秀的色感、节奏感，对运动规律有较深的认知，有自己的审美体系； unity 开发工程师（捕鱼类） 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 负责手游客户端各系统的解决方案制定和逻辑编写；\n2. 协同美术、策划、测试、运维等,完成客户端版本迭代；\n3. 持续优化客户端开发工作流，维护和研发Unity客户端相关的工具和插件；\n4. 持续优化客户端性能；\n5. 能解决Unity客户端疑难杂症，具有快速定位问题、解决问题的能力；\n\n任职资格:\n6. 本科及以上学历，985、211优先；\n7. 精通C#，熟悉Lua脚本语言，另有其他语言经验更佳；\n8. 精通Unity引擎架构，对Unity底层有深刻认识，能深度挖掘引擎性能；\n9. 有一定的图形学基础，熟悉Shader编程；\n10. 有良好代码习惯，对面向对象思想有较深的理解，熟悉常用的设计模式；\n11. 有独立完成过中小型项目，或者深度参与过中大型项目者优先;\n12. 热爱游戏行业且愿意在游戏行业长久发展;\n\n我们秉承“BE WILD. BE FREE.”的品牌主张，坚持始终创业、简单务实、开放包容、勇于担当的文化理念。在这里——\n【态度】我们讲求自驱，不设边界，没有人能定义你的舞台和天花板；\n【氛围】内部真·扁平，新人的意见、不同的观点都有可能成为波克前行的关键；\n【成长】入职即有指导人和成长伙伴双cover，内部分享+外聘大神助你突破自我； Unity主程（小游戏） 上海 全职 互联网 / 电子 / 网游 岗位职责\n1. 主导Unity3D游戏项目的架构设计与搭建，确保游戏具备高扩展性、稳定性。\n2. 负责核心游戏逻辑模块开发，保证游戏玩法流畅。\n3. 与美术团队紧密配合，优化游戏资源加载与渲染流程，实现高质量视觉效果。\n4. 协同后端团队，设计高效的数据交互协议，保障游戏数据实时同步。\n5. 深入分析游戏性能瓶颈，运用Unity3D引擎特性进行针对性优化，如优化内存管理、减少内存泄漏、优化提升游戏帧率、提升游戏在不同机型上的适配性等。\n6. 指导和培养团队成员，提升整体技术水平；\n7. 严格审查代码，确保代码质量符合团队规范。\n任职资格\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 熟练的使用Unity3D开发引擎，熟悉Unity常用框架，6年及以上游戏开发经验；\n3. 熟悉面向对象编程，了解设计模式，有0-1大型网游开发经验，能处理资源、性能优化和表现效果；\n4. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情；\n5. 有已上架IOS/Android产品开发经验，熟悉移动平台接口适配；\n6. 具备AI工具/AI Agent的实际应用经验者优先，能将其融入日常工作流程提升效率与交付质量； 资深Unity客户端 上海 全职 互联网 / 电子 / 网游 岗位职责：\n1. 主导核心玩法框架开发，构建高复用、易扩展的客户端玩法业务框架，支持麻将/扑克等多玩法在3D场景中的快速接入\n2. 构建数据驱动开发体系，规则编辑器开发（Unity Editor扩展）实现牌型、出牌规则、洗牌规则、计分规则配置\n3. 设计玩法内3D资源规范、运行时调度和质量设置策略以满足不同档位机型的性能。\n4. 提供玩法表现和3C相关的技术方案支持和实现，包括动效、灯光、镜头、角色、控制。\n5. 指导和培养组员设计模式应用能力，建立玩法内容技术规范，提升整体技术水平。\n6. 持续与策划、美术、服务器等团队协作，打磨产品核心体验，保障玩法内容的效果、质量和稳定。\n\n任职资格:\n1. 本科及以上学历，计算机相关专业，985或211优先；\n2. 8年+Unity游戏3D项目开发经验。有棋牌/卡牌战斗/RPG战斗相关项目经验优先，有0到1的成功项目经验优先；\n3. 熟练掌握C#，精通面向对象编程、设计模式运用。C++/golang服务器相关经验者加分。\n4. 掌握3D性能优化，熟悉镜头控制、特效表现、角色动画。有Timeline/Cinemachine/图形渲染shader能力优先。\n5. 具备良好的代码组织能力，有良好的代码和文档习惯，对代码质量有较高要求。\n6. 清晰的逻辑思维，善于沟通，责任心和抗压能力强，热爱游戏并对开发充满热情； 1 2 3 4 5 6 7 8 9",
       "heading": "",
       "structured": false,
       "links": [
@@ -824,8 +785,8 @@
         "https://boke.jobs.feishu.cn/index/position/7700895281240082751/detail",
         "https://boke.jobs.feishu.cn/index/position/7602110339182496027/detail",
         "https://boke.jobs.feishu.cn/index/position/7562094175332649243/detail",
-        "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
         "https://boke.jobs.feishu.cn/index/position/7595140523364272403/detail",
+        "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
         "https://boke.jobs.feishu.cn/index/position/7612633984958761257/detail",
         "https://boke.jobs.feishu.cn/index/position/7483331975316392255/detail"
       ],
@@ -895,12 +856,12 @@
           "title": "Unity工程师（小游戏）"
         },
         {
-          "url": "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
-          "title": "unity 开发工程师（捕鱼类）"
-        },
-        {
           "url": "https://boke.jobs.feishu.cn/index/position/7595140523364272403/detail",
           "title": "Unity特效师"
+        },
+        {
+          "url": "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
+          "title": "unity 开发工程师（捕鱼类）"
         },
         {
           "url": "https://boke.jobs.feishu.cn/index/position/7612633984958761257/detail",
@@ -916,7 +877,7 @@
     }
   },
   "70728cb4c5a3fa861ae7f245642a1d1f16026039636a5a4b933f1f585d2fc0af": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.hypergryph.com/",
@@ -927,11 +888,11 @@
     }
   },
   "4db4ca6c60707cc93a1fe019ee360ec6451574039b25a3235d05ab3d073c3549": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://career.hypergryph.com/",
-      "text": "ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT HYPERGRYPH RECRUITMENT 加 入 我 们 立即投递 立即投递 ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT HYPERGRYPH RECRUITMENT 加 入 我 们 SEARCH SEARCH 发现职位 JOIN US 成 为 新 干 员 JOIN US ART\n& DESIGN 89 美术表现类 美术 表现类 89 VIEW MORE VIEW MORE 查看89个职位 PRODUCT\nPLANNING 72 产品策划类 产品 策划类 72 VIEW MORE VIEW MORE 查看72个职位 PROGRAMMING\n& TECHNICAL 48 程序技术类 程序 技术类 48 VIEW MORE VIEW MORE 查看48个职位 PUBLISHING\n& MARKETING 85 发行市场类 发行 市场类 85 VIEW MORE VIEW MORE 查看85个职位 GENERAL\nFUNCTIONS 27 职能综合类 职能 综合类 27 VIEW MORE VIEW MORE 查看27个职位 QUALITY\nMANAGEMENT 25 质量管理类 质量 管理类 25 VIEW MORE VIEW MORE 查看25个职位 HIRING UPDATES 招 聘 实 况 HIRING UPDATES 校招动态 社招动态 鹰角生活 校招动态 社招动态 鹰角生活 DATE 2026/08/13 鹰角网络2027秋季校园招聘正式启动！ 加入我们，一起解放游戏创作的无限可能！ READ MORE DATE 2026/09/08 宣讲行程 | 鹰角网络2027全球校园宣讲坐标解锁！ 快快报名，音酱期待和你线下见面~ READ MORE DATE 2026/07/20 鹰角网络2027秋季校园招聘提前批启动！ 先人一步拿offer！ READ MORE DATE 2026/07/20 策划专项丨直通面试！鹰角网络2027引力波计划招募启动！ 机会宝贵，请大家尽早投递哦~ READ MORE DATE 2026/07/20 GGAC X 鹰角网络首届高校游戏UI设计大赛正式启动！ 欢迎加入视觉重构之旅，在像素之间，重塑万象。 READ MORE DATE 2025/09/19 原来加入鹰角的校招生们“长”这样？ 鹰角网络校招干员报告首次公开！ READ MORE DATE 2026/09/09 防诈提醒 | 对“招聘诈骗”说“不”！ 如遇任何疑似诈骗的情况，请及时向音酱反馈哦！ READ MORE DATE 2026/07/20 鹰角社招丨《明日方舟：终末地》热招中！ 期待你加入我们，为塔卫二的未来持续注入动力！ READ MORE DATE 2025/10/10 《泡姆泡姆》制作人专访｜用现实的方法，做最浪漫的事 一起进入《泡姆泡姆》的世界吧！ READ MORE DATE 2025/04/02 想做游戏策划？生存档案已揭秘！ 系统策划、关卡策划、数值策划、活动策划、交互设计，五种策划岗位大揭秘！ READ MORE DATE 2026/10/16 在鹰角实习，究竟是什么样的体验？ 谢邀，我要回答！ READ MORE DATE 2026/07/20 听说在鹰角下班后是这样的… 走，音酱带你潜入鹰角干员的下班图鉴！ READ MORE DATE 2026/08/13 鹰角网络2027秋季校园招聘正式启动！ 加入我们，一起解放游戏创作的无限可能！ READ MORE DATE 2026/09/08 宣讲行程 | 鹰角网络2027全球校园宣讲坐标解锁！ 快快报名，音酱期待和你线下见面~ READ MORE DATE 2026/07/20 鹰角网络2027秋季校园招聘提前批启动！ 先人一步拿offer！ READ MORE DATE 2026/07/20 策划专项丨直通面试！鹰角网络2027引力波计划招募启动！ 机会宝贵，请大家尽早投递哦~ READ MORE DATE 2026/07/20 GGAC X 鹰角网络首届高校游戏UI设计大赛正式启动！ 欢迎加入视觉重构之旅，在像素之间，重塑万象。 READ MORE DATE 2025/09/19 原来加入鹰角的校招生们“长”这样？ 鹰角网络校招干员报告首次公开！ READ MORE DATE 2026/09/09 防诈提醒 | 对“招聘诈骗”说“不”！ 如遇任何疑似诈骗的情况，请及时向音酱反馈哦！ READ MORE DATE 2026/07/20 鹰角社招丨《明日方舟：终末地》热招中！ 期待你加入我们，为塔卫二的未来持续注入动力！ READ MORE DATE 2025/10/10 《泡姆泡姆》制作人专访｜用现实的方法，做最浪漫的事 一起进入《泡姆泡姆》的世界吧！ READ MORE DATE 2025/04/02 想做游戏策划？生存档案已揭秘！ 系统策划、关卡策划、数值策划、活动策划、交互设计，五种策划岗位大揭秘！ READ MORE DATE 2026/10/16 在鹰角实习，究竟是什么样的体验？ 谢邀，我要回答！ READ MORE DATE 2026/07/20 听说在鹰角下班后是这样的… 走，音酱带你潜入鹰角干员的下班图鉴！ READ MORE 1/6 1/4 LET'S CREATING 加 入 鹰 角 ， 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 1/4 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 加入鹰角，一起构建独一无二的「世界」 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 1/4 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 我们在鹰角 我们在鹰角 EXPLORE MORE 了解更全面的鹰角网络 进入官网 进入官网 EXPLORE MORE 了解更全面的鹰角网络 我们在构建独⼀⽆⼆的“世界”道路上继续前进，希望喜爱游戏 与前卫创作的你⼀起加⼊！ 进入官网 进入官网 用户注册协议 隐私政策 联系我们 沪ICP备17022476号-1 沪网文〔2025〕0013-002号 沪公网安备 31010402005145号 亲爱的市民朋友，上海警方反诈劝阻电话“962110”系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。 © 2017-2026 鹰角网络版权所有   客服电话：021-64399377 全国违法信息举报 上海违法信息举报 上海市公安局 SCROLL LOADING . . . 100% HYPERGRYPH RECRUITMENT ART & DESIGN PUBLISHING & MARKETING PROGRAMMING & TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT",
+      "text": "ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT HYPERGRYPH RECRUITMENT 加 入 我 们 立即投递 立即投递 ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT ART AND DESIGN PUBLISHING AND MARKETING PROGRAMMING AND TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT HYPERGRYPH RECRUITMENT 加 入 我 们 SEARCH SEARCH 发现职位 JOIN US 成 为 新 干 员 JOIN US ART\n& DESIGN 89 美术表现类 美术 表现类 89 VIEW MORE VIEW MORE 查看89个职位 PRODUCT\nPLANNING 72 产品策划类 产品 策划类 72 VIEW MORE VIEW MORE 查看72个职位 PROGRAMMING\n& TECHNICAL 48 程序技术类 程序 技术类 48 VIEW MORE VIEW MORE 查看48个职位 PUBLISHING\n& MARKETING 86 发行市场类 发行 市场类 86 VIEW MORE VIEW MORE 查看86个职位 GENERAL\nFUNCTIONS 27 职能综合类 职能 综合类 27 VIEW MORE VIEW MORE 查看27个职位 QUALITY\nMANAGEMENT 26 质量管理类 质量 管理类 26 VIEW MORE VIEW MORE 查看26个职位 HIRING UPDATES 招 聘 实 况 HIRING UPDATES 校招动态 社招动态 鹰角生活 校招动态 社招动态 鹰角生活 DATE 2026/08/13 鹰角网络2027秋季校园招聘正式启动！ 加入我们，一起解放游戏创作的无限可能！ READ MORE DATE 2026/09/08 宣讲行程 | 鹰角网络2027全球校园宣讲坐标解锁！ 快快报名，音酱期待和你线下见面~ READ MORE DATE 2026/07/20 鹰角网络2027秋季校园招聘提前批启动！ 先人一步拿offer！ READ MORE DATE 2026/07/20 策划专项丨直通面试！鹰角网络2027引力波计划招募启动！ 机会宝贵，请大家尽早投递哦~ READ MORE DATE 2026/07/20 GGAC X 鹰角网络首届高校游戏UI设计大赛正式启动！ 欢迎加入视觉重构之旅，在像素之间，重塑万象。 READ MORE DATE 2025/09/19 原来加入鹰角的校招生们“长”这样？ 鹰角网络校招干员报告首次公开！ READ MORE DATE 2026/09/09 防诈提醒 | 对“招聘诈骗”说“不”！ 如遇任何疑似诈骗的情况，请及时向音酱反馈哦！ READ MORE DATE 2026/07/20 鹰角社招丨《明日方舟：终末地》热招中！ 期待你加入我们，为塔卫二的未来持续注入动力！ READ MORE DATE 2025/10/10 《泡姆泡姆》制作人专访｜用现实的方法，做最浪漫的事 一起进入《泡姆泡姆》的世界吧！ READ MORE DATE 2025/04/02 想做游戏策划？生存档案已揭秘！ 系统策划、关卡策划、数值策划、活动策划、交互设计，五种策划岗位大揭秘！ READ MORE DATE 2026/10/16 在鹰角实习，究竟是什么样的体验？ 谢邀，我要回答！ READ MORE DATE 2026/07/20 听说在鹰角下班后是这样的… 走，音酱带你潜入鹰角干员的下班图鉴！ READ MORE DATE 2026/08/13 鹰角网络2027秋季校园招聘正式启动！ 加入我们，一起解放游戏创作的无限可能！ READ MORE DATE 2026/09/08 宣讲行程 | 鹰角网络2027全球校园宣讲坐标解锁！ 快快报名，音酱期待和你线下见面~ READ MORE DATE 2026/07/20 鹰角网络2027秋季校园招聘提前批启动！ 先人一步拿offer！ READ MORE DATE 2026/07/20 策划专项丨直通面试！鹰角网络2027引力波计划招募启动！ 机会宝贵，请大家尽早投递哦~ READ MORE DATE 2026/07/20 GGAC X 鹰角网络首届高校游戏UI设计大赛正式启动！ 欢迎加入视觉重构之旅，在像素之间，重塑万象。 READ MORE DATE 2025/09/19 原来加入鹰角的校招生们“长”这样？ 鹰角网络校招干员报告首次公开！ READ MORE DATE 2026/09/09 防诈提醒 | 对“招聘诈骗”说“不”！ 如遇任何疑似诈骗的情况，请及时向音酱反馈哦！ READ MORE DATE 2026/07/20 鹰角社招丨《明日方舟：终末地》热招中！ 期待你加入我们，为塔卫二的未来持续注入动力！ READ MORE DATE 2025/10/10 《泡姆泡姆》制作人专访｜用现实的方法，做最浪漫的事 一起进入《泡姆泡姆》的世界吧！ READ MORE DATE 2025/04/02 想做游戏策划？生存档案已揭秘！ 系统策划、关卡策划、数值策划、活动策划、交互设计，五种策划岗位大揭秘！ READ MORE DATE 2026/10/16 在鹰角实习，究竟是什么样的体验？ 谢邀，我要回答！ READ MORE DATE 2026/07/20 听说在鹰角下班后是这样的… 走，音酱带你潜入鹰角干员的下班图鉴！ READ MORE 1/6 1/4 LET'S CREATING 加 入 鹰 角 ， 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 1/4 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 加入鹰角，一起构建独一无二的「世界」 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 1/4 充满希望的逻辑艺术事业 我们希望将自己的才智与热情倾注到充满希望的逻辑艺术事业中，致力于制作出充满挑战乐趣与拥有艺术价值的游戏。 坚持理想 怀揣热情 始终坚持理想，怀揣对游戏的热情，鼓励创新，勇于突破，不断探索游戏的无限可能性，在构建完整且独一无二的“世界”道路上不断前进。 友爱 创造 开放 包容 致力于打造开放、友爱的工作环境，充满创造力和包容精神的工作氛围，鼓励团队成员协作创新，共同构筑充满可能性的未来。 以人为本 贴心关怀 秉承“以人为本、贴心关怀”的理念，关注员工的成长与福祉，提供丰富的员工福利，激励团队成员在温暖关怀的氛围中共同进步。 我们在鹰角 我们在鹰角 EXPLORE MORE 了解更全面的鹰角网络 进入官网 进入官网 EXPLORE MORE 了解更全面的鹰角网络 我们在构建独⼀⽆⼆的“世界”道路上继续前进，希望喜爱游戏 与前卫创作的你⼀起加⼊！ 进入官网 进入官网 用户注册协议 隐私政策 联系我们 沪ICP备17022476号-1 沪网文〔2025〕0013-002号 沪公网安备 31010402005145号 亲爱的市民朋友，上海警方反诈劝阻电话“962110”系专门针对避免您财产被骗受损而设，请您一旦收到来电，立即接听。 © 2017-2026 鹰角网络版权所有   客服电话：021-64399377 全国违法信息举报 上海违法信息举报 上海市公安局 SCROLL LOADING . . . 100% HYPERGRYPH RECRUITMENT ART & DESIGN PUBLISHING & MARKETING PROGRAMMING & TECHNICAL PRODUCT PLANNING GENERAL FUNCTIONS QUALITY MANAGEMENT",
       "heading": "",
       "structured": false,
       "links": [
@@ -972,7 +933,7 @@
     }
   },
   "9b5f8f81e5d39aabe2d2169d2daf73a85e1c812aea7a573c87f7dec03ba494ba": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/",
@@ -980,7 +941,7 @@
     }
   },
   "6bea3a3f74a783ca778f509cb28b0887396a10db8d52851270d036bcee77d9ae": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.xd.com/",
@@ -1010,7 +971,7 @@
     }
   },
   "2c9580227d58fc312e43fb603a0b588f11f16a7c54d24d1223e1456b8e9c3cc2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://api.xd.com/hr/",
@@ -1061,11 +1022,11 @@
     }
   },
   "7cca5d6ec6bde827420cbae591f8740b18845cb5a0fe99d949d62ea904321e8a": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://hr.xd.cn/campus#/",
-      "text": "搜索 筛选 清除 招聘项目 心动 TapTap 城市 上海 职能分类 游戏策划类 技术大类 创意大类 产品大类 运营大类 市场商务大类 项目管理大类 开启新的工作（41） 1 2 3 4 5",
+      "text": "搜索 筛选 清除 招聘项目 心动 TapTap 城市 上海 职能分类 游戏策划类 技术大类 创意大类 产品大类 运营大类 市场商务大类 开启新的工作（36） 1 2 3 4",
       "heading": "",
       "structured": false,
       "links": [
@@ -1084,7 +1045,7 @@
     }
   },
   "4c9eaf9a7d401fe1b179aa85aecbec5f2826412c47ca188db3ddbc84242388f3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.kurogames.com/",
@@ -1095,11 +1056,11 @@
     }
   },
   "5007a946d7ba3757328691446fe55f6eb7afb6d273535b3bd24284148556bb44": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://kurogame.jobs.feishu.cn/",
-      "text": "关于库洛 ​ 库洛游戏(KURO GAMES)诞生于2014年，总部位于广州，致力于打造优质的互动娱乐体验，通过传递“勇于挑战”的精神，让每个人都能成就更好的自己。 ​ 目前，库洛游戏通过游戏研发及长线运营、全球化发行及原创IP孵化实现自我挑战和成长，旗下产品包括《战场双马尾》、《战双帕弥什》、《鸣潮》以及游戏IP衍生产品，海外发行覆盖日韩、东南亚、欧美等国家或区域。 ​ 库洛产品 《战双帕弥什》：末世科幻题材3D动作游戏 PUNISHING: GRAY RAVEN | 游戏简介\n\n游戏设定在未来的 2079 年，讲述了曾经高度繁荣的人类文明遭受「帕弥什」病毒破坏，玩家化身为拯救者「指挥官」，带着人类文明最后的希望「构造体」，前往拯救地球的故事。\n\n| 核心特色\n\n以媲美主机游戏的打击感、爽快利落的战斗系统和动人心魄的剧情篇章，营造出身临其境的游戏氛围，精致且特别的角色设定与细节，彰显了独特的游戏风格，带玩家进入紧张刺激又充满幻想的科幻世界。 《鸣潮》：开放世界动作游戏 Wuthering Waves | 游戏简介\n\n作为一款开放世界动作游戏，主打高自由度的动作战斗玩法与丰富多样的开放世界探索。玩家将作为经过漫长岁月沉睡之后苏醒的漂泊者展开冒险，并在找回记忆、寻找自我身份的同时结识共鸣者同伴，一起踏上跨越悲鸣的旅途。\n\n| 核心特色\n\n以全球视野化的角色设计、酣畅淋漓的战斗手感和扣人心弦的故事剧情，打造出引人入胜的游戏情境，引领玩家热血激战又奇幻瑰丽的探索。 《库街区》：库洛游戏官方玩家社区 | 产品介绍\n\n库街区是库洛游戏旗下的官方游戏社区，为《战双帕弥什》和《鸣潮》的游戏玩家提供资讯攻略、交流互动、实用工具、专属福利等服务。 社招职位 美术类 140 个岗位 策划类 43 个岗位 技术类 88 个岗位 营销类 24 个岗位 项管类 21 个岗位 职能类 28 个岗位 音频类 11 个岗位 视频类 4 个岗位 运营类 22 个岗位 语言类 6 个岗位 工作环境 工位区 书屋 猫房 健身区 库洛社会招聘 ​ recruitment@kurogames.com ​ 京公网安备 11010802029085 号 京ICP备16045432号 - 4 本站使用 搭建",
+      "text": "关于库洛 ​ 库洛游戏(KURO GAMES)诞生于2014年，总部位于广州，致力于打造优质的互动娱乐体验，通过传递“勇于挑战”的精神，让每个人都能成就更好的自己。 ​ 目前，库洛游戏通过游戏研发及长线运营、全球化发行及原创IP孵化实现自我挑战和成长，旗下产品包括《战场双马尾》、《战双帕弥什》、《鸣潮》以及游戏IP衍生产品，海外发行覆盖日韩、东南亚、欧美等国家或区域。 ​ 库洛产品 《战双帕弥什》：末世科幻题材3D动作游戏 PUNISHING: GRAY RAVEN | 游戏简介\n\n游戏设定在未来的 2079 年，讲述了曾经高度繁荣的人类文明遭受「帕弥什」病毒破坏，玩家化身为拯救者「指挥官」，带着人类文明最后的希望「构造体」，前往拯救地球的故事。\n\n| 核心特色\n\n以媲美主机游戏的打击感、爽快利落的战斗系统和动人心魄的剧情篇章，营造出身临其境的游戏氛围，精致且特别的角色设定与细节，彰显了独特的游戏风格，带玩家进入紧张刺激又充满幻想的科幻世界。 《鸣潮》：开放世界动作游戏 Wuthering Waves | 游戏简介\n\n作为一款开放世界动作游戏，主打高自由度的动作战斗玩法与丰富多样的开放世界探索。玩家将作为经过漫长岁月沉睡之后苏醒的漂泊者展开冒险，并在找回记忆、寻找自我身份的同时结识共鸣者同伴，一起踏上跨越悲鸣的旅途。\n\n| 核心特色\n\n以全球视野化的角色设计、酣畅淋漓的战斗手感和扣人心弦的故事剧情，打造出引人入胜的游戏情境，引领玩家热血激战又奇幻瑰丽的探索。 《库街区》：库洛游戏官方玩家社区 | 产品介绍\n\n库街区是库洛游戏旗下的官方游戏社区，为《战双帕弥什》和《鸣潮》的游戏玩家提供资讯攻略、交流互动、实用工具、专属福利等服务。 社招职位 美术类 143 个岗位 策划类 43 个岗位 技术类 90 个岗位 营销类 24 个岗位 项管类 21 个岗位 职能类 30 个岗位 音频类 11 个岗位 视频类 4 个岗位 运营类 22 个岗位 语言类 6 个岗位 工作环境 工位区 书屋 猫房 健身区 库洛社会招聘 ​ recruitment@kurogames.com ​ 京公网安备 11010802029085 号 京ICP备16045432号 - 4 本站使用 搭建",
       "heading": "",
       "structured": false,
       "links": [
@@ -1119,7 +1080,7 @@
     }
   },
   "50a525fb4f6c95eafc24bd05718fbd59300a719e690cf09ccc1e9eabe3f8ebc6": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://sunborngame.com/",
@@ -1136,7 +1097,7 @@
     }
   },
   "501136a92d9426439a307bdbe204111a36386f4fad2ead94c4b3df57d046668a": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.yostar.net/",
@@ -1147,7 +1108,7 @@
     }
   },
   "b48480adb31a9adb516197c24facbea161d83207b6e63486218fd756e38c835e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.yostar.net/recruit.html",
@@ -1178,7 +1139,7 @@
     }
   },
   "3ae46c73df746b26dfe4c0aa5fb7f3c9c22035d1454aae424165e7dace423064": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://zulong.com/",
@@ -1190,7 +1151,7 @@
     }
   },
   "87b831b266967b8465ef7273f4456aaef4ccdf3fd4042688c565d4d9389ac3aa": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://campus.zulong.com/",
@@ -1198,7 +1159,7 @@
     }
   },
   "2bec57563ede5377423d0fca6fbbd09aed26a062b6c917591d14e0a8899905f7": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.seasungames.cn/",
@@ -1209,63 +1170,19 @@
     }
   },
   "fe44dd9c7d293075a871623c7b33bf4af5758aed848d297992274adb4a8b86f2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
-      "status": "readable",
+      "status": "browser_error",
       "url": "https://job.seasungames.cn/",
-      "text": "西山居招聘 消息 × loading.. 精品游戏 剑网3/剑网3无界 解限机 剑侠世界4：无限 更多游戏 官方工具 启动器 万宝楼 游戏管家 用户服务 充值中心 个人中心 客服中心 帮助中心 了解我们 新闻资讯 企业文化 加入我们 社会招聘 校园招聘 训练营 西山居愿景：成为游戏玩家的圣地 社会招聘 校园招聘 SEED训练营 岗位列表 关于西山居 简体中文 English 职位分类 美术音频 共 10 个职位 产品策划 共 6 个职位 程序质量 共 1 个职位 运营发行 共 6 个职位 职能综合 共 1 个职位 工作体验 简单纯粹的工作氛围 无界交流、真诚相待，一起因热爱而纯粹 为热爱及创新发电 多样的活动与福利 丰富的活动与福利，为居士提供温暖与快乐丰富的活动与福利 西红士俱乐部 选择你喜欢的俱乐部，加入志同道合的大家庭 有爱的亲子活动 举办精彩赛事 每一场比赛都是激情与汗水的碰撞，让我们一起为热爱与荣誉而战 简单纯粹的工作氛围 无界交流、真诚相待，一起因热爱而纯粹 为热爱及创新发电 多样的活动与福利 丰富的活动与福利，为居士提供温暖与快乐丰富的活动与福利 西红士俱乐部 选择你喜欢的俱乐部，加入志同道合的大家庭 有爱的亲子活动 举办精彩赛事 每一场比赛都是激情与汗水的碰撞，让我们一起为热爱与荣誉而战 工作在西山居 以热爱，创未来。在这里，你将有与游戏行业的顶尖人才共同合作，以深厚的文化底蕴和先进的研发技术为支撑，一同打造全球化的原创精品游戏，为全球玩家带来极致的游戏体验。 人才发展 飞鹰计划 飞鹰计划是西山居为骨干员工打造的专项人才发展项目，通过一系列课程培训和实践环节，全方位提升员工能力，使其胜任更高职级的能力要求，应对下个阶段将面临的问题和挑战。 SDC分享会 SDC即\"Seasun Developers Conference\"， 作为分享技能、交流心得的平台，提倡大家“享你所想”。这里不仅可以分享你擅长的知识，还有大咖分享你感兴趣的内容，共同探讨进步。 荣誉成就体系 为助力人才发展，我们搭建多样化的荣誉成就体系，通过各种激励机制，激发员工的积极性和创造力，鼓励员工在工作中不断超越自我，实现卓越。 SEED训练营 SEED训练营是面向高校学子的公益性人才孵育项目。提供专业的游戏知识分享并有资深导师引导游戏创作，为行业培育更多优质人才，照亮行业准新人的追梦之路。 员工分享 在此之前，我从未想象过自己能维护这样一个庞大体量的游戏程序 大家的沟通开放坦诚，简单纯粹，因热爱，相互成就共赴目标 灵感不会像馅饼一样从天上掉下，它源自于经年累月的积累 和志同道合者共探未知，实现游戏创意，打造精品，极具成就感 一个好的游戏场景设计要在时间、质量及成本找到平衡点 办公环境 成为游戏玩家的圣地 加入我们 官方工具 启动器 万宝楼 游戏管家 用户服务 充值中心 个人中心 客服中心 帮助中心 了解我们 新闻资讯 企业文化 加入我们 社会招聘 校园招聘 训练营 关注我们 官方微博 官方公众号 联系我们 联系方式 采购合作 简体中文 简体中文 English 隐私协议 | 服务协议 | 网络游戏行业防沉迷自律公约 | 违法和不良信息举报中心 蜀ICP备14009198号-52 川公网安备51019002006903号 Copyright © 1999-2026 成都西山居世游科技有限公司 版权所有 健康游戏忠告：抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活 We use cookies to improve your experience. Learn more. Accept",
-      "heading": "",
-      "structured": false,
-      "links": [
-        "javascript:;",
-        "https://www.seasungames.cn",
-        "https://jx3.seasungames.cn?utm_source=jd",
-        "https://mechabreak.seasungames.cn?utm_source=jd",
-        "https://js4.seasungames.cn/",
-        "https://www.seasungames.cn/#/games",
-        "https://g.xoyo.com/#/",
-        "https://www.seasunwbl.com/",
-        "https://www.xoyo.com/apps",
-        "https://passport.xoyo.com/signin?redirect=https%3A%2F%2Fcharge.xoyo.com%2Fcharge-items",
-        "https://passport.xoyo.com/signin?redirect=https%3A%2F%2Fi.xoyo.com%2F",
-        "https://support.seasungames.cn/",
-        "https://help.xoyo.com/help?category=4115",
-        "https://www.xoyo.com/news-list",
-        "https://about.seasungames.cn",
-        "https://job.seasungames.cn",
-        "https://job.seasungames.cn/campus",
-        "https://sc.xishanju.com/?utm_source=HrSite2022pc#/",
-        "https://job.seasungames.cn/campus#/",
-        "https://job.seasungames.cn/index/jobList.html#/",
-        "https://charge.xoyo.com/charge-items",
-        "https://i.xoyo.com",
-        "https://support.seasungames.cn",
-        "https://help.xoyo.com",
-        "https://about.seasungames.cn/",
-        "https://weibo.com/u/2074833864",
-        "https://www.seasungames.cn/#/contact",
-        "https://scm.seasungames.cn/",
-        "https://help.xoyo.com/agreement?name=kingsoft-online-privacy-policy&hide-layout=true",
-        "https://help.xoyo.com/agreement?name=kingsoft-network-service-agreement",
-        "https://help.xoyo.com/agreement?name=game-anti-addiction-agreement&hide-layout=true",
-        "https://www.12377.cn/",
-        "https://beian.miit.gov.cn/",
-        "https://beian.mps.gov.cn/#/query/webSearch?code=51019002006903",
-        "https://www.kingsoft.com/",
-        "https://www.seasungames.cn/#/",
-        "https://www.seasungames.com/#/detail/1117/157"
-      ],
-      "job_links": [],
-      "reader": "browser",
-      "rendered_at_url": "https://job.seasungames.cn/#/",
-      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
-      "browser_status": "readable",
+      "text": "",
+      "browser_status": "browser_error",
+      "links": [],
       "render_attempted": true,
       "render_version": 3
     }
   },
   "8429a9b8321957faaf692dccc88888af430525f04e35a7d5a80dcddbf1f9d72e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.wanmei.com/",
@@ -1273,10 +1190,7 @@
       "heading": "",
       "structured": false,
       "links": [
-        "https://yh.wanmei.com/",
-        "https://mhxzx.wanmei.com/",
-        "https://zhuxian.wanmei.com/",
-        "https://mzqx.wanmei.com/",
+        "https://wmzs.wanmei.com/",
         "https://www.wanmei.com/wmnews/wmnews2022/20220223/236159.shtml",
         "https://www.wanmei.com/wmnews/wmnews2021/20211115/234426.shtml",
         "https://www.wanmei.com/wmnews/wmnews2019/20190902/219637.shtml",
@@ -1313,24 +1227,45 @@
     }
   },
   "5e3008904d304a19ab26dcbf39a37ddee82c4568787ddda904bb772b2b83ba02": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://jobs.games.wanmei.com/",
-      "text": "完美世界招聘官方网站 完美世界控股集团，全球领先的文化娱乐产业集团。 完美世界控股集团是全球领先的文化娱乐产业集团，拥有A股上市公司完美世界股份有限公司（002624）。旗下产品遍布美、欧、亚等全球100多个国家和地区；在北京、香港、上海、重庆、成都、海南、武汉、杭州等地皆设有分支机构，在欧美、日韩、东南亚等国家和地区设有多个海外分支机构。目前，集团涵盖影视、游戏、电竞、院线、文化、全知识、成家相亲、完美语言等业务板块。 公司13次被认定为全国文化企业30强，多次获评国家文化出口重点企业，入选第四批“国家文化和科技融合示范基地”，并入选国家文化产业示范基地名单。",
+      "text": "完美世界招聘官方网站 完美世界控股集团，全球领先的文化娱乐产业集团。 完美世界控股集团是全球领先的文化娱乐产业集团，拥有A股上市公司完美世界股份有限公司（002624）。旗下产品遍布美、欧、亚等全球100多个国家和地区；在北京、香港、上海、重庆、成都、海南、武汉、杭州等地皆设有分支机构，在欧美、日韩、东南亚等国家和地区设有多个海外分支机构。目前，集团涵盖影视、游戏、电竞、院线、文化、全知识、成家相亲、完美语言等业务板块。 公司13次被认定为全国文化企业30强，多次获评国家文化出口重点企业，入选第四批“国家文化和科技融合示范基地”，并入选国家文化产业示范基地名单。 京ICP证： 160281号 《网络文化经营许可证》编号： 京网文[2024]0095-007号 京ICP备： 15025398号-6 京公网安备 11010502033859号 《网络视听许可证》编号： 0110587 © 完美世界 版权所有　Perfect World. All Rights Reserved. 相关网站 完美世界控股集团 完美世界游戏 完美世界影视 完美世界电竞 完美世界院线 完美世界文化 全知识 完美语言 88邮箱 成家相亲 首页 社会招聘 校园招聘 快乐完美 关于完美",
       "heading": "",
       "structured": false,
       "links": [
-        "https://jobs.games.wanmei.com/#a"
+        "https://jobs.games.wanmei.com/#a",
+        "https://www.wanmei.com/",
+        "https://beian.miit.gov.cn/#/Integrated/index",
+        "https://www.wanmei.com/permit/culture.html",
+        "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502033859",
+        "https://www.wanmei.com/permit/audio.htm",
+        "https://games.wanmei.com/",
+        "http://pictures.wanmei.com/",
+        "https://www.pwesports.cn/",
+        "https://www.pwcinema.com/",
+        "http://edu.wanmei.com/",
+        "http://www.allhistory.com/",
+        "http://www.perfectlingo.com/",
+        "http://www.88.com/",
+        "http://perfectlingxi.com/",
+        "https://jobs.games.wanmei.com/index.html",
+        "https://jobs.games.wanmei.com/society.html",
+        "https://app.mokahr.com/campus-recruitment/pwrd/172467?locale=zh-CN",
+        "https://jobs.games.wanmei.com/happy.html"
       ],
       "job_links": [],
-      "browser_status": "browser_error",
+      "reader": "browser",
+      "rendered_at_url": "https://jobs.games.wanmei.com/",
+      "coverage": "当前公开页面；未承诺覆盖站内全部分页",
+      "browser_status": "readable",
       "render_attempted": true,
       "render_version": 3
     }
   },
   "54e3b987c6b80cc7bf00299788c6ac62f35930c381452af75394cb632a73fac2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.g-bits.com/",
@@ -1341,7 +1276,7 @@
     }
   },
   "040db0eaaf6ae53f7bb5363e3c22916425b07909c25fa2418857d159afb2e53a": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.g-bits.com/zh/join.html",
@@ -1403,7 +1338,7 @@
     }
   },
   "582610f5c47bec927d580aed593f98377f28870722611458e7208c6c83fdd7d9": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.37wan.net/",
@@ -1459,7 +1394,7 @@
     }
   },
   "815c7820df1bf29c9d28d1117b6c51c38b71fb2f5a79bd77b7d7d35de2077138": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://zhaopin.37.com/",
@@ -1519,7 +1454,7 @@
     }
   },
   "ad70e9bf7ba7ab68ae7d2c054962dc38d04bbcbfdc5ae44e9182eda0e7834a9c": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.duoyi.com/",
@@ -1763,7 +1698,7 @@
     }
   },
   "edb55657c27531bb539e7d2c26a397f31cb46647c5c1723071333d86828c38ac": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://xz.duoyi.com/",
@@ -1804,11 +1739,11 @@
     }
   },
   "350f8dc73890a70340f5a3cd29049138090871be3f05cadb3279d7226a1005bc": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.ztgame.com/",
-      "text": "巨人网络官网 首页 关于巨人 游戏产品 最新资讯 用户服务 投资者关系 加入我们 游 戏 产 品 Game Products 首款多人组队欢乐恐怖游戏 进入官网 超自然行动组 原始征途 王者征途 征途2手游 绿色征途手游 征途系列手游 征途 征途2 绿色征途 征途怀旧 征途系列端游 最受欢迎的休闲竞技手游大作 亿万玩家的共同选择 进入官网 球球大作战 查看更多 最 新 资 讯 Latest News 征途21周年庆今日正式开启！ 2026-10-23 反诈进校园，巨人网络携手上海公安局反诈中心守护青少年上网安全 2026-10-10 《超自然行动组》参展小红书RedLand2026，以国风美学链接年轻用户 2026-10-08 更多新闻 关 于 巨 人 About Giant Network 会玩 · 好玩 · 耐玩 巨人网络（002558.SZ）是国内领先的A股上市游戏公司，秉持“ 聚焦、用户第一、阳光经营 ”的发展理念，长期坚持自主研发精品化战略，在国战MMO和休闲竞技等核心赛道深耕，打造了多款国民级产品，覆盖用户超过10亿人。 从第一国战长青游戏 《征途》 全系、休闲竞技大DAU游戏 《球球大作战》 ，到现象级爆款 《超自然行动组》 ，巨人始终保持对年轻用户的敏锐洞察，展现出持续打造大DAU爆款的研发与运营实力。 《超自然行动组》 由95后制作人领衔打造，上线后以“史上最欢乐的多人组队恐怖游戏”定位迅速走红， 同时在线人数突破100万 ， 日活跃用户数（DAU）突破1200万 ，持续占据App Store免费榜、畅销榜前列。 巨人网络提倡 年轻化人才观 ，重视人才与组织创新，持续构建扁平的架构、开放的创作环境，为年轻人才提供充分的创作空间与成长路径。公司通过赛道制、业务委员会等机制激发团队创新活力，以创新和人才驱动，持续为年轻人才提供实现游戏梦想的舞台。 加 入 我 们 Join Us 校园招聘 查看招聘岗位 关 注 我 们 Follow Us 联系我们",
+      "text": "巨人网络官网 首页 关于巨人 游戏产品 最新资讯 用户服务 投资者关系 加入我们 游 戏 产 品 Game Products 首款多人组队欢乐恐怖游戏 进入官网 超自然行动组 原始征途 王者征途 征途2手游 绿色征途手游 征途系列手游 征途 征途2 绿色征途 征途怀旧 征途系列端游 最受欢迎的休闲竞技手游大作 亿万玩家的共同选择 进入官网 球球大作战 查看更多 最 新 资 讯 Latest News 《名将杀》×新《三国》联动正式开启，三国情怀碰撞年轻化杀牌玩法 2026-10-29 征途21周年庆今日正式开启！ 2026-10-23 反诈进校园，巨人网络携手上海公安局反诈中心守护青少年上网安全 2026-10-10 更多新闻 关 于 巨 人 About Giant Network 会玩 · 好玩 · 耐玩 巨人网络（002558.SZ）是国内领先的A股上市游戏公司，秉持“ 聚焦、用户第一、阳光经营 ”的发展理念，长期坚持自主研发精品化战略，在国战MMO和休闲竞技等核心赛道深耕，打造了多款国民级产品，覆盖用户超过10亿人。 从第一国战长青游戏 《征途》 全系、休闲竞技大DAU游戏 《球球大作战》 ，到现象级爆款 《超自然行动组》 ，巨人始终保持对年轻用户的敏锐洞察，展现出持续打造大DAU爆款的研发与运营实力。 《超自然行动组》 由95后制作人领衔打造，上线后以“史上最欢乐的多人组队恐怖游戏”定位迅速走红， 同时在线人数突破100万 ， 日活跃用户数（DAU）突破1200万 ，持续占据App Store免费榜、畅销榜前列。 巨人网络提倡 年轻化人才观 ，重视人才与组织创新，持续构建扁平的架构、开放的创作环境，为年轻人才提供充分的创作空间与成长路径。公司通过赛道制、业务委员会等机制激发团队创新活力，以创新和人才驱动，持续为年轻人才提供实现游戏梦想的舞台。 加 入 我 们 Join Us 校园招聘 查看招聘岗位 关 注 我 们 Follow Us 联系我们",
       "heading": "",
       "structured": false,
       "links": [
@@ -1831,9 +1766,9 @@
         "https://zthj.ztgame.com",
         "https://www.battleofballs.com/index/",
         "https://www.ztgame.com/product/",
+        "https://www.ztgame.com/news/003-1793-005bc-242748.html",
         "https://www.ztgame.com/news/000-1792-005bb-736392.html",
         "https://www.ztgame.com/news/002-1791-005ba-603843.html",
-        "https://www.ztgame.com/news/005-1791-005b9-443645.html",
         "https://www.ztgame.com/news/list-1.html",
         "javascript:;",
         "javascript:;",
@@ -1845,7 +1780,7 @@
     }
   },
   "33842575a88481beb51de7e2262c6a19c227d584be1f5117f8800b0d5c85cca1": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://hr.ztgame.com/campus/",
@@ -1914,7 +1849,7 @@
     }
   },
   "e0f795ab30d09316912295cfb52a80d39ae94e80619f4997758c64c78aaa4caa": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://app.mokahr.com/campus-recruitment/ztgame/92438#/jobs?page=1&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0",
@@ -1922,7 +1857,7 @@
     }
   },
   "790e77129a031afc0fb7bd2f69d95e896000130a40b669d8c928ccc2a41da568": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.kingnet.com/",
@@ -1986,7 +1921,7 @@
     }
   },
   "13cc1fb16057adfa8360a9e51cdc05944b504a9bc519de89e17a61e6cb54695c": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://app.mokahr.com/campus_apply/kingnet/2246",
@@ -1994,11 +1929,11 @@
     }
   },
   "fb95aaa601df84ad1f4679558109425327ce23c10f728340131c41d5e4407ada": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.yoozoo.com/",
-      "text": "游族网络_科技传颂文明 EN 首页 关于游族 新闻动态 游戏产品 加入游族 投资者关系 联系我们 科技传颂文明 CELEBRATE CIVILIZATIONS WITH TECHNOLOGY 三国卡牌之王，高福利续作，“正当少年时，不负三国梦”。 进入官网 一款融合策略卡牌与实时竞技的三国手游，“兵将搭配 烧脑不累”。 进入官网 一款美式卡通风格的策略类SLG手游，拥有庞大且完整的世界观。 进入官网 三国卡牌热血巨作，经典数值卡牌手游，“以少年之名 重塑三国”。 进入官网 一款游族自研的战争策略类网页游戏，根据HBO著名剧集《权力的游戏》改编而成，由华纳兄弟／HBO正式授权。 进入官网 一款三国题材的策略手游。在这里，玩家将从一名普通将士做起，凭借智谋与胆略征战天下。 进入官网 南派三叔正版授权的MMO手游，凭借还原原著场景的品质画面和沉浸式盗墓体验，荣获硬核联盟超明星推荐。 进入官网 一款西游题材经典竖版卡牌手游。 进入官网 《少年三国志2》 三国卡牌之王，高福利续作，“正当少年时，不负三国梦”。 进入官网 《少年三国志：零》 一款融合策略卡牌与实时竞技的三国手游，“兵将搭配 烧脑不累”。 进入官网 《战火与永恒》 一款美式卡通风格的策略类SLG手游，拥有庞大且完整的世界观。 进入官网 《少年三国志》 三国卡牌热血巨作，经典数值卡牌手游，“以少年之名 重塑三国”。 进入官网 《权力的游戏 凛冬将至》 一款游族自研的战争策略类网页游戏，根据HBO著名剧集《权力的游戏》改编而成，由华纳兄弟／HBO正式授权。 进入官网 《三十六计》 一款三国题材的策略手游。在这里，玩家将从一名普通将士做起，凭借智谋与胆略征战天下。 进入官网 《新盗墓笔记》 南派三叔正版授权的MMO手游，凭借还原原著场景的品质画面和沉浸式盗墓体验，荣获硬核联盟超明星推荐。 进入官网 《少年西游记》 一款西游题材经典竖版卡牌手游。 进入官网 新闻动态 更多动态\n                            >>> 新闻 | 游族网络出席2026中国元宇宙大会主论坛，分享AI Agent如何重构游戏创作与交互 2026-10-11 新闻 | 谛疆科技先进封装项目正式启动，为国产先进封装自主可控注入新动能 2026-09-16 新闻 | 游族网络支持第83届威尼斯国际电影节“华语电影全球推广系列活动”，助推中华文化出海 2026-09-13 新闻 | 游族网络2026年上半年营收、净利润双增，积极布局AI产业生态 2026-08-27 新闻 | 游族×康盈×曦望携手将于无锡高新区落地“2.5D/3D先进封装中心” 2026-08-12 期待所有对游戏 心怀热爱与梦想的人 更多职位 数据安全工程师 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 营销素材负责人 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 引入商务 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 golang开发-测试 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 资深用户运营 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 游戏活动运营 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 SLG海外市场发行 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 品牌经理 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 资深市场营销 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 01 04 游族产品 | 游族平台 | 海外平台 | 游族无线 | 商务合作 | 联系我们 | 网站地图 | VI下载 | 使用条款 | 法律声明 | 用户服务协议 | 用户隐私条款 公网安备31010402010013号 | 沪B2-20090105号 | 沪ICP备09058784号-20 | 沪网文[2024]3901-234号 | 新出网证(沪)字33号",
+      "text": "游族网络_科技传颂文明 EN 首页 关于游族 新闻动态 游戏产品 加入游族 投资者关系 联系我们 科技传颂文明 CELEBRATE CIVILIZATIONS WITH TECHNOLOGY 三国卡牌之王，高福利续作，“正当少年时，不负三国梦”。 进入官网 一款融合策略卡牌与实时竞技的三国手游，“兵将搭配 烧脑不累”。 进入官网 一款美式卡通风格的策略类SLG手游，拥有庞大且完整的世界观。 进入官网 三国卡牌热血巨作，经典数值卡牌手游，“以少年之名 重塑三国”。 进入官网 一款游族自研的战争策略类网页游戏，根据HBO著名剧集《权力的游戏》改编而成，由华纳兄弟／HBO正式授权。 进入官网 一款三国题材的策略手游。在这里，玩家将从一名普通将士做起，凭借智谋与胆略征战天下。 进入官网 南派三叔正版授权的MMO手游，凭借还原原著场景的品质画面和沉浸式盗墓体验，荣获硬核联盟超明星推荐。 进入官网 一款西游题材经典竖版卡牌手游。 进入官网 《少年三国志2》 三国卡牌之王，高福利续作，“正当少年时，不负三国梦”。 进入官网 《少年三国志：零》 一款融合策略卡牌与实时竞技的三国手游，“兵将搭配 烧脑不累”。 进入官网 《战火与永恒》 一款美式卡通风格的策略类SLG手游，拥有庞大且完整的世界观。 进入官网 《少年三国志》 三国卡牌热血巨作，经典数值卡牌手游，“以少年之名 重塑三国”。 进入官网 《权力的游戏 凛冬将至》 一款游族自研的战争策略类网页游戏，根据HBO著名剧集《权力的游戏》改编而成，由华纳兄弟／HBO正式授权。 进入官网 《三十六计》 一款三国题材的策略手游。在这里，玩家将从一名普通将士做起，凭借智谋与胆略征战天下。 进入官网 《新盗墓笔记》 南派三叔正版授权的MMO手游，凭借还原原著场景的品质画面和沉浸式盗墓体验，荣获硬核联盟超明星推荐。 进入官网 《少年西游记》 一款西游题材经典竖版卡牌手游。 进入官网 新闻动态 更多动态\n                            >>> 新闻 | 游族网络2026年前三季度营收净利润双增长，AI产业生态建设再提速 2026-10-28 新闻 | 游族网络出席2026中国元宇宙大会主论坛，分享AI Agent如何重构游戏创作与交互 2026-10-11 新闻 | 谛疆科技先进封装项目正式启动，为国产先进封装自主可控注入新动能 2026-09-16 新闻 | 游族网络支持第83届威尼斯国际电影节“华语电影全球推广系列活动”，助推中华文化出海 2026-09-13 新闻 | 游族网络2026年上半年营收、净利润双增，积极布局AI产业生态 2026-08-27 期待所有对游戏 心怀热爱与梦想的人 更多职位 数据安全工程师 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 营销素材负责人 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 引入商务 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 golang开发-测试 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 资深用户运营 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 游戏活动运营 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 SLG海外市场发行 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 品牌经理 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 资深市场营销 工作地点：\n                                            上海市 / 招聘人数：\n                                            1人 01 04 游族产品 | 游族平台 | 海外平台 | 游族无线 | 商务合作 | 联系我们 | 网站地图 | VI下载 | 使用条款 | 法律声明 | 用户服务协议 | 用户隐私条款 公网安备31010402010013号 | 沪B2-20090105号 | 沪ICP备09058784号-20 | 沪网文[2024]3901-234号 | 新出网证(沪)字33号",
       "heading": "",
       "structured": false,
       "links": [
@@ -2028,11 +1963,11 @@
         "https://dmbj.youzu.com/",
         "http://xy.youzu.com/",
         "https://www.yoozoo.com/news",
+        "https://www.yoozoo.com/enterprise/7025323.html",
         "https://www.yoozoo.com/enterprise/7025078.html",
         "https://www.yoozoo.com/enterprise/7024969.html",
         "https://www.yoozoo.com/enterprise/7024991.html",
         "https://www.yoozoo.com/enterprise/7024878.html",
-        "https://www.yoozoo.com/enterprise/7024811.html",
         "https://app.mokahr.com/social-recruitment/yoozoo/91950",
         "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/7129197f-2fc8-4c55-83de-690fbd55cfa7",
         "https://app.mokahr.com/social-recruitment/yoozoo/91950#/job/556811bf-61a6-4b26-8455-38c2648cd926",
@@ -2065,7 +2000,7 @@
     }
   },
   "6d0ef82a689032f07e80792ccb1554e6f5c4aa79751d67ae086f55df64d19287": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://app.mokahr.com/social-recruitment/yoozoo/91950",
@@ -2073,7 +2008,7 @@
     }
   },
   "40b0fde4a506bb2277e413740e5ef1493e6e544b1c6aa6f7c96996e4de5919d0": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.shengqugames.com/",
@@ -2120,7 +2055,7 @@
     }
   },
   "4fb0315f7a9661c533054cb9597b1aaa4965dc5a94c555db35c0ad6438425588": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://app.mokahr.com/campus_apply/shengqu/4078",
@@ -2128,7 +2063,7 @@
     }
   },
   "8907d4212aeef2d8ab00685e3a5fea04183a781cfc036ba136c0bc386933507b": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.changyou.com/",
@@ -2205,7 +2140,7 @@
     }
   },
   "53b24b8ffb467a9c0fdaf5a9aabb7587eff83d6d5951169ea4f9cdfcc1dda7d3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://campus.changyou.com/",
@@ -2240,17 +2175,16 @@
     }
   },
   "33c6f51b6552601b0b3a6a876fa9c7a1a025d44559c028d054c4798fc7c4b943": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://u.4399.com/hr/index",
-      "text": "首页-四三九九网络股份有限公司 首页 校园招聘 加入4399 走进4399 联系我们 招聘登录 你不知道的4399 四三九九网络股份有限公司（以下简称“4399”），总部位于厦门，在广州、北京、韩国等地设有分支机构。\n                            4399是国内领先的互联网游戏开发商、游戏发行商及平台运营商，现已发展成为集网页游戏、\n                            移动网络游戏开发与发行以及游戏平台运营于一体的综合型互联网游戏公司，截至目前，4399旗下平台累计注册用户已突破6亿人次。 加入有爱的团队，与4399共成长 校园招聘 技术研发类 产品策划类 运营编辑类 美术设计类 职能管理类 所有招聘职位 注意：申请职位时邮件主题标明应聘岗位。简历请通过正文发送，设计类请附带近期作品链接或附件。 爱在4399 我在4399,你在哪里 了解更多4399最新动态 我们，在路上。 但我们不孤单，因为有梦想，有希望。 我们在一起创造着和实现着共同的梦想！ 4399新浪官方微博 网站地图 客服中心 加入4399 关于我们 ICP证：闽B2-20040099 不良信息举报中心 闽网文〔2024〕4287-092号 （署）网出证（闽）字第015号 Copyright © 2004 - 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有",
+      "text": "首页-四三九九网络股份有限公司 首页 加入4399 走进4399 联系我们 招聘登录 你不知道的4399 四三九九网络股份有限公司（以下简称“4399”），总部位于厦门，在广州、北京、韩国等地设有分支机构。\n                            4399是国内领先的互联网游戏开发商、游戏发行商及平台运营商，现已发展成为集网页游戏、\n                            移动网络游戏开发与发行以及游戏平台运营于一体的综合型互联网游戏公司，截至目前，4399旗下平台累计注册用户已突破6亿人次。 加入有爱的团队，与4399共成长 校园招聘 技术研发类 产品策划类 运营编辑类 美术设计类 职能管理类 所有招聘职位 注意：申请职位时邮件主题标明应聘岗位。简历请通过正文发送，设计类请附带近期作品链接或附件。 爱在4399 我在4399,你在哪里 了解更多4399最新动态 我们，在路上。 但我们不孤单，因为有梦想，有希望。 我们在一起创造着和实现着共同的梦想！ 4399新浪官方微博 网站地图 客服中心 加入4399 关于我们 ICP证：闽B2-20040099 不良信息举报中心 闽网文〔2024〕4287-092号 （署）网出证（闽）字第015号 Copyright © 2004 - 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有",
       "heading": "",
       "structured": false,
       "links": [
         "https://u.4399.com/hr/index",
         "https://u.4399.com/hr/index",
-        "https://u.4399.com/hr/xiaozhao",
         "https://u.4399.com/hr/zhaopin?cid=0",
         "https://u.4399.com/hr/guanyu",
         "https://u.4399.com/hr/lianxi",
@@ -2283,7 +2217,7 @@
     }
   },
   "32b8223f17c835e7b4ff39714251827728d47d7119bd295e6c8e8c06cb5350f3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://hr.4399om.com/campus/",
@@ -2334,44 +2268,39 @@
     }
   },
   "79ef06d8f097dc057ffe6269bc30ab8c3e704d5aa818faa7a155873fac0b454e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://u.4399.com/hr/xiaozhao",
-      "text": "校园招聘-四三九九网络股份有限公司 首页 校园招聘 加入4399 走进4399 联系我们 招聘登录 校招开幕式 校招岗位 校招流程 offer加速器 常见问题 校招开幕式 校招岗位 校招流程 offer加速器 常见问题 校招开幕式 点击播放 招聘职位 全部 开发类 设计类 综合类 岗位 招聘数量 工作地点 岗位详情 敬请期待，更多岗位持续上线中.... 敬请期待，更多岗位持续上线中.... 战斗策划【2027校招】 10人 厦门 岗位详情 系统策划【2027校招】 10人 厦门 岗位详情 剧情策划【2027校招】 7人 厦门 岗位详情 产品经理【2027校招】 10人 厦门 岗位详情 平台游戏运营【2027校招】 7人 厦门 岗位详情 发行游戏运营【2027校招】 7人 厦门 岗位详情 活动策划【2027校招】 7人 厦门 岗位详情 活动运营【2027校招】 7人 厦门 岗位详情 敬请期待，更多岗位持续上线中.... 招聘流程 笔试提醒： 笔试题发送时间：2026年9月22日。请同学们尽早网申哦，后续将不定期组织笔试，额满为止。 网申邀请码 寻找你身边的校园大使，他们身上可能藏着 神秘邀请码 ！ 获得邀请码可 简历免筛选 ，直通笔试环节哦！ 笔试复活甲 首次笔试未通过的同学，重新网申 不同岗位 后可以参加第二次笔试，即每人最多 2次笔试机会 ，祝你成功上岸。 校招QQ群 1、HR实时在线，第一时间掌握校招最新资讯及应聘进度 2、玩转校招，校招群内不定时撒落精美周边和面试干货 3、扫描下方二维码加入校招群哦，QQ群：917481974 常见问题 Q 4399游戏2027届校园招聘什么时候开始？ A 本次校园招聘于2026年9月开始，届时将开放网上申请。 Q 招聘岗位的工作地点在哪里？ A 本次校招的工作地点：厦门。关于广州公司招聘岗位请关注公众号career4399。 Q 我怎么参加4399游戏的校园招聘，有哪些要求？ A 只要您是2027届应届毕业，本科及以上学历，对我们公司的岗位感兴趣，愿意与4399共同发展，即可参加我们的校园招聘。本次校招接收简历方式为网上申请，我们强烈建议您尽快网申，有利于您及时接收招聘信息。 Q 我最多可以申请多少职位？ A 每位同学最多只能申请一个职位。 Q 申请职位对所学专业或者学校有限制吗？ A 4399接纳所有有能力的同学，没有学校和专业限制，有兴趣尽管来，试过了才知道。 Q 我怎么知道我是否通过笔试、面试？ A 如果您完成笔试并通过，我们会在3个工作日内与您联系，安排面试事宜。如果您通过面试，我们将尽快与您联系，发出offer。请务必正确填写您的联系方式（手机号码及电邮）并保证通信顺畅。 Q 4399提供实习吗？ A 为了便于新人融入公司，公司欢迎在校园招聘录用的应届生选择在合适的时候前来公司参与实习工作，提前融入公司工作环境，亲身感受游戏公司氛围。同时，我们提供相应的实习补贴。 Q 校招过程中有遇到任何问题，有哪些渠道可以联系我们？ A 微信公众号：4399HR，邮箱：4399hr@4399.com 4399新浪官方微博 网站地图 客服中心 加入4399 关于我们 ICP证：闽B2-20040099 不良信息举报中心 闽网文〔2024〕4287-092号 （署）网出证（闽）字第015号 Copyright © 2004 - 2026 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有",
+      "text": "首页-四三九九网络股份有限公司 首页 加入4399 走进4399 联系我们 招聘登录 你不知道的4399 四三九九网络股份有限公司（以下简称“4399”），总部位于厦门，在广州、北京、韩国等地设有分支机构。\n                            4399是国内领先的互联网游戏开发商、游戏发行商及平台运营商，现已发展成为集网页游戏、\n                            移动网络游戏开发与发行以及游戏平台运营于一体的综合型互联网游戏公司，截至目前，4399旗下平台累计注册用户已突破6亿人次。 加入有爱的团队，与4399共成长 校园招聘 技术研发类 产品策划类 运营编辑类 美术设计类 职能管理类 所有招聘职位 注意：申请职位时邮件主题标明应聘岗位。简历请通过正文发送，设计类请附带近期作品链接或附件。 爱在4399 我在4399,你在哪里 了解更多4399最新动态 我们，在路上。 但我们不孤单，因为有梦想，有希望。 我们在一起创造着和实现着共同的梦想！ 4399新浪官方微博 网站地图 客服中心 加入4399 关于我们 ICP证：闽B2-20040099 不良信息举报中心 闽网文〔2024〕4287-092号 （署）网出证（闽）字第015号 Copyright © 2004 - 2026 4399.com All Rights Reserved. 四三九九网络股份有限公司 版权所有",
       "heading": "",
       "structured": false,
       "links": [
-        "https://u.4399.com/hr/xiaozhao",
         "https://u.4399.com/hr/index",
         "https://u.4399.com/hr/zhaopin?cid=0",
         "https://u.4399.com/hr/guanyu",
         "https://u.4399.com/hr/lianxi",
         "https://wx-hr.img4399.com/Official/index/login?refer=zhaopin",
-        "https://u.4399.com/hr/xiaozhao#play-anchor",
-        "https://u.4399.com/hr/xiaozhao#job-anchor",
-        "https://u.4399.com/hr/xiaozhao#float-anchor",
-        "https://u.4399.com/hr/xiaozhao#offer-anchor",
-        "https://u.4399.com/hr/xiaozhao#question-anchor",
+        "https://u.4399.com/hr/huanjing",
+        "javascript:;",
+        "https://u.4399.com/hr/zhaopin",
+        "https://u.4399.com/hr/zhaopin?cid=1",
+        "https://u.4399.com/hr/zhaopin?cid=2",
+        "https://u.4399.com/hr/zhaopin?cid=3",
+        "https://u.4399.com/hr/zhaopin?cid=4",
+        "https://u.4399.com/hr/zhaopin?cid=5",
+        "https://u.4399.com/hr/zhaopin?cid=6",
         "http://weibo.com/my4399",
         "http://my.4399.com/sitemap/",
         "http://my.4399.com/help/",
         "https://beian.miit.gov.cn/",
         "https://my.4399.com/feedback/jubao",
         "http://ccm.mct.gov.cn/ccnt/sczr/service/business/emark/toDetail/9F5113E34F5E4443A68F11E8A6E2685C",
-        "http://www.4399.com/zs/chuban.html",
-        "https://u.4399.com/hr/job?id=1070",
-        "https://u.4399.com/hr/job?id=1071",
-        "https://u.4399.com/hr/job?id=1069",
-        "https://u.4399.com/hr/job?id=1068",
-        "https://u.4399.com/hr/job?id=1065",
-        "https://u.4399.com/hr/job?id=1066",
-        "https://u.4399.com/hr/job?id=1064",
-        "https://u.4399.com/hr/job?id=1063"
+        "http://www.4399.com/zs/chuban.html"
       ],
       "job_links": [],
       "reader": "browser",
-      "rendered_at_url": "https://u.4399.com/hr/xiaozhao",
+      "rendered_at_url": "https://u.4399.com/hr/index",
       "coverage": "当前公开页面；未承诺覆盖站内全部分页",
       "browser_status": "readable",
       "render_attempted": true,
@@ -2379,7 +2308,7 @@
     }
   },
   "1d1554fba9369cfac5e7f78395515e128d9e9c691287dc0c62672fe99e7a6ec9": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://web.4399.com/campus/",
@@ -2430,7 +2359,7 @@
     }
   },
   "630b472b64fa3254310421277360aa2d56d0a2aee5e4f0f78539be978cd72928": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.q1.com/",
@@ -2511,7 +2440,7 @@
     }
   },
   "6569d71dc18ff1da8f7c0e6265c2d40805c5061f834ac395cf38dc1c3f6324eb": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://bingchuan1.zhiye.com/",
@@ -2546,7 +2475,7 @@
     }
   },
   "f71760ae50bc254ee186af155927b447c2b6fd2e6f36b3c64a9e738929f9c6ad": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://zhaopin.q1.com/",
@@ -2581,7 +2510,7 @@
     }
   },
   "1e97e3f29c7a23eb650f5f730730e5fa0b2c36716bba372d17677485be978dc3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.tuyoo.com/",
@@ -2599,7 +2528,7 @@
     }
   },
   "0d12d38576d02854b6220b78c268d1e7e0a04ac9dcb40d5608cd0d67e97aca55": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://leyuansu.com/",
@@ -2610,7 +2539,7 @@
     }
   },
   "dc77195452e946e82c829ca7a31d19b920e176e7cca1a849460015295922c0f7": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://join.leyuansu.com/",
@@ -2618,7 +2547,7 @@
     }
   },
   "b1de95c43fb86809eda02046334c1b005b07a60986594132852b06a6ac868955": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.idreamsky.com/",
@@ -2694,11 +2623,11 @@
     }
   },
   "e06e07b3f45f400405c96f2090fed9e798f3a115df888e24d895b7e5667a6cb5": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://idreamsky.jobs.feishu.cn/",
-      "text": "搜索 筛选 清除 职位类别 研发 产品 / 策划 / 项目 职能 / 支持 市场 城市 深圳 开启新的工作（6） Unity客户端技术专家 深圳 全职 互联网 / 电子 / 网游 1、负责发行线Unity客户端技术建设，支撑移动游戏及小游戏方向的技术演进。\n2、负责Unity客户端性能优化，包括启动速度、包体大小、内存、CPU/GPU性能、卡顿等问题定位与解决。\n3、负责Unity客户端架构优化和工程化建设，包括资源管理、热更新、构建流程、性能分析工具等。\n4、建立Unity客户端性能规范和技术标准，提升研发效率和产品质量。\n5、参与客户端疑难技术问题攻关，推动AI辅助研发流程落地。 场景地编 深圳 全职 互联网 / 电子 / 网游 工作职责:\n1、熟练掌握U3D/UE4引擎,负责游戏内场景的制作,景观搭建和氛围营造,整体3D场景设计与把控;\n2、设计游戏引擎内的3D场景灯光,制作光照效果;\n3、推动项目3D场景技术的持续提升和优化,输出场景/关卡编辑制作F模版和规范;审核外包提交的3D资源,保证外包输出品质达标;\n4、有一定的手绘贴图和PS修改贴图的能力,对模型在引擎中的最终效果有一定的控制能力; 3D动作设计师 深圳 全职 互联网 / 电子 / 网游 - 研发 工作职责:\n1、负责制作游戏中的角色、场景动画及编辑制作并输出引擎使用文件;\n2、负责游戏动画制作规范的制定;\n3、负责UI动态的表现设计,并能与程序沟通完成技术方案;\n4、负责动画外包的质量监控与进度管理;\n5、负责动画团队建设,知识沉淀输出和人才培养; 主策划 深圳 全职 互联网 / 电子 / 网游 1. 负责游戏的长线研发运营策略，基于产品生命周期阶段制定年度/季度版本规划，确保DAU、留存率、付费率等核心指标的持续增长。\n2. 主导核心玩法的微创新迭代及新模式的探索设计，对玩家留存率和核心玩法满意度负责。\n3. 主导商业化体系构建，设计并优化游戏内经济系统、活动策略和数值投放，与运营团队协作，完成收入目标。\n4. 建立数据驱动的决策机制，通过A/B测试和数据分析洞察用户行为，快速调整策略以优化游戏数据的核心指标。\n5. 团队管理与协作，管理策划团队，制定工作标准，协调程序、美术、运营等部门资源，确保项目高质量交付。同时推动AI工具在策划工作流中的应用，实现研发效能提升。 UE蓝图设计师（买量视频方向） 深圳 全职 互联网 / 电子 / 网游 1. 根据创意方案，可选用 UE5/UE4或其他合适引擎，结合蓝图 / 对应引擎可视化脚本，独立完成小游戏、Playable 试玩广告的交互逻辑、玩法流程、UI 引导开发调试，保证流程通顺稳定。\n2. 熟练使用各类 AI 创意工具，辅助买量短视频素材、试玩广告、轻小游戏的资源生成、画面迭代、镜头与特效制作，提升素材产出效率。\n3. 日常负责买量投放素材制作：引擎内搭建场景、编排镜头、调节动画与特效、渲染输出成片，配合投放团队快速做多版本迭代测试。\n4. 负责工程 / 项目文件规范管理：节点整理、命名注释、冗余资源清理，沉淀可复用的交互模板、玩法模板，方便快速复用改稿。\n5. 根据投放数据、测试反馈，快速调整试玩节奏、引导方式、玩法难度，优化素材转化表现。\n6. 对接创意、投放、美术同事，理解脚本创意，评估方案可行性，同步进度，提前规避性能、平台规范风险。\n7. 对成品做移动端适配与性能调优，解决卡顿、资源超标、打包报错等问题，保证试玩包、输出视频符合投放平台规范。\n8. 持续调研 AI 工具、买量爆款案例、轻量小游戏 / 试玩广告方案，输出内部复用资产与流程。 游戏研发制作人 深圳 全职 互联网 / 电子 / 网游 1. 品类战略与立项决策\n  - 主导三消、合成（Merge）等休闲品类的赛道研究、竞品拆解与机会点挖掘，完成从 0 到 1 的立项论证与核心玩法原型设计；\n  - 制定产品短中长期规划，明确核心循环、付费模型与内容延展路径，对项目阶段性测试数据达标与上线成功率负责。\n2. 核心玩法与系统设计\n  - 深度设计关卡节奏、数值框架、Meta 循环（如剧情线、装饰系统），确保易上手、难精通、长留存的休闲游戏体验；\n  - 把握随机性与策略性的平衡，设计可持续运营的活动框架与赛季内容。\n3. 跨部门协同与资源管理\n  - 统筹策划、程序、美术、QA 等团队，建立高效的敏捷开发流程，确保里程碑节点按时交付；\n  - 对美术风格、UI/UX 提出专业判断，确保产品调性符合目标用户（尤其是海外休闲玩家）的审美与习惯。\n4. 数据驱动与迭代优化\n  - 建立关键数据监控体系（留存、关卡通过率、付费转化、广告变现效率等），基于 A/B 测试与用户反馈快速迭代；\n  - 跟踪上线后表现，主导版本更新与长线运营策略，持续提升 DAU 与 LTV。\n5. 团队建设\n  - 搭建并培养研发闭环团队，沉淀方法论与工具链（如关卡编辑器、数值模拟表、AIGC工作流），持续提升团队整体产出效率和研发实力。 1",
+      "text": "搜索 筛选 清除 职位类别 研发 市场 产品 / 策划 / 项目 职能 / 支持 城市 深圳 开启新的工作（6） Unity客户端技术专家 深圳 全职 互联网 / 电子 / 网游 1、负责发行线Unity客户端技术建设，支撑移动游戏及小游戏方向的技术演进。\n2、负责Unity客户端性能优化，包括启动速度、包体大小、内存、CPU/GPU性能、卡顿等问题定位与解决。\n3、负责Unity客户端架构优化和工程化建设，包括资源管理、热更新、构建流程、性能分析工具等。\n4、建立Unity客户端性能规范和技术标准，提升研发效率和产品质量。\n5、参与客户端疑难技术问题攻关，推动AI辅助研发流程落地。 场景地编 深圳 全职 互联网 / 电子 / 网游 工作职责:\n1、熟练掌握U3D/UE4引擎,负责游戏内场景的制作,景观搭建和氛围营造,整体3D场景设计与把控;\n2、设计游戏引擎内的3D场景灯光,制作光照效果;\n3、推动项目3D场景技术的持续提升和优化,输出场景/关卡编辑制作F模版和规范;审核外包提交的3D资源,保证外包输出品质达标;\n4、有一定的手绘贴图和PS修改贴图的能力,对模型在引擎中的最终效果有一定的控制能力; 3D动作设计师 深圳 全职 互联网 / 电子 / 网游 - 研发 工作职责:\n1、负责制作游戏中的角色、场景动画及编辑制作并输出引擎使用文件;\n2、负责游戏动画制作规范的制定;\n3、负责UI动态的表现设计,并能与程序沟通完成技术方案;\n4、负责动画外包的质量监控与进度管理;\n5、负责动画团队建设,知识沉淀输出和人才培养; 主策划 深圳 全职 互联网 / 电子 / 网游 1. 负责游戏的长线研发运营策略，基于产品生命周期阶段制定年度/季度版本规划，确保DAU、留存率、付费率等核心指标的持续增长。\n2. 主导核心玩法的微创新迭代及新模式的探索设计，对玩家留存率和核心玩法满意度负责。\n3. 主导商业化体系构建，设计并优化游戏内经济系统、活动策略和数值投放，与运营团队协作，完成收入目标。\n4. 建立数据驱动的决策机制，通过A/B测试和数据分析洞察用户行为，快速调整策略以优化游戏数据的核心指标。\n5. 团队管理与协作，管理策划团队，制定工作标准，协调程序、美术、运营等部门资源，确保项目高质量交付。同时推动AI工具在策划工作流中的应用，实现研发效能提升。 UE蓝图设计师（买量视频方向） 深圳 全职 互联网 / 电子 / 网游 1. 根据创意方案，可选用 UE5/UE4或其他合适引擎，结合蓝图 / 对应引擎可视化脚本，独立完成小游戏、Playable 试玩广告的交互逻辑、玩法流程、UI 引导开发调试，保证流程通顺稳定。\n2. 熟练使用各类 AI 创意工具，辅助买量短视频素材、试玩广告、轻小游戏的资源生成、画面迭代、镜头与特效制作，提升素材产出效率。\n3. 日常负责买量投放素材制作：引擎内搭建场景、编排镜头、调节动画与特效、渲染输出成片，配合投放团队快速做多版本迭代测试。\n4. 负责工程 / 项目文件规范管理：节点整理、命名注释、冗余资源清理，沉淀可复用的交互模板、玩法模板，方便快速复用改稿。\n5. 根据投放数据、测试反馈，快速调整试玩节奏、引导方式、玩法难度，优化素材转化表现。\n6. 对接创意、投放、美术同事，理解脚本创意，评估方案可行性，同步进度，提前规避性能、平台规范风险。\n7. 对成品做移动端适配与性能调优，解决卡顿、资源超标、打包报错等问题，保证试玩包、输出视频符合投放平台规范。\n8. 持续调研 AI 工具、买量爆款案例、轻量小游戏 / 试玩广告方案，输出内部复用资产与流程。 游戏研发制作人 深圳 全职 互联网 / 电子 / 网游 1. 品类战略与立项决策\n  - 主导三消、合成（Merge）等休闲品类的赛道研究、竞品拆解与机会点挖掘，完成从 0 到 1 的立项论证与核心玩法原型设计；\n  - 制定产品短中长期规划，明确核心循环、付费模型与内容延展路径，对项目阶段性测试数据达标与上线成功率负责。\n2. 核心玩法与系统设计\n  - 深度设计关卡节奏、数值框架、Meta 循环（如剧情线、装饰系统），确保易上手、难精通、长留存的休闲游戏体验；\n  - 把握随机性与策略性的平衡，设计可持续运营的活动框架与赛季内容。\n3. 跨部门协同与资源管理\n  - 统筹策划、程序、美术、QA 等团队，建立高效的敏捷开发流程，确保里程碑节点按时交付；\n  - 对美术风格、UI/UX 提出专业判断，确保产品调性符合目标用户（尤其是海外休闲玩家）的审美与习惯。\n4. 数据驱动与迭代优化\n  - 建立关键数据监控体系（留存、关卡通过率、付费转化、广告变现效率等），基于 A/B 测试与用户反馈快速迭代；\n  - 跟踪上线后表现，主导版本更新与长线运营策略，持续提升 DAU 与 LTV。\n5. 团队建设\n  - 搭建并培养研发闭环团队，沉淀方法论与工具链（如关卡编辑器、数值模拟表、AIGC工作流），持续提升团队整体产出效率和研发实力。 1",
       "heading": "",
       "structured": false,
       "links": [
@@ -2734,7 +2663,7 @@
     }
   },
   "087fa6e1b05b509a096d02e6e0613b7a7cbf33c1299d7f26e764c3a9b63911a1": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://www.shiyue.com/",
@@ -2813,7 +2742,7 @@
     }
   },
   "ebd49789aef6a0366741b4893d393dc7218bb8058ea683b5110c32df44862148": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "redirect_limit",
       "url": "https://campus.shiyue.com/",
@@ -2821,7 +2750,7 @@
     }
   },
   "4be84a660cff1a77722639d38e6300671e25e59c9eb6bdbafdfc3b2ea076aeb1": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://www.eworld.cn/",
@@ -2832,17 +2761,17 @@
     }
   },
   "02b86525534d188bbe03d1cbf468ae41e438fc474055b931404db411d4b264fc": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://eworldgroup.jobs.feishu.cn/",
-      "text": "搜索 筛选 清除 职位类别 市场 研发 职能 / 支持 设计 运营 城市 广州 成都 开启新的工作（5） u3d开发 广州 全职 互联网 / 电子 / 网游 工作职责：\n1、根据策划和美术需求，负责系统功能开发\n2、能与策划和美术进行有效的沟通，根据需求文档，提供项目解决方案，能独立完成任务\n3、熟练使用Unity进行游戏开发，确保所负责模块的稳定性和性能\n4、能实现UI等各种交互功能 客户端开发 广州 全职 互联网 / 电子 / 网游 工作职责：\n1、根据策划和美术需求，负责系统功能开发；\n2、能与策划和美术进行有效的沟通，根据需求文档，提供项目解决方案，能独立完成任务；\n3、熟练使用Unity进行游戏开发，确保所负责模块的稳定性和性能；\n4、能实现UI等各种交互功能； 资深客户端开发 广州 全职 互联网 / 电子 / 网游 - 研发 岗位职责：【该岗位定位在中台技术】\n1、使用unity3D/cocos2dx技术配合团队按时按质完成游戏开发，负责客户端核心模块的搭建维护和扩展；\n2、负责unity3D/cocos2dx优化技术攻关，开发研发过程所需或提高效率的工具。 高级客户端开发 广州 全职 互联网 / 电子 / 网游 岗位职责：\n1.负责SLG新项目的功能开发，如战斗、任务、副本等。\n2.参与游戏性能优化，解决游戏卡顿、内存占用等问题。\n3.参与相关工具链的开发和优化，提高游戏研发效率。\n4.协助解决项目中的技术问题，与其他成员协作，确保项目的顺利进行。\n5.遵循团队的编码规范，注重代码质量，Review代码完成自测。 客户端主程 广州 全职 互联网 / 电子 / 网游 岗位职责：\n1.负责客户端程序整体设计与架构，并编写客户端总体设计文档与项目编码规范；\n2.负责管理统筹项目内客户端人员的日常工作，并进行相应的技术指导工作；\n3.负责解决因项目需要的各类技术难题，给出合理的解决方案；\n4.负责对游戏资源，游戏代码、游戏渲染逻辑进行优化，提高项目质量； 1",
+      "text": "搜索 筛选 清除 职位类别 市场 研发 职能 / 支持 设计 运营 城市 广州 成都 开启新的工作（5） 客户端开发 广州 全职 互联网 / 电子 / 网游 工作职责：\n1、根据策划和美术需求，负责系统功能开发；\n2、能与策划和美术进行有效的沟通，根据需求文档，提供项目解决方案，能独立完成任务；\n3、熟练使用Unity进行游戏开发，确保所负责模块的稳定性和性能；\n4、能实现UI等各种交互功能； u3d开发 广州 全职 互联网 / 电子 / 网游 工作职责：\n1、根据策划和美术需求，负责系统功能开发\n2、能与策划和美术进行有效的沟通，根据需求文档，提供项目解决方案，能独立完成任务\n3、熟练使用Unity进行游戏开发，确保所负责模块的稳定性和性能\n4、能实现UI等各种交互功能 资深客户端开发 广州 全职 互联网 / 电子 / 网游 - 研发 岗位职责：【该岗位定位在中台技术】\n1、使用unity3D/cocos2dx技术配合团队按时按质完成游戏开发，负责客户端核心模块的搭建维护和扩展；\n2、负责unity3D/cocos2dx优化技术攻关，开发研发过程所需或提高效率的工具。 高级客户端开发 广州 全职 互联网 / 电子 / 网游 岗位职责：\n1.负责SLG新项目的功能开发，如战斗、任务、副本等。\n2.参与游戏性能优化，解决游戏卡顿、内存占用等问题。\n3.参与相关工具链的开发和优化，提高游戏研发效率。\n4.协助解决项目中的技术问题，与其他成员协作，确保项目的顺利进行。\n5.遵循团队的编码规范，注重代码质量，Review代码完成自测。 客户端主程 广州 全职 互联网 / 电子 / 网游 岗位职责：\n1.负责客户端程序整体设计与架构，并编写客户端总体设计文档与项目编码规范；\n2.负责管理统筹项目内客户端人员的日常工作，并进行相应的技术指导工作；\n3.负责解决因项目需要的各类技术难题，给出合理的解决方案；\n4.负责对游戏资源，游戏代码、游戏渲染逻辑进行优化，提高项目质量； 1",
       "heading": "",
       "structured": false,
       "links": [
         "https://eworldgroup.jobs.feishu.cn/index/login",
-        "https://eworldgroup.jobs.feishu.cn/index/position/7371649250495433014/detail",
         "https://eworldgroup.jobs.feishu.cn/index/position/7366437638381127946/detail",
+        "https://eworldgroup.jobs.feishu.cn/index/position/7371649250495433014/detail",
         "https://eworldgroup.jobs.feishu.cn/index/position/7352745763883878693/detail",
         "https://eworldgroup.jobs.feishu.cn/index/position/7399910612153174322/detail",
         "https://eworldgroup.jobs.feishu.cn/index/position/7316807029833107724/detail"
@@ -2882,7 +2811,7 @@
     }
   },
   "ec0b3c1c3e1ba9df7eecd9e27350e90933da856e0d6ea3a1e29499884ebf4663": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://idreamsky.jobs.feishu.cn/index/position/7670469886423238921/detail",
@@ -2903,11 +2832,11 @@
     }
   },
   "a5d5d59a5b897a78ae5ca054a5aac6a13777b32b40af70883ce9e9070d862da1": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/",
-      "text": "搜索 筛选 清除 招聘项目 校招储备实习 城市 上海 北京 职能分类 技术 艺术 产品 发行 战略 质量 职能 开启新的工作（14） 【校招储备】关卡策划实习生（开放世界/SOC） 上海 实习 产品 - 游戏策划 1. 负责一部分关卡设计，包括原型、设计案、结构搭建、交互物设计和放置、机制和玩法设计等。\n2. 完成关卡的制作，跟进功能、资源，使用Unity和其他策划工具制作关卡所需数据和配置，进行关卡的调试上线。\n3. 参与和其他小组和部门如系统、战斗、世界观、美术、程序等跨部门沟通协调工作。 【校招储备】引擎开发实习生（大世界） 上海 实习 技术 - 引擎 1.负责Unity 多端项目的性能分析、问题定位与优化方案落地。 \n2.负责若干引擎/底层通用能力的开发与维护：资源管理、加载流程、运行时诊断、通用组件等方向。 \n3.完成渲染相关的优化与效果支持，在保证效果的同时提升运行效率与稳定性。 \n4.开发与迭代工具链/提效工具：性能与日志分析工具、资源规范检查工具、自动化流程脚本等。 \n5.跟进性能与资源规范的落地执行，推动与客户端、TA、美术的协作闭环。 VX实习生 上海 实习 艺术 - VX 1.根据UI资源和策划需求，设计2D界面动效。\n2.推进界面动效的落地，资源整理。\n3.熟练运用AE，有运用unity制作界面动效经验的优先。 TA实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升产品表现力。\n2. 根据项目及美术生产需求编写工具组件，优化生产管线。\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求。\n4. 分析游戏中的性能问题，测试并给出优化标准和方案。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升现有项目技术在产品中的实际表现；\n2. 根据项目及美术生产需求编写工具组件，优化生产管线；\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求；\n4. 协助团队开展AI模型训练、调试相关工作，参与模型技术实验与效果验证，完成模型适配、内容筛选及测试反馈。\n5. 对接各职能团队，沟通需求，反馈并协助解决AI技术美术方案在落地中的各类技术问题，梳理并完善功能及制作规范。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 工具与管线优化： 独立开发工具组件，优化美术生产管线，提高工作效率，确保生产流程的顺畅。\n2. 性能分析与优化： 分析游戏中的性能瓶颈，制定并实施优化方案，提升游戏的运行效率和用户体验。\n3. Shader 开发与维护： 根据项目需求，编写和维护高效的 Shader，实现复杂的视觉效果，提升产品的技术表现。 【校招储备】PCG算法工程师（开放世界/SOC） 上海 实习 艺术 - TA 1. 程序化生成逻辑与方案辅助实现：\n1.1 参与程序化生成算法的设计、实现与验证，探索基于空间关系、视觉目标或设计规则的内容生成方案。\n1.2 学习并使用主流PCG工具（如Houdini）或自研框架，协助构建生成管线，参与解决生成效率、可控性或输出质量等基础问题。\n1.3 协助进行生成结果的测试与调优，记录并分析不同参数对效果的影响。\n2. 生成内容的集成与工程辅助\n2.1 协助将生成内容及流程集成到目标引擎或平台（如Unity/Unreal/Web等），参与基本的运行时模块或编辑器工具的开发和调试。\n2.2 编写单元测试与简单的调试脚本，帮助验证生成结果的正确性与稳定性。\n3. 工具链与数据基础支持\n3.1 协助搭建和维护PCG相关的资产预处理、批量导出或结果校验等辅助工具，了解版本管理与批量生产流程。\n3.2 参与生成系统与数据源的对接工作，学习并实践数据输入/输出规范设计、格式转换及基础的数据一致性检查。\n3.3 协助建立简单的数据质量记录与反馈表格，为算法迭代提供基础数据支撑。\n4. 跨职能协作与文档整理\n4.1 与美术、设计、程序等团队成员沟通，理解项目需求，协助将技术方案落地。\n4.2 撰写清晰的技术文档，包括生成逻辑说明、接口使用指南及操作流程等。 技术策划实习生（都市生活模拟） 上海 实习 产品 - 游戏策划 1. 参与游戏日常研发，与策划、美术、程序沟通，收集并梳理工作中的效率问题和协作痛点。\n2. 协助将实际问题整理为清晰的工具需求、流程方案、使用场景及验收标准。\n3. 跟进工具或流程的开发、测试和使用，记录问题、收集反馈并推动后续优化。\n4. 编写和维护工具说明、流程规范及常见问题文档，协助同事快速上手。 系统策划实习生（Warline） 上海 实习 产品 - 游戏策划 1.协助导师完成游戏系统与玩法模块的资料整理、竞品研究、功能拆解和文档输出；\n2.协助维护项目内游戏前期系统设计资料，包括新手流程、D1-D7 留存/付费数据追踪、内测反馈汇总、和跨部门任务跟进；\n3.根据明确需求完成表格、文档、对比分析、测试记录等基础策划交付物，保证信息清晰、准确、可追溯；\n4.在导师指导下参与轻量系统或功能点的设计支持工作，包括资料准备、配置检查、测试验证和问题跟进；\n5.与策划、美术、程序、测试等团队成员协作，推动具体执行任务按时落地。 系统策划实习生（欧美现代SLG） 上海 实习 产品 - 游戏策划 1.协助完成游戏系统与玩法模块的资料整理、竞品研究、功能拆解和文档输出；\n2.协助梳理与维护模拟经营模块的开发文档与配置资料；\n3.跑测前期新手引导流程，整理成问题清单并跟进；\n4.根据明确需求完成表格、文档、对比分析、测试记录等基础策划交付物；\n5.参与轻量配置与功能点的支持工作，包括资料准备、配置检查、测试验证和开发跟进；\n6.与策划、美术、程序、测试等团队成员协作，推动具体执行任务按时落地。 1 2",
+      "text": "搜索 筛选 清除 招聘项目 校招储备实习 城市 上海 北京 职能分类 技术 艺术 产品 发行 战略 质量 职能 开启新的工作（16） 【校招储备】关卡策划实习生（开放世界/SOC） 上海 实习 产品 - 游戏策划 1. 负责一部分关卡设计，包括原型、设计案、结构搭建、交互物设计和放置、机制和玩法设计等。\n2. 完成关卡的制作，跟进功能、资源，使用Unity和其他策划工具制作关卡所需数据和配置，进行关卡的调试上线。\n3. 参与和其他小组和部门如系统、战斗、世界观、美术、程序等跨部门沟通协调工作。 引擎开发实习生（大世界） 上海 实习 技术 - 引擎 1.负责Unity 多端项目的性能分析、问题定位与优化方案落地。 \n2.负责若干引擎/底层通用能力的开发与维护：资源管理、加载流程、运行时诊断、通用组件等方向。 \n3.完成渲染相关的优化与效果支持，在保证效果的同时提升运行效率与稳定性。 \n4.开发与迭代工具链/提效工具：性能与日志分析工具、资源规范检查工具、自动化流程脚本等。 \n5.跟进性能与资源规范的落地执行，推动与客户端、TA、美术的协作闭环。 【校招储备】引擎开发实习生（大世界） 上海 实习 技术 - 引擎 1.负责Unity 多端项目的性能分析、问题定位与优化方案落地。 \n2.负责若干引擎/底层通用能力的开发与维护：资源管理、加载流程、运行时诊断、通用组件等方向。 \n3.完成渲染相关的优化与效果支持，在保证效果的同时提升运行效率与稳定性。 \n4.开发与迭代工具链/提效工具：性能与日志分析工具、资源规范检查工具、自动化流程脚本等。 \n5.跟进性能与资源规范的落地执行，推动与客户端、TA、美术的协作闭环。 VX实习生 上海 实习 艺术 - VX 1.根据UI资源和策划需求，设计2D界面动效。\n2.推进界面动效的落地，资源整理。\n3.熟练运用AE，有运用unity制作界面动效经验的优先。 TA实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升产品表现力。\n2. 根据项目及美术生产需求编写工具组件，优化生产管线。\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求。\n4. 分析游戏中的性能问题，测试并给出优化标准和方案。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 编写和维护Shader实现美术相关需求、配合美术组提升现有项目技术在产品中的实际表现；\n2. 根据项目及美术生产需求编写工具组件，优化生产管线；\n3. 与美术和技术团队合作，维护材质库以符合性能和视觉要求；\n4. 协助团队开展AI模型训练、调试相关工作，参与模型技术实验与效果验证，完成模型适配、内容筛选及测试反馈。\n5. 对接各职能团队，沟通需求，反馈并协助解决AI技术美术方案在落地中的各类技术问题，梳理并完善功能及制作规范。 【校招储备】技术美术实习生 上海 实习 艺术 - TA 1. 工具与管线优化： 独立开发工具组件，优化美术生产管线，提高工作效率，确保生产流程的顺畅。\n2. 性能分析与优化： 分析游戏中的性能瓶颈，制定并实施优化方案，提升游戏的运行效率和用户体验。\n3. Shader 开发与维护： 根据项目需求，编写和维护高效的 Shader，实现复杂的视觉效果，提升产品的技术表现。 【校招储备】PCG算法工程师（开放世界/SOC） 上海 实习 艺术 - TA 1. 程序化生成逻辑与方案辅助实现：\n1.1 参与程序化生成算法的设计、实现与验证，探索基于空间关系、视觉目标或设计规则的内容生成方案。\n1.2 学习并使用主流PCG工具（如Houdini）或自研框架，协助构建生成管线，参与解决生成效率、可控性或输出质量等基础问题。\n1.3 协助进行生成结果的测试与调优，记录并分析不同参数对效果的影响。\n2. 生成内容的集成与工程辅助\n2.1 协助将生成内容及流程集成到目标引擎或平台（如Unity/Unreal/Web等），参与基本的运行时模块或编辑器工具的开发和调试。\n2.2 编写单元测试与简单的调试脚本，帮助验证生成结果的正确性与稳定性。\n3. 工具链与数据基础支持\n3.1 协助搭建和维护PCG相关的资产预处理、批量导出或结果校验等辅助工具，了解版本管理与批量生产流程。\n3.2 参与生成系统与数据源的对接工作，学习并实践数据输入/输出规范设计、格式转换及基础的数据一致性检查。\n3.3 协助建立简单的数据质量记录与反馈表格，为算法迭代提供基础数据支撑。\n4. 跨职能协作与文档整理\n4.1 与美术、设计、程序等团队成员沟通，理解项目需求，协助将技术方案落地。\n4.2 撰写清晰的技术文档，包括生成逻辑说明、接口使用指南及操作流程等。 【2027校招储备】技术美术师 上海 实习 艺术 - TA 1. 负责AIGC应用相关的低成本微调、小样本训练，搭建管线等。\n2. 负责整体AIGC的前沿动态跟进、技术实践和场景落地。\n3. 调研项目需求，提出并实现算法优化与应用方案。 技术策划实习生（都市生活模拟） 上海 实习 产品 - 游戏策划 1. 参与游戏日常研发，与策划、美术、程序沟通，收集并梳理工作中的效率问题和协作痛点。\n2. 协助将实际问题整理为清晰的工具需求、流程方案、使用场景及验收标准。\n3. 跟进工具或流程的开发、测试和使用，记录问题、收集反馈并推动后续优化。\n4. 编写和维护工具说明、流程规范及常见问题文档，协助同事快速上手。 1 2",
       "heading": "",
       "structured": false,
       "links": [
@@ -2917,15 +2846,15 @@
         "https://lilithgames.jobs.feishu.cn/campus/",
         "https://lilithgames.jobs.feishu.cn/intern/login",
         "https://lilithgames.jobs.feishu.cn/intern/position/7482981433197316379/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7701602028326504745/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7678630224095578419/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7559862485647329586/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7612923932329511214/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7680037868295145774/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7680038626201536810/detail",
         "https://lilithgames.jobs.feishu.cn/intern/position/7672229515678959878/detail",
-        "https://lilithgames.jobs.feishu.cn/intern/position/7679707020065655078/detail",
-        "https://lilithgames.jobs.feishu.cn/intern/position/7559786807341877523/detail",
-        "https://lilithgames.jobs.feishu.cn/intern/position/7660738803171379507/detail"
+        "https://lilithgames.jobs.feishu.cn/intern/position/7673394460751677734/detail",
+        "https://lilithgames.jobs.feishu.cn/intern/position/7679707020065655078/detail"
       ],
       "job_links": [
         {
@@ -3002,7 +2931,7 @@
     }
   },
   "777492bbd2ad28aa780818b9694444f95f91b46aab9f80b3a2057ca838c0f223": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7681525899707320619/detail",
@@ -3026,7 +2955,7 @@
     }
   },
   "6c2613e1cac1745d29332715bb3311c5556f56f58eadd14a6f6a289c15e36c7e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7667782728607811881/detail",
@@ -3050,7 +2979,7 @@
     }
   },
   "07d2794176852d2b7c366b37b750339e67f43c831285683b9bd0c0705bed9c9e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672352892715698470/detail",
@@ -3074,7 +3003,7 @@
     }
   },
   "96fd322543f991d657d2441ca61ed510728552650ac38962a90bf7cc3c5afb69": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7673043099195443492/detail",
@@ -3098,7 +3027,7 @@
     }
   },
   "0e54dd0e8c49778d8af2e77920a0a0d23e8c50b9960c65c66f0cd35aedb6c0a6": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672344948288555302/detail",
@@ -3122,7 +3051,7 @@
     }
   },
   "df47f6c751f40036884d2c5dbe6d36dedf109954956c9b615829c3fedffb1cfc": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/intern/position/7672346699847747846/detail",
@@ -3146,7 +3075,7 @@
     }
   },
   "bf62437787ef9c64d1f874289c8a6413e6b5dc739c6c2132a7011278689d3b3d": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/581609/",
@@ -3227,12 +3156,12 @@
           "title": "Unity工程师（小游戏）"
         },
         {
-          "url": "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
-          "title": "unity 开发工程师（捕鱼类）"
-        },
-        {
           "url": "https://boke.jobs.feishu.cn/index/position/7595140523364272403/detail",
           "title": "Unity特效师"
+        },
+        {
+          "url": "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
+          "title": "unity 开发工程师（捕鱼类）"
         },
         {
           "url": "https://boke.jobs.feishu.cn/index/position/7612633984958761257/detail",
@@ -3248,28 +3177,30 @@
     }
   },
   "195683d3113e45a155f14c0aeeaa6936a36f95f547b7209f4bfbe11d70b8273d": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
-      "status": "dynamic_or_empty",
+      "status": "readable",
       "url": "https://kurogame.jobs.feishu.cn/campus/",
-      "text": "",
+      "text": "点击此处投递简历 关于库洛 ​ 库洛游戏(KURO GAMES)诞生于2014年，总部位于广州，致力于打造优质的互动娱乐体验，通过传递“勇于挑战”的精神，让每个人都能成就更好的自己。 ​ 目前，库洛游戏通过游戏研发及长线运营、全球化发行及原创IP孵化实现自我挑战和成长，旗下产品包括《战场双马尾》、《战双帕弥什》、《鸣潮》以及游戏IP衍生产品，海外发行覆盖日韩、东南亚、欧美等国家或区域。 ​ ​ 库洛产品 《战双帕弥什》：末世科幻题材3D动作游戏 PUNISHING: GRAY RAVEN | 游戏简介\n\n游戏设定在未来的 2079 年，讲述了曾经高度繁荣的人类文明遭受「帕弥什」病毒破坏，玩家化身为拯救者「指挥官」，带着人类文明最后的希望「构造体」，前往拯救地球的故事。\n\n| 核心特色\n\n以媲美主机游戏的打击感、爽快利落的战斗系统和动人心魄的剧情篇章，营造出身临其境的游戏氛围，精致且特别的角色设定与细节，彰显了独特的游戏风格，带玩家进入紧张刺激又充满幻想的科幻世界。 《鸣潮》：开放世界动作游戏 Wuthering Waves | 游戏简介\n\n作为一款开放世界动作游戏，主打高自由度的动作战斗玩法与丰富多样的开放世界探索。玩家将作为经过漫长岁月沉睡之后苏醒的漂泊者展开冒险，并在找回记忆、寻找自我身份的同时结识共鸣者同伴，一起踏上跨越悲鸣的旅途。\n\n| 核心特色\n\n以全球视野化的角色设计、酣畅淋漓的战斗手感和扣人心弦的故事剧情，打造出引人入胜的游戏情境，引领玩家热血激战又奇幻瑰丽的探索。 《库街区》：库洛游戏官方玩家社区 | 产品介绍\n\n库街区是库洛游戏旗下的官方游戏社区，为《战双帕弥什》和《鸣潮》的游戏玩家提供资讯攻略、交流互动、实用工具、专属福利等服务。 招聘流程 网申 / 内推 即日起 笔试 8月下旬起 面试 9月上旬起 Offer 发放 9月中旬起 校招职位 策划类 7 个岗位 技术类 8 个岗位 美术类 29 个岗位 营销类 6 个岗位 音频类 3 个岗位 职能综合类 3 个岗位 运营类 3 个岗位 项管类 1 个岗位 工作环境 工位区 书屋 猫房 健身区 库洛游戏招聘 ​ campus-hr@kurogames.com ​ 京公网安备 11010802029085 号 京ICP备16045432号 - 4 本站使用 搭建",
       "heading": "",
+      "structured": false,
       "links": [
         "https://kurogame.jobs.feishu.cn/campus/",
         "https://kurogame.jobs.feishu.cn/campus/position/list",
-        "https://kurogame.jobs.feishu.cn/campus/login"
+        "https://kurogame.jobs.feishu.cn/campus/login",
+        "https://hire.feishu.cn/"
       ],
       "job_links": [],
       "reader": "browser",
       "rendered_at_url": "https://kurogame.jobs.feishu.cn/campus/position/list",
       "coverage": "当前公开页面；未承诺覆盖站内全部分页",
-      "browser_status": "dynamic_or_empty",
+      "browser_status": "readable",
       "render_attempted": true,
       "render_version": 3
     }
   },
   "6a99d7927a7e07b68d90167ec1156faa49a4c049133026a7d2206e065d274d27": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7573909417175828799/detail",
@@ -3293,7 +3224,7 @@
     }
   },
   "84b0ae2c5ea4af06564b9948888c2811a1fc1b09aa075f71eb0bac7694f7dfea": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7613679207743064339/detail",
@@ -3317,7 +3248,7 @@
     }
   },
   "38f5ace5195f26a2aa8558ad8942e56616d45c74e03c0c3e549f008836adf92a": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7589939257993759022/detail",
@@ -3341,7 +3272,7 @@
     }
   },
   "7ea2919863c7b72db2da870f1921f451cba9305a3fe0ab0f140539a86179a9a2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7654501017070160174/detail",
@@ -3365,7 +3296,7 @@
     }
   },
   "ad74dc65875f7838a37c123898a98dd1027c202ac4424efbff0d973bb24026e2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7621121460274334006/detail",
@@ -3389,7 +3320,7 @@
     }
   },
   "e90c54ca8152b469126e69446a58d0adcb5b1a6280119b9ba8ddfec71a6be9aa": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7569922516908673334/detail",
@@ -3413,7 +3344,7 @@
     }
   },
   "61771d7be532c0413b6fa36cad3fb9c56d9b2c2f3ec0518b8f1654a6ae71b7c0": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7570930823894812964/detail",
@@ -3437,7 +3368,7 @@
     }
   },
   "fd6677a0605f4dba99d73850f9733d016ee72d35be84834b09320bcf9cbd0f0d": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7668249807043856682/detail",
@@ -3461,7 +3392,7 @@
     }
   },
   "93a0a26ce2766e23ae791ccd311c3e1f743f36201dd8b73bd314d8c88b1cac3c": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7525014692915218729/detail",
@@ -3485,7 +3416,7 @@
     }
   },
   "049c9766731a87f12d30b1136718b2c76d26b36173e2334d0cd81c79c14fb877": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7646649131783817508/detail",
@@ -3508,7 +3439,7 @@
     }
   },
   "9cb6028affe06aed2d53ba7bf10c1a2b6399c104ab2266a382baa11566af9d82": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7565893821873260810/detail",
@@ -3531,7 +3462,7 @@
     }
   },
   "ff6748b66879278f91e8637730f088385ca05c66176f5420b61fc47ca6015196": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7561430101859862803/detail",
@@ -3554,7 +3485,7 @@
     }
   },
   "9dcfe08585d2e00830e90fd061935c24f45c0ac91e019be75ba7ffc769195def": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7564297356142135606/detail",
@@ -3577,7 +3508,7 @@
     }
   },
   "1396070fcf9208e5be3841bfdd7631b49c1afebed7e1c8aa1dcffdf2afda7736": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7595860422704515366/detail",
@@ -3600,7 +3531,7 @@
     }
   },
   "03fa5e9695c4415f0e4f9b101b584363d16a432cb33a7fa544faf3d786897d96": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7483331975316392255/detail",
@@ -3623,7 +3554,7 @@
     }
   },
   "1b081898058d95ba66b58b9335e303983b5f97312de6e02610ee92fa83caeacb": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7595786451489556779/detail",
@@ -3646,7 +3577,7 @@
     }
   },
   "def66e3f01fc38ae99977d65f4b44f425db37128dfaa8f7bd7ab65531a1ec51e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7563192282187925786/detail",
@@ -3669,7 +3600,7 @@
     }
   },
   "90d17fc1f984acc6b7796346003a0ed5b6507ccdb0d14288bf12fcea9624b884": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7659381724543469874/detail",
@@ -3692,7 +3623,7 @@
     }
   },
   "0a1af99da2805a6beefb2907c8e5cc0b566a8a7f9d6be3c1ba249630c643055e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7565086934482569482/detail",
@@ -3715,7 +3646,7 @@
     }
   },
   "2c1dbc169c273eb9f2bb2190b1953d2976619b0180925efe57acb0c28c93b856": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7687554167140813099/detail",
@@ -3738,7 +3669,7 @@
     }
   },
   "dce718cc6f6743dbfd544bb217fa2e9ed85e979f66b03a7c7c70dba88e792141": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7687448218964281619/detail",
@@ -3761,7 +3692,7 @@
     }
   },
   "fcdbabe7dff65a50b33b1c559f941ac30184323d9c7f08b544edc07f7c9f6480": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7602110339182496027/detail",
@@ -3784,7 +3715,7 @@
     }
   },
   "6ac05bcdf58b76a6afa81988f18de179d4be86ca1be330272a3fcfd9e268696e": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7562094175332649243/detail",
@@ -3807,7 +3738,7 @@
     }
   },
   "fea0db682237cb1ca3bbe425c4acd21562a64cf17a526970a9483e474f193bd3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7595140523364272403/detail",
@@ -3830,7 +3761,7 @@
     }
   },
   "f44a590abb389578068b9a58ea4274544913318b0562cc0506fe27705b7b5ff3": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7612633984958761257/detail",
@@ -3853,7 +3784,7 @@
     }
   },
   "455b8820c5697cbdee558dee543fefa0d830d4f01ef09270f98c9598c5c6d542": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7562094944056281370/detail",
@@ -3876,7 +3807,7 @@
     }
   },
   "23a1f51f8123b3028bc424757880bd3c5deb6b9e9332e6f7724237159346e999": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://idreamsky.jobs.feishu.cn/index/position/7252215733286865209/detail",
@@ -3897,7 +3828,7 @@
     }
   },
   "3df3e2a7b73357e805cf63b2bb589fdad305ebf350460aca2e2a3bfed937a049": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://idreamsky.jobs.feishu.cn/index/position/7614026136595335478/detail",
@@ -3918,7 +3849,7 @@
     }
   },
   "732dee03912eb9a60a37c125ca6203fe0131b9b579d62a06587741b4e19135b6": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://eworldgroup.jobs.feishu.cn/index/position/7316807029833107724/detail",
@@ -3938,7 +3869,7 @@
     }
   },
   "5ccc6e6ab26d2c6a1f7a8ada85fb18c29322b96da45aa5846bba4a7a91b05ad5": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://eworldgroup.jobs.feishu.cn/index/position/7352745763883878693/detail",
@@ -3958,7 +3889,7 @@
     }
   },
   "cdfee07f62b6109d93c5202905b4aeb64c00c6f17b524a4e58186636921678e4": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "dynamic_or_empty",
       "url": "https://eworldgroup.jobs.feishu.cn/index/position/7428051001892882698/detail",
@@ -3970,7 +3901,7 @@
     }
   },
   "888620836e9ce854570fb8b74a70e9bf92cdc4c993664e8eeedda20644516294": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7620639538604312842/detail",
@@ -3993,7 +3924,7 @@
     }
   },
   "8bab7c75673b36ef6f0578ee8445291ebacb3f48640be3a89389c0da011a34c0": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://boke.jobs.feishu.cn/index/position/7700895281240082751/detail",
@@ -4016,7 +3947,7 @@
     }
   },
   "080efc06380afec0da5bf161a04d3d1ec84a38d3baa17353e4e3d5fb324aa9d2": {
-    "day": "2026-10-28",
+    "day": "2026-10-29",
     "result": {
       "status": "readable",
       "url": "https://lilithgames.jobs.feishu.cn/career/position/7677488638146332969/detail",
