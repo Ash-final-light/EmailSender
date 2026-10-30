@@ -57,7 +57,7 @@
       "details": 200
     },
     "2026-10-30": {
-      "search": 28,
+      "search": 29,
       "details": 200
     }
   },
@@ -109,7 +109,7 @@
     "2026-W44": {
       "charges": [],
       "limit": 50000,
-      "search": 140
+      "search": 141
     }
   },
   "paused": null
