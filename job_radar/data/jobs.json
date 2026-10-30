@@ -777,7 +777,26 @@
     "raw_hash": "80e765f16d066ce54f989157a92b10f833f7f14f3dd9675b846cc185bf451a7e",
     "deadline": null,
     "company_hint": "库洛游戏",
-    "evidence": "detail"
+    "evidence": "detail",
+    "analysis": {
+      "id": "1f4ffbe3a8c3c4f852aec234a49ba2d6dac65c61c7ac496d72e6530d8d47c30d",
+      "title": "战双-客户端开发实习生",
+      "company": "未披露",
+      "city": "广州",
+      "salary": "未披露",
+      "education": "未披露",
+      "graduation": "未披露",
+      "days_per_week": "未披露",
+      "duration": "未披露",
+      "arrival": "未披露",
+      "closing_date": "未披露",
+      "summary": "维护和迭代现有Unity编辑器工具，协助排查修复客户端Bug，并在指导下完成简单的运行时功能开发。",
+      "relevance": "岗位直接涉及Unity客户端开发与编辑器工具维护，符合Unity客户端实习方向。",
+      "concerns": "实习条件要求简历标注可到岗时间、每周工作日出勤天数、可实习月数，但原文未披露具体数值；薪资、学历、届别、截止日期均未披露。",
+      "company_website": "https://www.kurogames.com/",
+      "company_careers": "https://kurogame.jobs.feishu.cn/campus/",
+      "website_evidence": "2026-10-16 官网/招聘站入口研究；当前读取结果见来源状态"
+    }
   },
   "d8d91a3064291db39604a46a99af6a1144a75db4e7329acfd41e04f733ac9ab5": {
     "id": "d8d91a3064291db39604a46a99af6a1144a75db4e7329acfd41e04f733ac9ab5",
