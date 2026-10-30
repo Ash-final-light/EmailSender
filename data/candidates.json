@@ -1,10 +1,439 @@
 [
   {
+    "key": "750578ebf48651e7f33765e90f9033dfd5c730b530ce1c43a1f16dc360f711c7",
+    "category": "互联网与 AI 工具",
+    "title": "焦点科技与腾讯云签署战略合作协议- 业界 - 亿邦动力网",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uYU1wR1JYLUNhQ25WYXZxbURlOG1FcmJhOXRTRVZqaXQ1bk9LWGJ5SkhFNEtpQ2pmQTVvSFRlVXhtTVdPclNZSS1DMVl1Y1FjbjFkdld3?oc=5",
+    "summary": "焦点科技与腾讯云签署战略合作协议- 业界 亿邦动力网",
+    "published": "2026-10-30T02:40:07+00:00",
+    "source": "亿邦动力网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "a806319b2bdcd9124e7bc1c72383d7a5fc460999e10bf8f953e1526197978894",
+    "category": "游戏行业与发行",
+    "title": "为促进游戏产业发展，NEXUS与迪拜媒体局签署MOU - 게임메카",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KcUJhUGphVU10RU5qdksyYlh1LXlTMVY1Rm45X3VqVk9qVWxxQXI4RDRURkp6SnNGR0pONVhwcU5jWDI3emYxV1hyQzNpeTJGcHBfUlkyQUMzbTJF?oc=5",
+    "summary": "为促进游戏产业发展，NEXUS与迪拜媒体局签署MOU 게임메카",
+    "published": "2026-10-30T02:13:13+00:00",
+    "source": "게임메카（国内游戏行业检索）",
+    "source_id": "国内游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "bcf3f02c91840e6e1ad69a2f94f46c6c250eefb3acb928373dc2bcb930270ec4",
+    "category": "互联网与 AI 工具",
+    "title": "一刷起来至少两小时，全网戒不掉的红果怕“捧杀”-36氪 - www.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBR1FDdW5EN2RWVFdhY3FRWVhuNHQ0d1VOTS11Y3V1TnhYRTdyYTdsV0NVV2xVUVFtVHA4Rld5VDhjellSTVpQQ19pOFRJMlE?oc=5",
+    "summary": "一刷起来至少两小时，全网戒不掉的红果怕“捧杀”-36氪 www.36kr.com",
+    "published": "2026-10-30T02:06:59+00:00",
+    "source": "www.36kr.com（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "b5636e2775ac4bb7c9cb2569296aa319fa9c2a53c5a40d613e67102fea4e11f0",
+    "category": "互联网与 AI 工具",
+    "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+    "url": "https://github.com/Millillion/lasm",
+    "summary": "Lasm has been my dream for a good part of 2026. I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages. Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built directly into it. You can build general purpose software in Lean, and formally verify it in Lean. Amazing. Lasm brings Lean to the browser, Node, serverless, and edge environments (and more). The idea is that you can now write web apps, frontend to backend, in Lean and formally verify these apps. Imagine an Express server or Hono server, running on Cloudflare Workers, with formal verification of its specification. I'm an agentic engineer with an emphasis in software engineering, and Lasm was built mostly by Claude Opus 5.5 with my high-level direction. Comments URL: https://news.ycombinator.com/item?id=50299004 Points: 7 # Comments: 0",
+    "published": "2026-10-30T02:05:41+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "620df3f62834c5229b70e4ffb23b82136aef8037967f8ecfb4fd9ae58e6db65f",
+    "category": "互联网与 AI 工具",
+    "title": "Pico CSS is no longer maintained",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "summary": "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 44 # Comments: 15",
+    "published": "2026-10-30T01:58:44+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "13a6d4c1225f9433f1a9e156abc2394028c124dca18b2d256450c7e689dc8b28",
+    "category": "游戏行业与发行",
+    "title": "NEXUS Signs Agreement with Dubai Media Council to Foster Gaming Industry - Inven Global",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkxLVFo0ZVB2a0Q0aXZMaGtwVC1vQ3Z2ckpBMTdwRHdSc1RvS2lwTkkyRk5kSno2X3VfN2JMOV95X01ubmg0M1gxaDJmRHpUUUlYQk9Uc2UwdHEwMnBxVy1RNXZGNmRraFdrc3pCbW4xN1VNenpmVENWTWlRaFpPcVg1MW1naVBEWEVFNkJWZXBGMFRRdFVQUWxNS3c4cHVmdEcydHFoUGtfNEI0eGFFZ20xQjl4dw?oc=5",
+    "summary": "NEXUS Signs Agreement with Dubai Media Council to Foster Gaming Industry Inven Global",
+    "published": "2026-10-30T01:34:41+00:00",
+    "source": "Inven Global（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "fb0a6d0d553a93ac9539885cfc548e72460805fb6cfe61c18070eb4d92b09e4d",
+    "category": "游戏开发技术",
+    "title": "Epic Confirms AI-Assisted ‘Vibe Coding’ in Unreal Engine 6 and Fortnite Development - eXputer.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QSFVFbExlNXhXM1M5TzhRSGJINVRrZW80TDFWYnhjWGRxYzBYN1JZV05fSGhrcklRa0syaXBvMHdfb25MVFdFQ1VFeUswUTRfa3VZdnFUS1JnQzNLR0RaSGJsMXRyb0lMaWY4U2Mtd0lRb29DZHVBR1plY09Idw?oc=5",
+    "summary": "Epic Confirms AI-Assisted ‘Vibe Coding’ in Unreal Engine 6 and Fortnite Development eXputer.com",
+    "published": "2026-10-30T01:19:36+00:00",
+    "source": "eXputer.com（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "0920b7e1253e7cbe48d297b9c561649cf03d0975709112368a6a071a4bb3d1fe",
+    "category": "互联网与 AI 工具",
+    "title": "Pi Updates: Developer Portal Interface, BlockExplorer Token Tracking, SoloHost AI App Packaging, and PiVerify - Pi Network",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02TVJhZm02WjZqSGFfcGc5WEVmblMzaHd0LTB1R1RkWDJaZ29ySEp2STZKTHYzTkNGaEJDaWlFMG9Hc3FhX1ZnbjFaY2x4c0VyUmJSSVZoZDZDcHBoRTV0Wg?oc=5",
+    "summary": "Pi Updates: Developer Portal Interface, BlockExplorer Token Tracking, SoloHost AI App Packaging, and PiVerify Pi Network",
+    "published": "2026-10-30T01:09:00+00:00",
+    "source": "Pi Network（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "0777d2dd13b12e4d4aa09b498b7b1416f38dfb679a1fd8f504e5135c0c6097c7",
+    "category": "互联网与 AI 工具",
+    "title": "Supabase Remote Jobs 2026: 54 Global Opportunities in Engineering, AI, Product, Marketing and Operations - Global South Opportunities",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Q0ZOc2lvbWd4dmZJcUxtUkZzY0VxZEJGYk5DTzJwMkJEX3N4cDhVNFBrWEd2NGcwNzUwbV9JOEEyeWRSd1ZTQkk5ZjdURXF6WkJvSVRCRTJVOHQ5YTM4STFhblkwQ1R3YlVGV0pR?oc=5",
+    "summary": "Supabase Remote Jobs 2026: 54 Global Opportunities in Engineering, AI, Product, Marketing and Operations Global South Opportunities",
+    "published": "2026-10-30T01:00:14+00:00",
+    "source": "Global South Opportunities（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "95a6258e1184341995ebb384008c7d4ca33f4d06d2b01dfc342d852f0bdab85f",
+    "category": "互联网与 AI 工具",
+    "title": "恺英网络2026年前三季度营收72.58亿元，同比增78.11% - 搜狐网",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmNxaUdFVDBpdjZjNzVwMGpfay1qQ0pTdnJ3a3dSZG9WTl9uMGllUVJodmJMLUViaE1tZHFvcVozaHVHWU5TTTJIQ25NVjJlYVFRamktNDZLdDBnTHZ5b3p6aUNIOElEdUo2d092c1k3aF9CWGp0UmVGaF91aS1VVDh4dkFPREtvUThEdQ?oc=5",
+    "summary": "恺英网络2026年前三季度营收72.58亿元，同比增78.11% 搜狐网",
+    "published": "2026-10-30T00:51:00+00:00",
+    "source": "搜狐网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "8dff2cf2a45820630b3e3cf6494d748bafb27742722042f8b72dc9a71c582564",
+    "category": "互联网与 AI 工具",
+    "title": "Herdr has released native app",
+    "url": "https://github.com/herdrdev/herdr-app",
+    "summary": "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 39 # Comments: 33",
+    "published": "2026-10-30T00:42:41+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "563ff106a8caf76ff88e14dae076ebcdb8553ac3c713de2a08156e1778ba27c0",
+    "category": "互联网与 AI 工具",
+    "title": "Cormac McCarthy's Library",
+    "url": "https://cormacmccarthy.lib.utk.edu/",
+    "summary": "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 24 # Comments: 7",
+    "published": "2026-10-30T00:31:00+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "2c39c421f20cfe623af67c3029114eebd8f2286b4adea7400a90a09789615a3e",
+    "category": "互联网与 AI 工具",
+    "title": "Alibaba Cloud Launches First Public Cloud Region in the Netherlands - Sin Chew Daily",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tZ0lyczZqQkcxcVJLNVlxdmhyWnJVZmRNbUFUcDFDVzdzSW9hNWtvWVVjTXM2dXp2ZlJxRnRWM0pROEIta1p5NlE0emFFb2RpQnc2Wm5yLUdEeTdYWU16Y0dINDJ3bUk4cEE?oc=5",
+    "summary": "Alibaba Cloud Launches First Public Cloud Region in the Netherlands Sin Chew Daily",
+    "published": "2026-10-30T00:05:18+00:00",
+    "source": "Sin Chew Daily（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "cfee38c25797a9a1dea16d5f568104f88dd6afee6881a8021fb72287405c1e12",
+    "category": "互联网与 AI 工具",
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "summary": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM game mechanics and voodoo dolls (DOOM is turing complete btw) and exchange them with the actual operations, essentially creating an alternative to NumPy (a 65000x slower one). Thus, I am proud to present DOOMFORMER. Here are a list of things DOOMFORMER can do : It can classify MNIST digits, even if you write these digits on the map! It can talk(kinda) You can use it to make decisions, so, it can play DOOM. Yes! You can play DOOM with thousands of DOOM games now! The marine's mind can be controlled by DOOM, playing on a map generated by DOOMFORMER. Truly, the possibilities are endless, and even larger-scale training of DOOMFORMER could be done on a measly T4. If anyone would like to help me scale this up and make crazier things, I'd love to work together. Comments URL: https://news.ycombinator.com/item?id=50297697 Points: 55 # Comments: 11",
+    "published": "2026-10-29T23:25:46+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "fca1f458e64d7c5df51a1991217ba1f3df81288da67ae555892803004ade26af",
+    "category": "游戏开发技术",
+    "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds - Game Developer",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWZDQ0lXaW85VHk4MTVfMDNibXpESmU2emhKTDRkVHRER3pSdWV6elZiTDNhMUxjMEY4VC1zQWZmanBJZDN2ZXdxNlVRYjU2WFZIb3lSOEYzX0lfU2wwWndXUlJ2YWxtd09IdmcwWHdMcjBpcWFxb2Y5WUdVWlRGTWlfZnpwRXlTZkZYcUtQek11VE05d244eEdsUlRaSlp3a24yN21WeE0?oc=5",
+    "summary": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds Game Developer",
+    "published": "2026-10-29T23:03:36+00:00",
+    "source": "Game Developer（Game Developer 开发检索）",
+    "source_id": "Game Developer 开发检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "ce8e601c615d86d2b049add5642911bfda131441d26bbca291170edbf7337ccb",
+    "category": "游戏行业与发行",
+    "title": "Xsolla acquires Gamepix to build platform for web and AI-created games - GamesBeat",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGVITW95V09PNVZxZEU5b3VzWDUtUHlPdm1CWnBQbkJ5RG9vanVFNURHeDdzTlJZeE1KZFZOMXBxN1RLX2J5UjRtcWN0cWcwWGQ3YzB3RVhQZ2hlR2JQUXdvNmFXVmMwRG1POHR4ZHp4UnJ2QUVxZTIxUWx5amQxc295WlB6Zk0xZkdJZndDYTNmMWM3eGwwaw?oc=5",
+    "summary": "Xsolla acquires Gamepix to build platform for web and AI-created games GamesBeat",
+    "published": "2026-10-29T22:38:31+00:00",
+    "source": "GamesBeat（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "247a572506ae3722654a6a9c3c962c7c2373cc25c3e8aecc9196b92b59c7a0e3",
+    "category": "互联网与 AI 工具",
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "summary": "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 66 # Comments: 10",
+    "published": "2026-10-29T22:26:38+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "c5ba760b826ba744292c12c75d70a191f86769e712b49d253c9ff61665b70d34",
+    "category": "互联网与 AI 工具",
+    "title": "The Great American Rascal: Tom Sawyer at 150",
+    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+    "summary": "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 49 # Comments: 18",
+    "published": "2026-10-29T22:14:23+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "763efeae3fc1e3d4ca91eebe8b5db296915362531041241804c3016986d77e33",
+    "category": "互联网与 AI 工具",
+    "title": "Should a medical diagnosis reshape the past? (2025)",
+    "url": "https://chengela.substack.com/p/should-a-medical-diagnosis-reshape",
+    "summary": "Article URL: https://chengela.substack.com/p/should-a-medical-diagnosis-reshape Comments URL: https://news.ycombinator.com/item?id=50296920 Points: 18 # Comments: 0",
+    "published": "2026-10-29T22:12:29+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "96cbd225b8922429b0a8ccbb97a477451444f28109a85a17e91883f65330a31e",
+    "category": "互联网与 AI 工具",
+    "title": "Alphabet, Inc. - Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NVVd3cUlOc29HTUJyTDBvd0RQZlA2YWJScFZpd05EemlQZ09teUlLaFpKQUdlQUZQdFQ0VFBFQkU4YTdZcm04TXpxaVpGNkY0OEluLU5NZlo?oc=5",
+    "summary": "Alphabet, Inc. Britannica",
+    "published": "2026-10-29T21:42:00+00:00",
+    "source": "Britannica（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "2cf1fb795ba0396c9bccccb3fef5e5568e0b47f7e5c2500057928a764f1aaa0e",
+    "category": "互联网与 AI 工具",
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "summary": "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 205 # Comments: 68",
+    "published": "2026-10-29T21:40:28+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "541ef083bcb7fa9234f025c4fd5fa37d381fe18b6aa87a0499dd75fb5e553b59",
+    "category": "互联网与 AI 工具",
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "summary": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 839 # Comments: 499",
+    "published": "2026-10-29T21:38:59+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "d54325e5d27e8a56777447e4290ad05584d93badaffdd2164574fb7af85119ac",
+    "category": "互联网与 AI 工具",
+    "title": "Shopify adds app security check to CLI in AI toolkit - Australia",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFBXb0J1ajdNQXZGdXdvT0lYYzFpQkFlRzZRZVBMVUdKZk1vZVVwNGtXSmlSYzhkQ2tPeDQ3QTJjZ2kyUzAzWU9HY1Z5bklBZThWV3NFV3FwSzlwb2RyNnhNTWNWdkV0VC02RHpIYTV1V1k1MnJ0YjAwR1FFbmd0ZTRzSXYzMGltYXZRQnM2Zmo?oc=5",
+    "summary": "Shopify adds app security check to CLI in AI toolkit Australia",
+    "published": "2026-10-29T21:00:00+00:00",
+    "source": "Australia（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "e8957b7c1f5966ac28213803268b21a7219b352576cc798be4b694add47f92bd",
+    "category": "互联网与 AI 工具",
+    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+    "url": "https://projects.freehackers.org/sylphide-os/",
+    "summary": "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 46 # Comments: 13",
+    "published": "2026-10-29T20:59:55+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "c0e3e86aceb957dec813241280fa79ffc61ce772c094620f81623b447709f5ee",
+    "category": "互联网与 AI 工具",
+    "title": "ElementaryUI – Swift, in the Browser",
+    "url": "https://elementary.codes",
+    "summary": "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 70 # Comments: 16",
+    "published": "2026-10-29T20:56:39+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "7b84f0e97724d28a1cefcae9b3da6d7cbe5323f3bef9b34338a7182f641f6cff",
+    "category": "互联网与 AI 工具",
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "url": "https://github.com/SheepSeb/tinyworldformer",
+    "summary": "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 152 # Comments: 8",
+    "published": "2026-10-29T20:32:28+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "359d8adedf56d9a882b5a64e94d70418b5f6fbfe6303124c1a894b851e18e10d",
+    "category": "互联网与 AI 工具",
+    "title": "Patrick Stewart has died",
+    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+    "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2518 # Comments: 538",
+    "published": "2026-10-29T19:41:39+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "12a2e7eee2cd37880fed1d4e1fbb1ee75b06bcb3ff606fb4265add3e0ac052a5",
+    "category": "游戏开发技术",
+    "title": "Epic officially announces that Unreal Engine 6 and Fortnite will be entirely vibe-coded from now on - Softonic",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSjRJcmlxR0JQeVRueFduc19OMzVlWDBpX05ybEN4Vjlhc3JrX3NoMndzX2NyeE5FTWJ3OFdjSEtVd1FVN05TTGNDNm1QYXZGSTFFTHhkQWZlRmZtd2x3akhKck9pYUF0Ukxuclo2Q2hnNkJpaGhEVjU1bFdMN1lBTnA1ZUE3X1hKSlFXWUFuNWVuMXRKZFlQTjd5dlJJOWFuOXNfWEtZQ0VHNGVNdDR0NEEzd0c1aGZFM0VqQkQxRS1lRmFDTzVibGpCcGk?oc=5",
+    "summary": "Epic officially announces that Unreal Engine 6 and Fortnite will be entirely vibe-coded from now on Softonic",
+    "published": "2026-10-29T19:32:40+00:00",
+    "source": "Softonic（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "519a776207ed3493f80c56db1a20f297f4471989cf5469f05d6b7fb2a91d2ffe",
+    "category": "互联网与 AI 工具",
+    "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+    "url": "https://github.com/johncassil/dontallow",
+    "summary": "This popup has been a constant gripe of mine for years. I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so. Would love to hear feedback! Comments URL: https://news.ycombinator.com/item?id=50294506 Points: 107 # Comments: 80",
+    "published": "2026-10-29T19:27:44+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "2086ec152456586631a89823eafe3942fe06b8b1110c346495af623f6aeb21e7",
+    "category": "互联网与 AI 工具",
+    "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+    "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+    "summary": "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 44 # Comments: 31",
+    "published": "2026-10-29T19:25:48+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "d65286870824a094cd9067a26865db8ca7ce0fa12271a54963737ab823d26509",
+    "category": "游戏开发技术",
+    "title": "Epic Confirms AI Now Writes Unreal Engine Code, Including Any UE 5.9 - GodisaGeek.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xQzNkdjRQcHlvVHc1MjBJdkxoMlQ4UEs3NTVrWFRqd3ROSHBVTEZxTFFQRHN6Ny12Z0czaHo2LUh2dnY1VmUza01qWURzZElCLVlQbWI4T09uRGZFazd0MGhXUXRrMF81NzNCWlNFQTVmOTg?oc=5",
+    "summary": "Epic Confirms AI Now Writes Unreal Engine Code, Including Any UE 5.9 GodisaGeek.com",
+    "published": "2026-10-29T19:11:25+00:00",
+    "source": "GodisaGeek.com（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "c3f3ec3958448f682bead6fb2e7ca74bcfd6e3f94eaf91b7836db97a88b3884d",
+    "category": "游戏开发技术",
+    "title": "Why Does Your Favourite Indie Game Take So Long to Patch? - Comics Gaming Magazine",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MRlJhSHdtX3NpbkctM1h1TTAzN0dQekNYUGgxVlA3ZVRrbEFDOW1tcTl6ZWdQYzBKeHN1aUY3MXdHYldNN2Q3OFlWWGpuWWZBa1BUM254aWxzeEpVSWxod3dhYlhkbzdWVWM3MzRCU2lZRDBYdkNZQUljbjc?oc=5",
+    "summary": "Why Does Your Favourite Indie Game Take So Long to Patch? Comics Gaming Magazine",
+    "published": "2026-10-29T18:42:36+00:00",
+    "source": "Comics Gaming Magazine（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "cfee64c048a04a847a7103d6aaef11a3a526b5df576ea75c50a46f8599387d10",
+    "category": "游戏开发技术",
+    "title": "Epic Games Confirms Unreal Engine 6 Uses AI Vibe Coding - Technetbook",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlZoRFc2S2hKSXprTEFNTXBoMHVoS2NUdjRjU0pBR1RibzRqMWhabmxxRVdhOU1HSjBDMFU1c2VQSERsWVh3ZVFJaUpLZDVCRjdfaE1vT3FXVEdsLUJGYnI1RlBSV2o1cmppZ29vWXNrN24wNmpiUDNrX3Bid2w2eldROA?oc=5",
+    "summary": "Epic Games Confirms Unreal Engine 6 Uses AI Vibe Coding Technetbook",
+    "published": "2026-10-29T17:47:00+00:00",
+    "source": "Technetbook（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "7dfb397ca80c5179ceb9725a860fa2d0b3e4397610e2b7b0efaf53500b81a0b6",
     "category": "游戏开发技术",
-    "title": "Xbox CEO says console demand is exceeding supply - Game Developer",
+    "title": "Xbox CEO says console demand is outstripping supply—but sales continue to drop - Game Developer",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnZZaXRVQXVhSGlSZW1XeXU5TW1VbVZtN1Z5Q2FNZGEyaTFrU0V2WWNUdUd5YTlpVTBKbkFLLXlhMk9WQUxUWUpDbkgwanBCOUVERFJSSlZSc1BOY2hnUWxLTkVnS1VneFdseTUzSW1FTVRjRFJJWENoalM2SFM5bXg2alpDQmJWdWFZWm8wdTNERW9BWklLTkpwa2g1UVd3LTk4S1k5TzhTbTdMSjdreFhxQmxZdw?oc=5",
-    "summary": "Xbox CEO says console demand is exceeding supply Game Developer",
+    "summary": "Xbox CEO says console demand is outstripping supply—but sales continue to drop Game Developer",
     "published": "2026-10-29T17:37:43+00:00",
     "source": "Game Developer（Game Developer 开发检索）",
     "source_id": "Game Developer 开发检索",
@@ -18,12 +447,25 @@
     "title": "Xsolla Highlights Southeast Asia’s $5.6B Games Market Ahead of gamescom asia - Business Wire",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnZ6Z24yLWk5U3NUZDQ4ZXNPY1VsSXJWYXZZWW8zUmd5eWppb2hHM2VZbjFTaV9OY2JsTkxZaS1vV0xka25MSjZ4MEEwdTMxVVFnV0Uwa0ZDWFFBUDlDQWc0bDBvRWU0RElKWHRzQWpVMldON2FIZjV2Vm5JYkFGTS1zZXFRWXZfOTVEVG9TVldyYU03WUlIWGRKSkNFMXdiMDBIMzVydm1IRGo2NnJsaDVnQUZtOEJqbmFMZ0JfRzZORWpfNkdybEcxV0w4U0E?oc=5",
     "summary": "Xsolla Highlights Southeast Asia’s $5.6B Games Market Ahead of gamescom asia Business Wire",
-    "published": "2026-10-29T16:57:00+00:00",
+    "published": "2026-10-29T17:19:00+00:00",
     "source": "Business Wire（游戏行业检索）",
     "source_id": "游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
+  },
+  {
+    "key": "2fbf8e8d5c33ef4dbad276e24f102305ecc19f455d81ea90b601549ad2987046",
+    "category": "游戏开发技术",
+    "title": "Studio Atelico launches AI engine built to run on-device inside games | exclusive interview - GamesBeat",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFQ5c01LUkVGTVhueDRwSkdtLUhuLXpXR1c5YjV4RENLUk8yNHNmTXRlZktaWjJuc0hIWDR4MjVvY195a1ljRUs4cG1JdWVsT2dqLXdGdXctcGxWU3VndlotZWhuczJBeGlyY29KN0Z0Ym8xSkU1LWpIOXdGNHprWENJSUliUEFELVFTUU5yb3psQUVZUzFF?oc=5",
+    "summary": "Studio Atelico launches AI engine built to run on-device inside games | exclusive interview GamesBeat",
+    "published": "2026-10-29T17:03:31+00:00",
+    "source": "GamesBeat（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
   },
   {
     "key": "9cd70f4ea49ef510e7ab4d17d8556cc7f96a161a489f9f60f872e8a2001af483",
@@ -117,6 +559,19 @@
     "priority": 1
   },
   {
+    "key": "796ead796a1cbd0bdba26e074a37df3f6f51bcedab13beefbb5a282a6b7fd56b",
+    "category": "互联网与 AI 工具",
+    "title": "New Relic Appoints Boomi CEO Steve Lucas Chairman of the Board - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFNkNDVBS3RNUXY0MG00WUtjYl94aS1kd0ZWcUxrNFZ1MU94WGpRY0c2Unl3NFkyYVBKaXl4bGVUdlRybXhSREdLQnZhN0NGOFd0aGRLTkRnTnFRSDFTdktUMS1NbGhFMXhvLWR5NDk2aXc5OC1RLVVZRGZwM0doSEhGSEpseG1FYnlRcHNoZEdQeVJHT1JDSHR3NVVZN21oaTNxUlp2c25mOE4tSi1UVkg4bWxobEl2UkFHb2pscGJEQ1Rq?oc=5",
+    "summary": "New Relic Appoints Boomi CEO Steve Lucas Chairman of the Board citybiz",
+    "published": "2026-10-29T16:07:48+00:00",
+    "source": "citybiz（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "f27ea6aee41ff292b531dd10da736d8b5815143114947762216c23ed1d8e170d",
     "category": "互联网与 AI 工具",
     "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment - Microsoft",
@@ -156,11 +611,24 @@
     "priority": 1
   },
   {
+    "key": "481f7b1a8e9f8924b0f71639cf604b1dd77cb8ef9a387096bf308662e6f571fc",
+    "category": "游戏开发技术",
+    "title": "Hunting Simulator 3 launches on PS5, Xbox Series X|S and PC - Inven Global",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWFIaXFUVl9xZS1mYnpXREFHZF9xZ21wR3B3MnFTMW11RFkyMVgtdk1lay1Nc0lRN2VJSGVzWFZlRGZ3SVZnS3JhMnZwbEhQdmJUS1cydkJZOXZfTnRsVkZDdVJSOF9IRlY0NUFPanBpV0tHYWllbVpkRGVteVMwMFVHRkVWSHYyUUF4U2FCbk8wd3hZY3pmZTdac3UzNHA4a0E?oc=5",
+    "summary": "Hunting Simulator 3 launches on PS5, Xbox Series X|S and PC Inven Global",
+    "published": "2026-10-29T15:54:24+00:00",
+    "source": "Inven Global（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "e317997568ca10131d7a7298dd7cd33794fa86020004f573e12c896dbf409a05",
     "category": "互联网与 AI 工具",
     "title": "H.264 Is Magic (2016)",
     "url": "https://sidbala.com/h-264-is-magic/",
-    "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 116 # Comments: 52",
+    "summary": "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 352 # Comments: 130",
     "published": "2026-10-29T15:53:03+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -180,6 +648,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "6b1f4744d78ba9829f6a3dc28924ada40187520b1777ba35814bd914fee50675",
+    "category": "游戏行业与发行",
+    "title": "The Mound: Omen of Cthulhu Unleashes a Monstrous Free Halloween Update - Games Press",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOXhObm5weE80WktMSFRTbDNVdEZRLWRIekV1WTQwbU9ZWk5HUElxNDhPeDgxSk9XSVNVaWc0eXJXUjE4c2ZuRnBUeEdIbHA0MmVKNGhLMFRxU0FRR3JHczhwSFhLWEU2dkVBR282bHVHR3g2eXA4dUNETDBfVExMM29feXdWN1MyZDNnZDAwWktlQzNOcUkxMjAwTFlHbE1NMFJHTA?oc=5",
+    "summary": "The Mound: Omen of Cthulhu Unleashes a Monstrous Free Halloween Update Games Press",
+    "published": "2026-10-29T15:32:15+00:00",
+    "source": "Games Press（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "b4cab35c0ca3aada46cca433e12a32749a094043b0983aed02e63a2a97bc7ad3",
@@ -234,11 +715,24 @@
     "priority": 2
   },
   {
+    "key": "63125cbec6292e92b765d7d5dc7969fff223fb485fce6930d6b8aecd7f061d3f",
+    "category": "互联网与 AI 工具",
+    "title": "Could Freshworks (NASDAQ:FRSH) Redefine Its Software Story? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWEwMUlKY3VqdFNPTmZoR19fSlZLMFlaMnlaOHJMenJZbDRBejJrT0U0MHJwR3NzU0NUY0tQZ2s4MFFucmVidmF5cDZxMWs1WnhkRGRBN3JQYXVMWGpDbWtBTlJIZmtDcTI5eXQtOG5YS1VRWl96eVRsbUlVdTU4eWNQd01MdWtHYm45NjV2ekZzZmxzSEZyVnVoUWphT2NhZG9B?oc=5",
+    "summary": "Could Freshworks (NASDAQ:FRSH) Redefine Its Software Story? Kalkine Media",
+    "published": "2026-10-29T15:00:00+00:00",
+    "source": "Kalkine Media（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "815e9f76383a90122a5efa264e464937c82e515631936c699eed9c27b99af25b",
     "category": "互联网与 AI 工具",
     "title": "LLM Voice",
     "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 67 # Comments: 27",
+    "summary": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 369 # Comments: 198",
     "published": "2026-10-29T14:57:55+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -303,7 +797,7 @@
     "category": "互联网与 AI 工具",
     "title": "We're releasing the weights of Mistral Large 4",
     "url": "https://mistral.ai/news/mistral-large-4-oss/",
-    "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 676 # Comments: 174",
+    "summary": "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 1246 # Comments: 350",
     "published": "2026-10-29T14:13:21+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -338,6 +832,19 @@
     "priority": 2
   },
   {
+    "key": "3ce25fd6ed28734a00de61ab7286885d1ba85b825fee05b4d035f4badf49dcb9",
+    "category": "互联网与 AI 工具",
+    "title": "Netflix的中年危机：巨头抱团围堵，短剧疯狂抢滩 - 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BTXFualo3SmkxdXk1MUpJazg0SkhjNkJfRnZmbE1tMDgwamRIMnB6c0tXX2wyZTduMm92OXpkdFQzd3ZQLTZSYXExOWtzdw?oc=5",
+    "summary": "Netflix的中年危机：巨头抱团围堵，短剧疯狂抢滩 36氪",
+    "published": "2026-10-29T13:31:07+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "d9159f35b3c1f17c6d74324bbf2147bdcafb96b6cdb1909eed10b69323227ad8",
     "category": "互联网与 AI 工具",
     "title": "月薪最高8万元，FDE为何如此抢手？ - 36Kr",
@@ -349,6 +856,58 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
+  },
+  {
+    "key": "eec0ac753a5218b40a3f21d831abb42fd6f8defe57ba18e3ad90779a578caa7b",
+    "category": "互联网与 AI 工具",
+    "title": "全球网络管理系统市场前15名公司 - Spherical Insights",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX25KVkxXbE9PLVo5VjliWk1PYVo0VjN0SmpjU0JvUzNzd3NUVm4yMU56LW5RVVpYTk5BNXdPY1hvLTJ4MW1WTUJSNERsTmZtZS0zbGZtbXJkWjZZQjVIbHd1aHdTdG5qU19sOFNORnlYR045ajlHQWtsM2lNNEtUa05jdzZrTjNSR3ZrelpHYmVKeTZsa2hyaV91RXRLZ0pvZlZ4YTNoMS1xNmpiZ0lVMDRQc0I2djlVQzJiUjFoeGplX3JST0hWNVVadi1SUzFESGUtYVlyQW5sX3F4R0M0?oc=5",
+    "summary": "全球网络管理系统市场前15名公司 Spherical Insights",
+    "published": "2026-10-29T13:14:27+00:00",
+    "source": "Spherical Insights（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "cd8973c6bcf73edc15318cdb00a229c3a8304ef4ba4df349b63104ccd63cd434",
+    "category": "互联网与 AI 工具",
+    "title": "Scale Computing Appoints Cooper Briscoe Chief Marketing Officer to Drive Global Expansion - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGUtV1F0NFBEQkJUdUFZOHpybE55MDV0TXJfTTRnVHpfZ3RmeVg3TGd5QnhySHBsWm55Z19wY1E5dWU1VnV3RG40MHRBa2I1TFItTngzNWZLb2J2TXN3SW5reFpqUVpDZVpqQ09QdnpmLW1TNHROUzdfb291ZFloR1N1cko5YVhkbzJ3bWpaOWtrRlBBQ0VUbU5CYmE4RVA4MEVoVk8xclpKYzZuNHdzd0dtcExpX0tpR2p1SmFERElEQzI1OEZz?oc=5",
+    "summary": "Scale Computing Appoints Cooper Briscoe Chief Marketing Officer to Drive Global Expansion citybiz",
+    "published": "2026-10-29T13:14:15+00:00",
+    "source": "citybiz（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f7a6f0997c82e21b46db0ab32a6480145ac0124fe06cf448fa74204bac55ecc1",
+    "category": "互联网与 AI 工具",
+    "title": "Hg to debut in Greece with ERP and business software provider ES1; Elvaston makes first deal in Poland with warehouse management systems company - PEI Private Equity",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVTJnM1FKNy1mM3BiT0t1NHpkXzBEOEx0U0J6SzFrU1I2ZXVJbWV4c3V6Q2dDVDZNNTZOc2RQMXJPdlNTc1FSZkk2X3FqYUszYXo1VzZTYW5GbXZkWlFJVTNpbUhmdWpPakhfOU5VanhOQU5PTjlIT0JCaWI5SDRpWjNqT2RxRjdKeXlyWDI4aW0wbGpCZjgxNzcyWEF6Mlo3eFR0TVBrVEpid3cyWEtsV1dvRTdpYnI0R3h4ajFERnlMMHRXR2dybUItb3h6QjkyeExjQnc4X3FRUjd5cFNJU1BCM0dWY3BiSl9rc25LalFfa0t5LWZHRXhyT0hhS3hhSUVrQVBlbU8zVGRkSkdHUlJHRWxnUQ?oc=5",
+    "summary": "Hg to debut in Greece with ERP and business software provider ES1; Elvaston makes first deal in Poland with warehouse management systems company PEI Private Equity",
+    "published": "2026-10-29T13:10:58+00:00",
+    "source": "PEI Private Equity（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "0380bca7c5793e8e157e19df67f00ba10595bf2b294de80c7b4a290285b54f4e",
+    "category": "游戏开发技术",
+    "title": "Unreal Engine devs “are no longer writing the bulk of the code” as Epic is “more concerned about moving too slowly” - FRVR",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3BIckwwRE1hUW5Dc0pWcHMza2FNUEdpN1dscVZITFltVllzYXFEOGFUQjczemZYUk5XNGdxR3dkRkZoS0N1REQ1Q2tHQ0k3RlhzZGNQMzJDR1FFY2c4Mk91MFhXRnBBOG5VcHVEdXFWNTNyVWVRcEkyLUN4Sm5ZakNBV0JyRUQwSWlTaFVOdDBIWGY1YzFVR0tQUjYtNDFzQVJPOUNZRkxWOUowNUhrazRUYjFRVXBldmc?oc=5",
+    "summary": "Unreal Engine devs “are no longer writing the bulk of the code” as Epic is “more concerned about moving too slowly” FRVR",
+    "published": "2026-10-29T13:09:32+00:00",
+    "source": "FRVR（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
   },
   {
     "key": "58d136748775b207078fcf9c798df50d3d0947a4dbbfff2c3f7fef6de4aad987",
@@ -429,6 +988,19 @@
     "priority": 1
   },
   {
+    "key": "f30fdb3903f56da8743f6bd37024d40eaeff76babf3793b00e6e08b0784f435e",
+    "category": "互联网与 AI 工具",
+    "title": "海外研选 | 美银上调数据中心投资预测122%：2.1万亿美元流向何处？ 港美股资讯 - 华盛通",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NeDYzQmQzWFRvSV9NT29LNGgybUNMdkt3dTRTTlY5YWhyZzFBTHQwRkJpbGdHUmE1Zlk2LUxYRnBOdnVLbTZ1SFZQTU9NMmtBWlE0Z0E5ZG9zYl9LWG9FMmxR?oc=5",
+    "summary": "海外研选 | 美银上调数据中心投资预测122%：2.1万亿美元流向何处？ 港美股资讯 华盛通",
+    "published": "2026-10-29T12:16:00+00:00",
+    "source": "华盛通（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "dfdcf31677109782364ddfdc11e0f058109bffdeeea661206dabe02d4bdc9f2c",
     "category": "游戏开发技术",
     "title": "Epic Confirms AI Writes Unreal Engine 6 Code - news.lavx.hu",
@@ -450,6 +1022,19 @@
     "published": "2026-10-29T12:07:00+00:00",
     "source": "TradingView（海外互联网检索）",
     "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "105958347cfb3b91145443cf5120f0f3f77ebe17f80832b935269cd459354138",
+    "category": "互联网与 AI 工具",
+    "title": "单季营收15.5亿，扣非实现盈利，摩尔线程这份季报没这么简单 - 21财经",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkcwZHlqTzEyc3pGSWdweEstZlZCMkJDa3lUVUI2SXlhd2l5LU5EUGhJM0VvQW0tRWJqNnc1ZVZ4bGxtU1hWdzdHQzVERnRiekhuZkNuTkVYZy1BbkpmbV9MUEZ5X29WYjdlMjNSWFFzQjFOLVhJb0REaDNfXzNFazlWQUQwU1ZfVXpPYQ?oc=5",
+    "summary": "单季营收15.5亿，扣非实现盈利，摩尔线程这份季报没这么简单 21财经",
+    "published": "2026-10-29T12:05:00+00:00",
+    "source": "21财经（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -479,6 +1064,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "e327252994d59707d74ebee7577284f5189c22e2681821bd694bbc178f5b7412",
+    "category": "互联网与 AI 工具",
+    "title": "教师智能体接入WorkBuddy，一起教育科技与腾讯云共筑教育智能应用生态 - 芥末堆",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YZXJxX1R3QTJkUHNETHpMM0ZqTmU2S0VqcFlLTk5sUzVsQ1d1dS1GeldMZzlQUVJwSzFMYUJ6Rm01aW1CR3hQVlhsXzFQS2s?oc=5",
+    "summary": "教师智能体接入WorkBuddy，一起教育科技与腾讯云共筑教育智能应用生态 芥末堆",
+    "published": "2026-10-29T11:42:15+00:00",
+    "source": "芥末堆（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "224a9c3d792da8ba4a76912cf4d05790f0779c04b7d87e00087729c7b3a31246",
@@ -520,6 +1118,32 @@
     "priority": 2
   },
   {
+    "key": "0406e74a844e727703560bc4286740c4e6a9ce5341e08bb59b94b4c4ef219eaf",
+    "category": "互联网与 AI 工具",
+    "title": "BTQ Technologies' MIMIQ™ Emulator Now Available to More Than 35,000 Quantum Developers on qBraid - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUZ1X2dOQnRmc21QS25hQm1qbm9lX0VaNFQzekp2SjFldEdta3NvUE5GV3R1b1VxUlRxeHRlRHgzSEpmeWgwaXFBVkpGRENfbGJFYkkteXNERkx4RHFubWlsNXpQM0QxcndMd0hsMGZiSGNuMUhlTjhCY0N2eWNMY1paei1CcTl3ZHUwSnJpUkFHRU9CYXRYWmVfcEZKMDBET0I4RWtUU0tQOXlYNDNWc0lrTTM2U1hFaEV5NmZBUzJ1Mno4RTFtaXJIR3p2bHdSVnVIVlFzWVJsX0cwUXAtaTRmVDRZQ1ozSjRN?oc=5",
+    "summary": "BTQ Technologies' MIMIQ™ Emulator Now Available to More Than 35,000 Quantum Developers on qBraid TradingView",
+    "published": "2026-10-29T11:30:00+00:00",
+    "source": "TradingView（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "0d1eab0899b9ebccad5784078b1b0a823fda93eb2ddc0c6f9fbc62447021d149",
+    "category": "互联网与 AI 工具",
+    "title": "LibreOffice's 'no AI' stance meets LLM-assisted code - The Register",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSnNwY0xRVzRucVFsT3ZaUkk0SUxnbVByQ1pwbFdVUlg4Sm9NaHJZQTRyelZNb2x3UC1GUncxWjYyU0o0Zkt3dm9sTm83VENLYTRfOU1pSll1Ni15RmFxVWRSYXQ4dDdpMGx2cWZ5aUhDQ3ZJSzBPOFpjcjUtc1dOa2t2YUs4VHo0bEJEWjYyeDgyd2Jod2tSNkVxY0lyWER5bndUZkxKVTFQdw?oc=5",
+    "summary": "LibreOffice's 'no AI' stance meets LLM-assisted code The Register",
+    "published": "2026-10-29T11:29:00+00:00",
+    "source": "The Register（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "04f75c991b967903b30afc828dd53cd1d138deeccbfc11da6d16780f30b40473",
     "category": "互联网与 AI 工具",
     "title": "Google to Tie Play Store Rankings to Foldable and Large-Screen App Quality Starting Next Year - BigGo Finance",
@@ -528,6 +1152,19 @@
     "published": "2026-10-29T11:25:00+00:00",
     "source": "BigGo Finance（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "c8da3b3ab0204682f4b70a4fea9303c9012735fc23c8d253aff95a19a513a4f1",
+    "category": "游戏行业与发行",
+    "title": "Xbox's first-party content sales have partially helped to mitigate a 2% decline in revenue for the first quarter, while hardware sales have fallen by 14% - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16S3RNVzY1ZEdmWmZLQW14MmxBRkJaM2daVGlZRUtudmVNbno5MW1PWWJLT2lmd21rMGU1WFhsMHhMNTJGQ0wtc2lyQ3RvWE5ySnZoc1FOR1JiamNGY2lsWVV1N1E?oc=5",
+    "summary": "Xbox's first-party content sales have partially helped to mitigate a 2% decline in revenue for the first quarter, while hardware sales have fallen by 14% WN Hub",
+    "published": "2026-10-29T11:08:36+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -559,6 +1196,19 @@
     "priority": 2
   },
   {
+    "key": "571b86d12f8f7ca9ff75bbd8b7f098906b9d6958a151e833904bcf3187e2129d",
+    "category": "游戏开发技术",
+    "title": "Cyberpunk 2 multiplayer quests teased as CDPR job listing hints at co-op quest structure - FRVR",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEOC0tUUltYjQ3UlpiTk9zWlhlSnJQQkU5VEQzekFJTGlnNXZaVTNFQ1pHczVmYm1Pbmw1Mjd4LVdmeFBHT3M2Wlgwbk4xRkt4bzItNGpxSW5JMkZqN1pXX3VmZ0o1VEVGSC1LY3BnSmRoMjVJdjdGRw?oc=5",
+    "summary": "Cyberpunk 2 multiplayer quests teased as CDPR job listing hints at co-op quest structure FRVR",
+    "published": "2026-10-29T10:22:48+00:00",
+    "source": "FRVR（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "a29a2249d4f8472ad446b4aefbadbb2a835c6265ec431e62197b335850642c39",
     "category": "游戏行业与发行",
     "title": "Press Release Distribution India - Business Wire India",
@@ -580,6 +1230,32 @@
     "published": "2026-10-29T09:32:00+00:00",
     "source": "驱动之家（国内互联网检索）",
     "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "40a7a1ac98eb983a012a5939247f4261093017931c57d5ea270c6cda0f28b1d3",
+    "category": "互联网与 AI 工具",
+    "title": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？ - 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VX2NIdjVqazZBeldlSDdGaElDUmJOQVViSENxV3pNVHVFRm9WZ01tSGV0eXhwVEhMZFZ6NnFoY1pGRE5ZYVNBQl81UGhqUQ?oc=5",
+    "summary": "资本抢投、大厂押注，AI眼镜最大赢家是售价50的华强北？ 36氪",
+    "published": "2026-10-29T09:29:00+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "b894b93f055756fb159d3eead4c934b89738c7c57f0f582483192b8299f0c791",
+    "category": "互联网与 AI 工具",
+    "title": "龙虾尸骸，SaaS残梦，大厂焦虑：AI办公究竟是什么？ - 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJU0JpaDVnZmkyQ0pYeXZCVm5Qc2pnYmpYcER4U2JqRHNIazZ3TUJ3d24xUTIxUlh3M2tBY2pyMTBDY3NsdjZCWmg3TDNkdw?oc=5",
+    "summary": "龙虾尸骸，SaaS残梦，大厂焦虑：AI办公究竟是什么？ 36氪",
+    "published": "2026-10-29T09:29:00+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -658,6 +1334,32 @@
     "published": "2026-10-29T08:43:10+00:00",
     "source": "The Hindu（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "5a5621c8e1341768e459e985da08179b57bb0f6ed2c6f39abed30e577f055a7f",
+    "category": "游戏行业与发行",
+    "title": "GDAI launches India gaming report, highlights need for stronger funding - The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlk4UE9NbFVIVEhzU1o3elpRNXZFSnRLTFd6bkdtTHdvT09kQTFIWnU5VFk2dG5Md1VES0V0SHBsZ3RoYlIxbUVRdmt3Zjl3elI0cXREdkpYMEVxVHVIMmtlSHNpRjVkMVUwdXZKVXZBLUZuLWEwU0pVd0U3MjBOLS0xWkk2QWQybVVkUnNIcjFmMDVic2FHa2RWVUd2SGtHeEFRaTlVQVFya25VelRsd2JRWTNHSDZVa0xZUERQMEpRS1Fxeml4TTVWdXYzQdIB1AFBVV95cUxPbjFWUXVra2h1N1RtRkcwZUlSWkZHU2RFVjNleEhQLVFIVEx5aU53Q0REb1A4U01fWEpFMEdfOFBRazlZZ0paU1NuN3hCdzZjMmhrTDdJRENHdmNzVmtoNHhzQ3JrNldFejBXMmhJZ1pWaVJmbXdYano3eWlVYzJZV3o5d3dtSHFwMi1aUjBMMnlMTm43OVQ5bFlQaHlwU1dXMlJBN0JWLXNyYVoydVVWX2QxUThZRmRMbUYybFFiS0RTMEVqNUlDZ1IwWjdLRlI2aTYyeQ?oc=5",
+    "summary": "GDAI launches India gaming report, highlights need for stronger funding The Hindu",
+    "published": "2026-10-29T08:43:10+00:00",
+    "source": "The Hindu（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f23ecbc1b12ae1fdfc01361e98c1ef71d54408c833a57d21a5598fc5e629087c",
+    "category": "互联网与 AI 工具",
+    "title": "豫章论道|帕科科技焦健:帕科科技的AI布局与行业应用探索 - 今日流媒体",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10aWhqYWZhZFVXUWItWVI1S0hqNlZGeUF6ODhLYndtX0NkRmJuV1VMbU5zbmg2dGRFR0M5YUR0VlhEWUw0elVEczVXSlV1Vnd0S3JqcnNTMmU?oc=5",
+    "summary": "豫章论道|帕科科技焦健:帕科科技的AI布局与行业应用探索 今日流媒体",
+    "published": "2026-10-29T08:28:00+00:00",
+    "source": "今日流媒体（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -743,9 +1445,9 @@
   {
     "key": "9227a75517a7b4b4d6456f882cc7aa3d1e26bcf610fc4d2dee39e061aa605f63",
     "category": "互联网与 AI 工具",
-    "title": "Upwind Raises $400M at $3.8B Valuation [2026] - https://tech-insider.org/",
+    "title": "Upwind Series C: $400M at $3.8B Valuation [2026] - https://tech-insider.org/",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2VzS0RteTlEWnZpWHNYOUpDQ2pMUkN4bEx4MTlKZmNMNE5JVnJDa2ZBQldWYlNWYUhWRl9nWUZ1ZXpRQ182SGtreW50VllFZG9NaU9XUkxadmVDbzZRQjQtcW94ME9ZQlNtODdNbW1KdXZXUWhZenRGTVd0alpnSDBtaHBEOGxNRXlBaQ?oc=5",
-    "summary": "Upwind Raises $400M at $3.8B Valuation [2026] https://tech-insider.org/",
+    "summary": "Upwind Series C: $400M at $3.8B Valuation [2026] https://tech-insider.org/",
     "published": "2026-10-29T06:36:35+00:00",
     "source": "https://tech-insider.org/（海外互联网检索）",
     "source_id": "海外互联网检索",
@@ -793,6 +1495,58 @@
     "priority": 2
   },
   {
+    "key": "8303d40337f67e78405447cd52a7f55e9e6fbebcc139e09ee203e161b9a52476",
+    "category": "互联网与 AI 工具",
+    "title": "Top AI Stocks in Hong Kong and the US to Watch in 2026 - StashAway Hong Kong",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mVndGeE9wazZmZmVLQnNmSUZXU2VHOFRyRU16c29oMXZ0MW1senpzWkJwM09WMmNBV1QtV2NLSEg4cUx4MWpuck55d1dYREY1S2JSSXdpYlUtMzIza3dCWmFIbw?oc=5",
+    "summary": "Top AI Stocks in Hong Kong and the US to Watch in 2026 StashAway Hong Kong",
+    "published": "2026-10-29T05:39:53+00:00",
+    "source": "StashAway Hong Kong（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "4716c54d661da1e4eb86447aadc2ab613f94786fd79b710b8516cec51965ce04",
+    "category": "互联网与 AI 工具",
+    "title": "What Microsoft (MSFT) Said on Its Q1 Earnings Call - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdDhseVRDTjhhY0RJWWpkeFZibWtNdjJzYTMtdzdvcDhIYTlmdUVBOWJsVThmbWprUnozLWJsTWhQaUpodWRuN0tRUWwxS0hoYVRLdDhHVHhScURWNzNCLUJLd3Y3ZGJDWkVXdEYxenpfX2lRSU9NTFJoZzQwYTI1MHRtZHBXNUdQSjdIbGlRVldpbkVaN3RwaTBIODhHM3drVTZjRDZvcFM0bkNZUXc?oc=5",
+    "summary": "What Microsoft (MSFT) Said on Its Q1 Earnings Call TradingView",
+    "published": "2026-10-29T04:04:00+00:00",
+    "source": "TradingView（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "a17bfa45cf4fa81142644dda97827ef4ec9d85c1f3a237f8b3e37afd557c966e",
+    "category": "游戏行业与发行",
+    "title": "《幻兽帕鲁》与《守墓人2》的捆绑包已于今日在 Steam平台发售！享九折优惠！ - 17173",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLXR4cVN6WFBUaWpFYkJXbW9vVG1ydmx2ekRGbXJMZGNaR3oxenIta2xEZDNEMzhrNUZHNWJQQXZmWGhxVC00TGZ1aS1TS3BXVXF1ZFRjam9NRVlQR3ZHNUFfcjM?oc=5",
+    "summary": "《幻兽帕鲁》与《守墓人2》的捆绑包已于今日在 Steam平台发售！享九折优惠！ 17173",
+    "published": "2026-10-29T04:01:50+00:00",
+    "source": "17173（国内游戏行业检索）",
+    "source_id": "国内游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "4460280058c02782cb30738a2c5b8163c1d432d02b330960a3dcf9a7c623f342",
+    "category": "互联网与 AI 工具",
+    "title": "从单点防护走向体系化治理，萤石探索AI视觉物联网安全新路径 - 中华网",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHMmpzQ3JESUZGYUVDLXNPOW9vN2R1T3BxdW9nX2NTS1dYQTF5MXdxd28wNm02WGRQdFVvTWR1Mk5VazhWV0w0UlhHZlZkbTllaFZfWVp4bWRNcDdGaFVMbTdXaWItdDh2NWFoS1Nn?oc=5",
+    "summary": "从单点防护走向体系化治理，萤石探索AI视觉物联网安全新路径 中华网",
+    "published": "2026-10-29T03:55:56+00:00",
+    "source": "中华网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "e8acea50f44ff0d28f6188fd37b72b8586ec089aa59065ac3ab53ecfefa76dc1",
     "category": "互联网与 AI 工具",
     "title": "42亿的Jellycat、141亿的LABUBU、66亿的Fuggler，谁在靠“毛绒”真赚钱？ - 36Kr",
@@ -801,6 +1555,19 @@
     "published": "2026-10-29T03:47:19+00:00",
     "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "417373d77696f93d27849200fef5a46e2202059a8dce7f80280bc4baeb304a74",
+    "category": "互联网与 AI 工具",
+    "title": "从人才大会到产业一线，“湾创1号”交出港澳青年创业孵化新答卷 - 广州日报新花城",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmVVWEZMcXdOUmhqRllQMDE2dGhpbmtyNm1PRXlDamV3VVY4dzhoNkxzNmZFaV8weDdGM0p6LUg2eGVQRzFKWGw0SVExTU5rNWJKd3NnNVFuazV3UThFLW92MVJBUEpvNGhjdmhuVE1mRVVNXzFfOHFrcnFkMDIzNFo2b3ZONWJXQ2c?oc=5",
+    "summary": "从人才大会到产业一线，“湾创1号”交出港澳青年创业孵化新答卷 广州日报新花城",
+    "published": "2026-10-29T03:44:21+00:00",
+    "source": "广州日报新花城（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -819,6 +1586,19 @@
     "priority": 2
   },
   {
+    "key": "c9a5892a14faaa19dbde93ee069866fc944a8e422bbd3a58d4f2d60df2720ed9",
+    "category": "互联网与 AI 工具",
+    "title": "2026食品追溯平台推荐与选型对比 - 手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFl1TnBHVmR2cjlyTGg2c2RmQVo1Z2tYXzkzT1c0TmczUEZrMFFKdkg5WW5sTXhKRmVoeUVPVWNNaVNfc2dCb2ZEc3Z0SVVoZnZpeWVoMHZxM04xazVINWxJaWtTUkstTVJMeEVmMjVEbG84b3RRMzRKZFBzTUNQczRtRUhYMVF0YzZMWmNiSmFmUQ?oc=5",
+    "summary": "2026食品追溯平台推荐与选型对比 手机新浪网",
+    "published": "2026-10-29T03:36:00+00:00",
+    "source": "手机新浪网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "f228b3386075da1943e452391365cfa73b57a4285f8d26ac29d77b728b8fdafa",
     "category": "游戏行业与发行",
     "title": "82.7% of Indian game studios prioritise new IP, but funding remains a hurdle: GDAI report - MediaNews4U",
@@ -827,6 +1607,19 @@
     "published": "2026-10-29T03:35:54+00:00",
     "source": "MediaNews4U（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "cedfd9f220d23f06cc24d2718e0dd47c29d7f9b547f2809975394278a28abc1e",
+    "category": "互联网与 AI 工具",
+    "title": "美国CoreWeave在丹麦投运22.5兆瓦AI数据中心首批算力 - 维度网",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FU0Y4MlkxUGdMejFGeUxBM1pxQXg2eDN5UVROUXhfdDdsOWt6ak9LR0M2VWFMaXh6TUpvNDF6WVRMNmtGdDJDbW83ZU1WdUNXaG5xU2FTRzQ?oc=5",
+    "summary": "美国CoreWeave在丹麦投运22.5兆瓦AI数据中心首批算力 维度网",
+    "published": "2026-10-29T03:16:00+00:00",
+    "source": "维度网（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -910,6 +1703,19 @@
     "priority": 2
   },
   {
+    "key": "fcf69a729afb50c250d6214634ae772a33fce2deabd1fcaf52bdc58adbc94101",
+    "category": "游戏行业与发行",
+    "title": "The publisher Heart Abyss preferred neuroart over the artist's work—it turned out to be more clickable - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MeW80UDV2ZkhfSEFjYUxTa1NzZjEyRURmc281MzJydDgyOWh4bEhtTHdYem9OY2EzR3pOX0dUQmRGbWVBZ2VLYmFrUWM?oc=5",
+    "summary": "The publisher Heart Abyss preferred neuroart over the artist's work—it turned out to be more clickable WN Hub",
+    "published": "2026-10-29T02:04:17+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "f657a9eb5c560fc2d1a8c6b44e5918b902b343511174dda604391ecd2f46e51a",
     "category": "互联网与 AI 工具",
     "title": "Electronic fibers weave touchscreen into sleeve that survives machine washing",
@@ -947,19 +1753,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "f8edd869ea7524351998a8dde7ba452c9e2ca70c41b3ea4fe908947126c6420c",
-    "category": "互联网与 AI 工具",
-    "title": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节 - 36Kr",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEU3FTRkhxamtxVk5TRE5FaXBxYUVZYk9CS0xnUjhOWWZRREtKdXk0OGhGNERLWWxmNkg1MHFQcUlncC1TYWtidXRCbnNsYTBO?oc=5",
-    "summary": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节 36Kr",
-    "published": "2026-10-28T23:56:25+00:00",
-    "source": "36Kr（36氪互联网检索）",
-    "source_id": "36氪互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "fd6c7c6c47f5d5049702ca08a6933694635921b8555fd24e166cf09a1039c341",
@@ -1014,6 +1807,19 @@
     "priority": 2
   },
   {
+    "key": "2df6c91c4fe841768d3714d109a99103248c01e86654ef62a5c2b139430d3e1c",
+    "category": "互联网与 AI 工具",
+    "title": "月薪最高8万元，FDE为何如此抢手？ - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cnU0RXRwLWVKUzhwNTllaUptUzU5ZU8zYUlWWmdjR0JnbFYzbE5iLUtKTlRhN0ZiSURtU1I1YmZlQnNCRkVwcWI5RENKQQ?oc=5",
+    "summary": "月薪最高8万元，FDE为何如此抢手？ 36Kr",
+    "published": "2026-10-28T22:27:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "c88c3f368ad92f9dacc502ef5130560bc32eb92f942bf593a8f29b6f14e4b55a",
     "category": "互联网与 AI 工具",
     "title": "果汁上下游集体押注，HPP果汁发起冰柜新战争 - 36Kr",
@@ -1048,6 +1854,19 @@
     "published": "2026-10-28T22:00:00+00:00",
     "source": "Honeywell（海外互联网检索）",
     "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "c38c49e4ea8e8d23c60e57c9873b904b35cfc3989e21b2d88d5750b6033ac941",
+    "category": "互联网与 AI 工具",
+    "title": "宜家中国正在把自己打散 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1odUFodmltREs2RDdyQ1ZESWlpclh2Z2JaM1B3STJGdGZiNzNNT3JhYWdKOHBsTzlVQXJLb0Rtbm5NMTMzREVQX1BFcVd6QQ?oc=5",
+    "summary": "宜家中国正在把自己打散 36Kr",
+    "published": "2026-10-28T21:41:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -1090,6 +1909,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "9573f0d981d61756f777dfb49a5cc9a223cbd772372d62314af1c2132fc0fb99",
+    "category": "互联网与 AI 工具",
+    "title": "20人团队，融资6000万：让AI忽悠骗子 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uVFlGd245bXlTTy1oUUcwWGxWMkp3SmR2dG1UOVhsUDJFS3lOUWZkSkQ1Z2wxTVRFOGRna3pBbkh6dmpmUnhxLXRnVWlyZw?oc=5",
+    "summary": "20人团队，融资6000万：让AI忽悠骗子 36Kr",
+    "published": "2026-10-28T21:09:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "a8c3566836f49699cb9b1a52404cd033649b4064de7ab24176cba414d9d1bcc0",
@@ -1196,6 +2028,19 @@
     "priority": 1
   },
   {
+    "key": "8df765e584c58498ae707703df2952aae7b92be50e01521903d19a51f22653f7",
+    "category": "互联网与 AI 工具",
+    "title": "预制数据中心，突然火了 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93V1JTS1JjS1pRbEVTaWluRDg4STFsOEVpNm9OdXFjWEJzOVhlVlhjQ29wUXhjdThkZFdSeW9pdkg4R3lrQnh1WGtpS19CSWFI?oc=5",
+    "summary": "预制数据中心，突然火了 36Kr",
+    "published": "2026-10-28T19:31:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "466aa36d43feb096cbeb47ecfa56bdd71264921d72ab735b969ef7722a13e9d5",
     "category": "游戏开发技术",
     "title": "Google Play Indie Games Fund 2026 - Games Made with Unity in Africa | Unity Blog - Unity",
@@ -1235,6 +2080,19 @@
     "priority": 2
   },
   {
+    "key": "808a9f37972589c92b0196331722fb14f414ea83eabe853a33b2bff6de219f08",
+    "category": "互联网与 AI 工具",
+    "title": "文心失速，百度老将离场 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZOHNGY05oTlZhbGQ1SHQ4dThSb1QtdHlUdndOTGVUSG5udWVqbHhOaTRGc1VqYnVOZFZ6WXAzQUNRVHdpQUprdFVFRGtTVjRa?oc=5",
+    "summary": "文心失速，百度老将离场 36Kr",
+    "published": "2026-10-28T19:09:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "d7766fd6494b37aca6377d8c10f39f786e69e2c5f11e0057b863cc713b36bed9",
     "category": "互联网与 AI 工具",
     "title": "大模型API试错成本低到离谱？这3个平台堪称开发者“避坑神器” - CSDN",
@@ -1248,11 +2106,50 @@
     "priority": 2
   },
   {
+    "key": "ad6123b85d89a9f89503d0facd160bac493c04668032bfa9b4966f62e5bddfc7",
+    "category": "互联网与 AI 工具",
+    "title": "上海卫星互联网大会启幕！产业基金落地，星枢计划路线公布，太空算力千星组网、千亿产值蓝图正在加速 - 手机新浪网",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QWljQXBlX3lVZ2R2MEZXdjNtWkhaWUlMa3BQOFNNWHl4SE0yWlY2Nkk2M01KZHh5WXBUNWhyZHluUmduemo0cFA4NkJqMXZ5Z3R0UDc3bWNRa2xMZkE3dll4ZUJUbExWTktscGdBZ3M2X1ZHcV9ublA2b3Zzcm8?oc=5",
+    "summary": "上海卫星互联网大会启幕！产业基金落地，星枢计划路线公布，太空算力千星组网、千亿产值蓝图正在加速 手机新浪网",
+    "published": "2026-10-28T18:57:00+00:00",
+    "source": "手机新浪网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "dec712f8d65d42b1ccafba15930e7502971829f860607ec3b0156b2d96c29778",
     "category": "互联网与 AI 工具",
-    "title": "一家1800人的公司，为什么会有8000个AI员工？ - 36Kr",
+    "title": "一家1800人的公司，为什么会有8000个AI员工？ - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBZUlpMZ2h1eWpTek1VVWxzOXJ1VEZwb0lzSG02VTNlYUlVNUYtR1RONXlRSllybGJSMDJzbFZ2OV9HdzZXalNDNHctUUtZZw?oc=5",
-    "summary": "一家1800人的公司，为什么会有8000个AI员工？ 36Kr",
+    "summary": "一家1800人的公司，为什么会有8000个AI员工？ 36氪",
+    "published": "2026-10-28T18:51:00+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f52ddbbda9d8f75add285fc58752dbda4355c9dadcef5c6d4471e1db2b60ecdd",
+    "category": "互联网与 AI 工具",
+    "title": "1800人企业为何拥有8000个AI员工？揭秘AI驱动的新型用工模式 - eu.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Sb21RODVLWFBwOEpoX1hGQnFPcHlaV2JTVkhGV3lQTWFCUDhJSDZ5cDJRSHRZeFlONWhrd282SmJDc3RLYXlrMUoydVdVTC1RRTFv?oc=5",
+    "summary": "1800人企业为何拥有8000个AI员工？揭秘AI驱动的新型用工模式 eu.36kr.com",
+    "published": "2026-10-28T18:51:00+00:00",
+    "source": "eu.36kr.com（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "5db861b366759412f06f4f207cbc62aab723ebdf77bc989845c51c2f7c75f9e6",
+    "category": "互联网与 AI 工具",
+    "title": "泡泡玛特不是段永平的可口可乐 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnNG1MMGlkbHoyWS1famZQWElpUDVXbmE0Nnp4SzE4T1F0MHo1eXlIdXdmWUJTWHhBRmFOZkFEUTBXVUQyMXhqS1JoaUlDZw?oc=5",
+    "summary": "泡泡玛特不是段永平的可口可乐 36Kr",
     "published": "2026-10-28T18:51:00+00:00",
     "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
@@ -1298,6 +2195,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
+  },
+  {
+    "key": "b3db77f90917b9efdf7706d0cadc23187e5420bb08b31243e63e9eae73f8b40c",
+    "category": "游戏开发技术",
+    "title": "Epic Confirms ‘Vibe Coding’ Across Unreal Engine 6 and Fortnite - www.explosion.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZWZlaTZKOTVlaWhhRnVkM1FYWjhZSUhLOTdvQnVNNFl4VTgxRzNManQ4ZDY0U2xjcnhpUlJUcmRVVDNqZmtCZjlacm1OMEdYOE95eFEyaFZEUmRQMmE1TXJKWHVVbUNJQTdTZ1VvLUtrVEVVeUdCMGRlcl9tNjVRNUJ4ZWotZmRfcnlFMkNFSzZSVGNOYVJYYUdCOA?oc=5",
+    "summary": "Epic Confirms ‘Vibe Coding’ Across Unreal Engine 6 and Fortnite www.explosion.com",
+    "published": "2026-10-28T18:25:07+00:00",
+    "source": "www.explosion.com（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
   },
   {
     "key": "8617352fa3c42291d01eb5d3eb1716c48df2b1f250012c0481f8be64b68ceb8d",
@@ -1560,6 +2470,19 @@
     "priority": 1
   },
   {
+    "key": "41aeae110484cf4e44c335b401085cebd5de1aafa42f6e59f0d2cf3fb0a6e8c5",
+    "category": "互联网与 AI 工具",
+    "title": "10 Best Software Development Companies in the UK (2026) - Nasi Lemak Tech",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbU93bnVzT0NSSDg0eXpwemNtbVI1SGluS3NfQjZUTkVoTlVpNDVjektWOVNYMFdWU3lRSkZnbnU3OFlyQnRlOFl0MWx3Q2c4TWdKcDJXOXh5Z3hOUWFlUllOUnFtOW0xeWlWMDVWTHVkaVpldWowdFdwZF9aR2MtMklWWjYyNGc?oc=5",
+    "summary": "10 Best Software Development Companies in the UK (2026) Nasi Lemak Tech",
+    "published": "2026-10-28T16:45:21+00:00",
+    "source": "Nasi Lemak Tech（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "5f42879469376358b81dda02a0034c4c2740755a9b8254f23547356373a81a76",
     "category": "游戏开发技术",
     "title": "Epic Officially Confirms It’s 'Vibe Coding' Unreal Engine 6 and Future 'Fortnite' Updates - Polygon.com",
@@ -1607,6 +2530,19 @@
     "published": "2026-10-28T16:05:00+00:00",
     "source": "Fortune（海外互联网检索）",
     "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "ae1a0a6e7832b2b148bdf02f7b3d674c33c0696507ba0592680d858c9e6d423e",
+    "category": "互联网与 AI 工具",
+    "title": "Introducing the Slack Code API: Your agents, your team, one code channel - Slack",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zTWFHa0g5VGxBcjNuYzJjSjVORjlpTmltVmpubDJzZ25ZNzVOMEp6M2Z6YXRhRXE5anlGZ0tYZllBal9nY043bWoyeDgwY0hXSFJWSENhTlR2UXc1?oc=5",
+    "summary": "Introducing the Slack Code API: Your agents, your team, one code channel Slack",
+    "published": "2026-10-28T16:03:18+00:00",
+    "source": "Slack（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -1859,19 +2795,6 @@
     "priority": 1
   },
   {
-    "key": "a8f905c9eb788dd11ccffc0e4b4bb591b6fa10965d49286b22341b655d2840c2",
-    "category": "游戏开发技术",
-    "title": "Report: Mass Effect: Universe Devs Scrubbed Diversity From Demos To Avoid Negative Feedback From EA - Kotaku",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmN4Q3JrTXE5b1EzVE0yZXk3NEVkNURSNHo0U1J1VGJ1aWt6cUlPUTgzenZDM1RSWE5VNzZKUE1TTFlzcHlkU0UtYjlOcmtKQWE0T1AxRGRGZ0dadnk0d0d6dFFlbDhPeVBjQUM4M21PcVNWblRnSjVCZkpVSVhiQUVobDRSUVJBei1MQ3V0NA?oc=5",
-    "summary": "Report: Mass Effect: Universe Devs Scrubbed Diversity From Demos To Avoid Negative Feedback From EA Kotaku",
-    "published": "2026-10-28T13:40:45+00:00",
-    "source": "Kotaku（其他引擎检索）",
-    "source_id": "其他引擎检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 1
-  },
-  {
     "key": "ef2b0f6ac88d62feb593d88b65f001721427d0e1d2f5ca45c42ac01b934017d7",
     "category": "互联网与 AI 工具",
     "title": "Foocamp conversations expose a widening split over what AI coding tools deliver - news.lavx.hu",
@@ -1950,6 +2873,19 @@
     "priority": 2
   },
   {
+    "key": "8f62f44084b151dd36ba27cf2a38c3bd8a3f398b2cdc48a608dc2d8bc5c3efd7",
+    "category": "游戏行业与发行",
+    "title": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV1MyZnJVZHVuamxKaTBDcGwtdUpXemlJSXpHRWZibDR4T1FkYjJxcEE1bG14Yl84amt3MVFzWWQtMWZDZ2lKZ2Z4ZFBZR1E?oc=5",
+    "summary": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games WN Hub",
+    "published": "2026-10-28T13:06:59+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "d9acd3cf7c06bd94844c5c7b4e06dd62b082916e15c0dc8954369a4735dec377",
     "category": "互联网与 AI 工具",
     "title": "酷澎智慧中枢正式启动, 让跨境增长更确定 - 36氪",
@@ -1958,19 +2894,6 @@
     "published": "2026-10-28T13:05:00+00:00",
     "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "ffb6984a4d8fa56bb40c98da104889a3dc5aac1cde3631ac5b998c62764a5d47",
-    "category": "互联网与 AI 工具",
-    "title": "Jixian Technology Series A: 5 Edge AI Takeaways [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3VsWDRHamVxc1pXVDF6enBpdDBpbEE2YVIxQ3pRdndnaHhQMDd3QXVIWmVJbXJ0Y3BFSlNva1ZQS0tQanlLREJ4ZzdFd1N5QXRBc3JTMEl5VHBEcUpWRGx2azNPSF9FamFDVy1MdThLQ291ZmNvSnhpd3EtdVkxNg?oc=5",
-    "summary": "Jixian Technology Series A: 5 Edge AI Takeaways [2026] shattered.io",
-    "published": "2026-10-28T13:00:35+00:00",
-    "source": "shattered.io（海外互联网检索）",
-    "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -2225,11 +3148,11 @@
   {
     "key": "332da0b0a77fb73bb803ca95a3506812b2e795bac10b7a3ed8e352ef258ddd67",
     "category": "互联网与 AI 工具",
-    "title": "“字节时间”之争：超级巨头的体量与边界 - 36Kr",
+    "title": "“字节时间”之争：超级巨头的体量与边界 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQdkh5cHhSbUdxdXhYZUhXcDlkc2w4cnFpc3pYWWFuY3dIVEY2ZlNaRExiOU8yN1hFbkhXV2FBZTFheW8ySm8zQWRZU240Zw?oc=5",
-    "summary": "“字节时间”之争：超级巨头的体量与边界 36Kr",
+    "summary": "“字节时间”之争：超级巨头的体量与边界 36氪",
     "published": "2026-10-28T11:22:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -2296,6 +3219,19 @@
     "published": "2026-10-28T10:42:15+00:00",
     "source": "LatestLY（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "7659bcaf6dbbe9bcd2885a36f27daf359db7646975296f011b6e103f4b973ffc",
+    "category": "互联网与 AI 工具",
+    "title": "中建三局：连点成网 算力筑基 - 新华网",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sdmtBeWlSOVA5dTZ3Z1NHM3ZBaXAwWjN6NEJtNGhIY1lwSVduZVhtaFYxVlg0SXhDWklSd2w4MXQwU1BQSGRJSXRFMEJBVmxEUklwZGNHWWdWOEdqSzhyU3RJemMySTJFOWo4aDdaSHRid3NM?oc=5",
+    "summary": "中建三局：连点成网 算力筑基 新华网",
+    "published": "2026-10-28T10:34:22+00:00",
+    "source": "新华网（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -2413,6 +3349,19 @@
     "published": "2026-10-28T09:02:45+00:00",
     "source": "GameGrin（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f8edd869ea7524351998a8dde7ba452c9e2ca70c41b3ea4fe908947126c6420c",
+    "category": "互联网与 AI 工具",
+    "title": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEU3FTRkhxamtxVk5TRE5FaXBxYUVZYk9CS0xnUjhOWWZRREtKdXk0OGhGNERLWWxmNkg1MHFQcUlncC1TYWtidXRCbnNsYTBO?oc=5",
+    "summary": "腾讯的“回马枪”：不推独立App，微信悄悄反击字节 36Kr",
+    "published": "2026-10-28T08:54:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -2582,6 +3531,32 @@
     "published": "2026-10-28T07:05:33+00:00",
     "source": "Goomba Stomp Magazine（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "49336f5451c6260f5e5a17871cf9579bea86f76eb3762a75e8a085560af64a5c",
+    "category": "游戏开发技术",
+    "title": "Construction Site Environment | Showcase | Unreal Engine | Game-Ready Assets - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpaF9jaEJOSkNIaTl2bHhFX3A1VVZMenlKbFdBeldiVDAxVndFYWJoemhudVZjU2FxSWoyNE0xVFFUZw?oc=5",
+    "summary": "Construction Site Environment | Showcase | Unreal Engine | Game-Ready Assets YouTube",
+    "published": "2026-10-28T07:02:28+00:00",
+    "source": "YouTube（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "8e3c1f803c3342143a5d85d806a5b1ad4aa6476c1c007c7d30c0d7e4848f8709",
+    "category": "互联网与 AI 工具",
+    "title": "Platform Business Model: 4 Types Explained (2026) - FourWeekMBA",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OajlEdXFIN2hRbHVBc1ZuUmNMNlJnNm0zZmdhZ2RnU2JnSFdpUGV4MERLYjlkUWM5WXFsSFFiZXpfZ3V4X0xZSzJKTG15WHRydjRJaFBWVWxHQ25fY3c?oc=5",
+    "summary": "Platform Business Model: 4 Types Explained (2026) FourWeekMBA",
+    "published": "2026-10-28T07:00:00+00:00",
+    "source": "FourWeekMBA（海外互联网检索）",
+    "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -2808,19 +3783,6 @@
     "priority": 1
   },
   {
-    "key": "f7a6f0997c82e21b46db0ab32a6480145ac0124fe06cf448fa74204bac55ecc1",
-    "category": "互联网与 AI 工具",
-    "title": "Hg to debut in Greece with ERP and business software provider ES1; Elvaston makes first deal in Poland with warehouse management systems company - PEI Private Equity",
-    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVTJnM1FKNy1mM3BiT0t1NHpkXzBEOEx0U0J6SzFrU1I2ZXVJbWV4c3V6Q2dDVDZNNTZOc2RQMXJPdlNTc1FSZkk2X3FqYUszYXo1VzZTYW5GbXZkWlFJVTNpbUhmdWpPakhfOU5VanhOQU5PTjlIT0JCaWI5SDRpWjNqT2RxRjdKeXlyWDI4aW0wbGpCZjgxNzcyWEF6Mlo3eFR0TVBrVEpid3cyWEtsV1dvRTdpYnI0R3h4ajFERnlMMHRXR2dybUItb3h6QjkyeExjQnc4X3FRUjd5cFNJU1BCM0dWY3BiSl9rc25LalFfa0t5LWZHRXhyT0hhS3hhSUVrQVBlbU8zVGRkSkdHUlJHRWxnUQ?oc=5",
-    "summary": "Hg to debut in Greece with ERP and business software provider ES1; Elvaston makes first deal in Poland with warehouse management systems company PEI Private Equity",
-    "published": "2026-10-28T02:14:10+00:00",
-    "source": "PEI Private Equity（海外互联网检索）",
-    "source_id": "海外互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "79bec49136c0c0e3a3f29bf28e25bb4ea7c3bfc7310f951c25c69a263436a799",
     "category": "互联网与 AI 工具",
     "title": "Nietzschian Debugger asks questions instead of giving answers on fixing bugs - 디지털투데이",
@@ -3042,6 +4004,19 @@
     "priority": 2
   },
   {
+    "key": "e007b2f43033c36f420a5e33f6dd38588e5dd70313c842df61fec9b79c2c26c0",
+    "category": "游戏行业与发行",
+    "title": "GOG is entering the gaming publishing market — the company will be releasing indie games in collaboration with Retrovibe - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYa2Z0Y2NmRXRvT3FnSl91RTZzcDlOMGkxTlZHTHJTSHRaZ0dtM3B6bkpyQUZjcDVFdFN0b05xLU5pTkVGaXRady1WczBBd2w5eXVwZQ?oc=5",
+    "summary": "GOG is entering the gaming publishing market — the company will be releasing indie games in collaboration with Retrovibe WN Hub",
+    "published": "2026-10-27T22:04:02+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "1690e09257b578c5eaacc11ebff8693175aa74775f94ef043590134e8248e809",
     "category": "互联网与 AI 工具",
     "title": "接连否认“字节时间”，互联网巨头怕的是什么？ - 36Kr",
@@ -3083,11 +4058,11 @@
   {
     "key": "23c2fed4a7ea99d7426121ce371bb108d258bbb631e29cc695b1e89cae3fd426",
     "category": "互联网与 AI 工具",
-    "title": "腾讯推出AI大会员，QQ那套又回来了？ - 36Kr",
+    "title": "腾讯推出AI大会员，QQ那套又回来了？ - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qM0hBS3ZmX2lib1JLWVJkeHZKS0Vxa0pZSkJ2aVotZmpsSEVUM3lOdlNfSmYtdW5GaVhCbXFzdHhETktpRV9JRVJ5TFZFdw?oc=5",
-    "summary": "腾讯推出AI大会员，QQ那套又回来了？ 36Kr",
+    "summary": "腾讯推出AI大会员，QQ那套又回来了？ 36氪",
     "published": "2026-10-27T21:23:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -3183,6 +4158,32 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "2ec7e66ea61e5a6512324e19774ca404d1e5c054caaaa7fc9de7fdfc11bf2688",
+    "category": "互联网与 AI 工具",
+    "title": "昨夜今晨：亚博金年会金字招牌相关科技动态汇总 - 中财网",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CZGp4c0lGM3Q5M01IRFpwTjJsNzFVZnlUMHo4eTctb2FrUzFxNG14LUp5TzJhQ3FHNmxvY2hYYktKS3VId2NCMVNERmVIbDhIdGhydElrZzY?oc=5",
+    "summary": "昨夜今晨：亚博金年会金字招牌相关科技动态汇总 中财网",
+    "published": "2026-10-27T20:33:28+00:00",
+    "source": "中财网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "7ec5368ac5701371ea5cb8bde8e263fa3e5e7810f480d4a28e1c8be5305c9738",
+    "category": "互联网与 AI 工具",
+    "title": "今日科技快报：8868体育官方网页版披露网页端加载优化进展 体育数据接口规范迎来调整窗口 - 秦皇岛新闻",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jdV9BTzlpWXNEMF81UUFYQm1qeXZTbHYtOUstRGhZTURrUGdTU0RuYUE2dzlOd0hpX1pSTXR0aWNLTFZXVVZRekF4Z2ZEa2NZVHQxRExtQ2l1QjE2NnB1cVg5YWFaNlU?oc=5",
+    "summary": "今日科技快报：8868体育官方网页版披露网页端加载优化进展 体育数据接口规范迎来调整窗口 秦皇岛新闻",
+    "published": "2026-10-27T20:31:37+00:00",
+    "source": "秦皇岛新闻（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "1ab328e866f25ac2764c70fb84552a516dbd6a02bffe0a69886820433c54fa50",
@@ -3456,19 +4457,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "875f4c2a23882a53ad25fdf7a1f481e2edd20fdc4bf38887953f658bd6029b85",
-    "category": "互联网与 AI 工具",
-    "title": "Salesforce, Inc. - Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Kb3A2T1d4VHNOWTNoazRmMVNwNEtZY01ZS2xSdXlRM1h1cktHVlFBT2lWVTBUMldmaUFRYlg1QWk4YkpadGYzR0tYV29wamhMekFDZUR3?oc=5",
-    "summary": "Salesforce, Inc. Britannica",
-    "published": "2026-10-27T18:11:00+00:00",
-    "source": "Britannica（海外互联网检索）",
-    "source_id": "海外互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "25cc993555cfc308340f675fd324333852fa25d1524de1df5da5244e86efac2a",
@@ -3757,19 +4745,6 @@
     "priority": 2
   },
   {
-    "key": "e007b2f43033c36f420a5e33f6dd38588e5dd70313c842df61fec9b79c2c26c0",
-    "category": "游戏行业与发行",
-    "title": "GOG is entering the gaming publishing market — the company will be releasing indie games in collaboration with Retrovibe - WN Hub",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYa2Z0Y2NmRXRvT3FnSl91RTZzcDlOMGkxTlZHTHJTSHRaZ0dtM3B6bkpyQUZjcDVFdFN0b05xLU5pTkVGaXRady1WczBBd2w5eXVwZQ?oc=5",
-    "summary": "GOG is entering the gaming publishing market — the company will be releasing indie games in collaboration with Retrovibe WN Hub",
-    "published": "2026-10-27T16:04:02+00:00",
-    "source": "WN Hub（游戏行业检索）",
-    "source_id": "游戏行业检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "48b3f289c926ed08e4d1c71d33aa02697655b6b3e99fa9d2fde5c073bef2f329",
     "category": "互联网与 AI 工具",
     "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
@@ -3998,6 +4973,19 @@
     "summary": "Aria Networks Appoints Jonathan Davidson to Board of Directors to Advance AI Networking citybiz",
     "published": "2026-10-27T14:07:18+00:00",
     "source": "citybiz（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "fe2deb1770cb09063a59b1211d32bd8155518792da104985b09b894b813e1a6d",
+    "category": "互联网与 AI 工具",
+    "title": "Meta Platforms | Facebook, Instagram, WhatsApp, & AI - Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBURjhqMVZMX0ZkV09OemJjOFFTV3d3NnMxcmgzTXdkbW1tbTByTUJUZzBncUlxbWhxSzhsOGZ3RmNNdTRxMnVZc0ZWWGtBbkdZakdKZ2UtejhER2s?oc=5",
+    "summary": "Meta Platforms | Facebook, Instagram, WhatsApp, & AI Britannica",
+    "published": "2026-10-27T14:07:00+00:00",
+    "source": "Britannica（海外互联网检索）",
     "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -4602,6 +5590,19 @@
     "priority": 2
   },
   {
+    "key": "a8f905c9eb788dd11ccffc0e4b4bb591b6fa10965d49286b22341b655d2840c2",
+    "category": "游戏开发技术",
+    "title": "Report: Mass Effect: Universe Devs Scrubbed Diversity From Demos To Avoid Negative Feedback From EA - Kotaku",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbmN4Q3JrTXE5b1EzVE0yZXk3NEVkNURSNHo0U1J1VGJ1aWt6cUlPUTgzenZDM1RSWE5VNzZKUE1TTFlzcHlkU0UtYjlOcmtKQWE0T1AxRGRGZ0dadnk0d0d6dFFlbDhPeVBjQUM4M21PcVNWblRnSjVCZkpVSVhiQUVobDRSUVJBei1MQ3V0NA?oc=5",
+    "summary": "Report: Mass Effect: Universe Devs Scrubbed Diversity From Demos To Avoid Negative Feedback From EA Kotaku",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "Kotaku（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "944c6c5de9408fb69a11832c81593e5380620c02d10dcd9422f626c55829e58e",
     "category": "互联网与 AI 工具",
     "title": "20 New Technology Trends for 2027 | Emerging Technologies 2027 - Simplilearn.com",
@@ -4680,6 +5681,71 @@
     "priority": 2
   },
   {
+    "key": "0df5c6b9b61c5396e0dab6d19221c498e33eeb8c7ce97039a4885bded068fdba",
+    "category": "互联网与 AI 工具",
+    "title": "Best IT Courses and Certifications for Career Growth - Simplilearn.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcW9xcllRNWo3aGdVb0R4UDktbHZkczZRcUdkU29fRy1OZnpVd0dwR3VnZDRzYmJ3OHVCV2xZeTNORW5qeEg0aVlpX1o3SzRZX211M1B3YWc1Y3pRQjhiaW8tRHdtcnVscFFXQWVndFp3V2pMWm1kNHRZSTVmejUxME0yUV9iYzVVV0w5dEh1c2NPazBKckdGU0dYZ3NxcFA5SXZDY1lB?oc=5",
+    "summary": "Best IT Courses and Certifications for Career Growth Simplilearn.com",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "Simplilearn.com（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "e20a64857c6f60ac290d3a0f6255c59ad3f709fda19da8c8b714d2d21a33dc34",
+    "category": "互联网与 AI 工具",
+    "title": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions - Simply Wall St",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCZkY0eWVFREladGxvQmJBWXktWHBKTGVqTUNSSXV2d3hESmZxcEtGaHZmNFdnR1VRak15QU5ZWkRBV2cwSDBJQk93dzR5bUh1MFFualdsbExJUU5xLThSTFVYNnJMLUxYWU5PbGZOMUlIakM5?oc=5",
+    "summary": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions Simply Wall St",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "Simply Wall St（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "5bbb0c31ebc970d3c039add76c4fc6e18c7de742b8c522b27b608b59266a4509",
+    "category": "游戏开发技术",
+    "title": "System Era lays off thirty employees after Starseeker's poor performance - Foro3D",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmN1MjFQdTluTHJ6cGRjLWh3dG9Ibi00UFJ0NlVGUGpjclFWc0puaThUWTVHbUJib0s0RTg4dWFNQlRBeTNTa3kycnRpcGtUeEdEYjQySThqM0tsZ1UyU0NZeC1qLXFkekU3SHotVGRBc0FaYzBtX0JueVlHeUkydlVHNHhFN3pNNUxwVHVMTUdLQldvZ2hfN0N4bHdDMDdPOFRWdmZqNFpaWUtRNHE0?oc=5",
+    "summary": "System Era lays off thirty employees after Starseeker's poor performance Foro3D",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "Foro3D（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "6e8e993c880049947f6afdee62986a2702de65926d1b26e4e135bb4abcb1a8cf",
+    "category": "互联网与 AI 工具",
+    "title": "Highest Paying Jobs in India: Roles, Salaries, and How to Become - Simplilearn.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZR2dmbGI3eUhWN1JuMDJqU09MMV9MLVdaRERVS2N5dVZVR0VGNDRxLWVNcVlHdm1tS2JnUHJpZkk5VDFFMjU1bkpDUFBuRDcweldqZkRkWFZFeE5kYzdlSHAwMFhpRW1KYnFwMmJfZExUQQ?oc=5",
+    "summary": "Highest Paying Jobs in India: Roles, Salaries, and How to Become Simplilearn.com",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "Simplilearn.com（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "1d3a0dea740f3e035545f08b8a3cd656ac90b61a31d6901950b5a8e07ab5db53",
+    "category": "互联网与 AI 工具",
+    "title": "智研咨询:《腾讯控股深度研究报告：全球互联网与游戏龙头，AI与出海双轮驱动高质量成长》 - 发现报告",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEQTBVbGZJcHIybDBoX3NfLXo3SDl6UWJkS2VSTWpHVnNBLWJNeHNmUklmOVdjMjlPRWdEVEc4Vzhyb0VhM05zUWVpejB5Nks0?oc=5",
+    "summary": "智研咨询:《腾讯控股深度研究报告：全球互联网与游戏龙头，AI与出海双轮驱动高质量成长》 发现报告",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "发现报告（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "a21393b926dc1d48fea079a78841f4af9e28de39f65b7c3469779c9617486c24",
     "category": "互联网与 AI 工具",
     "title": "GitHub’s Former CEO Launches Rival Platform for AI-Driven Development - Analytics Insight",
@@ -4732,6 +5798,19 @@
     "priority": 2
   },
   {
+    "key": "875f4c2a23882a53ad25fdf7a1f481e2edd20fdc4bf38887953f658bd6029b85",
+    "category": "互联网与 AI 工具",
+    "title": "Salesforce, Inc. - Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Kb3A2T1d4VHNOWTNoazRmMVNwNEtZY01ZS2xSdXlRM1h1cktHVlFBT2lWVTBUMldmaUFRYlg1QWk4YkpadGYzR0tYV29wamhMekFDZUR3?oc=5",
+    "summary": "Salesforce, Inc. Britannica",
+    "published": "2026-10-27T04:58:00+00:00",
+    "source": "Britannica（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "5f07c9601cb6154c577b6acfb858e0b901f8e552281435e63c78d0d99975fcfb",
     "category": "互联网与 AI 工具",
     "title": "盘点 | 可满足AI算力设备运输配送多元要求的供应链服务商推荐榜单 - 手机新浪网",
@@ -4739,6 +5818,32 @@
     "summary": "盘点 | 可满足AI算力设备运输配送多元要求的供应链服务商推荐榜单 手机新浪网",
     "published": "2026-10-27T04:25:02+00:00",
     "source": "手机新浪网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "93d5b739e3385366aab102534588226c3b88fa840874b47fe6a025f5f2524ab1",
+    "category": "互联网与 AI 工具",
+    "title": "开·云APP最新版下载入口今日正式上线，官方发布多项功能升级保障用户体验 - 消费日报网",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwRFY5aWRPQldYb0xSU1VINEYxMV9GRjQxbTNzYm9yZlM3RlN1aDdyT1Q2NnotZjhOZXhDSGdSajk4VXZNeURWN2t0VDJOSi1ZckxrbS1wN0FQNm5SU2FGX25ocTVFQQ?oc=5",
+    "summary": "开·云APP最新版下载入口今日正式上线，官方发布多项功能升级保障用户体验 消费日报网",
+    "published": "2026-10-27T04:00:00+00:00",
+    "source": "消费日报网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f6bb675205de811a00e370eaff9ee6c33b2f0ffaef67fe3f366c9395fb56247f",
+    "category": "互联网与 AI 工具",
+    "title": "开·云网页版登录入口现已正式上线，官方发布便捷访问渠道提升用户体验 - 国际在线",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LalJkNV9CZm5ydjlnS3dSNDRuN080YjB2M3ljOHBnSGpWa1JkRFhwREpBcTF6LUlFakVkNGlzVHhndUdrc29TUmFDVnVHdTdvN29FZWZfOUxCMGZkcjhkMGxwMnFFSXBsQkg5b2RRU1JabERBOXpTOEZR?oc=5",
+    "summary": "开·云网页版登录入口现已正式上线，官方发布便捷访问渠道提升用户体验 国际在线",
+    "published": "2026-10-27T03:53:16+00:00",
+    "source": "国际在线（国内互联网检索）",
     "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -4792,6 +5897,19 @@
     "published": "2026-10-27T02:37:16+00:00",
     "source": "shattered.io（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "a33225a5abee908a20222f4421fde9ae28ff1ab602c07515e0961cf4ff89abec",
+    "category": "游戏行业与发行",
+    "title": "The All-Russian Society for the Protection of Consumer Rights (RVI) proposed to the State Duma to limit in-game spending by children and block cheat websites without a court order - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ2pYZHZOeDAtbnNUR1VwY21nV0NvOUVUOFYzSFY3LU82ZnkzWHhfWl9CZ19UNlRNZk0xNkx1S3M4NzB6SFNyc09mcnkwQmM?oc=5",
+    "summary": "The All-Russian Society for the Protection of Consumer Rights (RVI) proposed to the State Duma to limit in-game spending by children and block cheat websites without a court order WN Hub",
+    "published": "2026-10-27T02:17:23+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -4922,19 +6040,6 @@
     "published": "2026-10-27T00:29:00+00:00",
     "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "a33225a5abee908a20222f4421fde9ae28ff1ab602c07515e0961cf4ff89abec",
-    "category": "游戏行业与发行",
-    "title": "The All-Russian Society for the Protection of Consumer Rights (RVI) proposed to the State Duma to limit in-game spending by children and block cheat websites without a court order - WN Hub",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HQ2pYZHZOeDAtbnNUR1VwY21nV0NvOUVUOFYzSFY3LU82ZnkzWHhfWl9CZ19UNlRNZk0xNkx1S3M4NzB6SFNyc09mcnkwQmM?oc=5",
-    "summary": "The All-Russian Society for the Protection of Consumer Rights (RVI) proposed to the State Duma to limit in-game spending by children and block cheat websites without a court order WN Hub",
-    "published": "2026-10-27T00:01:55+00:00",
-    "source": "WN Hub（游戏行业检索）",
-    "source_id": "游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -5109,6 +6214,19 @@
     "priority": 2
   },
   {
+    "key": "c74d3c1594e21eb6b1b73ddec3f48c8d7f2a5ec7da939bb7f39603a9dfe27bd5",
+    "category": "互联网与 AI 工具",
+    "title": "这回，换技术方带着实际解决方案上桌了——WISE2026「世界咖啡」技术方招募开启 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lZGhUUzF0Nlc3VWpjYWdXLUtWNTFONmdFOFk5SWxPNzBYN0c1M3Q5UVBKUnZLVjFHaFEtVXZmckZzVFZkay1hOHpXeUIxUQ?oc=5",
+    "summary": "这回，换技术方带着实际解决方案上桌了——WISE2026「世界咖啡」技术方招募开启 36Kr",
+    "published": "2026-10-26T19:54:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "f27765c422724886197672804fd935931b2949fdae629c007d91488d468a0c05",
     "category": "互联网与 AI 工具",
     "title": "给火箭穿上“防热外套”，湖北航聚科技启动IPO辅导 - 36Kr",
@@ -5159,6 +6277,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "89ee712bee316b85d0bfc0534b6aa46762673d9abef3c18cf364c26baf33605a",
+    "category": "互联网与 AI 工具",
+    "title": "开·云手机网页版今日正式上线，官方发布全新云端操作体验与安全保障 - 中财网",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KTkJNelRkTEMxMjliNFVrREhSYXBnMjU3b2dicVdhNV9PQnlrbTEyMnlGdm5qLTFJUTlJdUNrLUhuVTVFWmxjWGNIQ2pkT2JfeG5j?oc=5",
+    "summary": "开·云手机网页版今日正式上线，官方发布全新云端操作体验与安全保障 中财网",
+    "published": "2026-10-26T19:03:58+00:00",
+    "source": "中财网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "307dacd7f24208d4e6356affe7cc14006af38edd838b61ae78c8f386c611299f",
@@ -5410,11 +6541,11 @@
   {
     "key": "3482a03ab2a03de62588061a4d8de2ad68d3555dbbffa0d3726ceff5748144be",
     "category": "互联网与 AI 工具",
-    "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 - 36Kr",
+    "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUHFWWEk0ekFkazRqOFo2QTIwOTlBUnNuSnVMaXlidkhXa1FuWHdwUC1IMTluTG9mX2JYck55b0NUdjhERUVOTlFWbDV6dw?oc=5",
-    "summary": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 36Kr",
+    "summary": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 36氪",
     "published": "2026-10-26T16:53:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -5666,6 +6797,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "c2fa7df85459b752321b60716e61633a9da832f8b32e41cc7f6704a9bf4c58a4",
+    "category": "互联网与 AI 工具",
+    "title": "金蝶徐嘉祺：出海的下一程，比的是AI管理能力 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RMk1ydTk0ci1maVh2NjR1NzlZUm9CWUpBYzIxaDhicXVOTjJXWHd4MWFSNVMzajktdVh3eGZ2eEphNzlKVGJET1N6Rjk3Zw?oc=5",
+    "summary": "金蝶徐嘉祺：出海的下一程，比的是AI管理能力 36Kr",
+    "published": "2026-10-26T15:04:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "204ebafeea23d652174b92074f498b4ccb0e5a2a34f19b01d40acae842384976",
@@ -6409,6 +7553,19 @@
     "priority": 2
   },
   {
+    "key": "c15355eff57cd4b9e95f34f22413e0fe254c148260668ca23870a7a7118ccf3a",
+    "category": "互联网与 AI 工具",
+    "title": "工信部通报57款涉诈APP，包括易信、华社等上市公司产品 - 搜狐网",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV0NtREw3dGJaYjhWYlFuTVQ3UzZOR0hMV0R0MDQ0RUluRFYzTnh5QlZ0enR2SGY4cGkyZkZ3aVpOUzJPYjRwOGJYb2xuNjlkc3QxRmxtOHVaNHk4WENSYjVxUG1xV2lLMUc0eVZTQ0JDOEFoS05ncWNsUzE2MVdtLVJkWFYwZFVIekJMWmd0WGI4YmtzWDZIVU4wb0tUbjZD?oc=5",
+    "summary": "工信部通报57款涉诈APP，包括易信、华社等上市公司产品 搜狐网",
+    "published": "2026-10-26T08:20:39+00:00",
+    "source": "搜狐网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "f1575cba79abf7f2064a91b2da0f4f52b1f786e520686819f3fbc924d82fc655",
     "category": "互联网与 AI 工具",
     "title": "AI-fueled clone surge forces indie developers to hide demos and delay launches - Chosunbiz",
@@ -6475,16 +7632,16 @@
   },
   {
     "key": "b3e53888c4fbc2df23e74c136ff352bcc475fe9e792327aa754aee3ca8474b63",
-    "category": "互联网与 AI 工具",
+    "category": "游戏开发技术",
     "title": "Best Programming Languages to Learn in 2027 - Simplilearn.com",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDN0b3ppcWVqUEJieVIxU3pvRzNWQ0oyWTZRdTB1anh2Wjhjc3BLbTJmd0pFOWVzYWM0MW1PRzBUR0dxRVJVSFZ6dEFGZGVXOGRyRWpvQWxDaVIyVklBZjJXSFNsLXFGV2lORGNQT0RyMnpibVpHdFZUNlZFTk16U2otUVlsdEZPMDRJ?oc=5",
     "summary": "Best Programming Languages to Learn in 2027 Simplilearn.com",
     "published": "2026-10-26T07:00:00+00:00",
-    "source": "Simplilearn.com（海外互联网检索）",
-    "source_id": "海外互联网检索",
+    "source": "Simplilearn.com（Unity 技术检索）",
+    "source_id": "Unity 技术检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
-    "priority": 2
+    "priority": 3
   },
   {
     "key": "679f016702fd24a6961e0d946d16b16c694df744782c6b43c68928e4562d80ea",
@@ -6552,6 +7709,32 @@
     "priority": 2
   },
   {
+    "key": "afac7bd8b38c53eb69d1d708674772d38cc5b21e88eec8fac12936a939185ba9",
+    "category": "游戏开发技术",
+    "title": "Phantom Blade Zero delayed to October 29, 2026 on PS5 and PC - Foro3D",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUlBHcUVDdlBhU2MzUXFDNDc4MVZ2Z3RicC1GTHBWdHRLQWRiS3pRZ0NNMFA1Z0pyZEpKelh6Nm8yVDBrOUJodmZmeFJEV2c1QjBjaDlqb3Rta01ONGNoMXhtOUpVbUhQb2dmMXI4aW1NMjl1dlc0ZkU3MUZmNV82R0l1c2RSREk5cTVBV3pRZjladEVwREZmajdqeU84eXFNSHppOWViSmM2UQ?oc=5",
+    "summary": "Phantom Blade Zero delayed to October 29, 2026 on PS5 and PC Foro3D",
+    "published": "2026-10-26T07:00:00+00:00",
+    "source": "Foro3D（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "dfa050fff7fec2859e56e24f3790b79b9316dff640e939f70c299ce879657a79",
+    "category": "互联网与 AI 工具",
+    "title": "Social App Developers (2026) - Business of Apps",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pMzRsNjNOd0pKTHpUbHcwSzBZWFp3VTIwMW1URUpSSnNYZjBNODdmaXRUMzUtdzYtWTJBQ05EYkx5VkJFMFBDaXdEMXJVYzZ5T204RnNBS1RyMHljRHBmSWhhcw?oc=5",
+    "summary": "Social App Developers (2026) Business of Apps",
+    "published": "2026-10-26T07:00:00+00:00",
+    "source": "Business of Apps（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "3765ca26790fba4bb114cd6fd1c3918efd9ba3571c8fc5d6a6f140afdd4e3ef0",
     "category": "互联网与 AI 工具",
     "title": "DeepSeek vs Qwen vs Mistral: 1T Params, $1.36 Input [2026] - shattered.io",
@@ -6589,6 +7772,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "ffb6984a4d8fa56bb40c98da104889a3dc5aac1cde3631ac5b998c62764a5d47",
+    "category": "互联网与 AI 工具",
+    "title": "Jixian Technology Series A: 5 Edge AI Takeaways [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3VsWDRHamVxc1pXVDF6enBpdDBpbEE2YVIxQ3pRdndnaHhQMDd3QXVIWmVJbXJ0Y3BFSlNva1ZQS0tQanlLREJ4ZzdFd1N5QXRBc3JTMEl5VHBEcUpWRGx2azNPSF9FamFDVy1MdThLQ291ZmNvSnhpd3EtdVkxNg?oc=5",
+    "summary": "Jixian Technology Series A: 5 Edge AI Takeaways [2026] shattered.io",
+    "published": "2026-10-26T06:02:08+00:00",
+    "source": "shattered.io（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "31ca9730dca3346dc8bd127e4a597afc339cf7d2602f0056513d0255ce0cf499",
@@ -7514,6 +8710,19 @@
     "priority": 1
   },
   {
+    "key": "f905a7edd2924e996109cb6351bd9256eed942d6e0f0189c2ba512e990dde4a5",
+    "category": "互联网与 AI 工具",
+    "title": "不止是加速器：亚马逊云科技为中国ISV出海提供可落地的全球化增长方法论 - 中关村在线",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NVJvTDhGMHUxNFg1SV9PR2dIbDk4N0xKclFZY1M3TmRnVV9sUWlsbXVKV2hESmszOXFQMjBzRjZMYlcydkZycFZ1TDlVcVlBSWE3aUJ3?oc=5",
+    "summary": "不止是加速器：亚马逊云科技为中国ISV出海提供可落地的全球化增长方法论 中关村在线",
+    "published": "2026-10-25T18:02:02+00:00",
+    "source": "中关村在线（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "07d9b2ee4610db0b4f3158d304421b287423db9c61fdef07de6194d2e92076dc",
     "category": "互联网与 AI 工具",
     "title": "Learning to Be Me (1990) [pdf]",
@@ -7828,11 +9037,11 @@
   {
     "key": "fab4664ae10e28dcad6ae79b185192a778f32c638cc7897b179417178b5a09b6",
     "category": "互联网与 AI 工具",
-    "title": "AI图搜找厂，云链计划布局家具B端供需平台 - eu.36kr.com",
+    "title": "AI图搜找厂，云链计划布局家具B端供需平台 - 36Kr",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQVpfVGV5OEUxTTdOQlBaWkFaSmVkRWtZRDZvQVBrTVloMmhzWk5wVGk1cEhLNEtnUlpVSkRnaURINy1OU0s4bUczSmZlR1YxNm40?oc=5",
-    "summary": "AI图搜找厂，云链计划布局家具B端供需平台 eu.36kr.com",
+    "summary": "AI图搜找厂，云链计划布局家具B端供需平台 36Kr",
     "published": "2026-10-25T12:21:00+00:00",
-    "source": "eu.36kr.com（国内互联网检索）",
+    "source": "36Kr（国内互联网检索）",
     "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -9113,6 +10322,19 @@
     "priority": 2
   },
   {
+    "key": "9faa8b476ad228a4863e940b115b75323f285cbc4b15624ec7c97af73b4d8d67",
+    "category": "游戏开发技术",
+    "title": "Gears of War: E-Day and a cost of 500 million before marketing - Foro3D",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaTN1UzBRRTEtQVFBZTYxRGNma3JGN0lxaVJnLVlueGFlV3lMZHA3WDFxYUxNR09Sa3h1WWdfX0pHMGlLcHhHVHpnLXFtVlczVGxNTE1oR3RNQVhTNTFlaXJ5TW9rZXdUSFJzb0xDS3pVSHJoRks0V3FRTTlabVdCQjF3RmVYRmNyN3JRd3lKZk1OMktwNkZfRGNsOXJjSmxWTEJEWWtDSQ?oc=5",
+    "summary": "Gears of War: E-Day and a cost of 500 million before marketing Foro3D",
+    "published": "2026-10-24T07:00:00+00:00",
+    "source": "Foro3D（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "7c3ed1f77c1366252d695af2803d8a5099a9624f048bf191712639dc41e4fbc1",
     "category": "游戏行业与发行",
     "title": "GDAI to host 18th India Game Developer Conference in Chennai from October 28 - MediaNews4U",
@@ -9722,19 +10944,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "0777d2dd13b12e4d4aa09b498b7b1416f38dfb679a1fd8f504e5135c0c6097c7",
-    "category": "互联网与 AI 工具",
-    "title": "Supabase Remote Jobs 2026: 54 Global Opportunities in Engineering, AI, Product, Marketing and Operations - Global South Opportunities",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0Q0ZOc2lvbWd4dmZJcUxtUkZzY0VxZEJGYk5DTzJwMkJEX3N4cDhVNFBrWEd2NGcwNzUwbV9JOEEyeWRSd1ZTQkk5ZjdURXF6WkJvSVRCRTJVOHQ5YTM4STFhblkwQ1R3YlVGV0pR?oc=5",
-    "summary": "Supabase Remote Jobs 2026: 54 Global Opportunities in Engineering, AI, Product, Marketing and Operations Global South Opportunities",
-    "published": "2026-10-23T17:22:17+00:00",
-    "source": "Global South Opportunities（海外互联网检索）",
-    "source_id": "海外互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "0af5891f812aebe5b10d4def6dab75405fddb7c98a7a6c439ad232a1818cd2f1",
@@ -10623,9 +11832,9 @@
   {
     "key": "e2541516286e1aa223cf04d3cf878e23c6d7a32b83a656dd1f5025b238adffdf",
     "category": "互联网与 AI 工具",
-    "title": "Copilot Pricing: $10 Pro Buys 1,500 AI Credits [2026] - shattered.io",
+    "title": "GitHub Copilot Pricing: 1,500 AI Credits for $10 [2026] - shattered.io",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQanN0Z3pWYV96NVA5WkRXQVBhSERXcEkwWmd1Q2ZZWVZTQ3gzUnNmZi0waHh1bWI0MXNaZkt6d1FWQXk3T2NTMmtDcFJzVG1oMWtWQ3IwRWkwemsyanBmSFBDYmhQNGdVX0ZYLUxaWU9oWGhTeXNjcEdGLVFlRmxvVE84dmUwaFU?oc=5",
-    "summary": "Copilot Pricing: $10 Pro Buys 1,500 AI Credits [2026] shattered.io",
+    "summary": "GitHub Copilot Pricing: 1,500 AI Credits for $10 [2026] shattered.io",
     "published": "2026-10-23T08:22:46+00:00",
     "source": "shattered.io（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
@@ -14490,19 +15699,6 @@
     "published": "2026-10-21T22:24:00+00:00",
     "source": "https://tech-insider.org/（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "fe2deb1770cb09063a59b1211d32bd8155518792da104985b09b894b813e1a6d",
-    "category": "互联网与 AI 工具",
-    "title": "Meta Platforms | Facebook, Instagram, WhatsApp, & AI - Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBURjhqMVZMX0ZkV09OemJjOFFTV3d3NnMxcmgzTXdkbW1tbTByTUJUZzBncUlxbWhxSzhsOGZ3RmNNdTRxMnVZc0ZWWGtBbkdZakdKZ2UtejhER2s?oc=5",
-    "summary": "Meta Platforms | Facebook, Instagram, WhatsApp, & AI Britannica",
-    "published": "2026-10-21T22:04:00+00:00",
-    "source": "Britannica（海外互联网检索）",
-    "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -18525,19 +19721,6 @@
     "priority": 2
   },
   {
-    "key": "0df5c6b9b61c5396e0dab6d19221c498e33eeb8c7ce97039a4885bded068fdba",
-    "category": "互联网与 AI 工具",
-    "title": "Best IT Courses and Certifications for Career Growth - Simplilearn.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcW9xcllRNWo3aGdVb0R4UDktbHZkczZRcUdkU29fRy1OZnpVd0dwR3VnZDRzYmJ3OHVCV2xZeTNORW5qeEg0aVlpX1o3SzRZX211M1B3YWc1Y3pRQjhiaW8tRHdtcnVscFFXQWVndFp3V2pMWm1kNHRZSTVmejUxME0yUV9iYzVVV0w5dEh1c2NPazBKckdGU0dYZ3NxcFA5SXZDY1lB?oc=5",
-    "summary": "Best IT Courses and Certifications for Career Growth Simplilearn.com",
-    "published": "2026-10-20T07:00:00+00:00",
-    "source": "Simplilearn.com（海外互联网检索）",
-    "source_id": "海外互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "abb1199087dad49adb90a39507e5c046dbd53ac91c5ef9dee7d0481f2dcf4707",
     "category": "互联网与 AI 工具",
     "title": "GitHub Copilot Retires 6 Models for GPT-5.6 [2026] - shattered.io",
@@ -18702,19 +19885,6 @@
     "published": "2026-10-20T03:33:08+00:00",
     "source": "36Kr（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "f905a7edd2924e996109cb6351bd9256eed942d6e0f0189c2ba512e990dde4a5",
-    "category": "互联网与 AI 工具",
-    "title": "不止是加速器：亚马逊云科技为中国ISV出海提供可落地的全球化增长方法论 - 中关村在线",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03NVJvTDhGMHUxNFg1SV9PR2dIbDk4N0xKclFZY1M3TmRnVV9sUWlsbXVKV2hESmszOXFQMjBzRjZMYlcydkZycFZ1TDlVcVlBSWE3aUJ3?oc=5",
-    "summary": "不止是加速器：亚马逊云科技为中国ISV出海提供可落地的全球化增长方法论 中关村在线",
-    "published": "2026-10-20T03:22:32+00:00",
-    "source": "中关村在线（国内互联网检索）",
-    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -24682,19 +25852,6 @@
     "published": "2026-10-16T07:00:00+00:00",
     "source": "新浪网（国内互联网检索）",
     "source_id": "国内互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "e20a64857c6f60ac290d3a0f6255c59ad3f709fda19da8c8b714d2d21a33dc34",
-    "category": "互联网与 AI 工具",
-    "title": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions - Simply Wall Street",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCZkY0eWVFREladGxvQmJBWXktWHBKTGVqTUNSSXV2d3hESmZxcEtGaHZmNFdnR1VRak15QU5ZWkRBV2cwSDBJQk93dzR5bUh1MFFualdsbExJUU5xLThSTFVYNnJMLUxYWU5PbGZOMUlIakM5?oc=5",
-    "summary": "SAP (XTRA:SAP) Stock Forecast & Analyst Predictions Simply Wall Street",
-    "published": "2026-10-16T07:00:00+00:00",
-    "source": "Simply Wall Street（海外互联网检索）",
-    "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
