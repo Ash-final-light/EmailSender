@@ -1,10 +1,15 @@
 {
-  "checked_at": "2026-10-30T06:57:40.191493+00:00",
+  "checked_at": "2026-10-31T06:07:33.354364+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 227,
+  "queries": 24,
+  "discovered": 128,
   "page_statuses": {
-    "redirect_limit": 8
+    "dynamic_or_empty": 13,
+    "network_error": 1,
+    "readable": 83,
+    "oversized": 1,
+    "redirect_limit": 8,
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -54,7 +59,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 26,
+      "job_links_found": 16,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -64,7 +69,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 38,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -93,10 +98,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
-      "job_links_found": 3,
+      "careers_status": "dynamic_or_empty",
+      "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "readable"
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "散爆网络",
@@ -113,10 +118,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "祖龙娱乐",
@@ -133,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "完美世界",
@@ -292,11 +297,11 @@
       "company": "益世界",
       "website": "https://www.eworld.cn/",
       "careers": "https://eworldgroup.jobs.feishu.cn/",
-      "status": "daily_check_limit",
-      "careers_status": "daily_check_limit",
-      "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "status": "dynamic_or_empty",
+      "careers_status": "readable",
+      "job_links_found": 6,
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "柠檬微趣",
@@ -309,5 +314,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 0
+  "new_search_requests": 24
 }
