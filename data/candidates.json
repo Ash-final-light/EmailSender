@@ -1,11 +1,232 @@
 [
   {
+    "key": "e9c3e4539cdb7bc176c196420886d4f4029d28878055fa019e991c27c47227a8",
+    "category": "互联网与 AI 工具",
+    "title": "BTQ Technologies Integrates QPerfect MIMIQ Quantum Emulator into qBraid Cloud Platform - Quantum Computing Report",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRTVfT2tOYXhVWFFkYjl6N3k1X250WlVDTm1PRWJpMThxSlRNTmZhdkE2dXFUYzc5MWNpclBXbDBkRUd2M0lBcExfSjVTZi1rdTJHWV9aM3A1dExIWGhoS3V1ZWNmT0Q0eHhLVHQ0Zzg3NUpnMzFQTFVFdkY3VU1QcUFaUHJ4UlFVRVlzNVBwcnpIcU5IdUFRNmlhMHVKLU5DY2drNnhQdHNpaFRVSXhFbVVTdTJEc3N0NFlkbEw2c9IBxAFBVV95cUxPODNleUpUSXVvSVNBb2lDUTkwVHNDZ2ZZRGFYdHJ1V0dEOFdnUEd0NTllanlxdnVjUmM5d3ZzV1NUQTFsMDdrQl9HdDF1LVZZZlhxRDBtc2U5blFNUFpxS2d2blFsb2tWUFkweEttMFQ1Mi0zSDJUWXJNd196ZTZUSHJ2bHQzRnd5akpYb1lfUXdQZkdsazBuWmFNZzJ0cVA3eVJHa3lCT3oxVmI3cTI1UzdwNjQ4ZC1nYlpQbm1ZZUdHOTJQ?oc=5",
+    "summary": "BTQ Technologies Integrates QPerfect MIMIQ Quantum Emulator into qBraid Cloud Platform Quantum Computing Report",
+    "published": "2026-10-31T02:00:16+00:00",
+    "source": "Quantum Computing Report（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "ed4097559cd8ef0b550b6256ce6780d136406591593ba4e900f3d0547cc5673a",
+    "category": "互联网与 AI 工具",
+    "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+    "url": "https://tng.episodle.com/",
+    "summary": "Article URL: https://tng.episodle.com/ Comments URL: https://news.ycombinator.com/item?id=50311686 Points: 88 # Comments: 24",
+    "published": "2026-10-30T23:51:24+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "122c4f0b0bc1c513331293ccfc5514e69cb26704ce753d39273c7dc235b88049",
+    "category": "游戏开发技术",
+    "title": "Anthropic orders AI tool Claude to stop remaking video games - Game Developer",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkRTbnBaVVk2ZEkzamZJZXpfMWlpWDJuRXJLa3RnUEI2SGJvYVJrd3dhUWhsRUh0Qi1NS0x1ZnJDTUNsY0FpUkVOaGpraTRzXy1ZV2g1bFhMemdEeWUwZzI1QkxRNExMSmxKUzYyeEEtUzJqTG1nS1NrcGRrWTRuMHhrcHJQQ1B6OFlwbXVjVXoxQjYzUTdJb0NCRFF4Q0lfUmRrd2ZMSXdtS25YR25HVjN2OU52SEp3Sncw?oc=5",
+    "summary": "Anthropic orders AI tool Claude to stop remaking video games Game Developer",
+    "published": "2026-10-30T22:21:36+00:00",
+    "source": "Game Developer（Game Developer 开发检索）",
+    "source_id": "Game Developer 开发检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "4fafb24bf0bf0a34db9ce155a4a3b30e070062198d6954971cb4922cc2cf8de6",
+    "category": "互联网与 AI 工具",
+    "title": "Linode Security Incident",
+    "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+    "summary": "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm Comments URL: https://news.ycombinator.com/item?id=50310687 Points: 163 # Comments: 87",
+    "published": "2026-10-30T21:57:40+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "8d821849286ada42dbbaeffc87934491f0f5495e9427a72589e5eaadca02c572",
+    "category": "互联网与 AI 工具",
+    "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+    "url": "https://www.firezone.dev/blog/introducing-sanstun",
+    "summary": "Article URL: https://www.firezone.dev/blog/introducing-sanstun Comments URL: https://news.ycombinator.com/item?id=50310398 Points: 76 # Comments: 14",
+    "published": "2026-10-30T21:30:00+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "54dad389b9276c85f80f18a80211a81dd11bbf9c5123bf72fcce9a9b09136769",
+    "category": "互联网与 AI 工具",
+    "title": "AO3 Down for Maintenance",
+    "url": "https://www.otwstatus.org",
+    "summary": "Article URL: https://www.otwstatus.org Comments URL: https://news.ycombinator.com/item?id=50310258 Points: 99 # Comments: 27",
+    "published": "2026-10-30T21:17:23+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "fdd233fdea2301371e01148a87c8003e51eeaf626d8585063b14de63dc3214ca",
+    "category": "互联网与 AI 工具",
+    "title": "Claude Code adds a write boundary for three file tools - OpenTools",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSmJzT3VJenF3YzNtV1JUU3NwRTIyd3dNX0tCdTJIRFU4MFVkUlFZd0xwU09tQXRmWWh0M0h1TFZpWnFseEpQUUpad29JN0ZpZ181ZGYyaHVWYTBKd2xROE1rV3hKYm94akVyTlhkTFFOaVFDUno4ZW96YUNpZGVTcTNsbUI3Z0lTcDFkX05fX1M?oc=5",
+    "summary": "Claude Code adds a write boundary for three file tools OpenTools",
+    "published": "2026-10-30T21:01:22+00:00",
+    "source": "OpenTools（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "3730fecf762f6322602d99034dd90b92724b0d2288fd38d6a5ae13bb46c10b8c",
+    "category": "互联网与 AI 工具",
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "summary": "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator.com/item?id=50309647 Points: 234 # Comments: 136",
+    "published": "2026-10-30T20:23:30+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "d9e278a1eddf55a6e992644bb34ef8298e8b9661bd2e9cf1f3cea9a357e798db",
+    "category": "游戏开发技术",
+    "title": "Fortnite players could see stability improvements as Epic Games embraces AI - GAMINGbible",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEE0NUpoUGVhdzJTZHdpeDZVb3o3dEQtTDl3ZEJRenlHY0pmRlhOZWxnNzJ4OGN5WGlhSTNHTERtQkJiV0FHU1ZvUGw3LTRvWE1XSDNxOU1nQ3NqX01QcnJYYVd1VFlMUml0QVd3emJsRXVaRlZLNUMzY0gxdFQyaEZ1enJiajZqaG5kUnVTcG5HLW5xdXk2aHIyZw?oc=5",
+    "summary": "Fortnite players could see stability improvements as Epic Games embraces AI GAMINGbible",
+    "published": "2026-10-30T20:00:00+00:00",
+    "source": "GAMINGbible（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "b65f6c56c4508fd784f83c3681911390db6af1a432ea17a6f1f76a11deb356b6",
+    "category": "互联网与 AI 工具",
+    "title": "Jules Verne's Lost Novel",
+    "url": "https://blue-continuum.com/verne-paris",
+    "summary": "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 86 # Comments: 19",
+    "published": "2026-10-30T19:55:10+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "6e1d64b93982139388a267b81ff8e7356a10d6c6e9ecb0bd1a68353ce8a529da",
+    "category": "互联网与 AI 工具",
+    "title": "The oldest ice disappears and the Stone Age emerges from it",
+    "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+    "summary": "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 103 # Comments: 39",
+    "published": "2026-10-30T19:51:33+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "43d219ce1d28bc8d40f4b30cf6d7b5171d7f8902cf0590a74b2d378fe90a16de",
+    "category": "互联网与 AI 工具",
+    "title": "Infinite Mac: BeOS",
+    "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+    "summary": "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 113 # Comments: 42",
+    "published": "2026-10-30T19:30:09+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "43fc717d688d29c5ccb22b6d6494f298d13fbd5772f21b0125c50d7824bac898",
+    "category": "互联网与 AI 工具",
+    "title": "A Pickpocket's Guide to New York",
+    "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+    "summary": "Article URL: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york Comments URL: https://news.ycombinator.com/item?id=50308986 Points: 61 # Comments: 7",
+    "published": "2026-10-30T19:26:39+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "b4208e0b3f69600c867cbabf7bb0917b822eab6a68555bd736f8c2c54aa3c83a",
+    "category": "互联网与 AI 工具",
+    "title": "What’s new in AI infrastructure and orchestration in October - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeEJLWXRCYmZVWWdnRnoyMUh4dWktaWJEV1NJenBuRTNfMWQyd1RXTkx0V0wycnJFbmxxNHFnZFBsWFZKdl9SN1dXUjFTbVJ4Q1VYbjZCM0ZPMWNDcmRoM3R3ZmZNTUt4TE9vdHpEQTZFSF9oUXg5aXVZWEZhTGVJeURWOXBJaHF4MzE0N21TMW0tZmNTTUtXT19MUl8?oc=5",
+    "summary": "What’s new in AI infrastructure and orchestration in October Google Cloud",
+    "published": "2026-10-30T19:01:03+00:00",
+    "source": "Google Cloud（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "a87ecaccd974cc90bfe9640c4654f9d4db5af1f5b441f694df5b31fa36318c06",
+    "category": "游戏开发技术",
+    "title": "Rivian brings Ghostbusters universe to Halloween Mode, with real-time visuals in Unreal Engine - GameDev.net",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0QxakZaRkgxTWN6TDlCZ0xIVTVJV0ZIRDlNVmE5MFo0dDBiQjJyUWhNTkk4ZkQ3V3VCYWpwMW5STzc1bVNhcDJod05pQ3N3S1lHVGE5Y2VyTjVodGpOVzhnT3FYS25CRk9zbWx4SFgtVHdudU0zRzVnemcyT3hnYW5qWHZrbEc3U0hfWDZFNjV5YzNGZ1BMd3F4amotTFNnd2NzcUxLa0p2MW5idHBV?oc=5",
+    "summary": "Rivian brings Ghostbusters universe to Halloween Mode, with real-time visuals in Unreal Engine GameDev.net",
+    "published": "2026-10-30T18:39:09+00:00",
+    "source": "GameDev.net（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "c06c554ce993dbbaacfe9d789630c3deae81657542fc5b0a2a24ca26bf65d8a0",
+    "category": "互联网与 AI 工具",
+    "title": "10 Software Companies in Nuremberg to Know - Built In",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uNjRMSGJQVDh2UFFVOEk2NUhOUUhRbFAwX0hwT0xocE1LdHFQTGN1YnBHVEZkUFpPWm9Kb0M0ODRQVXJSdHRWYWphdjJvVUJKU3pqUUVMRTdUbHJNbnd5NFhPdkY5X1ht?oc=5",
+    "summary": "10 Software Companies in Nuremberg to Know Built In",
+    "published": "2026-10-30T18:32:31+00:00",
+    "source": "Built In（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "e10faf72702fa8ffb632cd30da3f8da77d9400ba35147b0849dcbaf484cb4826",
+    "category": "游戏开发技术",
+    "title": "2026 Industry releases and what’s coming in Q4 - Unity",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15YmNNSXlndnhsRzBLbmVMUE1Kc1ZSQ0VvNDRfSWJxUW1NVnJIQnFvLWNhNW52MkFpNWpyNlpEZC1NOHZsX1dvNWRhdHpLa0NjZmR4LTFQTkZwbXhvUWlwVl9jZXp5MFNNQzJv?oc=5",
+    "summary": "2026 Industry releases and what’s coming in Q4 Unity",
+    "published": "2026-10-30T18:07:21+00:00",
+    "source": "Unity（Unity 官方发布检索）",
+    "source_id": "Unity 官方发布检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 4
+  },
+  {
     "key": "e97bb6c9ce370446b74f8c77a809c936a5462b1a66f56ea42af0b86eea18ec63",
     "category": "互联网与 AI 工具",
     "title": "Adobe vs. Axon Enterprise: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUGtjTDAtTVRWUHZ3MjBKZ3JzQWZOV094MFdlQTJuWkVVSVA4bkExUHB4cWl6UEs1VnhzTC1uZ19JU2pTZTJmbTV4VG5iN2pSY1BjNVlWUXI5Rm5vSmwzVmFMdklkTW5JVEJqTEpEelVqSm1QUzhpQ3hFNG82dkRVaHI0X2VlbzM2UTF3ZzU4cFF6cVhjOUZacWF6Q0tySmxhaWpuNVI2WWZkWHgzZnlQN2pPQWF0WEl3ZkJhbzRfcW1Udw?oc=5",
     "summary": "Adobe vs. Axon Enterprise: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
-    "published": "2026-10-30T17:21:28+00:00",
+    "published": "2026-10-30T17:57:00+00:00",
     "source": "The Motley Fool（海外互联网检索）",
     "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
@@ -13,11 +234,37 @@
     "priority": 2
   },
   {
+    "key": "08bde48bb10fe72f9899f63bffb496df531b2b65fe679376b80f621d33a3237c",
+    "category": "游戏开发技术",
+    "title": "Atelico推出面向游戏开发的本地AI引擎 - QQ News",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VSTVxVlYzV1ZfcnhKaEx3aHVoWUVGa1ZBaVpXZTN0XzVoZnhmQTlya1NURF9mb0htaHEyaHlBVGZRSXRLSVZSczdYUDFhcTVHdEpHVWFB?oc=5",
+    "summary": "Atelico推出面向游戏开发的本地AI引擎 QQ News",
+    "published": "2026-10-30T17:39:00+00:00",
+    "source": "QQ News（Unity 中文检索）",
+    "source_id": "Unity 中文检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 3
+  },
+  {
+    "key": "8c7573f6d9106523d0928ce8ecf46b47fc05485dd6b3d48bee593d0bc9ae6d3d",
+    "category": "互联网与 AI 工具",
+    "title": "My favourite PowerMac is a Nintendo Wii",
+    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+    "summary": "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 259 # Comments: 74",
+    "published": "2026-10-30T17:25:15+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "44da56d320b41406002b94df9c966c25761be6e882aebc86f2e2614a9f86546a",
     "category": "互联网与 AI 工具",
-    "title": "A Working Nintendo in ~1GB of Qwen Weights",
+    "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
     "url": "https://github.com/dbreunig/nesformer",
-    "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 14 # Comments: 15",
+    "summary": "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 200 # Comments: 113",
     "published": "2026-10-30T16:40:22+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -39,6 +286,19 @@
     "priority": 1
   },
   {
+    "key": "b7f21bd75148f2f1d47c36619cd90d9e3bc59b17224c3745bce0059fee5f985b",
+    "category": "游戏开发技术",
+    "title": "GDC Side Quest - An anti-cheat primer with Lucia Suarez - Game Developer",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1NVck5vbmFWWktqVmVxMFBzMjktd1p5Q0pkQ192LVZoTVltdDlITzdhVy12YjBJNlZ5ZmJEbUkzamFYODN6RnpoamJuMW8yalF3M2J5RXRQUXBIU3pjcHctendQd0pFcHRNbkpFTTNoeTRzb2FDM3AyeXNmblRKdjJsVFM5ekdwd1dhdlRqU09XelYycEYySGdGWQ?oc=5",
+    "summary": "GDC Side Quest - An anti-cheat primer with Lucia Suarez Game Developer",
+    "published": "2026-10-30T16:02:50+00:00",
+    "source": "Game Developer（Game Developer 开发检索）",
+    "source_id": "Game Developer 开发检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "01bb6df909c8ebd91d84d3661486b12067076f980302544aa20c7d80f00fa934",
     "category": "互联网与 AI 工具",
     "title": "Sam Altman Thinks You're Wasting DRAM",
@@ -54,9 +314,9 @@
   {
     "key": "55737272f83db8f20c925a42cebb24bf05305780f9db527180de3677b5e23b08",
     "category": "互联网与 AI 工具",
-    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+    "title": "AI isn't replacing SREs, it's deskilling them",
     "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 178 # Comments: 140",
+    "summary": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 525 # Comments: 389",
     "published": "2026-10-30T15:52:18+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -69,7 +329,7 @@
     "category": "互联网与 AI 工具",
     "title": "Florilegium: Procedural Flowers in LaTeX",
     "url": "https://github.com/kevinraymond/florilegium",
-    "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 7 # Comments: 1",
+    "summary": "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 224 # Comments: 37",
     "published": "2026-10-30T15:48:12+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -91,11 +351,24 @@
     "priority": 1
   },
   {
+    "key": "29c2dca5d1ce1a00343926c4ed5e5f7edbec1187f4a52e5fb771c70021cfc7c7",
+    "category": "互联网与 AI 工具",
+    "title": "Verkada gains Australian IRAP approval for protected data - SecurityBrief Australia",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTh3RXNpVU1INFRMUVVEX3BaMXdHNXBVWWFwODFLZUdmV2kyVll4dEVuU2hRSlZ5MDR4SnhSblNpcHVKUUFRUTM5Si1XQnlMVXN0MWV0NXBPbDZJcTRGUVprSnhnLXdMZ2g3T1VZYThoU2NIYjlqeTk3TnRUWjllcThkb1RiTVNwVmtVT00wSVV0RDR6WUNz?oc=5",
+    "summary": "Verkada gains Australian IRAP approval for protected data SecurityBrief Australia",
+    "published": "2026-10-30T15:45:00+00:00",
+    "source": "SecurityBrief Australia（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "297e32a0e1c4c66490fa764be0bfbcc0899a2ec50fda48ea94822479c9dab2f0",
     "category": "互联网与 AI 工具",
     "title": "The federated code forge",
     "url": "https://tangled.org/blog/forge/",
-    "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 43 # Comments: 16",
+    "summary": "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 242 # Comments: 80",
     "published": "2026-10-30T15:44:29+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -143,11 +416,37 @@
     "priority": 1
   },
   {
+    "key": "b4b5d4708ea8c5f7b0dc2cac99c63a5f5fd53584bee0aa1b4851303fc46d45e6",
+    "category": "互联网与 AI 工具",
+    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+    "url": "https://sketch.wakeshift.ai/games/q5ucru",
+    "summary": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https://sketch.wakeshift.ai/games/q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration. In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medium are 2, and hard are 3. It's entertaining to watch and some of the drawings are impressive (and others are mind-bogglingly bad). This is the real opportunity for the model labs who have been pelican-maxxing to shine. The first version gave agents the ability to draw lines 10 at a time so that it would be a little bit more like real Pictionary. However, it turns out agents are _really_ bad at drawing that way. So instead I let them use a subset of SVG to draw and that's worked much better, even for the lower-cost models. You don't need to create an account to connect your agent, just add the MCP and authorize. But if you don't want to do that, just watch the game linked above. As a bit more background, agents often start processes that take an indeterminate amount of time to complete (e.g. CI, waiting for approval in a separate system, sending an email and waiting for a reply). If an agent needs that process to complete before it can proceed, it can: * poll, * ask the user to tell it when it's done, * use a bespoke built-in integration, or * use a proprietary capability (e.g. Claude",
+    "published": "2026-10-30T15:23:11+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "0d9a229900748af0e4a2e35bb14d843ef890427aa0d0e9b27eba692e0ee34931",
+    "category": "游戏开发技术",
+    "title": "Electronic Arts Shut BioWare to Back Star Wars Game, Bloomberg Reports - Northeast Times",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1FORTZDWXJ0czItOXR1V1FEQ3c5NVp0UGJXQ3p3aW8tZWR1aHRINmFVSFFwbktnOUF5NWRSSVZCWmRsVkV6Mmt3ZTk5b21EMHRSVmphY1htWnFkR1RnLTk3UFYzXy1sVjRDRlN4VWRGbGR0UUh0UndnQ2NneFRETXVHS0dIaEo2bm84dExNZEJWemFZWjlVaHpoQ0tFSlZreWg4NElZUG9oLXdU?oc=5",
+    "summary": "Electronic Arts Shut BioWare to Back Star Wars Game, Bloomberg Reports Northeast Times",
+    "published": "2026-10-30T15:15:20+00:00",
+    "source": "Northeast Times（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "b49e140ae02cf75c05aec01b5786abf5e6f076887fbcf8e54aafba04fb916b31",
     "category": "互联网与 AI 工具",
     "title": "Northflank Breached",
     "url": "https://status.northflank.com",
-    "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 95 # Comments: 61",
+    "summary": "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 370 # Comments: 281",
     "published": "2026-10-30T15:10:31+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -195,6 +494,45 @@
     "priority": 1
   },
   {
+    "key": "a008a0bb5a2e614ee9e3c538201db0daba37494cf3ab72c02c105f06a63405a9",
+    "category": "互联网与 AI 工具",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "summary": "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 118 # Comments: 142",
+    "published": "2026-10-30T14:08:20+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "fbe32458361b770a40b933bd900d6272af696a973b59f2236b2c7ed3bb4a4ec7",
+    "category": "游戏行业与发行",
+    "title": "On December 10, a summit for top managers in the gaming industry organized by WN Media Group will take place in Tbilisi - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcXFtbk00OXNmZGFqdG9EY3lqMWlmMGpsZDlmMGY0SDJTNjBYTHNxZEw2cU1QS2RkeTEyc19xTlJ0a0ZwbmVCNzY1WHJxZGM?oc=5",
+    "summary": "On December 10, a summit for top managers in the gaming industry organized by WN Media Group will take place in Tbilisi WN Hub",
+    "published": "2026-10-30T14:05:40+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "140904a6015691db93ee4149bcc9f42cb3c240a2cbee9380673752a64ade651d",
+    "category": "游戏行业与发行",
+    "title": "“The Same Amount of Work, But Fewer People”: EA Employees Criticize Management Amid Layoffs and AI Implementation - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MejE0dGN2TWZNei1nVTlkSUMwSjlITEZXNm56RTBSX09BbVA4WmtXa3ZoRlgzVUlyU20zckIyaU1OQzZvdmY1UnpfdXJfdmxobEpMTA?oc=5",
+    "summary": "“The Same Amount of Work, But Fewer People”: EA Employees Criticize Management Amid Layoffs and AI Implementation WN Hub",
+    "published": "2026-10-30T14:05:40+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "a155e66980970a98b59c89bff21df7a684b981af8fbb6b93b67c92d99f4062e6",
     "category": "互联网与 AI 工具",
     "title": "Technology is changing the way small businesses operate - The Business Journals",
@@ -210,9 +548,9 @@
   {
     "key": "39434c94035494e36e6b60cd7292b748229b213de15af189cdffc8c6dbfdada6",
     "category": "互联网与 AI 工具",
-    "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+    "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
     "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-    "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 196 # Comments: 138",
+    "summary": "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 346 # Comments: 237",
     "published": "2026-10-30T12:50:01+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -260,19 +598,6 @@
     "priority": 1
   },
   {
-    "key": "cb96ff8f43b37ed5ab7bd8acb0abedf348d20b92e2f03ff9c0dc9d274e51923a",
-    "category": "游戏行业与发行",
-    "title": "The developer of Trash Goblin explained why indie studios should abandon fixed budgets - WN Hub",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pRTRMWDhMcGpaTmlic2ZsUWtMWmMzSlFfREY1OS1ENEVpakh5SnlwWUtmeUdjc1JDaU1aVEFwOU85N0dCQVgtNk1qcmgwZkE?oc=5",
-    "summary": "The developer of Trash Goblin explained why indie studios should abandon fixed budgets WN Hub",
-    "published": "2026-10-30T12:05:45+00:00",
-    "source": "WN Hub（游戏行业检索）",
-    "source_id": "游戏行业检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "1e7d460b57ba199cc3c7295c8fd505e996703a72f2b594140cfb0f093a2e4152",
     "category": "互联网与 AI 工具",
     "title": "遨天科技成功研制5kW级氩工质中置阴极霍尔电推进系统——先一步采用AI设计，性能比肩SpaceX - 36氪",
@@ -293,6 +618,19 @@
     "summary": "AI 硬件，别想绕过隐私-36氪 36kr",
     "published": "2026-10-30T11:48:54+00:00",
     "source": "36kr（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "c6c9f6bc07ace0feddc83ea9b26de1a283f616371441c10f51b61125d059c6a1",
+    "category": "互联网与 AI 工具",
+    "title": "DeepSeek，怎么就变成了一条「大肥鱼」 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90VWN1bnZTZlFSMnNmV3pkUTNqM3c3ci0tOTVYXzV2aUpBRFNnZDFWZko2OHM3NzVFOVlZdURTcE93dzEtT0xlVkw2UQ?oc=5",
+    "summary": "DeepSeek，怎么就变成了一条「大肥鱼」 36Kr",
+    "published": "2026-10-30T11:48:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -381,7 +719,7 @@
     "category": "互联网与 AI 工具",
     "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
     "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-    "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 186 # Comments: 28",
+    "summary": "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 274 # Comments: 54",
     "published": "2026-10-30T10:06:15+00:00",
     "source": "Hacker News",
     "source_id": "Hacker News",
@@ -403,6 +741,32 @@
     "priority": 2
   },
   {
+    "key": "81de3b9982447b8179173aaa5e5244ea5f275793b2b21b7ea9d0269e6ca375ac",
+    "category": "互联网与 AI 工具",
+    "title": "How do you take a picture of a black hole?",
+    "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+    "summary": "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 91 # Comments: 65",
+    "published": "2026-10-30T09:49:02+00:00",
+    "source": "Hacker News",
+    "source_id": "Hacker News",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "267e4fc38d0e5bcf387de5cc8a8ad1ed06b22f3900f50d26b444c98b3a487fcf",
+    "category": "游戏行业与发行",
+    "title": "Top 10 Best Gaming Platforms In China 2026 - Nubia Magazine!",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zdmk0cmI0cGZtN0xlaXBqUXNiNVFOOVRuZ0N1azMzeE9yeXQwa2QtOXpPWmxRQkhTaFBTcHJibXZEWUdGMk1mVlM4ejA4enkzRlZVMXNyNGl5d2E0eVdlMGx4YllKbjVOWkptRg?oc=5",
+    "summary": "Top 10 Best Gaming Platforms In China 2026 Nubia Magazine!",
+    "published": "2026-10-30T09:47:00+00:00",
+    "source": "Nubia Magazine!（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "ccbbc94f8e62e5280de6a12845b1fc02d0c2542a0c799fdb1643ff2cea961265",
     "category": "互联网与 AI 工具",
     "title": "Triskell Software unveils new AI capabilities in its 2026 SP2 Release - Yahoo Finance",
@@ -411,6 +775,19 @@
     "published": "2026-10-30T09:39:00+00:00",
     "source": "Yahoo Finance（AI 开发工具检索）",
     "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "0d74dc83dbc5f5bdcb2a7fa12d68d1476f10b6d13dd916a77595a995cff5f234",
+    "category": "互联网与 AI 工具",
+    "title": "千峰访谈鲲元日化智云黄宇文：用“反向开品”和联营共建做日化的模态进化- B2B - 亿邦动力网",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XYUNvaEpGR2tYY1JVUWpWTzBJWXR6aWZDN1dMZUJhNkdwcXJiSHZrRUlQaXphcUtwbFM2aVhvWGVMWWtYVDR1R0w1YzFuZno1eDdoWEFn?oc=5",
+    "summary": "千峰访谈鲲元日化智云黄宇文：用“反向开品”和联营共建做日化的模态进化- B2B 亿邦动力网",
+    "published": "2026-10-30T09:35:51+00:00",
+    "source": "亿邦动力网（国内互联网检索）",
+    "source_id": "国内互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -427,6 +804,32 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
+  },
+  {
+    "key": "39b3f8b829eb19975c84fccbd952047ecc9c61e2e0d717ca1fdfafb9d3ed93b9",
+    "category": "互联网与 AI 工具",
+    "title": "Herdr Turns Its Agent Host Interface Into Plain-Text Files, Letting AI Rewrite the Layout Itself - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wTkVJWUs4UEVhWFlrQ0VPN2o5LV9DZXJxbm9XZVhhSUZITGZqaWZ5b3ZFNndGR083SWg3YjVZMVRoMW8wVlkxNVJRUXNvb2ctT1IyWnIxcWZTd3NBb3MzOFFmUFZUbHhibmRSd3ZVREpRbkdYM2c?oc=5",
+    "summary": "Herdr Turns Its Agent Host Interface Into Plain-Text Files, Letting AI Rewrite the Layout Itself BigGo Finance",
+    "published": "2026-10-30T09:26:00+00:00",
+    "source": "BigGo Finance（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "8a9eac49caaa6d9e7453d480744269b889d653c80725c38843a5a7c231b0808d",
+    "category": "游戏开发技术",
+    "title": "《光影新生》开放下载体验，OPPO、vivo、小米设备率先支持 - 搜狐网",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnJ0czNHdUd6b3E0dGhpSVdOZG5PT0pBclU5cDVTRWxhSmFwZnV4S2t0aDdUaGhfdTMwTHR6NldxenQ5R0JDTTdWQnhscUVLVUVuTTRVdmJPN0x1eTZkN2JjczVzM0ZQdUgyYVlvUzBzRWN3eHdJa0VBbWpjY0VKbjhDQTdOVXpM?oc=5",
+    "summary": "《光影新生》开放下载体验，OPPO、vivo、小米设备率先支持 搜狐网",
+    "published": "2026-10-30T09:11:34+00:00",
+    "source": "搜狐网（Unity 中文检索）",
+    "source_id": "Unity 中文检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 3
   },
   {
     "key": "2ceb65900b80ad1381aa0b2b103cde3db3dec4e8a52d0512b0ef3a07066ddb71",
@@ -449,6 +852,19 @@
     "summary": "IBM focuses on platform-based plan for hybrid cloud and AI TechTarget",
     "published": "2026-10-30T08:49:23+00:00",
     "source": "TechTarget（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "abe916aa54ad17ae001c291e63e55ac2d2b0aab68575e0c872038a4c278d05d7",
+    "category": "互联网与 AI 工具",
+    "title": "Rapid development of cloud-based product line meets spike in market demand - NTT Data",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeldXbFJOdjg2aDFNaWlRQW1SMk9YVjkwWHNjVnZtczQwN3VQbjFBZjRweWF6a1BFczlDVFFBY2ppNF9kS1NRRlFTcXhGaDA5M1A3M3hqMjBwZjFGS2d1cTNoNFZ6Z0JHOF9ubWJMNHphelF2Um1NclNsSVFJUVVidWdXSVptbU96OWdod1ZGUzZpQVFtNC16Y0JQWW04UmVoOU9OSTdScXo2UmFmVGlZYUoxWFVQQlFoRl9kSEUyZ1NZUWNq?oc=5",
+    "summary": "Rapid development of cloud-based product line meets spike in market demand NTT Data",
+    "published": "2026-10-30T08:32:24+00:00",
+    "source": "NTT Data（海外互联网检索）",
     "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -481,6 +897,19 @@
     "priority": 2
   },
   {
+    "key": "24d962f2126be5d93fd1e2949c6bdd7e4ff7d9266cdb305775cc88f015477e06",
+    "category": "互联网与 AI 工具",
+    "title": "GitHub Copilot Fusion GA: 3 Tiers, 30% Off [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVF1SHNvYU9qMVpfNzA1R1FtbEZxc01laEZGb2d3dHVzWWFUTUE5bHMtRG1DRzB6SU5tWHVSWjc2NlZuNTNNTFZlOUtsMWJxMUJBM3FmZGJSTEJ1OFhiWktVR1ptaklVbTZEakYwSl9GZlBiSGRId2h4bURfLUowWV9fMlhrX3pzd0UwQlpzdjM1Z0xx?oc=5",
+    "summary": "GitHub Copilot Fusion GA: 3 Tiers, 30% Off [2026] shattered.io",
+    "published": "2026-10-30T08:16:09+00:00",
+    "source": "shattered.io（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "c3d397eebdb2c81e46e71b69efdaa539a779a280814b0338fb78d077191f4516",
     "category": "互联网与 AI 工具",
     "title": "Cloud Market Share Q3 2026: AWS vs Azure vs Google - https://tech-insider.org/",
@@ -502,6 +931,19 @@
     "published": "2026-10-30T07:36:00+00:00",
     "source": "人工智能（国内互联网检索）",
     "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "ecb597432d850494d650afab24965a705e301664fadbfcbfcd27ec65d5b22e2e",
+    "category": "游戏行业与发行",
+    "title": "在尸体上铺路：Steam 动作解谜新游《Re:Re:Re:Respawn》发售，首发 9 折 ¥26.10 - 17173",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBocHpQb2stNW1xWURDcmZXbnRhb3lhVVc2YnNuclg5N1g0djNrVTVwWHFIMTNMQ1Q2cGY1MkZfU3Q4MkJpNnVRQmhxWmFyVmFoQzQ2NlQ3MGl5aVNKWjk3UXk5c0M?oc=5",
+    "summary": "在尸体上铺路：Steam 动作解谜新游《Re:Re:Re:Respawn》发售，首发 9 折 ¥26.10 17173",
+    "published": "2026-10-30T07:34:38+00:00",
+    "source": "17173（国内游戏行业检索）",
+    "source_id": "国内游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -546,6 +988,19 @@
     "priority": 1
   },
   {
+    "key": "66fae6fe6c86c35e3dfd888745a19bdeb5e24afa4b673b671793e5de68bfacb9",
+    "category": "游戏行业与发行",
+    "title": "SayGames: How Cyprus became the launchpad for its global gaming success - CBN.com.cy",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJaFFndkVHbVJTTl8wT2hXVzRhX2l0QUpUWEJxYUotaHdYZURHQllDVFM0Snc2cHVBaWZuNlN4dHczOWpNZFl0Tk1SNjhFdw?oc=5",
+    "summary": "SayGames: How Cyprus became the launchpad for its global gaming success CBN.com.cy",
+    "published": "2026-10-30T07:00:12+00:00",
+    "source": "CBN.com.cy（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "203e17bd1bee33f44ac0f896b49b8083c7de88139e1463b55af1d63a4a3a16f0",
     "category": "互联网与 AI 工具",
     "title": "从“给补贴”到“给生态”， 普陀这场优化营商环境座谈会聚焦企业核心诉求2026-10-30 - 上海市人民政府",
@@ -567,6 +1022,19 @@
     "published": "2026-10-30T06:36:00+00:00",
     "source": "BigGo Finance（海外互联网检索）",
     "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "985ff15a27420298b0ea60b0d21cff98a9fdaa69faeeefd5eccee2192f46f14f",
+    "category": "游戏行业与发行",
+    "title": "《影之刃零》走红，国产3A仍是大厂的资本游戏 - 华尔街见闻",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbndtZUYyX1otNDkzREY4VXlvWmhHWFc2NVBZaFltLU5rR3c0MktWa056ZTlCbEFCcFRRcm1ra1N5ZXdEYXRESG50aE9jT19sZTRv?oc=5",
+    "summary": "《影之刃零》走红，国产3A仍是大厂的资本游戏 华尔街见闻",
+    "published": "2026-10-30T06:12:54+00:00",
+    "source": "华尔街见闻（国内游戏行业检索）",
+    "source_id": "国内游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -622,6 +1090,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
+  },
+  {
+    "key": "c638ced98371c2c9e6abd6aae2c23ed079a328eeec8c38de9518f09e6106e822",
+    "category": "游戏开发技术",
+    "title": "AI fixed Unreal Engine bugs that went unsolved for ten years. Epic Games is thrilled - iXBT.games",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHlnVERQS2QtdzdQcWlQRHFzT2E5aWlFamhTVzZMQnctdnJ1c2Nwb25oQjV1VHBOcFQtY2J4MDBFQUU0cjN0TWxac1hnTTFBYjIwMnVyZ3REZkdwd01ON1RyamJIUTBUQnZ5eFcza24ydFFPRzlrUEpndktPa3VlRFowazF3TGl4VUF1ODNhQ2s1OXFtaS1MZERTNXNyYWk5SWptV3ZlQXdFc0lxcGU3SEhYYnRhSzBQT3g0X2FyeDFWeVNENmNxeGRiZ9IB0AFBVV95cUxOZWNjX2d0V3BpLVhzWERaSjIyTzJrY2hNbGx6eF9XOVNWX3FuRFRMMmh2Nlc1Sy15ek0wTHFCaXpKNjdaVHJubDhkUC1EQWpKWGhhR3UyQmszczVBYUhpaXJQTVpzbGNVaTVHeG5pMENaMk1sSUU2M1NuQkxkRm55SE1uN1hzalJ0SmNIVUpSUGRpUTdqTERmVDl0YXphYjF3MnRUQW44T3Z4dTFLR0NhRmdHdHNjOEFaVzNJQnJDTXpwZTh2YTllb1l1X29VZUN0?oc=5",
+    "summary": "AI fixed Unreal Engine bugs that went unsolved for ten years. Epic Games is thrilled iXBT.games",
+    "published": "2026-10-30T03:30:00+00:00",
+    "source": "iXBT.games（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
   },
   {
     "key": "6d0219eb43a979e9bbf53871f89391cfd6a4042c54c231f15fc57d174b0008c7",
@@ -845,6 +1326,19 @@
     "priority": 2
   },
   {
+    "key": "21cd19dc12e0e0d3d8edf90242c98e2e23cffe64c2ee9aa81614f69ab43230fe",
+    "category": "互联网与 AI 工具",
+    "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDBZYU5EcXJ6REtrNXp1OUNKMjhnN3lQdGoyV1pHMHcyN0FCQ1haaHIxTnl3YXpLOUZhblMtck9kZE1yRGFfXzFBSkR4dlQzTzlGQm5yM0xObGZ5YnNOd3hQQTdmT0NlVkFNa3FRLUc0VkhXLUhtMzBtd1VxN3ViQW50QW1WYlRReG95aDJZSTFJUzl3a0gzWWhZUUJLcnhMQ2stajBubmRBNjJ5SlVTSHFqdVR3Yzdsdm1Qd3dyVXQ0THVhc29sejB1U2lBZmhMbW5UZFFqMlZ5andmb2dMYm5CNA?oc=5",
+    "summary": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched The Register",
+    "published": "2026-10-29T23:12:26+00:00",
+    "source": "The Register（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "fca1f458e64d7c5df51a1991217ba1f3df81288da67ae555892803004ade26af",
     "category": "游戏开发技术",
     "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds - Game Developer",
@@ -1034,6 +1528,19 @@
     "summary": "腾讯的第三次开放，真的来了 36氪",
     "published": "2026-10-29T20:47:00+00:00",
     "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "8f3f6af49863d82c427e9725579ca9e1d1114796631d093686621353181a7862",
+    "category": "互联网与 AI 工具",
+    "title": "AI 硬件，别想绕过隐私 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtMWxrWmRMcGlFb000RjJiU3ZEUXVjUGFEamZRekNyMnJIR1JEcFVBX3o3Tk1TWGp6c19Ja3dlUHhCcUdzdnpmb3gtcmhzQQ?oc=5",
+    "summary": "AI 硬件，别想绕过隐私 36Kr",
+    "published": "2026-10-29T20:46:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -1651,6 +2158,19 @@
     "priority": 2
   },
   {
+    "key": "e60a89e570374fbd28824400c218aceae1cb4bcb0fb7ec0d89b63902be34203f",
+    "category": "游戏行业与发行",
+    "title": "The 4th Game Developers Meetup is coming to Larissa! - Unboxholics",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzU1dWpqeXRiamdpckNDSWJjYUdjd0VCZDBCbEN5ZUNja01pRnJGVDM5dzRFRlVkc2x1SXJEOFBobldnYkg3X2oxOWVLVXZnNEZOSlAzRmNDVEp3NjJGeWJORG1mV2pONjVvVExlbHJqT0ZTTGE3bDVuRVNMSXVjc1hxTkM1eWxJa0FLeTUtVUJMa3ZnOWdzRQ?oc=5",
+    "summary": "The 4th Game Developers Meetup is coming to Larissa! Unboxholics",
+    "published": "2026-10-29T13:50:00+00:00",
+    "source": "Unboxholics（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "008ae91e8992b51c4ea00773760a678af87916edb15b8060c05c4bd905711824",
     "category": "互联网与 AI 工具",
     "title": "收入降19%、利润增72%，舍得酒业离收入止跌还有多远？ - 36Kr",
@@ -1805,6 +2325,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "2efe39a3c22fdc41c56e3bace9d12a88150f113fff75da0c9b352dc1530c6ceb",
+    "category": "互联网与 AI 工具",
+    "title": "BTQ Technologies' MIMIQ™ Emulator Now Available to More Than 35,000 Quantum Developers on qBraid - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNzBlZVJnTnV2NWJXYVpJSUd2dGJKVF8tS1VST0hDVlhTNFo2RGVoVGJCQ3c3cFlvVWRsTEV0bXMxUEhkUGxYWkE2X2pIc2x5UDV0OVFmSVd3by1EYjVlaEdQS05WbFZhR2pTQmUtRGxQNDcxWWtzdkh6ejEzRVFxenJCTWNGVUVVVGdyTHprUU1oaDF0MUFFaVVWUGtLWTNNRlZKMkEyQkUxem5CZFBLWGdDUFJoeWtqVFNqWVZfN183S1hRb2FKdmVFaDJVUXRUWVFacGFqQ0QyYnkwZTB2ZDVma3k?oc=5",
+    "summary": "BTQ Technologies' MIMIQ™ Emulator Now Available to More Than 35,000 Quantum Developers on qBraid PR Newswire",
+    "published": "2026-10-29T12:30:00+00:00",
+    "source": "PR Newswire（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "4e701e7583a634c563f524b885eb5e16ee170c92c5df5670851b5100997681f4",
@@ -2145,6 +2678,19 @@
     "priority": 2
   },
   {
+    "key": "65012dd096bc58ab42f740174c805c1db89d07b956a21d8e4ccec32fbe302c38",
+    "category": "互联网与 AI 工具",
+    "title": "腾讯云国际业务：AI产品海外需求三位数增长，海外活跃用户数翻倍 - 中宏网",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFWi1ycnp0ZDBjd3NxRjNSa0MtdW1uVjk1ZXZnZ24tY29leWttY3hKRVRsdlEzMzRWa2dJWmNRWEFDWE1nZld4bXhrVV9KOFFQdTd2c1NNZ3Z6a2hjQUhyUDB3?oc=5",
+    "summary": "腾讯云国际业务：AI产品海外需求三位数增长，海外活跃用户数翻倍 中宏网",
+    "published": "2026-10-29T09:23:12+00:00",
+    "source": "中宏网（国内互联网检索）",
+    "source_id": "国内互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "75ccfb2e14ca9badc9d37ec3da1a39cd8b08c6b03e1115d149be2d1d0d4f862d",
     "category": "互联网与 AI 工具",
     "title": "萤石发布《立体信任：萤石AI视觉物联网运营安全白皮书》 - China Daily",
@@ -2270,6 +2816,45 @@
     "published": "2026-10-29T07:05:10+00:00",
     "source": "News Today（游戏行业检索）",
     "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "2ccf6e63565bac6fe19ccf63fd35b905c72a41dc9c4e8e700bb81f099c33b09e",
+    "category": "互联网与 AI 工具",
+    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) - Unit 42",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
+    "summary": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) Unit 42",
+    "published": "2026-10-29T07:00:00+00:00",
+    "source": "Unit 42（海外互联网检索）",
+    "source_id": "海外互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "f1a538c95e8a1b221095bd5d0d3a28e243520c50bc2e6210ecdea94202a97219",
+    "category": "游戏开发技术",
+    "title": "UE devs can now choose to train AI Models on their projects - Howl.Link",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE50Y0NXS1JjV2s5d2hzSTRSeVBOekR6ZXVKa1B0V2NiRXplUzVZZ0NOeks2cDB6N1dhN2lz?oc=5",
+    "summary": "UE devs can now choose to train AI Models on their projects Howl.Link",
+    "published": "2026-10-29T07:00:00+00:00",
+    "source": "Howl.Link（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
+    "key": "2530c19e4528b4eea720a148880a89b72dcb0b2437a02eb870ea47ae192b32c1",
+    "category": "互联网与 AI 工具",
+    "title": "AI Layoffs Tracker - Layoffs.fyi",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SZnVlV3ZWcFBrLWJzQ3RjRDcwT3JBTlJLWlRLQ29rWmhtSjdnaHpWb1UzemJ2Z2NWbF8teUc5M1cyZmdtZ0E?oc=5",
+    "summary": "AI Layoffs Tracker Layoffs.fyi",
+    "published": "2026-10-29T07:00:00+00:00",
+    "source": "Layoffs.fyi（海外互联网检索）",
+    "source_id": "海外互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -2652,6 +3237,19 @@
     "priority": 1
   },
   {
+    "key": "cb96ff8f43b37ed5ab7bd8acb0abedf348d20b92e2f03ff9c0dc9d274e51923a",
+    "category": "游戏行业与发行",
+    "title": "The developer of Trash Goblin explained why indie studios should abandon fixed budgets - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pRTRMWDhMcGpaTmlic2ZsUWtMWmMzSlFfREY1OS1ENEVpakh5SnlwWUtmeUdjc1JDaU1aVEFwOU85N0dCQVgtNk1qcmgwZkE?oc=5",
+    "summary": "The developer of Trash Goblin explained why indie studios should abandon fixed budgets WN Hub",
+    "published": "2026-10-29T00:05:45+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "fd6c7c6c47f5d5049702ca08a6933694635921b8555fd24e166cf09a1039c341",
     "category": "互联网与 AI 工具",
     "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
@@ -2689,6 +3287,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "f423cda90ec4c1d72331d02306c6b95ef9f1e8a48111e021c17b5458403ad419",
+    "category": "互联网与 AI 工具",
+    "title": "Best AI Coding Assistants: 12 Steps, 90 Min [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kN3Nzc0dzUW54Vms3Q2hSU05SN3V2UTIzbzB6RGNKczdYa2lmRWRZa3NUeW54NXYzbE1lX2M4eVdkQi1hdDdrSzZBQUJ3Vll3MUo0VHctaWQ1V29mRE8ta1JmSTFIUXIzblpOUGhtd2Z1Ry1SVXJQU3VSTko?oc=5",
+    "summary": "Best AI Coding Assistants: 12 Steps, 90 Min [2026] shattered.io",
+    "published": "2026-10-28T23:18:38+00:00",
+    "source": "shattered.io（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "493a1a57362b30f6f65922617b03ef3fa75cbb153ebeac931e2c15883dcf8934",
@@ -2925,6 +3536,19 @@
     "priority": 1
   },
   {
+    "key": "794c9d74c21bf6125f2868302463cf271e61708ca3dbbe6f73dd801232b08616",
+    "category": "游戏开发技术",
+    "title": "Unreal Engine: Epic Tops Unity 42% to 30% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4YzQ1QURNczZEY3c4aHlXTVA1T1NLemtxNEUzYzZxVlF6RUpDTktRN0VWR00tVTBnYnI5ZGlTa1dfZ2lNbnhOQjdGQlMtU3lTallwazdGVVVmQ25RVjJlRV9jM3p6c0dNSmNoUUd3?oc=5",
+    "summary": "Unreal Engine: Epic Tops Unity 42% to 30% [2026] shattered.io",
+    "published": "2026-10-28T20:06:28+00:00",
+    "source": "shattered.io（其他引擎检索）",
+    "source_id": "其他引擎检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 1
+  },
+  {
     "key": "acd249c993c7b2ea4113a9760e555fafac2faf44616ac2ab23d5247f47f75f96",
     "category": "互联网与 AI 工具",
     "title": "兆易创新第三季营收87亿：净利42亿，市值跌破2000亿，朱一明高位减持，套现44亿 - 36Kr",
@@ -2966,15 +3590,28 @@
   {
     "key": "466aa36d43feb096cbeb47ecfa56bdd71264921d72ab735b969ef7722a13e9d5",
     "category": "游戏开发技术",
-    "title": "Google Play Indie Games Fund 2026 - Games Made with Unity in Africa | Unity Blog - Unity",
+    "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity - Unity",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EdlFLeHU0T0pQdzhxS0hfa2IzREJKeGFUNWlyamRydVdlSnlpX2ZXMDdoOUxqa1lTbm5UMFg5Q1FWbjdWZldzYl9POU1nbzEwUGh5VjEtcGVCTGpPSWRmUGZpY01Idlk?oc=5",
-    "summary": "Google Play Indie Games Fund 2026 - Games Made with Unity in Africa | Unity Blog Unity",
+    "summary": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity Unity",
     "published": "2026-10-28T19:22:37+00:00",
     "source": "Unity（Unity 官方发布检索）",
     "source_id": "Unity 官方发布检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 4
+  },
+  {
+    "key": "8f62f44084b151dd36ba27cf2a38c3bd8a3f398b2cdc48a608dc2d8bc5c3efd7",
+    "category": "游戏行业与发行",
+    "title": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV1MyZnJVZHVuamxKaTBDcGwtdUpXemlJSXpHRWZibDR4T1FkYjJxcEE1bG14Yl84amt3MVFzWWQtMWZDZ2lKZ2Z4ZFBZR1E?oc=5",
+    "summary": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games WN Hub",
+    "published": "2026-10-28T19:21:37+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "8ddc3eea5fadd9dce6421623ea94a5d043f5daf6ebd7d28bbc284f2423f3dbf1",
@@ -3070,11 +3707,11 @@
   {
     "key": "5db861b366759412f06f4f207cbc62aab723ebdf77bc989845c51c2f7c75f9e6",
     "category": "互联网与 AI 工具",
-    "title": "泡泡玛特不是段永平的可口可乐 - 36Kr",
+    "title": "泡泡玛特不是段永平的可口可乐 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnNG1MMGlkbHoyWS1famZQWElpUDVXbmE0Nnp4SzE4T1F0MHo1eXlIdXdmWUJTWHhBRmFOZkFEUTBXVUQyMXhqS1JoaUlDZw?oc=5",
-    "summary": "泡泡玛特不是段永平的可口可乐 36Kr",
+    "summary": "泡泡玛特不是段永平的可口可乐 36氪",
     "published": "2026-10-28T18:51:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -3096,11 +3733,11 @@
   {
     "key": "f107a9fcdf6e5f34f011d116a0c12740c2845f2810c3972724bb5b8efd520321",
     "category": "互联网与 AI 工具",
-    "title": "一批90后，站到了互联网大佬身旁 - 36Kr",
+    "title": "一批90后，站到了互联网大佬身旁 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YRnN5SUhDdThxOFNVQ1Z1ZEhZZ2REQzBfaDlzazJwX01xRHNWS1dhRFFFNnJVbmhQY1JybGhnQ25sTEVHRG5XWldQSHNBUQ?oc=5",
-    "summary": "一批90后，站到了互联网大佬身旁 36Kr",
+    "summary": "一批90后，站到了互联网大佬身旁 36氪",
     "published": "2026-10-28T18:42:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -3744,6 +4381,19 @@
     "priority": 2
   },
   {
+    "key": "2388a16bb1b185058fc5f9f7cb350f51455b9f6d6dc103b729968dd8ec988438",
+    "category": "游戏行业与发行",
+    "title": "Moscow International Game Week to Host Counter-Strike 2 Finals - Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjZCa1hWaHdVQzRKZ3NUdFdZMHgxTFBsN0JyN2pSOVhLVmJoc2pjWmZLTFRieGs4V1BTTEI0OXppTHlvY0xLcnVJN2xncWczenVMWDJhLWNUdUhOUHZwcnBwNno2QjB3alhkMXNRN0JGNE9tUzBOMDlJdFg5OU1Hck5fUlNwRzFmb2VCUkR4ZmxRUUYya2tEc2NmSmtQVnRWeng1cVNtVjZ0aFA5?oc=5",
+    "summary": "Moscow International Game Week to Host Counter-Strike 2 Finals Big News Network.com",
+    "published": "2026-10-28T13:33:00+00:00",
+    "source": "Big News Network.com（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "a13407332020c7c0e8fa44b1a04008e87ce6136b7deec064b6186be8c4db0ea1",
     "category": "互联网与 AI 工具",
     "title": "Mitesco Appoints eXp Realty Executive Frank Panunto to Board of Directors - citybiz",
@@ -3804,19 +4454,6 @@
     "published": "2026-10-28T13:17:00+00:00",
     "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "8f62f44084b151dd36ba27cf2a38c3bd8a3f398b2cdc48a608dc2d8bc5c3efd7",
-    "category": "游戏行业与发行",
-    "title": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games - WN Hub",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MV1MyZnJVZHVuamxKaTBDcGwtdUpXemlJSXpHRWZibDR4T1FkYjJxcEE1bG14Yl84amt3MVFzWWQtMWZDZ2lKZ2Z4ZFBZR1E?oc=5",
-    "summary": "Runic Forge, the publisher behind Hearth and Hamlet, has announced a rebranding to Pythia Games WN Hub",
-    "published": "2026-10-28T13:06:59+00:00",
-    "source": "WN Hub（游戏行业检索）",
-    "source_id": "游戏行业检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -4084,11 +4721,11 @@
   {
     "key": "332da0b0a77fb73bb803ca95a3506812b2e795bac10b7a3ed8e352ef258ddd67",
     "category": "互联网与 AI 工具",
-    "title": "“字节时间”之争：超级巨头的体量与边界 - 36Kr",
+    "title": "“字节时间”之争：超级巨头的体量与边界 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQdkh5cHhSbUdxdXhYZUhXcDlkc2w4cnFpc3pYWWFuY3dIVEY2ZlNaRExiOU8yN1hFbkhXV2FBZTFheW8ySm8zQWRZU240Zw?oc=5",
-    "summary": "“字节时间”之争：超级巨头的体量与边界 36Kr",
+    "summary": "“字节时间”之争：超级巨头的体量与边界 36氪",
     "published": "2026-10-28T11:22:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -4680,6 +5317,19 @@
     "priority": 3
   },
   {
+    "key": "6e53734fb6661dd40f9942934a59d351a3515ee60bb91f76864adcceee8027d5",
+    "category": "互联网与 AI 工具",
+    "title": "可通过AI获客的长保质期宠物鲜食品牌，出海高增量赛道-36氪 - www.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvRGJDc3JuUmVTR0RublkzdGVqR084QkR2d1dJM2VGZWxWeEFMVnlJQ2RlTkRUWVV4RC16bXE0djJlQTdNbUdPbU5jeFJJQndn?oc=5",
+    "summary": "可通过AI获客的长保质期宠物鲜食品牌，出海高增量赛道-36氪 www.36kr.com",
+    "published": "2026-10-28T04:07:11+00:00",
+    "source": "www.36kr.com（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "fdf1ad6dfd5579c7f77d14e86544313699ec2f8d9a0350e1a47d89652fea12d9",
     "category": "互联网与 AI 工具",
     "title": "人工智能重塑渠道网络安全格局 - 电子工程专辑",
@@ -4732,6 +5382,19 @@
     "priority": 1
   },
   {
+    "key": "28da8e26391e4b3d08a26fcc0abca843ad9a3036c114a51fa925413651b668dc",
+    "category": "游戏行业与发行",
+    "title": "Gaming Industry Hits $263B, BCG Sees $353B by 2030 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuUUFsX1ppbkhfcTlZNU5VVUdjSGZjYXVQMGlJUUxjTzJueDhKNk04S2V5ZUE4TlBuVW1CaFhYNTNiNjNjX2xPMUllX0psSHVNT1JoYjZtN3JmZFVaSDM0ejJTMA?oc=5",
+    "summary": "Gaming Industry Hits $263B, BCG Sees $353B by 2030 [2026] shattered.io",
+    "published": "2026-10-28T02:28:16+00:00",
+    "source": "shattered.io（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "79bec49136c0c0e3a3f29bf28e25bb4ea7c3bfc7310f951c25c69a263436a799",
     "category": "互联网与 AI 工具",
     "title": "Nietzschian Debugger asks questions instead of giving answers on fixing bugs - 디지털투데이",
@@ -4769,19 +5432,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "f423cda90ec4c1d72331d02306c6b95ef9f1e8a48111e021c17b5458403ad419",
-    "category": "互联网与 AI 工具",
-    "title": "Best AI Coding Assistants: 12 Steps, 90 Min [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kN3Nzc0dzUW54Vms3Q2hSU05SN3V2UTIzbzB6RGNKczdYa2lmRWRZa3NUeW54NXYzbE1lX2M4eVdkQi1hdDdrSzZBQUJ3Vll3MUo0VHctaWQ1V29mRE8ta1JmSTFIUXIzblpOUGhtd2Z1Ry1SVXJQU3VSTko?oc=5",
-    "summary": "Best AI Coding Assistants: 12 Steps, 90 Min [2026] shattered.io",
-    "published": "2026-10-28T01:50:35+00:00",
-    "source": "shattered.io（AI 开发工具检索）",
-    "source_id": "AI 开发工具检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "001b60c8250b041f8f6baaaa0f4846fe42de182495ae6af26eaac2c27b3b612d",
@@ -5064,6 +5714,19 @@
     "summary": "腾讯AI压力来到微信小微 36氪",
     "published": "2026-10-27T20:46:00+00:00",
     "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "c7cd08ad6d27d57022adfc38aa554ca835803dc6d4041555786dfed6edf2accb",
+    "category": "互联网与 AI 工具",
+    "title": "腾讯AI压力来到微信小微 - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xTGRvWFFHa1N5bHBEd2I4Y3d4RzhrZUoyb1B3MGhEanJTSFNNVUwxX3pLRjZjcnZPeVhuZDNCMnRRMjFJUGJGZTdzMll0bms5?oc=5",
+    "summary": "腾讯AI压力来到微信小微 36Kr",
+    "published": "2026-10-27T20:46:00+00:00",
+    "source": "36Kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -5393,6 +6056,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "76ebdd9561f0649e552787f8080680614d5fc09fc5275015d2b9dfdd1e9b5d73",
+    "category": "互联网与 AI 工具",
+    "title": "元脸FacesMarket获千万级天使轮融资，搭建AIGC人脸人声授权信任基础设施 - 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wLWlvZXB5VnQwSG1TTzFtTWVQR2d2TnkwVE1Dd2lmdE1ma0Nxem5HZWtRTlFfMGxMempwTVN5YmdtcDZNUzF4LVJRbm9HZw?oc=5",
+    "summary": "元脸FacesMarket获千万级天使轮融资，搭建AIGC人脸人声授权信任基础设施 36氪",
+    "published": "2026-10-27T18:19:00+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "def2049e2adb0ec82909a7e83650bf155cde9f1ab2b9fbda7c0d898339806810",
@@ -6357,6 +7033,19 @@
     "priority": 2
   },
   {
+    "key": "83ca62492532b5b1aab605190ff63b26e21a80455221a908e4b4f6882cbab794",
+    "category": "游戏行业与发行",
+    "title": "Microsoft has given Arkane Lyon another month to find a buyer — with 217 jobs at risk - WN Hub",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JemxoQ1FxNU1vLWUtNzhreTdZQWxZT2lXMHNZVzc2ZDlXNjVwMHh4TDQwczlPUkxHUW1zbVkyTXp0Rk1lRG5Hd0VIY1E?oc=5",
+    "summary": "Microsoft has given Arkane Lyon another month to find a buyer — with 217 jobs at risk WN Hub",
+    "published": "2026-10-27T11:04:24+00:00",
+    "source": "WN Hub（游戏行业检索）",
+    "source_id": "游戏行业检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "ddef153b2557904cd931e145aa9913aaedb9b13523d5f6a40185aef05f1d8457",
     "category": "互联网与 AI 工具",
     "title": "Claude Code 2.1.311 adds idle holds for self-hosted runners and fixes background-agent handling - OpenTools",
@@ -6760,6 +7449,19 @@
     "priority": 2
   },
   {
+    "key": "3482a03ab2a03de62588061a4d8de2ad68d3555dbbffa0d3726ceff5748144be",
+    "category": "互联网与 AI 工具",
+    "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 - 36氪",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUHFWWEk0ekFkazRqOFo2QTIwOTlBUnNuSnVMaXlidkhXa1FuWHdwUC1IMTluTG9mX2JYck55b0NUdjhERUVOTlFWbDV6dw?oc=5",
+    "summary": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 36氪",
+    "published": "2026-10-27T07:00:00+00:00",
+    "source": "36氪（36氪互联网检索）",
+    "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
     "key": "a21393b926dc1d48fea079a78841f4af9e28de39f65b7c3469779c9617486c24",
     "category": "互联网与 AI 工具",
     "title": "GitHub’s Former CEO Launches Rival Platform for AI-Driven Development - Analytics Insight",
@@ -6963,6 +7665,19 @@
     "published": "2026-10-27T01:49:16+00:00",
     "source": "36kr（36氪互联网检索）",
     "source_id": "36氪互联网检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
+  },
+  {
+    "key": "310e55b30c5dce30cb5de65d5b5ac51100d258d169924a3a7a05df1be961f0d0",
+    "category": "互联网与 AI 工具",
+    "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNGlXeHQ2NV9mMmxmOVdPSGtJLXpoQ0xpaHRKU1hraTNkamlOT1FPdDQ4MTMzNVVOcTl1TDJVQUlfSEVTS2lMWEVvOFFqYldhRllQcVBjaEZwZ1Nkb0ZwV0JmUFE4Z25RWklTVDd3?oc=5",
+    "summary": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026] shattered.io",
+    "published": "2026-10-27T01:39:51+00:00",
+    "source": "shattered.io（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 2
@@ -7557,19 +8272,6 @@
     "category": "互联网与 AI 工具",
     "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 - 36Kr",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12OGR5WjdTRG5oX0xTZVlQNWZUcll5RFUwVDJiYm8tZkZEaVRHNnJQSXU1S3M1WEhkbnpxU25oanJGM2ZReU94TVRKZw?oc=5",
-    "summary": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 36Kr",
-    "published": "2026-10-26T16:53:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
-    "source_id": "36氪互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
-    "key": "3482a03ab2a03de62588061a4d8de2ad68d3555dbbffa0d3726ceff5748144be",
-    "category": "互联网与 AI 工具",
-    "title": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 - 36Kr",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lUHFWWEk0ekFkazRqOFo2QTIwOTlBUnNuSnVMaXlidkhXa1FuWHdwUC1IMTluTG9mX2JYck55b0NUdjhERUVOTlFWbDV6dw?oc=5",
     "summary": "张一鸣登顶，梁文锋领衔AI硬科技登上财富前台 36Kr",
     "published": "2026-10-26T16:53:00+00:00",
     "source": "36Kr（36氪互联网检索）",
@@ -9230,19 +9932,6 @@
     "priority": 2
   },
   {
-    "key": "310e55b30c5dce30cb5de65d5b5ac51100d258d169924a3a7a05df1be961f0d0",
-    "category": "互联网与 AI 工具",
-    "title": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yNGlXeHQ2NV9mMmxmOVdPSGtJLXpoQ0xpaHRKU1hraTNkamlOT1FPdDQ4MTMzNVVOcTl1TDJVQUlfSEVTS2lMWEVvOFFqYldhRllQcVBjaEZwZ1Nkb0ZwV0JmUFE4Z25RWklTVDd3?oc=5",
-    "summary": "Cursor Origin vs GitHub: AI Code Hosting Launch [2026] shattered.io",
-    "published": "2026-10-26T01:41:51+00:00",
-    "source": "shattered.io（AI 开发工具检索）",
-    "source_id": "AI 开发工具检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "b04ae3c829a14e1d161a9162bb3dc9c057d50da08bb12711f0251c797caf0024",
     "category": "互联网与 AI 工具",
     "title": "银行助贷“白名单”公示常态化！收紧新增合作，存量业务成管理重点 - 央视网",
@@ -10374,19 +11063,6 @@
     "priority": 2
   },
   {
-    "key": "0a40ab4b2ddb116d09ab747ffce43c751c08d25ca09398a0d2a84e5f7b2ad337",
-    "category": "互联网与 AI 工具",
-    "title": "Claude Opus 5.5 Ships 1M-Token Context for Coders [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VVVET0l2MnlIM0JrY3V3ZWtfX0o2djdrYUpfd0NUXzZyYTRhVUhxellyelRPQmFVbkhtNHBEdFpvWXdIeDBVLS1rWUg3aTJHVU1hMkdGQkpENWRZU1Q2bnZYcld3SDBHeFpKTWRHVE9JWmdQ?oc=5",
-    "summary": "Claude Opus 5.5 Ships 1M-Token Context for Coders [2026] shattered.io",
-    "published": "2026-10-25T09:55:22+00:00",
-    "source": "shattered.io（AI 开发工具检索）",
-    "source_id": "AI 开发工具检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
-  },
-  {
     "key": "f21b82d1e4a454508bdafe80f87a1f79c6280fa744c291fcf3c9da3aed4b0217",
     "category": "互联网与 AI 工具",
     "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局 - 36Kr",
@@ -11169,11 +11845,11 @@
   {
     "key": "eacf0952afcfc153f7500990f2c6ba9935dcd052c874196b120738c1ffc9b836",
     "category": "互联网与 AI 工具",
-    "title": "人去楼空的杭州“互联网鼻祖”，输给自己的野心 - 36Kr",
+    "title": "人去楼空的杭州“互联网鼻祖”，输给自己的野心 - 36氪",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBONm9mcTk2M1duNnNfN0FHWmdGNnpoVHVKeHRQRm03NXl6YjhPQ05LS2pvOUMwMjR6RktCYkxGaEM5NTJta2RjRTgwS2IyZw?oc=5",
-    "summary": "人去楼空的杭州“互联网鼻祖”，输给自己的野心 36Kr",
+    "summary": "人去楼空的杭州“互联网鼻祖”，输给自己的野心 36氪",
     "published": "2026-10-24T14:19:00+00:00",
-    "source": "36Kr（36氪互联网检索）",
+    "source": "36氪（36氪互联网检索）",
     "source_id": "36氪互联网检索",
     "evidence": "基于来源摘要",
     "prerelease": false,
@@ -11425,6 +12101,19 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
+  },
+  {
+    "key": "0a40ab4b2ddb116d09ab747ffce43c751c08d25ca09398a0d2a84e5f7b2ad337",
+    "category": "互联网与 AI 工具",
+    "title": "Claude Opus 5.5 Ships 1M-Token Context for Coders [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1VVVET0l2MnlIM0JrY3V3ZWtfX0o2djdrYUpfd0NUXzZyYTRhVUhxellyelRPQmFVbkhtNHBEdFpvWXdIeDBVLS1rWUg3aTJHVU1hMkdGQkpENWRZU1Q2bnZYcld3SDBHeFpKTWRHVE9JWmdQ?oc=5",
+    "summary": "Claude Opus 5.5 Ships 1M-Token Context for Coders [2026] shattered.io",
+    "published": "2026-10-24T05:15:31+00:00",
+    "source": "shattered.io（AI 开发工具检索）",
+    "source_id": "AI 开发工具检索",
+    "evidence": "基于来源摘要",
+    "prerelease": false,
+    "priority": 2
   },
   {
     "key": "c3a16116527dbe42492b2d052eb79e15ab3417d384c89b7f5fb20bb380201a19",
@@ -12335,19 +13024,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "2ccf6e63565bac6fe19ccf63fd35b905c72a41dc9c4e8e700bb81f099c33b09e",
-    "category": "互联网与 AI 工具",
-    "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) - Unit 42",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaSXRUMkVsWkF3TjhoV29oTXdyZHhrMGZINFBHNVVrNmZubTA4SkFzMzlWMlNMLW15ZWdISDJYeURJbVdpTFB5ZzNTU21aazFfTmc4R0VkLWVyMVY4S1JRYTZ5UjJqWk82SlR5Q0ZMOTJrNEJVeXNV?oc=5",
-    "summary": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) Unit 42",
-    "published": "2026-10-23T13:47:22+00:00",
-    "source": "Unit 42（海外互联网检索）",
-    "source_id": "海外互联网检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "e8ec62e41a97373d375d159e71a58e2edebe7dfaba837981249e86e73da83a66",
@@ -17927,19 +18603,6 @@
     "priority": 2
   },
   {
-    "key": "794c9d74c21bf6125f2868302463cf271e61708ca3dbbe6f73dd801232b08616",
-    "category": "游戏开发技术",
-    "title": "Unreal Engine vs Unity: 42% vs 30% Share [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4YzQ1QURNczZEY3c4aHlXTVA1T1NLemtxNEUzYzZxVlF6RUpDTktRN0VWR00tVTBnYnI5ZGlTa1dfZ2lNbnhOQjdGQlMtU3lTallwazdGVVVmQ25RVjJlRV9jM3p6c0dNSmNoUUd3?oc=5",
-    "summary": "Unreal Engine vs Unity: 42% vs 30% Share [2026] shattered.io",
-    "published": "2026-10-21T13:26:11+00:00",
-    "source": "shattered.io（其他引擎检索）",
-    "source_id": "其他引擎检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 1
-  },
-  {
     "key": "bb5e33dbab8359d0d277dd4e42eba6cb6b5d0c1ab7fcc07df681e882321c8e8c",
     "category": "互联网与 AI 工具",
     "title": "Most advice is right for the person giving it",
@@ -20772,19 +21435,6 @@
     "evidence": "基于来源摘要",
     "prerelease": false,
     "priority": 1
-  },
-  {
-    "key": "28da8e26391e4b3d08a26fcc0abca843ad9a3036c114a51fa925413651b668dc",
-    "category": "游戏行业与发行",
-    "title": "Gaming Industry Hits $263B, BCG Sees $353B by 2030 [2026] - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuUUFsX1ppbkhfcTlZNU5VVUdjSGZjYXVQMGlJUUxjTzJueDhKNk04S2V5ZUE4TlBuVW1CaFhYNTNiNjNjX2xPMUllX0psSHVNT1JoYjZtN3JmZFVaSDM0ejJTMA?oc=5",
-    "summary": "Gaming Industry Hits $263B, BCG Sees $353B by 2030 [2026] shattered.io",
-    "published": "2026-10-20T07:00:00+00:00",
-    "source": "shattered.io（游戏行业检索）",
-    "source_id": "游戏行业检索",
-    "evidence": "基于来源摘要",
-    "prerelease": false,
-    "priority": 2
   },
   {
     "key": "abb1199087dad49adb90a39507e5c046dbd53ac91c5ef9dee7d0481f2dcf4707",
