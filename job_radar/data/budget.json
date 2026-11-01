@@ -65,7 +65,7 @@
       "details": 200
     },
     "2026-11-01": {
-      "search": 21,
+      "search": 22,
       "details": 200
     }
   },
@@ -126,7 +126,7 @@
         }
       ],
       "limit": 50000,
-      "search": 197
+      "search": 198
     }
   },
   "paused": null
