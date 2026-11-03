@@ -2,168 +2,169 @@
   {
     "source": "Unity 技术检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:40.729177+00:00",
+    "checked_at": "2026-11-03T04:30:18.189322+00:00",
     "status": "ok",
-    "fresh_items": 8
+    "fresh_items": 5
   },
   {
     "source": "Unity 中文检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:40.729697+00:00",
+    "checked_at": "2026-11-03T04:30:18.189684+00:00",
     "status": "ok",
     "fresh_items": 3
   },
   {
     "source": "游戏工程检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:40.731809+00:00",
+    "checked_at": "2026-11-03T04:30:18.191177+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "其他引擎检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:40.733093+00:00",
+    "checked_at": "2026-11-03T04:30:18.192049+00:00",
     "status": "ok",
     "fresh_items": 29
   },
   {
     "source": "海外互联网检索",
     "category": "互联网与 AI 工具",
-    "checked_at": "2026-11-02T21:00:40.734146+00:00",
+    "checked_at": "2026-11-03T04:30:18.192879+00:00",
     "status": "ok",
-    "fresh_items": 26
+    "fresh_items": 28
   },
   {
     "source": "国内互联网检索",
     "category": "互联网与 AI 工具",
-    "checked_at": "2026-11-02T21:00:40.980129+00:00",
+    "checked_at": "2026-11-03T04:30:18.449258+00:00",
     "status": "ok",
-    "fresh_items": 16
+    "fresh_items": 47
   },
   {
     "source": "AI 开发工具检索",
     "category": "互联网与 AI 工具",
-    "checked_at": "2026-11-02T21:00:40.998463+00:00",
+    "checked_at": "2026-11-03T04:30:18.449922+00:00",
     "status": "ok",
-    "fresh_items": 67
+    "fresh_items": 69
   },
   {
     "source": "游戏行业检索",
     "category": "游戏行业与发行",
-    "checked_at": "2026-11-02T21:00:41.102875+00:00",
+    "checked_at": "2026-11-03T04:30:18.490869+00:00",
     "status": "ok",
-    "fresh_items": 38
+    "fresh_items": 19
   },
   {
     "source": "国内游戏行业检索",
     "category": "游戏行业与发行",
-    "checked_at": "2026-11-02T21:00:41.108521+00:00",
+    "checked_at": "2026-11-03T04:30:18.570482+00:00",
     "status": "ok",
-    "fresh_items": 29
+    "fresh_items": 28
   },
   {
     "source": "Unity 官方发布检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.174033+00:00",
+    "checked_at": "2026-11-03T04:30:18.610189+00:00",
     "status": "ok",
-    "fresh_items": 8
+    "fresh_items": 9
   },
   {
     "source": "36氪互联网检索",
     "category": "互联网与 AI 工具",
-    "checked_at": "2026-11-02T21:00:41.300597+00:00",
+    "checked_at": "2026-11-03T04:30:18.838856+00:00",
     "status": "ok",
     "fresh_items": 80
   },
   {
     "source": "Game Developer 开发检索",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.452481+00:00",
+    "checked_at": "2026-11-03T04:30:18.873294+00:00",
     "status": "ok",
-    "fresh_items": 7
+    "fresh_items": 6
   },
   {
     "source": "Hacker News",
     "category": "互联网与 AI 工具",
-    "checked_at": "2026-11-02T21:00:41.467011+00:00",
+    "checked_at": "2026-11-03T04:30:18.878409+00:00",
     "status": "ok",
     "fresh_items": 20
   },
   {
     "source": "Godot 官方博客",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.526711+00:00",
-    "status": "ok",
-    "fresh_items": 2
+    "checked_at": "2026-11-03T04:30:18.887680+00:00",
+    "status": "failed",
+    "fresh_items": 0,
+    "error": "ConnectionError"
   },
   {
     "source": "The Game Business",
     "category": "游戏行业与发行",
-    "checked_at": "2026-11-02T21:00:41.653170+00:00",
+    "checked_at": "2026-11-03T04:30:18.907122+00:00",
     "status": "ok",
     "fresh_items": 3
   },
   {
     "source": ".NET 官方博客",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.804005+00:00",
+    "checked_at": "2026-11-03T04:30:19.157423+00:00",
     "status": "ok",
     "fresh_items": 2
   },
   {
     "source": "tuyoogame/YooAsset",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.864703+00:00",
+    "checked_at": "2026-11-03T04:30:19.173119+00:00",
     "status": "ok",
     "fresh_items": 1
   },
   {
     "source": "focus-creative-games/hybridclr",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:41.968695+00:00",
+    "checked_at": "2026-11-03T04:30:19.297125+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "hadashiA/VContainer",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.018681+00:00",
+    "checked_at": "2026-11-03T04:30:19.344750+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "Cysharp/UniTask",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.365193+00:00",
+    "checked_at": "2026-11-03T04:30:19.634600+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "needle-mirror/com.unity.netcode.gameobjects",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.533409+00:00",
+    "checked_at": "2026-11-03T04:30:19.644762+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "Unity-Technologies/EntityComponentSystemSamples",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.551972+00:00",
+    "checked_at": "2026-11-03T04:30:19.760024+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "Unity-Technologies/Graphics",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.727919+00:00",
+    "checked_at": "2026-11-03T04:30:20.121016+00:00",
     "status": "ok",
     "fresh_items": 0
   },
   {
     "source": "godotengine/godot",
     "category": "游戏开发技术",
-    "checked_at": "2026-11-02T21:00:42.867707+00:00",
+    "checked_at": "2026-11-03T04:30:20.155963+00:00",
     "status": "ok",
     "fresh_items": 0
   }
