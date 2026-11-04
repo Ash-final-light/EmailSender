@@ -1,10 +1,13 @@
 {
-  "checked_at": "2026-11-03T07:47:00.332064+00:00",
+  "checked_at": "2026-11-04T06:52:09.868950+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 227,
+  "queries": 24,
+  "discovered": 156,
   "page_statuses": {
-    "network_error": 1,
+    "dynamic_or_empty": 12,
+    "network_error": 3,
+    "readable": 83,
+    "oversized": 1,
     "redirect_limit": 8
   },
   "new_urls": 0,
@@ -14,10 +17,10 @@
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "network_error",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "叠纸",
@@ -55,7 +58,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 26,
+      "job_links_found": 16,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -65,7 +68,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 40,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -114,16 +117,16 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
       "website": "https://zulong.com/",
       "careers": "https://campus.zulong.com/",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "redirect_limit",
       "job_links_found": 0,
       "reader": "static",
@@ -184,10 +187,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "readable",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "恺英网络",
@@ -310,5 +313,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 0
+  "new_search_requests": 24
 }
