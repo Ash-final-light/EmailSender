@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-04T06:52:09.868950+00:00",
+  "checked_at": "2026-11-05T07:11:10.629372+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 156,
+  "discovered": 155,
   "page_statuses": {
-    "dynamic_or_empty": 12,
-    "network_error": 3,
-    "readable": 83,
+    "dynamic_or_empty": 13,
+    "network_error": 2,
+    "readable": 84,
     "oversized": 1,
     "redirect_limit": 8
   },
@@ -68,7 +68,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 19,
+      "job_links_found": 20,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -126,7 +126,7 @@
       "company": "祖龙娱乐",
       "website": "https://zulong.com/",
       "careers": "https://campus.zulong.com/",
-      "status": "network_error",
+      "status": "readable",
       "careers_status": "redirect_limit",
       "job_links_found": 0,
       "reader": "static",
@@ -187,10 +187,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "network_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "恺英网络",
@@ -246,7 +246,7 @@
       "company": "冰川网络",
       "website": "https://www.q1.com/",
       "careers": "https://bingchuan1.zhiye.com/",
-      "status": "readable",
+      "status": "network_error",
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
