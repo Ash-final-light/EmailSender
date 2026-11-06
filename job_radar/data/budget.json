@@ -85,7 +85,7 @@
       "details": 200
     },
     "2026-11-06": {
-      "search": 16,
+      "search": 17,
       "details": 200
     }
   },
@@ -151,7 +151,7 @@
     "2026-W45": {
       "charges": [],
       "limit": 50000,
-      "search": 128
+      "search": 129
     }
   },
   "paused": null
