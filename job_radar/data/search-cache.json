@@ -25,7 +25,7 @@
     "results": []
   },
   "0f3bf75ed166f7891c0e2952272469b2b915ebc5bf0f586718f1d2c93b0574b9": {
-    "day": "2026-11-03",
+    "day": "2026-11-06",
     "results": [
       {
         "id": "https://api.bochaai.com/v1/#WebPages.1",
@@ -38,6 +38,22 @@
         "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://www.shixiseng.com/)",
         "datePublished": "2025-07-30T14:55:50+08:00",
         "dateLastCrawled": "2025-07-30T14:55:50Z",
+        "cachedPageUrl": null,
+        "language": null,
+        "isFamilyFriendly": null,
+        "isNavigational": null
+      },
+      {
+        "id": "https://api.bochaai.com/v1/#WebPages.8",
+        "name": "实习僧企业端 - 精准极速招聘实习生|专业校园招聘平台",
+        "url": "https://hr.shixiseng.com/",
+        "displayUrl": "https://hr.shixiseng.com/",
+        "snippet": "We're\nsorry\nbut\nhr-frontend-v2\ndoesn't\nwork\nproperly\nwithout\nJavaScript\nenabled.\nPlease\nenable\nit\nto",
+        "summary": "We're\nsorry\nbut\nhr-frontend-v2\ndoesn't\nwork\nproperly\nwithout\nJavaScript\nenabled.\nPlease\nenable\nit\nto\ncontinue.",
+        "siteName": "实习僧",
+        "siteIcon": "https://th.bochaai.com/favicon?domain_url=https://hr.shixiseng.com/",
+        "datePublished": "2025-07-30T17:54:35+08:00",
+        "dateLastCrawled": "2025-07-30T17:54:35Z",
         "cachedPageUrl": null,
         "language": null,
         "isFamilyFriendly": null,
