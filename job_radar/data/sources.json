@@ -1,15 +1,13 @@
 {
-  "checked_at": "2026-11-06T07:11:05.479825+00:00",
+  "checked_at": "2026-11-07T06:24:09.916623+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 228,
+  "queries": 24,
+  "discovered": 156,
   "page_statuses": {
-    "dynamic_or_empty": 12,
-    "network_error": 1,
-    "readable": 84,
+    "dynamic_or_empty": 13,
+    "readable": 85,
     "oversized": 1,
-    "redirect_limit": 8,
-    "browser_error": 1
+    "redirect_limit": 8
   },
   "new_urls": 0,
   "company_sites": [
@@ -27,7 +25,7 @@
       "company": "叠纸",
       "website": "https://www.papegames.com/",
       "careers": "https://career.papegames.com/",
-      "status": "network_error",
+      "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
@@ -98,10 +96,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "readable"
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "散爆网络",
@@ -118,10 +116,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
@@ -314,5 +312,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 40
+  "new_search_requests": 24
 }
