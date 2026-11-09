@@ -360,6 +360,7 @@
     }
   ],
   "message_id": "<179420944078.2244.1324727995360759379@game-tech-weekly.invalid>",
-  "status": "attempting",
-  "reserved_at": "2026-11-09T07:30:41.430571+00:00"
+  "status": "uncertain",
+  "reserved_at": "2026-11-09T07:30:41.430571+00:00",
+  "updated_at": "2026-11-09T07:30:45.699404+00:00"
 }
