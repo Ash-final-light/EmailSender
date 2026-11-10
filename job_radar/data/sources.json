@@ -1,14 +1,15 @@
 {
-  "checked_at": "2026-11-09T07:00:49.292292+00:00",
+  "checked_at": "2026-11-10T07:37:55.895673+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 174,
+  "queries": 40,
+  "discovered": 228,
   "page_statuses": {
-    "dynamic_or_empty": 13,
+    "dynamic_or_empty": 12,
     "readable": 84,
     "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 1
+    "browser_error": 1,
+    "network_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -97,10 +98,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "readable",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "browser_status": "readable"
     },
     {
       "company": "散爆网络",
@@ -117,10 +118,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
@@ -137,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "完美世界",
@@ -187,10 +188,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "readable",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "恺英网络",
@@ -313,5 +314,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
