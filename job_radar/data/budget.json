@@ -105,7 +105,7 @@
       "details": 200
     },
     "2026-11-11": {
-      "search": 18,
+      "search": 19,
       "details": 200
     }
   },
@@ -176,7 +176,7 @@
     "2026-W46": {
       "charges": [],
       "limit": 50000,
-      "search": 82
+      "search": 83
     }
   },
   "paused": null
