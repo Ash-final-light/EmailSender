@@ -1,15 +1,14 @@
 {
-  "checked_at": "2026-11-10T07:37:55.895673+00:00",
+  "checked_at": "2026-11-11T06:56:36.879879+00:00",
   "seed_only": false,
-  "queries": 40,
-  "discovered": 228,
+  "queries": 24,
+  "discovered": 191,
   "page_statuses": {
-    "dynamic_or_empty": 12,
+    "dynamic_or_empty": 14,
     "readable": 84,
     "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 1,
-    "network_error": 1
+    "browser_error": 2
   },
   "new_urls": 0,
   "company_sites": [
@@ -59,7 +58,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 15,
+      "job_links_found": 13,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -69,7 +68,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 19,
+      "job_links_found": 20,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -98,10 +97,10 @@
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "dynamic_or_empty",
       "job_links_found": 0,
       "reader": "browser",
-      "browser_status": "readable"
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "散爆网络",
@@ -118,10 +117,10 @@
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "祖龙娱乐",
@@ -188,10 +187,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "network_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": null
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "恺英网络",
@@ -250,8 +249,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "途游游戏",
@@ -314,5 +313,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 40
+  "new_search_requests": 24
 }
