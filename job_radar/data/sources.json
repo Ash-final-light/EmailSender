@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-11-11T06:56:36.879879+00:00",
+  "checked_at": "2026-11-12T07:32:46.313908+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 191,
+  "discovered": 200,
   "page_statuses": {
     "dynamic_or_empty": 14,
     "readable": 84,
     "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 2
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -58,7 +58,7 @@
       "careers": "https://lilithgames.jobs.feishu.cn/intern/",
       "status": "oversized",
       "careers_status": "readable",
-      "job_links_found": 13,
+      "job_links_found": 14,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -68,7 +68,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 20,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -137,10 +137,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "完美世界",
@@ -189,8 +189,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "恺英网络",
@@ -249,8 +249,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "dynamic_or_empty"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "途游游戏",
