@@ -111,6 +111,10 @@
     "2026-11-12": {
       "search": 24,
       "details": 200
+    },
+    "2026-11-13": {
+      "search": 1,
+      "details": 200
     }
   },
   "weeks": {
@@ -180,7 +184,7 @@
     "2026-W46": {
       "charges": [],
       "limit": 50000,
-      "search": 112
+      "search": 113
     }
   },
   "paused": null
