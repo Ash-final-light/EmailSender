@@ -1,14 +1,15 @@
 {
-  "checked_at": "2026-11-12T07:32:46.313908+00:00",
+  "checked_at": "2026-11-13T07:04:16.712159+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 200,
+  "queries": 40,
+  "discovered": 228,
   "page_statuses": {
-    "dynamic_or_empty": 14,
-    "readable": 84,
+    "dynamic_or_empty": 11,
+    "network_error": 1,
+    "readable": 86,
     "oversized": 1,
     "redirect_limit": 8,
-    "browser_error": 1
+    "browser_error": 2
   },
   "new_urls": 0,
   "company_sites": [
@@ -17,10 +18,10 @@
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "叠纸",
@@ -107,10 +108,10 @@
       "website": "https://sunborngame.com/",
       "careers": "https://sunborngame.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "悠星网络",
@@ -189,8 +190,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "恺英网络",
@@ -249,8 +250,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "dynamic_or_empty"
     },
     {
       "company": "途游游戏",
@@ -313,5 +314,5 @@
       "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
