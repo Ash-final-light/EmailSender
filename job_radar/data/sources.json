@@ -1,13 +1,14 @@
 {
-  "checked_at": "2026-11-14T06:53:13.452540+00:00",
+  "checked_at": "2026-11-15T06:58:04.971204+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 184,
+  "discovered": 174,
   "page_statuses": {
-    "dynamic_or_empty": 14,
-    "readable": 84,
+    "dynamic_or_empty": 10,
+    "readable": 85,
     "oversized": 1,
     "redirect_limit": 8,
+    "network_error": 1,
     "browser_error": 1
   },
   "new_urls": 0,
@@ -68,7 +69,7 @@
       "careers": "https://boke.jobs.feishu.cn/581609/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 20,
+      "job_links_found": 19,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -96,31 +97,31 @@
       "company": "库洛游戏",
       "website": "https://www.kurogames.com/",
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
-      "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
-      "job_links_found": 0,
+      "status": "network_error",
+      "careers_status": "readable",
+      "job_links_found": 2,
       "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "browser_status": "readable"
     },
     {
       "company": "散爆网络",
       "website": "https://sunborngame.com/",
       "careers": "https://sunborngame.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "悠星网络",
       "website": "https://www.yostar.net/",
       "careers": "https://www.yostar.net/recruit.html",
       "status": "dynamic_or_empty",
-      "careers_status": "browser_error",
+      "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "browser_error"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "祖龙娱乐",
