@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-11-16T07:04:04.967419+00:00",
+  "checked_at": "2026-11-17T08:19:36.591732+00:00",
   "seed_only": false,
-  "queries": 24,
-  "discovered": 169,
+  "queries": 40,
+  "discovered": 228,
   "page_statuses": {
-    "dynamic_or_empty": 14,
-    "readable": 87,
+    "dynamic_or_empty": 13,
+    "readable": 85,
     "oversized": 1,
     "redirect_limit": 8,
     "browser_error": 1
@@ -168,7 +168,7 @@
       "careers": "https://zhaopin.37.com/",
       "status": "readable",
       "careers_status": "readable",
-      "job_links_found": 2,
+      "job_links_found": 1,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -249,8 +249,8 @@
       "status": "readable",
       "careers_status": "readable",
       "job_links_found": 0,
-      "reader": "static",
-      "browser_status": "dynamic_or_empty"
+      "reader": "browser",
+      "browser_status": "readable"
     },
     {
       "company": "途游游戏",
@@ -306,12 +306,12 @@
       "company": "柠檬微趣",
       "website": "https://www.microfun.cn/",
       "careers": "https://www.microfun.cn/",
-      "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "status": "daily_check_limit",
+      "careers_status": "daily_check_limit",
       "job_links_found": 0,
       "reader": "static",
-      "browser_status": "daily_check_limit"
+      "browser_status": null
     }
   ],
-  "new_search_requests": 24
+  "new_search_requests": 40
 }
