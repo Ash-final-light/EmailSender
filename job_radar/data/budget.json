@@ -133,7 +133,7 @@
       "details": 200
     },
     "2026-11-18": {
-      "search": 9,
+      "search": 10,
       "details": 200
     }
   },
@@ -209,7 +209,7 @@
     "2026-W47": {
       "charges": [],
       "limit": 50000,
-      "search": 73
+      "search": 74
     }
   },
   "paused": null
