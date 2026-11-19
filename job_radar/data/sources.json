@@ -1,13 +1,15 @@
 {
-  "checked_at": "2026-11-18T07:50:48.430449+00:00",
+  "checked_at": "2026-11-19T07:47:40.356675+00:00",
   "seed_only": false,
   "queries": 24,
-  "discovered": 153,
+  "discovered": 146,
   "page_statuses": {
     "dynamic_or_empty": 12,
+    "network_error": 3,
     "readable": 85,
     "oversized": 1,
-    "redirect_limit": 8
+    "redirect_limit": 7,
+    "browser_error": 1
   },
   "new_urls": 0,
   "company_sites": [
@@ -16,10 +18,10 @@
       "website": "https://www.mihoyo.com/",
       "careers": "https://join.mihoyo.com/",
       "status": "dynamic_or_empty",
-      "careers_status": "dynamic_or_empty",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "dynamic_or_empty"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "叠纸",
@@ -97,7 +99,7 @@
       "careers": "https://kurogame.jobs.feishu.cn/campus/",
       "status": "dynamic_or_empty",
       "careers_status": "readable",
-      "job_links_found": 2,
+      "job_links_found": 0,
       "reader": "browser",
       "browser_status": "readable"
     },
@@ -136,10 +138,10 @@
       "website": "https://www.seasungames.cn/",
       "careers": "https://job.seasungames.cn/",
       "status": "dynamic_or_empty",
-      "careers_status": "readable",
+      "careers_status": "browser_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": "browser_error"
     },
     {
       "company": "完美世界",
@@ -186,10 +188,10 @@
       "website": "https://www.ztgame.com/",
       "careers": "https://hr.ztgame.com/campus/",
       "status": "readable",
-      "careers_status": "readable",
+      "careers_status": "network_error",
       "job_links_found": 0,
-      "reader": "browser",
-      "browser_status": "readable"
+      "reader": "static",
+      "browser_status": null
     },
     {
       "company": "恺英网络",
